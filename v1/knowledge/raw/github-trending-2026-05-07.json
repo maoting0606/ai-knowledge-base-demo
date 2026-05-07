@@ -1,72 +1,95 @@
-[
-  {
-    "title": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github_trending",
-    "popularity": "本周 20,777 Stars / 总计 64,224 Stars",
-    "summary": "Claude Code 技能集合，帮助工程师提升 AI 编程效率"
-  },
-  {
-    "title": "warpdotdev/warp",
-    "url": "https://github.com/warpdotdev/warp",
-    "source": "github_trending",
-    "popularity": "本周 15,633 Stars / 总计 56,159 Stars",
-    "summary": "基于终端的智能体开发环境，融合 AI 与命令行"
-  },
-  {
-    "title": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "github_trending",
-    "popularity": "本周 15,576 Stars / 总计 70,850 Stars",
-    "summary": "多智能体 LLM 金融交易框架"
-  },
-  {
-    "title": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "source": "github_trending",
-    "popularity": "本周 10,993 Stars / 总计 45,830 Stars",
-    "summary": "Claude 多智能体编排平台，支持 RAG 和自主工作流"
-  },
-  {
-    "title": "AIDC-AI/Pixelle-Video",
-    "url": "https://github.com/AIDC-AI/Pixelle-Video",
-    "source": "github_trending",
-    "popularity": "本周 5,048 Stars / 总计 13,200 Stars",
-    "summary": "AI 全自动短视频生成引擎"
-  },
-  {
-    "title": "1jehuang/jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "source": "github_trending",
-    "popularity": "本周 3,332 Stars / 总计 4,728 Stars",
-    "summary": "编程智能体工具集，加速代码开发流程"
-  },
-  {
-    "title": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "source": "github_trending",
-    "popularity": "本周 2,668 Stars / 总计 24,627 Stars",
-    "summary": "深度金融研究自主智能体"
-  },
-  {
-    "title": "ComposioHQ/awesome-codex-skills",
-    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-    "source": "github_trending",
-    "popularity": "本周 2,539 Stars / 总计 7,355 Stars",
-    "summary": "Codex CLI 实用技能清单合集"
-  },
-  {
-    "title": "cocoindex-io/cocoindex",
-    "url": "https://github.com/cocoindex-io/cocoindex",
-    "source": "github_trending",
-    "popularity": "本周 1,474 Stars / 总计 8,703 Stars",
-    "summary": "面向长周期智能体的增量计算引擎"
-  },
-  {
-    "title": "LearningCircuit/local-deep-research",
-    "url": "https://github.com/LearningCircuit/local-deep-research",
-    "source": "github_trending",
-    "popularity": "本周 1,102 Stars / 总计 6,028 Stars",
-    "summary": "本地运行的大模型深度研究工具，支持多搜索引擎"
-  }
-]
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-07T22:30:00+08:00",
+  "items": [
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "mattpocock/skills — Claude Code 实战技能集合，来自顶级 TypeScript 工程师的开源配置，即插即用提升 AI 编程效率",
+      "stars": 20777,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "summary": "warpdotdev/warp — Rust 编写的 AI 原生终端，将 Agent 能力深度集成到命令行，重新定义开发环境交互体验",
+      "stars": 15633,
+      "language": "Rust",
+      "topics": ["bash", "linux", "macos", "rust", "shell", "terminal", "wasm", "zsh"]
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "TauricResearch/TradingAgents — 多 Agent LLM 量化交易框架，支持多智能体协作完成金融数据分析与策略执行",
+      "stars": 15576,
+      "language": "Python",
+      "topics": ["agent", "finance", "llm", "multiagent", "trading"]
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "ruvnet/ruflo — Claude 生态的多 Agent 编排平台，支持集群部署、RAG 集成与自主工作流，企业级架构",
+      "stars": 10993,
+      "language": "TypeScript",
+      "topics": ["agentic-ai", "multi-agent", "claude-code", "swarm", "mcp-server"]
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "summary": "AIDC-AI/Pixelle-Video — AI 全自动短视频引擎，从脚本到视频全流程自动化，降低内容创作门槛",
+      "stars": 5048,
+      "language": "Python",
+      "topics": ["aigc", "comfyui", "image-generation", "tts", "video-generation"]
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "summary": "1jehuang/jcode — Rust 编写的轻量编程 Agent 工具集，集成 MCP 协议，专注代码生成与重构场景",
+      "stars": 3332,
+      "language": "Rust",
+      "topics": ["ai", "claude", "cli", "coding-agent", "llm", "mcp", "openai", "rust", "terminal", "tui"]
+    },
+    {
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "summary": "virattt/dexter — 金融深度研究自主 Agent，自动抓取财报分析市场数据，降低金融研究门槛",
+      "stars": 2668,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "summary": "cocoindex-io/cocoindex — 长周期 Agent 增量计算引擎，解决持久化记忆与渐进式执行的状态管理问题",
+      "stars": 1474,
+      "language": "Python",
+      "topics": ["ai-agents", "llm", "long-horizon-agent", "rag", "knowledge-graph"]
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "summary": "LearningCircuit/local-deep-research — 本地优先的深度研究工具，支持 llama.cpp/Ollama 等模型，SimpleQA 达 95%",
+      "stars": 1102,
+      "language": "Python",
+      "topics": ["local-llm", "deep-research", "rag", "ollama", "self-hosted"]
+    },
+    {
+      "name": "fspecii/ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "summary": "fspecii/ace-step-ui — 开源 AI 音乐生成 UI，支持 ACE-Step 1.5 模型，完全本地运行且免费",
+      "stars": 1081,
+      "language": "JavaScript",
+      "topics": ["ai-music", "music-generation", "local-first", "suno-alternative", "react"]
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "anthropics/financial-services — Anthropic 官方金融领域 AI 参考实现，展示大模型在金融服务中的应用范式",
+      "stars": 906,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

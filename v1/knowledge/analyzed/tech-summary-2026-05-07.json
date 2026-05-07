@@ -1,0 +1,167 @@
+{
+  "skill": "tech-summary",
+  "collected_at": "2026-05-07T22:35:00+08:00",
+  "source_file": "github-trending-2026-05-07.json",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "source_url": "https://github.com/mattpocock/skills",
+      "source_type": "github_trending",
+      "summary": "mattpocock/skills — 知名工程师开源的 Claude Code 实战技能包，可直接复用提升 AI 编程效率",
+      "highlights": [
+        "周增 20,777 Stars，总 Star 突破 64,000（当周 GitHub Trending 第一）",
+        "来自知名工程师 Matt Pocock 的 .claude 目录原始配置，真实可靠即插即用"
+      ],
+      "score": 8,
+      "score_reason": "实用的 Claude Skills 集合，开发者可直接复制使用，品牌背书增强可信度",
+      "tags": ["Claude", "Skills", "AI编程", "开发工具"]
+    },
+    {
+      "title": "warpdotdev/warp",
+      "source_url": "https://github.com/warpdotdev/warp",
+      "source_type": "github_trending",
+      "summary": "warpdotdev/warp — Rust 实现的 AI 原生终端，将 Agent 能力融入命令行交互",
+      "highlights": [
+        "总 Star 56,000+，周增 15,633（成熟的商业开源项目，社区高度认可）",
+        "采用 Rust + Wasm 技术栈，支持 Linux/macOS（性能优异且跨平台）"
+      ],
+      "score": 8,
+      "score_reason": "成熟的 AI 终端产品，已有大量用户验证，可立即提升日常开发效率",
+      "tags": ["终端", "Agent", "开发环境", "Rust"]
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "source_url": "https://github.com/TauricResearch/TradingAgents",
+      "source_type": "github_trending",
+      "summary": "TauricResearch/TradingAgents — 多 Agent LLM 金融量化交易框架，70,000+ Star 的热门项目",
+      "highlights": [
+        "总 Star 70,000+（AI 项目中最高），周增 15,576（金融 x AI 赛道最热项目）",
+        "附 arXiv 论文（2412.20138），有学术支撑，非纯概念炒作"
+      ],
+      "score": 7,
+      "score_reason": "实用的金融 Agent 框架，高频需求验证度高，但受众限于量化交易群体",
+      "tags": ["金融", "多Agent", "量化交易", "LLM"]
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "source_url": "https://github.com/ruvnet/ruflo",
+      "source_type": "github_trending",
+      "summary": "ruvnet/ruflo — Claude 生态多 Agent 编排平台，支持 Swarm 集群与 MCP 协议",
+      "highlights": [
+        "45,000+ Stars，周增 10,993（Claude 生态中增长最快的编排项目）",
+        "覆盖 agentic-ai、mcp-server、swarm-intelligence 等 20 个技术标签（技术覆盖面极广）"
+      ],
+      "score": 8,
+      "score_reason": "填补 Claude 生态 Agent 编排空白，功能完整且社区增长迅猛",
+      "tags": ["Agent编排", "Claude", "Swarm", "MCP"]
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "source_url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "source_type": "github_trending",
+      "summary": "AIDC-AI/Pixelle-Video — 全自动 AI 短视频引擎，集成 ComfyUI 与 TTS 管道",
+      "highlights": [
+        "周增 5,048 Stars，总 Star 突破 13,000（AI 视频生成赛道快速增长）",
+        "深度集成 ComfyUI 生态，覆盖文生图、TTS、视频生成全流程（一站式方案）"
+      ],
+      "score": 7,
+      "score_reason": "实用的 AI 视频工具，创作者可直接使用，但视频质量依赖底层模型",
+      "tags": ["AI视频", "短视频", "ComfyUI", "AIGC"]
+    },
+    {
+      "title": "1jehuang/jcode",
+      "source_url": "https://github.com/1jehuang/jcode",
+      "source_type": "github_trending",
+      "summary": "1jehuang/jcode — Rust 实现的轻量编程 Agent，集成 MCP 协议支持多模型后端",
+      "highlights": [
+        "周增 3,332 Stars，占总 Stars 的 70%（一周爆发式增长，处于冷启动转热阶段）",
+        "集成 MCP（Model Context Protocol），兼容 Claude 和 OpenAI（紧跟最新 Agent 协议标准）"
+      ],
+      "score": 6,
+      "score_reason": "概念有趣且技术选型前沿，但项目刚起步（4,748 Stars），需更多验证",
+      "tags": ["CodingAgent", "Rust", "MCP", "CLI"]
+    },
+    {
+      "title": "virattt/dexter",
+      "source_url": "https://github.com/virattt/dexter",
+      "source_type": "github_trending",
+      "summary": "virattt/dexter — 专注金融深度研究的自主 Agent，自动完成财报分析与报告生成",
+      "highlights": [
+        "总 Star 24,638，持续增长的金融 AI 项目（社区信任度高）",
+        "覆盖完整分析链路：数据抓取→财报分析→研究报告生成（端到端解决方案）"
+      ],
+      "score": 7,
+      "score_reason": "功能定位清晰，24k+ Stars 验证市场需求，金融从业者实用工具",
+      "tags": ["金融研究", "自主Agent", "数据分析", "TypeScript"]
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "source_url": "https://github.com/cocoindex-io/cocoindex",
+      "source_type": "github_trending",
+      "summary": "cocoindex-io/cocoindex — 长周期 Agent 增量计算引擎，解决持久化记忆与状态管理",
+      "highlights": [
+        "提出「增量计算」范式应对长周期 Agent 状态管理（架构创新，区别于传统 ETL）",
+        "融合 RAG + 知识图谱 + 实时 CDC 索引，技术栈前沿完整"
+      ],
+      "score": 6,
+      "score_reason": "技术思路新颖，定位精准但还处于早期阶段（8,706 Stars）",
+      "tags": ["Agent", "增量计算", "RAG", "知识图谱"]
+    },
+    {
+      "title": "LearningCircuit/local-deep-research",
+      "source_url": "https://github.com/LearningCircuit/local-deep-research",
+      "source_type": "github_trending",
+      "summary": "LearningCircuit/local-deep-research — 完全本地化深度研究工具，支持多模型多搜索引擎",
+      "highlights": [
+        "SimpleQA 准确率达 95%（Qwen3.6-27B 在单张 3090 上即可运行）",
+        "集成 10+ 搜索引擎（arXiv、PubMed、Brave、SearXNG），全加密本地优先"
+      ],
+      "score": 7,
+      "score_reason": "契合隐私敏感用户需求，性能指标亮眼，本地部署门槛低",
+      "tags": ["本地LLM", "深度研究", "隐私", "学术搜索"]
+    },
+    {
+      "title": "fspecii/ace-step-ui",
+      "source_url": "https://github.com/fspecii/ace-step-ui",
+      "source_type": "github_trending",
+      "summary": "fspecii/ace-step-ui — 开源 Suno 替代品，支持 ACE-Step 1.5 本地 AI 音乐生成",
+      "highlights": [
+        "完全免费且本地运行，直接对标 Suno Pro 付费模式（成本优势明显）",
+        "基于 ACE-Step 1.5 模型，React + TypeScript 构建专业 UI（技术架构现代化）"
+      ],
+      "score": 6,
+      "score_reason": "场景明确（AI 音乐），但受众相对 niche，生态尚不成熟",
+      "tags": ["AI音乐", "音乐生成", "开源", "Suno替代"]
+    },
+    {
+      "title": "anthropics/financial-services",
+      "source_url": "https://github.com/anthropics/financial-services",
+      "source_type": "github_trending",
+      "summary": "anthropics/financial-services — Anthropic 官方金融 AI 参考实现，Apache-2.0 开源",
+      "highlights": [
+        "Anthropic 官方出品，Apache-2.0 开源协议（品牌背书 + 企业友好）",
+        "总 Star 10,360，展示大模型在金融服务中的落地范式（参考价值高于使用价值）"
+      ],
+      "score": 6,
+      "score_reason": "官方参考项目适合学习架构范式，但非可直接使用的工具",
+      "tags": ["Anthropic", "金融", "参考实现", "LLM"]
+    }
+  ],
+  "trends": {
+    "common_themes": [
+      "Agent 工程化（编排/增量计算/编码 Agent）— 11 个项目中 6 个与 Agent 直接相关",
+      "本地化与 AI 民主化（本地终端、本地 LLM 研究、本地音乐生成）— 降低使用门槛趋势明显",
+      "金融 x AI 垂直落地（量化交易、金融研究、金融参考实现）— 金融成为 AI 落地热门领域"
+    ],
+    "new_concepts": [
+      "增量计算引擎（cocoindex）— 专为长周期 Agent 设计的增量状态管理，非传统数据库/缓存方案",
+      "Agent 编排层（ruflo）— 在 Claude/LLM 之上构建多 Agent 调度与 Swarm 智能的中间层"
+    ],
+    "score_distribution": {
+      "total": 11,
+      "high_7_10": 6,
+      "mid_5_6": 5,
+      "low_1_4": 0
+    }
+  }
+}

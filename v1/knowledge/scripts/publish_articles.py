@@ -17,7 +17,9 @@ def load_analyzed():
     files = sorted(os.listdir(ANALYZED_DIR))
     if not files:
         raise SystemExit("No analyzed files found.")
-    return json.load(open(os.path.join(ANALYZED_DIR, files[-1]), encoding="utf-8"))
+    raw = json.load(open(os.path.join(ANALYZED_DIR, files[-1]), encoding="utf-8"))
+    items = raw.get("items", raw if isinstance(raw, list) else [])
+    return items
 
 
 def load_existing():

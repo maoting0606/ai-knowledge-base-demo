@@ -1,0 +1,16 @@
+{
+  "id": "58b4c2ba-4399-4cbe-abd5-3c4d35b53485",
+  "title": "anthropics/financial-services",
+  "source_url": "https://github.com/anthropics/financial-services",
+  "source_type": "github_trending",
+  "summary": "anthropics/financial-services — Anthropic 官方金融 AI 参考实现，Apache-2.0 开源",
+  "tags": [
+    "Anthropic",
+    "金融",
+    "参考实现",
+    "LLM"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:52:49+08:00",
+  "published_at": "2026-05-07T22:52:49+08:00"
+}
