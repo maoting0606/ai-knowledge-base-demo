@@ -1,0 +1,16 @@
+{
+  "id": "73eac73c-f35b-41d1-bb97-2cbaba6549ad",
+  "title": "virattt/dexter",
+  "source_url": "https://github.com/virattt/dexter",
+  "source_type": "github_trending",
+  "summary": "专注于金融深度研究的自主 Agent，能自动抓取财报、分析市场数据并生成研究报告，降低金融研究门槛。",
+  "tags": [
+    "金融研究",
+    "自主Agent",
+    "数据分析",
+    "LLM"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

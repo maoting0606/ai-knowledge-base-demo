@@ -1,0 +1,72 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github_trending",
+    "popularity": "20,777 stars this week (64,224 total)",
+    "summary": "面向实战工程师的 Claude Skills 集合，来自作者本人的 .claude 目录，可直接复用"
+  },
+  {
+    "title": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "source": "github_trending",
+    "popularity": "15,633 stars this week (56,159 total)",
+    "summary": "基于终端的智能开发环境，融合 Agent 能力提升命令行交互体验"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github_trending",
+    "popularity": "15,576 stars this week (70,850 total)",
+    "summary": "基于多 Agent LLM 的金融交易框架，支持复杂的量化交易策略"
+  },
+  {
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github_trending",
+    "popularity": "10,993 stars this week (45,830 total)",
+    "summary": "Claude Agent 编排平台，支持多 Agent 部署、RAG 集成与自主工作流"
+  },
+  {
+    "title": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source": "github_trending",
+    "popularity": "5,048 stars this week (13,200 total)",
+    "summary": "AI 全自动短视频引擎，可批量生成 AI 短视频内容"
+  },
+  {
+    "title": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "source": "github_trending",
+    "popularity": "3,332 stars this week (4,728 total)",
+    "summary": "代码编写 Agent 工具集，为开发者提供 AI 辅助编码能力"
+  },
+  {
+    "title": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "source": "github_trending",
+    "popularity": "2,668 stars this week (24,627 total)",
+    "summary": "深度金融研究自主 Agent，可自动分析财报和市场数据"
+  },
+  {
+    "title": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "source": "github_trending",
+    "popularity": "2,539 stars this week (7,355 total)",
+    "summary": "精选 Codex CLI/API Skills 清单，帮助开发者自动化工作流"
+  },
+  {
+    "title": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "source": "github_trending",
+    "popularity": "1,474 stars this week (8,703 total)",
+    "summary": "长时任务 Agent 增量引擎，支持持久化记忆与渐进式执行"
+  },
+  {
+    "title": "LearningCircuit/local-deep-research",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "source": "github_trending",
+    "popularity": "1,102 stars this week (6,028 total)",
+    "summary": "本地化深度研究工具，支持多种本地/云端 LLM 和 arXiv 等搜索引擎"
+  }
+]

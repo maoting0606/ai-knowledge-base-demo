@@ -1,0 +1,16 @@
+{
+  "id": "d5d569a8-beff-43bf-98f5-3954af2290f9",
+  "title": "cocoindex-io/cocoindex",
+  "source_url": "https://github.com/cocoindex-io/cocoindex",
+  "source_type": "github_trending",
+  "summary": "面向长周期 Agent 任务的增量计算引擎，支持持久化记忆与渐进式执行，解决 Agent 在长时间任务中的状态管理问题。",
+  "tags": [
+    "Agent",
+    "增量计算",
+    "长周期",
+    "记忆管理"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github_trending",
+    "popularity": "本周 20,777 Stars / 总计 64,224 Stars",
+    "summary": "Claude Code 技能集合，帮助工程师提升 AI 编程效率"
+  },
+  {
+    "title": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "source": "github_trending",
+    "popularity": "本周 15,633 Stars / 总计 56,159 Stars",
+    "summary": "基于终端的智能体开发环境，融合 AI 与命令行"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github_trending",
+    "popularity": "本周 15,576 Stars / 总计 70,850 Stars",
+    "summary": "多智能体 LLM 金融交易框架"
+  },
+  {
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github_trending",
+    "popularity": "本周 10,993 Stars / 总计 45,830 Stars",
+    "summary": "Claude 多智能体编排平台，支持 RAG 和自主工作流"
+  },
+  {
+    "title": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source": "github_trending",
+    "popularity": "本周 5,048 Stars / 总计 13,200 Stars",
+    "summary": "AI 全自动短视频生成引擎"
+  },
+  {
+    "title": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "source": "github_trending",
+    "popularity": "本周 3,332 Stars / 总计 4,728 Stars",
+    "summary": "编程智能体工具集，加速代码开发流程"
+  },
+  {
+    "title": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "source": "github_trending",
+    "popularity": "本周 2,668 Stars / 总计 24,627 Stars",
+    "summary": "深度金融研究自主智能体"
+  },
+  {
+    "title": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "source": "github_trending",
+    "popularity": "本周 2,539 Stars / 总计 7,355 Stars",
+    "summary": "Codex CLI 实用技能清单合集"
+  },
+  {
+    "title": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "source": "github_trending",
+    "popularity": "本周 1,474 Stars / 总计 8,703 Stars",
+    "summary": "面向长周期智能体的增量计算引擎"
+  },
+  {
+    "title": "LearningCircuit/local-deep-research",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "source": "github_trending",
+    "popularity": "本周 1,102 Stars / 总计 6,028 Stars",
+    "summary": "本地运行的大模型深度研究工具，支持多搜索引擎"
+  }
+]

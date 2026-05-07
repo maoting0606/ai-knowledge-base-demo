@@ -1,0 +1,16 @@
+{
+  "id": "55bf3288-cf4a-4f1d-a021-24a1f048a4a5",
+  "title": "TauricResearch/TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_type": "github_trending",
+  "summary": "基于多 Agent LLM 架构的量化交易框架，支持多个智能体协作完成复杂的金融数据分析与交易策略执行。",
+  "tags": [
+    "金融",
+    "多Agent",
+    "量化交易",
+    "LLM"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

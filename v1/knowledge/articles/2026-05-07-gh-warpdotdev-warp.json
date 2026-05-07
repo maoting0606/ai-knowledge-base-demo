@@ -1,0 +1,16 @@
+{
+  "id": "62aeb4dc-8b2f-4092-b361-0b3396f5ca3b",
+  "title": "warpdotdev/warp",
+  "source_url": "https://github.com/warpdotdev/warp",
+  "source_type": "github_trending",
+  "summary": "Rust 编写的智能终端开发环境，将 AI Agent 能力深度集成到命令行中，支持智能补全、错误解释和自动化工作流。",
+  "tags": [
+    "终端",
+    "开发环境",
+    "Rust",
+    "Agent"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

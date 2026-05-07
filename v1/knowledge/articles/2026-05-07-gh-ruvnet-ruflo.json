@@ -1,0 +1,16 @@
+{
+  "id": "c39a0851-cf6a-411d-b8da-4c1a9215108d",
+  "title": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "source_type": "github_trending",
+  "summary": "Claude 生态的多 Agent 编排平台，支持智能体集群部署、RAG 集成、自主工作流调度，并与 Claude Code / Codex 原生集成。",
+  "tags": [
+    "Agent编排",
+    "Claude",
+    "RAG",
+    "工作流"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

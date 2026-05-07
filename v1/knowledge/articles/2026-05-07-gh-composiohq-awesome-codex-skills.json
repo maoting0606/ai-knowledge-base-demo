@@ -1,0 +1,16 @@
+{
+  "id": "eab24bf1-da5a-480f-b6fc-7427adbdfcb3",
+  "title": "ComposioHQ/awesome-codex-skills",
+  "source_url": "https://github.com/ComposioHQ/awesome-codex-skills",
+  "source_type": "github_trending",
+  "summary": "精选的 Codex CLI 和 API Skills 资源清单，涵盖工作流自动化、工具集成等实用场景的 Skill 示例与最佳实践。",
+  "tags": [
+    "Codex",
+    "Skills",
+    "CLI",
+    "工作流自动化"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

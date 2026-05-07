@@ -1,0 +1,16 @@
+{
+  "id": "5ab6e4a2-4c21-4493-990a-59137f2f8764",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "TypeScript 专家 Matt Pocock 开源的 Claude Code Skills 合集，包含 .claude 目录中的实战配置，开发者可直接复用提升 AI 编程效率。",
+  "tags": [
+    "Claude",
+    "Skills",
+    "开发工具",
+    "AI编程"
+  ],
+  "status": "published",
+  "collected_at": "2026-05-07T22:12:39+08:00",
+  "published_at": "2026-05-07T22:12:39+08:00"
+}

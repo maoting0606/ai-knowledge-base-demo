@@ -1,0 +1,112 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "summary": "TypeScript 专家 Matt Pocock 开源的 Claude Code Skills 合集，包含 .claude 目录中的实战配置，开发者可直接复用提升 AI 编程效率。",
+    "highlight": "顶级工程师的 Claude 配置开源，拿来即用",
+    "score": 8,
+    "score_reason": "直接可复用的实战技能包，对 Claude Code 用户有立竿见影的帮助",
+    "tags": ["Claude", "Skills", "开发工具", "AI编程"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "warpdotdev/warp",
+    "source_url": "https://github.com/warpdotdev/warp",
+    "source_type": "github_trending",
+    "summary": "Rust 编写的智能终端开发环境，将 AI Agent 能力深度集成到命令行中，支持智能补全、错误解释和自动化工作流。",
+    "highlight": "AI 原生终端，重新定义命令行交互体验",
+    "score": 8,
+    "score_reason": "成熟的 AI+终端产品，大幅提升开发者日常效率，已有大量用户验证",
+    "tags": ["终端", "开发环境", "Rust", "Agent"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "summary": "基于多 Agent LLM 架构的量化交易框架，支持多个智能体协作完成复杂的金融数据分析与交易策略执行。",
+    "highlight": "多 Agent 协作量化交易，金融与 AI 的深度融合",
+    "score": 7,
+    "score_reason": "应用场景明确且在金融领域有实用价值，但受众限于量化交易群体",
+    "tags": ["金融", "多Agent", "量化交易", "LLM"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "ruvnet/ruflo",
+    "source_url": "https://github.com/ruvnet/ruflo",
+    "source_type": "github_trending",
+    "summary": "Claude 生态的多 Agent 编排平台，支持智能体集群部署、RAG 集成、自主工作流调度，并与 Claude Code / Codex 原生集成。",
+    "highlight": "Claude 生态首选编排层，Agent 集群管理利器",
+    "score": 8,
+    "score_reason": "填补了 Claude Agent 编排空白，架构设计完善，实用价值高",
+    "tags": ["Agent编排", "Claude", "RAG", "工作流"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "AIDC-AI/Pixelle-Video",
+    "source_url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source_type": "github_trending",
+    "summary": "AI 全自动短视频生成引擎，从脚本到视频全流程自动化，支持批量生产 AI 短视频内容。",
+    "highlight": "AI 视频批量生产，内容创作工业化",
+    "score": 7,
+    "score_reason": "工具成熟度不错且解决了短视频创作的痛点，但依赖 AI 视频质量",
+    "tags": ["AI视频", "短视频", "内容生成", "自动化"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "1jehuang/jcode",
+    "source_url": "https://github.com/1jehuang/jcode",
+    "source_type": "github_trending",
+    "summary": "Rust 编写的编程 Agent 工具集，聚焦代码生成、理解和重构等场景，为开发者提供轻量级 AI 辅助编码能力。",
+    "highlight": "Rust 实现的轻量 Coding Agent",
+    "score": 6,
+    "score_reason": "项目起步不久（4.7k Stars），概念有趣但还需更多验证",
+    "tags": ["CodingAgent", "Rust", "开发工具", "代码生成"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "virattt/dexter",
+    "source_url": "https://github.com/virattt/dexter",
+    "source_type": "github_trending",
+    "summary": "专注于金融深度研究的自主 Agent，能自动抓取财报、分析市场数据并生成研究报告，降低金融研究门槛。",
+    "highlight": "金融研究 Agent，自动分析财报与市场数据",
+    "score": 7,
+    "score_reason": "24.6k Stars 验证了市场需求，功能定位清晰，对金融从业者实用",
+    "tags": ["金融研究", "自主Agent", "数据分析", "LLM"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "ComposioHQ/awesome-codex-skills",
+    "source_url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "source_type": "github_trending",
+    "summary": "精选的 Codex CLI 和 API Skills 资源清单，涵盖工作流自动化、工具集成等实用场景的 Skill 示例与最佳实践。",
+    "highlight": "Codex 技能百科全书，开发者工作流自动化必看",
+    "score": 6,
+    "score_reason": "资源清单类项目，有参考价值但非原创性工具",
+    "tags": ["Codex", "Skills", "CLI", "工作流自动化"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "cocoindex-io/cocoindex",
+    "source_url": "https://github.com/cocoindex-io/cocoindex",
+    "source_type": "github_trending",
+    "summary": "面向长周期 Agent 任务的增量计算引擎，支持持久化记忆与渐进式执行，解决 Agent 在长时间任务中的状态管理问题。",
+    "highlight": "解决长周期 Agent 记忆与增量执行的痛点",
+    "score": 6,
+    "score_reason": "技术思路新颖，定位清晰但还处于早期阶段",
+    "tags": ["Agent", "增量计算", "长周期", "记忆管理"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  },
+  {
+    "title": "LearningCircuit/local-deep-research",
+    "source_url": "https://github.com/LearningCircuit/local-deep-research",
+    "source_type": "github_trending",
+    "summary": "完全本地化的深度研究工具，支持 llama.cpp/Ollama 等本地模型和云端 LLM，集成 arXiv/PubMed 等学术搜索引擎，注重隐私。",
+    "highlight": "本地优先的深度研究，隐私与性能兼得",
+    "score": 7,
+    "score_reason": "契合隐私敏感用户需求，本地+云端灵活切换，SimpleQA 95% 成绩亮眼",
+    "tags": ["本地LLM", "深度研究", "隐私", "RAG"],
+    "analyzed_at": "2026-05-07T21:29:00+08:00"
+  }
+]
