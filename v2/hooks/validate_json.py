@@ -142,9 +142,13 @@ def main() -> None:
     total_failed = 0
 
     for pattern in sys.argv[1:]:
-        files = list(Path.cwd().glob(pattern))
-        if not files:
-            files = [Path(pattern)]
+        p = Path(pattern)
+        if p.is_absolute():
+            files = [p]
+        else:
+            files = list(Path.cwd().glob(pattern))
+            if not files:
+                files = [p]
         for filepath in files:
             if not filepath.is_file():
                 print(f"\n{filepath}")
