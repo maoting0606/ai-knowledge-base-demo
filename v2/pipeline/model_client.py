@@ -59,6 +59,87 @@ PRICING_PER_1K_TOKENS: dict[str, dict[str, float]] = {
     "gpt-4o-mini": {"input": 0.00015, "output": 0.0006},
 }
 
+PRICING_CN: dict[str, dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},
+}
+
+
+class CostTracker:
+    """Tracks LLM API call token usage and estimates costs in CNY.
+
+    Records every successful API call and provides cost summaries
+    based on the domestic model pricing table (元/百万 tokens).
+    """
+
+    def __init__(self) -> None:
+        self._records: list[tuple[Usage, str]] = []
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record one API call's token usage.
+
+        Args:
+            usage: Token usage statistics from the LLM response.
+            provider: Provider name matching a key in PRICING_CN.
+        """
+        self._records.append((usage, provider))
+        logger.debug(
+            "CostTracker record provider=%s prompt=%d completion=%d",
+            provider,
+            usage.prompt_tokens,
+            usage.completion_tokens,
+        )
+
+    def estimated_cost(self, provider: str) -> float:
+        """Return estimated total cost in CNY for the given provider.
+
+        Args:
+            provider: Provider name (deepseek / qwen / openai).
+
+        Returns:
+            Total estimated cost in yuan, rounded to 6 decimal places.
+        """
+        rates = PRICING_CN.get(provider, {})
+        total = 0.0
+        for usage, prov in self._records:
+            if prov != provider:
+                continue
+            total += (usage.prompt_tokens / 1_000_000) * rates.get("input", 0)
+            total += (usage.completion_tokens / 1_000_000) * rates.get("output", 0)
+        return round(total, 6)
+
+    def report(self, provider: str | None = None) -> None:
+        """Print a human-readable cost report to the log.
+
+        If provider is None, prints a summary for every provider that
+        has recorded calls. Otherwise only prints for the given provider.
+
+        Args:
+            provider: Optional provider name to filter by.
+        """
+        providers = {p for _, p in self._records}
+        if provider:
+            providers = {provider}
+
+        total_cost = 0.0
+        for prov in sorted(providers):
+            cost = self.estimated_cost(prov)
+            calls = sum(1 for _, p in self._records if p == prov)
+            total_cost += cost
+            logger.info(
+                "Cost report [%s] calls=%d cost=%.6f 元",
+                prov,
+                calls,
+                cost,
+            )
+
+        if len(providers) > 1:
+            logger.info("Cost report [total] cost=%.6f 元", total_cost)
+
+
+tracker = CostTracker()
+
 
 def get_provider() -> str:
     """Return the active provider name from environment."""
@@ -167,6 +248,7 @@ class OpenAICompatibleProvider(LLMProvider):
             data.get("model", payload["model"]),
             usage.total_tokens,
         )
+        tracker.record(usage, self._provider)
         return LLMResponse(
             content=content,
             usage=usage,

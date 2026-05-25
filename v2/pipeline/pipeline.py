@@ -20,7 +20,7 @@ from typing import Any
 
 import httpx
 
-from model_client import LLMResponse, chat_with_retry, create_provider
+from model_client import LLMResponse, chat_with_retry, create_provider, tracker
 
 logging.basicConfig(
     level=logging.INFO,
@@ -423,6 +423,7 @@ def run_pipeline(args: argparse.Namespace) -> int:
         len(organized),
         saved,
     )
+    tracker.report()
     return 0
 
 
