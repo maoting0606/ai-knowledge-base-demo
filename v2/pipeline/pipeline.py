@@ -249,7 +249,7 @@ def analyze_item(item: dict[str, Any], dry_run: bool) -> dict[str, Any]:
             "summary": parsed.get("summary", ""),
             "tags": parsed.get("tags", []),
             "score": parsed.get("score", 5),
-            "status": "pending",
+            "status": "review",
         }
     except Exception as exc:
         logger.warning("LLM analysis failed for '%s': %s", item.get("title", ""), exc)
