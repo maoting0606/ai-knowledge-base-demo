@@ -179,6 +179,22 @@ class OpenAICompatibleProvider(LLMProvider):
         self._client.close()
 
 
+def create_provider(
+    provider: str | None = None,
+    model: str | None = None,
+) -> OpenAICompatibleProvider:
+    """Factory that creates an OpenAICompatibleProvider from environment config.
+
+    Args:
+        provider: Provider name (deepseek/qwen/openai). Defaults to LLM_PROVIDER env.
+        model: Model name override. Defaults to the provider's default model.
+
+    Returns:
+        Configured OpenAICompatibleProvider instance.
+    """
+    return OpenAICompatibleProvider(provider=provider, model=model)
+
+
 def estimate_tokens(text: str) -> int:
     """Roughly estimate token count (Chinese ~1.5 chars/token, English ~4 chars/token)."""
     chinese_count = sum(1 for c in text if "\u4e00" <= c <= "\u9fff")
