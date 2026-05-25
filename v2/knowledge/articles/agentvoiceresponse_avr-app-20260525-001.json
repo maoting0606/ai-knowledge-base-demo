@@ -3,14 +3,15 @@
   "title": "agentvoiceresponse/avr-app",
   "source_url": "https://github.com/agentvoiceresponse/avr-app",
   "source_type": "github_trending",
-  "summary": "一个一站式AI语音代理平台，支持设计、训练和编排语音代理，可快速集成ASR、LLM、TTS等实时语音服务，简化部署流程，加速从概念到生产的转化。",
+  "summary": "一个集成AI语音代理设计、训练和编排的仪表盘，支持快速连接ASR、LLM、TTS等提供商，简化复杂设置，加速从创意到生产级代理的流程。",
   "tags": [
     "AI Voice Agents",
-    "Speech Integration",
-    "Low-Code Platform"
+    "Speech Recognition",
+    "LLM Integration",
+    "Dashboard"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

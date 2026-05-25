@@ -3,15 +3,15 @@
   "title": "ashok-kallara/semantic-daily",
   "source_url": "https://github.com/ashok-kallara/semantic-daily",
   "source_type": "github_trending",
-  "summary": "一个100%免费的智能新闻聚合器，通过多代理LLM管道从Reddit、Bluesky、GitHub等原生API发现AI与技术趋势，去重分类后通过Telegram或网页仪表盘提供每日精选摘要。",
+  "summary": "一个完全免费的智能新闻聚合器，通过多代理LLM管道从Reddit、Bluesky、GitHub等原生API发现并去重AI与技术内容，每日生成精选摘要推送至Telegram或网页仪表盘。",
   "tags": [
     "AI News Aggregator",
-    "Multi-Agent LLM",
+    "Multi-Agent Pipeline",
     "OpenRouter",
-    "Curated Digest"
+    "Telegram Bot"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

@@ -3,7 +3,7 @@
   "title": "Dezz05/AuraSDK",
   "source_url": "https://github.com/Dezz05/AuraSDK",
   "source_type": "github_trending",
-  "summary": "AuraSDK 是一个基于 Rust 的轻量级认知记忆引擎，为 AI 代理提供快速本地记忆召回，无需云服务或 LLM 调用。",
+  "summary": "AuraSDK 是一个基于 Rust 的轻量级认知记忆引擎，为 AI 代理提供快速本地记忆召回，无需云服务或大模型调用。",
   "tags": [
     "Rust",
     "AI Agents",
@@ -12,6 +12,6 @@
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

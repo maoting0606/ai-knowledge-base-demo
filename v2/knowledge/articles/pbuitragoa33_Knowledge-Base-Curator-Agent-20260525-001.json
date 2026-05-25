@@ -3,7 +3,7 @@
   "title": "pbuitragoa33/Knowledge-Base-Curator-Agent",
   "source_url": "https://github.com/pbuitragoa33/Knowledge-Base-Curator-Agent",
   "source_type": "github_trending",
-  "summary": "一个基于AI的知识库策展代理，利用LLM和RAG技术动态监控大学课程文档，检测不一致性、减少冗余并跨班级提出改进建议，支持人工审核。",
+  "summary": "一个AI驱动的知识库策展代理，利用LLM和RAG技术动态监控大学课程文档，检测不一致、减少冗余并建议改进，支持人工审核。",
   "tags": [
     "AI",
     "RAG",
@@ -12,6 +12,6 @@
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

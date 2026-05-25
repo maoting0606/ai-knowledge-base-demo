@@ -3,15 +3,15 @@
   "title": "StephenDenisEdwards/micro-x-agent-loop-python",
   "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
   "source_type": "github_trending",
-  "summary": "一个基于Python的通用个人AI助手循环框架，支持Anthropic Claude和OpenAI等大语言模型，用于构建自主代理循环系统。",
+  "summary": "一个基于Python的通用个人AI助手循环框架，支持Anthropic Claude和OpenAI等大语言模型，用于构建自主代理。",
   "tags": [
     "AI Agent",
-    "LLM",
     "Python",
+    "LLM",
     "Autonomous Loop"
   ],
   "score": 7,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

@@ -3,7 +3,7 @@
   "title": "synapseorch-ai/synapse-ai",
   "source_url": "https://github.com/synapseorch-ai/synapse-ai",
   "source_type": "github_trending",
-  "summary": "Synapse是一个开源AI代理平台，支持创建、连接和编排由任何LLM（本地、云端或CLI）驱动的智能代理，实现实际任务执行。",
+  "summary": "Synapse是一个开源平台，用于创建、连接和编排AI代理，支持本地、云端或CLI的任意LLM，实现真正的任务执行。",
   "tags": [
     "AI Agents",
     "Open Source",
@@ -11,6 +11,6 @@
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }

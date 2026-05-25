@@ -3,15 +3,15 @@
   "title": "agentc7/ac7",
   "source_url": "https://github.com/agentc7/ac7",
   "source_type": "github_trending",
-  "summary": "ac7是一个自托管的AI代理团队控制平面，支持向Claude Code或OpenAI Codex推送目标，并捕获所有LLM调用，实现代理协作与监控。",
+  "summary": "AC7 是一个自托管的 AI 代理团队控制平面，支持向 Claude Code 或 OpenAI Codex 推送目标，并捕获所有 LLM 调用。",
   "tags": [
-    "AI Agents",
+    "AI Agent",
     "Control Plane",
-    "Self-hosted",
-    "LLM Monitoring"
+    "LLM",
+    "Self-hosted"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "collected_at": "2026-05-25T06:20:59.367449+00:00",
   "published_at": null
 }
