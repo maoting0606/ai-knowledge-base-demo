@@ -1,0 +1,17 @@
+{
+  "id": "KyrchPH_agent-trainer-20260525-001",
+  "title": "KyrchPH/agent-trainer",
+  "source_url": "https://github.com/KyrchPH/agent-trainer",
+  "source_type": "github_trending",
+  "summary": "一个为直播AI代理构建训练数据的工具。通过ChatGPT风格聊天界面，AI从MySQL检索上下文回答，用户可教导代理更优答案，LLM决定合并或替换现有知识。",
+  "tags": [
+    "AI Agent",
+    "Training Data",
+    "MySQL",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "published_at": null
+}

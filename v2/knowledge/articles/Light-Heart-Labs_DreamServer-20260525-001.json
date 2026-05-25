@@ -1,0 +1,17 @@
+{
+  "id": "Light-Heart-Labs_DreamServer-20260525-001",
+  "title": "Light-Heart-Labs/DreamServer",
+  "source_url": "https://github.com/Light-Heart-Labs/DreamServer",
+  "source_type": "github_trending",
+  "summary": "DreamServer 可将 PC、Mac 或 Linux 设备转变为私有 AI 服务器，支持 LLM 推理、聊天界面、语音、代理、工作流、RAG 及图像生成。",
+  "tags": [
+    "AI Server",
+    "LLM",
+    "RAG",
+    "Image Generation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "published_at": null
+}
