@@ -3,15 +3,15 @@
   "title": "garagon/aguara",
   "source_url": "https://github.com/garagon/aguara",
   "source_type": "github_trending",
-  "summary": "Aguara 是一个本地优先的安全扫描工具，用于检测AI代理和软件供应链中的提示注入、MCP风险、工具投毒、不安全的GitHub Actions、秘密泄露以及多种包管理器中的受损包。",
+  "summary": "Aguara 是一款本地优先的安全扫描工具，用于检测AI代理和软件供应链中的提示注入、MCP风险、工具投毒、不安全的GitHub Actions、秘密泄露以及多种包管理器的受损包。",
   "tags": [
-    "Security Scanner",
-    "Supply Chain",
-    "AI Agents",
-    "Prompt Injection"
+    "security scanner",
+    "supply chain",
+    "AI agents",
+    "dependency analysis"
   ],
-  "score": 8,
+  "score": 9,
   "status": "review",
-  "collected_at": "2026-05-25T06:20:59.367449+00:00",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
   "published_at": null
 }

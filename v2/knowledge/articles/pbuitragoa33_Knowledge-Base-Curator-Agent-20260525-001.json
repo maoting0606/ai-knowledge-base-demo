@@ -5,13 +5,13 @@
   "source_type": "github_trending",
   "summary": "一个AI驱动的知识库策展代理，利用LLM和RAG技术动态监控大学课程文档，检测不一致、减少冗余并建议改进，支持人工审核。",
   "tags": [
-    "AI",
+    "AI Curation",
     "RAG",
-    "Education",
-    "Knowledge Management"
+    "LLM",
+    "Education"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T06:20:59.367449+00:00",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
   "published_at": null
 }

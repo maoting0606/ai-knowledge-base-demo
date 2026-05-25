@@ -1,0 +1,17 @@
+{
+  "id": "atharvnaik1_ipaship-audit-20260525-001",
+  "title": "atharvnaik1/ipaship-audit",
+  "source_url": "https://github.com/atharvnaik1/ipaship-audit",
+  "source_type": "github_trending",
+  "summary": "ipaship-audit 是一个开源工具，允许AI代理在开发阶段自动审查iOS/Android应用的App Store政策和安全漏洞，支持Web应用、CLI、MCP或Claude技能，并集成安全钩子层，避免提交后等待修复。",
+  "tags": [
+    "App Store Policy",
+    "Security Audit",
+    "AI Agent",
+    "Mobile App Development"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
+  "published_at": null
+}
