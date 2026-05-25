@@ -1,0 +1,17 @@
+{
+  "id": "pikappa13_worldsense-20260525-001",
+  "title": "pikappa13/worldsense",
+  "source_url": "https://github.com/pikappa13/worldsense",
+  "source_type": "github_trending",
+  "summary": "WorldSense是一个MCP工具，为Claude Code和Cursor等AI代理提供现实检查层，在LLM回答或行动前检测隐藏风险、缺失上下文和现实后果。",
+  "tags": [
+    "AI Safety",
+    "MCP Tool",
+    "Context Validation",
+    "Risk Detection"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "published_at": null
+}

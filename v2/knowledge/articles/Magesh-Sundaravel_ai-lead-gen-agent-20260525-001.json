@@ -1,0 +1,17 @@
+{
+  "id": "Magesh-Sundaravel_ai-lead-gen-agent-20260525-001",
+  "title": "Magesh-Sundaravel/ai-lead-gen-agent",
+  "source_url": "https://github.com/Magesh-Sundaravel/ai-lead-gen-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Agentic AI的潜在客户生成管道，能够自动寻找线索、使用LLM评分并生成冷邮件，支持本地或AWS Lambda+Step Functions运行。",
+  "tags": [
+    "AI",
+    "Lead Generation",
+    "Cold Email",
+    "AWS"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-05-25T02:43:08.390157+00:00",
+  "published_at": null
+}
