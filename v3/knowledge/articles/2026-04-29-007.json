@@ -1,0 +1,16 @@
+{
+  "id": "2026-04-29-007",
+  "title": "bytedance/deer-flow",
+  "source": "github",
+  "url": "https://github.com/bytedance/deer-flow",
+  "collected_at": "2026-04-29T07:47:04.190555+00:00",
+  "summary": "字节跳动开源的DeerFlow是一个面向长周期任务的超级智能体框架，集成了沙箱、记忆、工具、技能、子智能体和消息网关等模块，能够自主完成从研究、编码到创作等复杂任务，任务时长从几分钟到几小时不等。",
+  "tags": [
+    "SuperAgent",
+    "long-horizon",
+    "open-source"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "DeerFlow通过模块化设计将长周期任务分解为可管理的子任务，利用沙箱和记忆机制实现持续学习和自适应执行。"
+}
