@@ -3,7 +3,7 @@
   "title": "Mesh-LLM/mesh-llm",
   "source_url": "https://github.com/Mesh-LLM/mesh-llm",
   "source_type": "github_trending",
-  "summary": "Mesh-LLM是一个分布式AI/LLM平台，允许用户通过私有或公共方式共享计算资源，以支持智能体和聊天应用。",
+  "summary": "Mesh-LLM是一个分布式AI/LLM平台，允许用户通过私有或公共方式共享计算资源，以支持智能体和聊天应用，旨在让AI计算更普及。",
   "tags": [
     "Distributed AI",
     "LLM",
@@ -12,6 +12,6 @@
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T06:20:59.367449+00:00",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
   "published_at": null
 }

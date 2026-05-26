@@ -5,13 +5,13 @@
   "source_type": "github_trending",
   "summary": "一个集成AI语音代理设计、训练和编排的仪表盘，支持快速连接ASR、LLM、TTS等提供商，简化复杂设置，加速从创意到生产级代理的流程。",
   "tags": [
-    "AI Voice Agents",
-    "Speech Recognition",
-    "LLM Integration",
-    "Dashboard"
+    "AI voice agents",
+    "dashboard",
+    "speech providers",
+    "workflow automation"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T06:20:59.367449+00:00",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
   "published_at": null
 }

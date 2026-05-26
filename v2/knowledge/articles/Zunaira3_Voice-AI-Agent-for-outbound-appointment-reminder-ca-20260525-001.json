@@ -1,0 +1,17 @@
+{
+  "id": "Zunaira3_Voice-AI-Agent-for-outbound-appointment-reminder-ca-20260525-001",
+  "title": "Zunaira3/Voice-AI-Agent-for-outbound-appointment-reminder-calls",
+  "source_url": "https://github.com/Zunaira3/Voice-AI-Agent-for-outbound-appointment-reminder-calls",
+  "source_type": "github_trending",
+  "summary": "一个基于FastAPI和Vapi.ai的生产级语音AI外呼提醒系统，用于自动确认或重新安排预约，包含Web界面和语音识别/大语言模型/语音合成集成。",
+  "tags": [
+    "Voice AI",
+    "Appointment Reminder",
+    "FastAPI",
+    "Vapi.ai"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
+  "published_at": null
+}

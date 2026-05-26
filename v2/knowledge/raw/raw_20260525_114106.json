@@ -1,0 +1,511 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 260,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Zunaira3/Voice-AI-Agent-for-outbound-appointment-reminder-calls",
+    "title": "Zunaira3/Voice-AI-Agent-for-outbound-appointment-reminder-calls",
+    "description": "Voice AI Agent - Outbound Appointment Reminder System using FastAPI + Vapi.ai  A production-ready voice AI agent that makes automated outbound calls to confirm or reschedule appointments. Features web UI, FastAPI backend, and Vapi.ai integration for STT/LLM/TTS.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+    "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+    "description": "A general personal assistant AI agent loop built with Python and using the Anthropic Claude or OpenAI and LLMs",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/SAP/STARS",
+    "title": "SAP/STARS",
+    "description": "AI agent whose purpose is to conduct vulnerability tests on LLMs from SAP AI Core or from local deployments, or models from HuggingFace. The goal of this project is to identify and correct any potential security vulnerabilities.",
+    "extra": {
+      "stars": 43,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-security",
+        "llm",
+        "llm-security",
+        "security"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/KyrchPH/agent-trainer",
+    "title": "KyrchPH/agent-trainer",
+    "description": "Training data builder for the Livestreamer AI Agent. Inquiries flow through a ChatGPT-style chat, the AI answers with context retrieved from MySQL, and users can teach the agent better answers — the LLM decides whether to merge or replace existing knowledge.",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/atharvnaik1/ipaship-audit",
+    "title": "atharvnaik1/ipaship-audit",
+    "description": "Let your AI Agent review your iOS/Android apps for appstore policy & security bugs with ipaShip's web app,  cli, mcp or claude-skill with safety hooks layer any any llm agent you use - loopin fixes in dev stage only no more waits till submissions.",
+    "extra": {
+      "stars": 41,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "android",
+        "apple",
+        "appstore",
+        "auditor",
+        "claude-skills",
+        "cli-tool",
+        "code-review",
+        "developer-tools",
+        "good-first-issue",
+        "ios",
+        "ios-app",
+        "mcp-tools",
+        "opensource"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1065,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/eugenelim/llm-wiki-kit",
+    "title": "eugenelim/llm-wiki-kit",
+    "description": "Configurable group operating system and LLM Wiki knowledge management kit for teams and families. Obsidian vault templates, agent skills, and scripts for building structured, AI-maintained markdown knowledge bases. Works with Claude Code, Cowork, or any LLM agent. Includes work and family variants.",
+    "extra": {
+      "stars": 9,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "title": "Light-Heart-Labs/DreamServer",
+    "description": "Turn your PC, Mac, or Linux box into a private AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 1755,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GabrielHub/idc",
+    "title": "GabrielHub/idc",
+    "description": "IDC (Interdimensional Dating Coach): a local-first management sim where you book dates for Cupid across realities. Vector-indexed RAG and agentic memory tools feed Zod-validated LLM exchanges (Ollama or Vercel AI Gateway). React Router 7 SPA, optional Tauri 2 desktop.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "game",
+        "llm",
+        "ollama",
+        "react",
+        "react-router",
+        "simulation",
+        "tailwindcss",
+        "tauri",
+        "typescript",
+        "vite",
+        "zod"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/gvnrdev/gvnr",
+    "title": "gvnrdev/gvnr",
+    "description": "Hard spend cap for autonomous AI agents. MCP + REST API — approved or denied before each LLM call.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/garagon/aguara",
+    "title": "garagon/aguara",
+    "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
+    "extra": {
+      "stars": 81,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "devsecops",
+        "github-actions",
+        "mcp",
+        "npm",
+        "pnpm",
+        "prompt-injection",
+        "pypi",
+        "secrets-detection",
+        "security",
+        "supply-chain-security",
+        "tool-poisoning"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentvoiceresponse/avr-app",
+    "title": "agentvoiceresponse/avr-app",
+    "description": "Design, train, and orchestrate AI voice agents in a single dashboard, then connect them to your preferred ASR, LLM, TTS, or real-time speech providers with just a few clicks. The guided workflows eliminate complex setup so teams of any size can go from idea to production-ready agent in record time.",
+    "extra": {
+      "stars": 25,
+      "language": "TypeScript",
+      "topics": [
+        "avr",
+        "webapp"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/pbuitragoa33/Knowledge-Base-Curator-Agent",
+    "title": "pbuitragoa33/Knowledge-Base-Curator-Agent",
+    "description": "AI-powered curation agent for dynamic university courses or subjects. Uses LLMs and RAG to monitor course documentation, detect inconsistencies, reduce redundancy, and suggest improvements across cohorts, keeping instructors in control with human-in-the-loop approval.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agentic-workflow",
+        "api-rest",
+        "chromadb",
+        "dashboard",
+        "embeddings",
+        "rag-pipeline",
+        "sql",
+        "webapp"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "description": "Universal LLM bridge for AI agents. Use Claude Code with MiniMax, Codex with GLM, or Gemini CLI with OpenRouter — one command, any provider. Works with coding agents, OpenClaw, Hermes, and others.",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "codex",
+        "gemini",
+        "glm",
+        "hermes",
+        "hermes-agent",
+        "kilo-code",
+        "kimi",
+        "llm",
+        "minimax",
+        "moonshot",
+        "novita",
+        "ollama",
+        "openai",
+        "openclaw",
+        "openrouter",
+        "qwen",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 154,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Magesh-Sundaravel/ai-lead-gen-agent",
+    "title": "Magesh-Sundaravel/ai-lead-gen-agent",
+    "description": "Agentic AI pipeline — sources leads, scores with LLM, generates cold emails. Runs locally or on AWS Lambda + Step Functions.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "aws-lambda",
+        "groq",
+        "langgraph",
+        "lead-generation",
+        "python",
+        "serverless",
+        "step-functions",
+        "terrform"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/anis-marrouchi/agentx",
+    "title": "anis-marrouchi/agentx",
+    "description": "AI operations layer for small & medium businesses. Route Telegram, WhatsApp, Slack, Discord, GitLab, crons, webhooks, and mesh tasks to AI agents on Claude, OpenAI, or any LLM. Web wizard for non-technical operators, CLI for engineers. Self-hosted.",
+    "extra": {
+      "stars": 5,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "anthropic-ai-sdk",
+        "claude-code",
+        "multi-agent",
+        "openclaw",
+        "orchestration",
+        "self-hosted",
+        "slack",
+        "smb",
+        "telegram-bot",
+        "whatsapp"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentc7/ac7",
+    "title": "agentc7/ac7",
+    "description": "Self-hosted control plane for AI agent teams. Push objectives at Claude Code or OpenAI Codex; capture every LLM call.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-orchestration",
+        "agent-platform",
+        "agent-teams",
+        "ai-agents",
+        "anthropic",
+        "claude-code",
+        "control-plane",
+        "frontier-agents",
+        "frontier-ai",
+        "llm-observability",
+        "llm-tracing",
+        "mcp",
+        "openai",
+        "openai-codex",
+        "self-hosted"
+      ]
+    },
+    "collected_at": "2026-05-25T11:41:06.722667+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "title": "",
+    "description": "Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/\nComments URL: https://news.ycombinator.com/item?id=48265056\nPoints: 3\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Mon, 25 May 2026 09:43:03 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.tinyvolt.com/geomatic",
+    "title": "",
+    "description": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 192\n# Comments: 83\n]]>",
+    "extra": {
+      "pub_date": "Mon, 25 May 2026 03:54:14 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "",
+    "description": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 130\n# Comments: 138\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 18:39:10 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "",
+    "description": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 111\n# Comments: 76\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 17:22:48 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "title": "",
+    "description": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 398\n# Comments: 419\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 16:31:29 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://audiomass.co/?multitrack=1",
+    "title": "",
+    "description": "Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)\n\nComments URL: https://news.ycombinator.com/item?id=48256953\nPoints: 582\n# Comments: 243\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 13:02:06 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://arxiv.org/abs/2605.06445",
+    "title": "",
+    "description": "Article URL: https://susam.net/childhood-computing.html\nComments URL: https://news.ycombinator.com/item?id=48256597\nPoints: 216\n# Comments: 101\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 12:07:34 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://mastering.dyalog.com/README.html",
+    "title": "",
+    "description": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 201\n# Comments: 218\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 08:29:38 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+    "title": "",
+    "description": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 481\n# Comments: 170\n]]>",
+    "extra": {
+      "pub_date": "Sun, 24 May 2026 01:21:13 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "title": "",
+    "description": "Article URL: https://ohwr.org/projects/white-rabbit/\nComments URL: https://news.ycombinator.com/item?id=48245916\nPoints: 115\n# Comments: 28\n]]>",
+    "extra": {
+      "pub_date": "Sat, 23 May 2026 08:38:44 +0000"
+    },
+    "collected_at": "2026-05-25T11:41:06.835694+00:00"
+  }
+]

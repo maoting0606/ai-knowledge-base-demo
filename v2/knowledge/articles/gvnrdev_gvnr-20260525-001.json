@@ -6,12 +6,12 @@
   "summary": "gvnrdev/gvnr 为自主AI代理提供硬性支出上限，通过MCP和REST API在每次LLM调用前进行审批或拒绝，实现成本控制。",
   "tags": [
     "AI Agents",
-    "Spend Cap",
+    "Spend Control",
     "MCP",
     "REST API"
   ],
   "score": 8,
   "status": "review",
-  "collected_at": "2026-05-25T06:20:59.367449+00:00",
+  "collected_at": "2026-05-25T11:42:07.334348+00:00",
   "published_at": null
 }
