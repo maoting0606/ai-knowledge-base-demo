@@ -11,8 +11,12 @@ Router 是最常见的 Agent 设计模式之一：
 
 import json
 import os
+import sys
 import urllib.request
+from pathlib import Path
 from typing import Callable
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from workflows.model_client import chat, chat_json
 
