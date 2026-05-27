@@ -1,0 +1,17 @@
+{
+  "id": "YYangNUS_tamarin-prover-skill-20260527-001",
+  "title": "YYangNUS/tamarin-prover-skill",
+  "source_url": "https://github.com/YYangNUS/tamarin-prover-skill",
+  "source_type": "github_trending",
+  "summary": "一个便携式Tamarin Prover知识包，专为AI编码助手或LLM代理设计，便于集成和使用。",
+  "tags": [
+    "Tamarin Prover",
+    "AI Assistant",
+    "Knowledge Pack",
+    "Security Protocol"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "anshikagoyal0916_fact-check-agent-20260527-001",
+  "title": "anshikagoyal0916/fact-check-agent",
+  "source_url": "https://github.com/anshikagoyal0916/fact-check-agent",
+  "source_type": "github_trending",
+  "summary": "Fact-Check Agent 是一个基于AI的Web应用，能从上传的PDF中提取统计、日期等技术声明，并通过实时网络搜索和LLM进行交叉验证，将结果分类为已验证、不准确或虚假。",
+  "tags": [
+    "Fact-Checking",
+    "AI",
+    "LLM",
+    "Document Verification"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

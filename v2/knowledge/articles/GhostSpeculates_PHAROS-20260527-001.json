@@ -1,0 +1,17 @@
+{
+  "id": "GhostSpeculates_PHAROS-20260527-001",
+  "title": "GhostSpeculates/PHAROS",
+  "source_url": "https://github.com/GhostSpeculates/PHAROS",
+  "source_type": "github_trending",
+  "summary": "PHAROS 是一个面向AI代理的推理网关，通过实时查询分类实现70-90%的LLM成本节省，支持12家提供商、6种模态，兼容OpenAI接口，可自托管或使用云服务。",
+  "tags": [
+    "AI Gateway",
+    "Cost Optimization",
+    "Multi-Provider",
+    "Inference"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

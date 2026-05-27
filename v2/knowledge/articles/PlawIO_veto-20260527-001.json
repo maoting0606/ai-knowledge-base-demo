@@ -1,0 +1,17 @@
+{
+  "id": "PlawIO_veto-20260527-001",
+  "title": "PlawIO/veto",
+  "source_url": "https://github.com/PlawIO/veto",
+  "source_type": "github_trending",
+  "summary": "Veto 是一个为 AI 代理设计的授权内核，通过 YAML 规则实现工具调用的阻止、允许或升级处理，采用确定性优先策略，LLM 作为后备方案。",
+  "tags": [
+    "AI Agents",
+    "Authorization",
+    "YAML Rules",
+    "Deterministic"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

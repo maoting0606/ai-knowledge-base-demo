@@ -1,0 +1,438 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1073,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/basantpradhan454-a11y/Stock-analysis-",
+    "title": "basantpradhan454-a11y/Stock-analysis-",
+    "description": "📈 AI Stock Analysis Agent An intelligent, AI-powered agent designed to fetch real-time stock market data, perform technical analysis, and provide actionable insights using Large Language Models (LLMs). 🚀 Key Features Real-time Data Fetching: Seamless integration with APIs like yfinance or Alpha Vantage to retrieve up-to-date market data. ",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/PlawIO/veto",
+    "title": "PlawIO/veto",
+    "description": "The authorization kernel for AI agents. Block, allow, or escalate agent tool calls with YAML rules — deterministic-first, LLM fallback.",
+    "extra": {
+      "stars": 12,
+      "language": "TypeScript",
+      "topics": [
+        "agent-authorization",
+        "ai-agents",
+        "ai-safety",
+        "anthropic",
+        "cli",
+        "guardrails",
+        "langchain",
+        "llm",
+        "open-source",
+        "openai",
+        "policy",
+        "python",
+        "security",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GabrielHub/idc",
+    "title": "GabrielHub/idc",
+    "description": "IDC (Interdimensional Dating Coach): a local-first management sim where you book dates for Cupid across realities. Vector-indexed RAG and agentic memory tools feed Zod-validated LLM exchanges (Ollama or Vercel AI Gateway). React Router 7 SPA, optional Tauri 2 desktop.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "game",
+        "llm",
+        "ollama",
+        "react",
+        "react-router",
+        "simulation",
+        "tailwindcss",
+        "tauri",
+        "typescript",
+        "vite",
+        "zod"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 265,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/riisager/fullmention-mcp",
+    "title": "riisager/fullmention-mcp",
+    "description": "The FullMention Model Context Protocol (MCP) Server is a secure, high-performance gateway that allows Large Language Models (LLMs) and AI agents (such as Claude Desktop, Cursor, or custom agent networks) to interact directly with the FullMention Public API.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CarlosKipkoech/Shopping_AI_Agent",
+    "title": "CarlosKipkoech/Shopping_AI_Agent",
+    "description": "AI Shopping Assistant is a smart shopping app built with Python, Streamlit, LangChain, and Groq LLMs. Users can search products using text or images, while the AI agent recommends items, retrieves product details, and autonomously places orders using AI agent workflows and tool calling.",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agentic-ai",
+        "langchain",
+        "multimodal-ai",
+        "rag",
+        "streamlit"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bedda-tech/react-native-device-agent",
+    "title": "bedda-tech/react-native-device-agent",
+    "description": "On-device AI agent loop for React Native. Connects LLM inference with phone control for autonomous task execution. Works with Gemma 4, Claude, or any LLM.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/BkrmDahal/flow",
+    "title": "BkrmDahal/flow",
+    "description": "Flow is a native desktop command center that seamlessly fuses a multi-turn agentic AI chat workspace (Cowork) and instantaneous, push-to-talk disfluency-free dictation refinement (Flow) directly into your daily macOS workflow. Run locally or using cloud LLM.",
+    "extra": {
+      "stars": 2,
+      "language": "Go",
+      "topics": [
+        "cowork",
+        "flow",
+        "localllm"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GhostSpeculates/PHAROS",
+    "title": "GhostSpeculates/PHAROS",
+    "description": "Inference gateway for AI agents that don't sleep. 70-90% LLM cost savings via real-time query classification. 12 providers, 6 modalities, OpenAI-compatible. Self-host or pharos.nexlabs.pro.",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "cost-optimization",
+        "gateway",
+        "inference",
+        "llm",
+        "openai",
+        "saas",
+        "stripe",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nag-gude/incident-buddy",
+    "title": "nag-gude/incident-buddy",
+    "description": "IncidentBuddy — On-call incident copilot that ingests alerts, gathers MCP evidence, ranks runbook actions, and drafts stakeholder comms—with graceful degradation when LLMs or observability tools fail. Next.js + FastAPI for DevNetwork AI+ML 2026 / TrueFoundry Resilient Agents.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/anshikagoyal0916/fact-check-agent",
+    "title": "anshikagoyal0916/fact-check-agent",
+    "description": "Fact-Check Agent is an AI-powered web application that verifies factual claims from uploaded PDF documents using live web search and LLMs. It extracts statistics, dates, and technical claims, cross-checks them with real-time data, and classifies them as Verified, Inaccurate, or False.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/eugenelim/llm-wiki-kit",
+    "title": "eugenelim/llm-wiki-kit",
+    "description": "Configurable group operating system and LLM Wiki knowledge management kit for teams and families. Obsidian vault templates, agent skills, and scripts for building structured, AI-maintained markdown knowledge bases. Works with Claude Code, Cowork, or any LLM agent. Includes work and family variants.",
+    "extra": {
+      "stars": 9,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Jai0401/ai-mafia",
+    "title": "Jai0401/ai-mafia",
+    "description": "A fully AI-driven social deduction game where every player is an LLM agent. Watch AI agents play Mafia, play alongside them, or direct the action.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-game",
+        "ai-mafia",
+        "llm",
+        "mafia-game"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "title": "Light-Heart-Labs/DreamServer",
+    "description": "Turn your PC, Mac, or Linux box into a private AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 1794,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+    "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+    "description": "A general personal assistant AI agent loop built with Python and using the Anthropic Claude or OpenAI and LLMs",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/YYangNUS/tamarin-prover-skill",
+    "title": "YYangNUS/tamarin-prover-skill",
+    "description": "A portable Tamarin Prover knowledge pack for any AI coding assistant or LLM agent.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-05-27T11:27:16.196996+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+    "title": "",
+    "description": "Article URL: https://miniscript.org/MiniMicro/index.html#about\nComments URL: https://news.ycombinator.com/item?id=48291947\nPoints: 46\n# Comments: 19\n]]>",
+    "extra": {
+      "pub_date": "Wed, 27 May 2026 09:56:02 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+    "title": "",
+    "description": "Article URL: https://www.unicode.org/versions/Unicode18.0.0/\nComments URL: https://news.ycombinator.com/item?id=48290881\nPoints: 30\n# Comments: 33\n]]>",
+    "extra": {
+      "pub_date": "Wed, 27 May 2026 07:28:25 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "",
+    "description": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get. To actually configure my app, I had to hack together a Postfix relay.In anothe",
+    "extra": {
+      "pub_date": "Wed, 27 May 2026 04:26:26 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://tsduck.io/",
+    "title": "",
+    "description": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 53\n# Comments: 3\n]]>",
+    "extra": {
+      "pub_date": "Wed, 27 May 2026 01:08:16 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://developers.cloudflare.com/flagship/",
+    "title": "",
+    "description": "Article URL: https://www.oliverio.dev/blog/the-worst-job-interview-i-had\nComments URL: https://news.ycombinator.com/item?id=48285344\nPoints: 368\n# Comments: 273\n]]>",
+    "extra": {
+      "pub_date": "Tue, 26 May 2026 20:11:49 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+    "title": "",
+    "description": "Article URL: https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/\nComments URL: https://news.ycombinator.com/item?id=48284711\nPoints: 120\n# Comments: 43\n]]>",
+    "extra": {
+      "pub_date": "Tue, 26 May 2026 19:25:13 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+    "title": "",
+    "description": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https://www.youtube.com/watch?v=MD0GHZIJ1cwEdit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn't clear!We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of the",
+    "extra": {
+      "pub_date": "Tue, 26 May 2026 14:57:27 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+    "title": "",
+    "description": "Article URL: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/\nComments URL: https://news.ycombinator.com/item?id=48279316\nPoints: 946\n# Comments: 438\n]]>",
+    "extra": {
+      "pub_date": "Tue, 26 May 2026 13:08:13 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://padhye.org/raft-minority/",
+    "title": "",
+    "description": "https://arstechnica.com/information-technology/2026/05/milli...\n\nComments URL: https://news.ycombinator.com/item?id=48277107\nPoints: 68\n# Comments: 25\n]]>",
+    "extra": {
+      "pub_date": "Tue, 26 May 2026 09:07:18 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "title": "",
+    "description": "Article URL: https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/\nComments URL: https://news.ycombinator.com/item?id=48272763\nPoints: 14\n# Comments: 3\n]]>",
+    "extra": {
+      "pub_date": "Mon, 25 May 2026 22:43:39 +0000"
+    },
+    "collected_at": "2026-05-27T11:27:16.427805+00:00"
+  }
+]
