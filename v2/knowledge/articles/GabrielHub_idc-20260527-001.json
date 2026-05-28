@@ -1,0 +1,17 @@
+{
+  "id": "GabrielHub_idc-20260527-001",
+  "title": "GabrielHub/idc",
+  "source_url": "https://github.com/GabrielHub/idc",
+  "source_type": "github_trending",
+  "summary": "一个本地优先的管理模拟游戏，为丘比特跨维度安排约会。使用向量索引RAG和智能体记忆工具，结合Zod验证的LLM交互（Ollama或Vercel AI Gateway），基于React Router 7 SPA，可选Tauri 2桌面版。",
+  "tags": [
+    "AI",
+    "Game Development",
+    "RAG",
+    "Local-first"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

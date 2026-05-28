@@ -1,0 +1,17 @@
+{
+  "id": "riisager_fullmention-mcp-20260527-001",
+  "title": "riisager/fullmention-mcp",
+  "source_url": "https://github.com/riisager/fullmention-mcp",
+  "source_type": "github_trending",
+  "summary": "FullMention MCP 服务器是一个安全、高性能的网关，使 LLM 和 AI 代理（如 Claude Desktop、Cursor）能直接与 FullMention 公共 API 交互。",
+  "tags": [
+    "MCP",
+    "LLM",
+    "API Gateway",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

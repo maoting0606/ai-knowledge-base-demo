@@ -1,0 +1,17 @@
+{
+  "id": "nag-gude_incident-buddy-20260527-001",
+  "title": "nag-gude/incident-buddy",
+  "source_url": "https://github.com/nag-gude/incident-buddy",
+  "source_type": "github_trending",
+  "summary": "IncidentBuddy是一个事件响应副驾驶，可接收告警、收集MCP证据、排序操作手册并起草利益相关者沟通，支持LLM和可观测性工具故障时的优雅降级，基于Next.js和FastAPI构建。",
+  "tags": [
+    "Incident Response",
+    "AI Copilot",
+    "Resilient Agents",
+    "DevOps"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}

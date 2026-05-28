@@ -1,0 +1,17 @@
+{
+  "id": "StephenDenisEdwards_micro-x-agent-loop-python-20260527-001",
+  "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+  "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+  "source_type": "github_trending",
+  "summary": "一个基于Python的通用个人AI助手代理循环，支持Anthropic Claude或OpenAI等LLM，实现智能任务处理与交互。",
+  "tags": [
+    "AI Agent",
+    "Python",
+    "LLM",
+    "Personal Assistant"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-05-27T11:28:23.961681+00:00",
+  "published_at": null
+}
