@@ -1,0 +1,17 @@
+{
+  "id": "thippeswammy_JarvisControlSystem-20260528-001",
+  "title": "thippeswammy/JarvisControlSystem",
+  "source_url": "https://github.com/thippeswammy/JarvisControlSystem",
+  "source_type": "github_trending",
+  "summary": "Jarvis Control System 是一个受钢铁侠贾维斯启发的自主AI桌面代理，支持Windows 10/11，通过自然语言（打字、语音或Telegram）控制应用、窗口和系统设置。具备状态感知、自我验证、自学习宏和可插拔LLM后端（Ollama、OpenAI）。",
+  "tags": [
+    "AI Desktop Agent",
+    "Natural Language Control",
+    "Windows Automation",
+    "LLM Backend"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-28T11:34:08.033601+00:00",
+  "published_at": null
+}

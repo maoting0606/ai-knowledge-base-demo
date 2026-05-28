@@ -1,0 +1,17 @@
+{
+  "id": "gy15901580825_Argus-20260528-001",
+  "title": "gy15901580825/Argus",
+  "source_url": "https://github.com/gy15901580825/Argus",
+  "source_type": "github_trending",
+  "summary": "Argus是一个开源的黑盒红队测试工具，用于AI代理安全评估。支持HTTP、gRPC和浏览器端点，运行500+对抗性探测（基于OWASP LLM Top 10、MITRE ATLAS等），输出SARIF格式结果，集成GitHub Code Scanning和CI。",
+  "tags": [
+    "AI Security",
+    "Red Teaming",
+    "LLM Testing",
+    "Open Source"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-05-28T11:34:08.033601+00:00",
+  "published_at": null
+}

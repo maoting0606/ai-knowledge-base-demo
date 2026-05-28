@@ -1,0 +1,17 @@
+{
+  "id": "indraykk83_ragaxis-20260528-001",
+  "title": "indraykk83/ragaxis",
+  "source_url": "https://github.com/indraykk83/ragaxis",
+  "source_type": "github_trending",
+  "summary": "RAGAxis 是一个分类器优先的架构顾问，用于RAG和多智能体AI。它通过8轴查询模型路由请求，提供基于规则或LLM的即时指导、PlantUML图、技术栈建议及7层实现蓝图。",
+  "tags": [
+    "RAG",
+    "Multi-Agent AI",
+    "Architecture Advisor",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-28T11:34:08.033601+00:00",
+  "published_at": null
+}

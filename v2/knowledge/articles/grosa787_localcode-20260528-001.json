@@ -1,0 +1,17 @@
+{
+  "id": "grosa787_localcode-20260528-001",
+  "title": "grosa787/localcode",
+  "source_url": "https://github.com/grosa787/localcode",
+  "source_type": "github_trending",
+  "summary": "Localcode 是一个本地优先的 AI 编程助手，支持终端和浏览器，可接入任意 LLM（本地或云端），具备真实工具调用、审批门控、子代理、记忆、钩子、MCP、分支会话、语音、PDF、白板及局域网共享功能，基于 Bun + Ink + Vite/React 构建。",
+  "tags": [
+    "AI Coding Assistant",
+    "Local-First",
+    "LLM Integration",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-28T11:34:08.033601+00:00",
+  "published_at": null
+}
