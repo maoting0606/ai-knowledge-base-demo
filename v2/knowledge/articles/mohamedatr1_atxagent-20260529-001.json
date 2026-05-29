@@ -1,0 +1,17 @@
+{
+  "id": "mohamedatr1_atxagent-20260529-001",
+  "title": "mohamedatr1/atxagent",
+  "source_url": "https://github.com/mohamedatr1/atxagent",
+  "source_type": "github_trending",
+  "summary": "一个多工具AI代理，集成18种工具、3种LLM提供商，支持多语言OCR、翻译、转录和文件I/O，可离线或云端运行。",
+  "tags": [
+    "AI Agent",
+    "Multi-tool",
+    "OCR",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}

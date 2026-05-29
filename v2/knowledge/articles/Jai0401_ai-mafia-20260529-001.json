@@ -1,0 +1,17 @@
+{
+  "id": "Jai0401_ai-mafia-20260529-001",
+  "title": "Jai0401/ai-mafia",
+  "source_url": "https://github.com/Jai0401/ai-mafia",
+  "source_type": "github_trending",
+  "summary": "一个完全由AI驱动的社交推理游戏，所有玩家均为LLM代理。可观看AI玩黑手党游戏，或与它们一起玩，甚至指挥游戏进程。",
+  "tags": [
+    "AI Agents",
+    "LLM",
+    "Social Deduction",
+    "Game"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}

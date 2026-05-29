@@ -1,0 +1,17 @@
+{
+  "id": "gvnrdev_gvnr-20260529-001",
+  "title": "gvnrdev/gvnr",
+  "source_url": "https://github.com/gvnrdev/gvnr",
+  "source_type": "github_trending",
+  "summary": "gvnrdev/gvnr 是一个为自主AI代理提供硬性支出上限的工具，通过MCP和REST API在每次LLM调用前进行审批或拒绝，以控制成本。",
+  "tags": [
+    "AI Agents",
+    "Cost Control",
+    "MCP",
+    "REST API"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}

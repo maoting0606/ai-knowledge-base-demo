@@ -1,0 +1,17 @@
+{
+  "id": "bedda-tech_react-native-device-agent-20260529-001",
+  "title": "bedda-tech/react-native-device-agent",
+  "source_url": "https://github.com/bedda-tech/react-native-device-agent",
+  "source_type": "github_trending",
+  "summary": "一个React Native库，实现设备端AI代理循环，连接LLM推理与手机控制，支持Gemma 4、Claude等模型，用于自主任务执行。",
+  "tags": [
+    "React Native",
+    "AI Agent",
+    "LLM",
+    "Mobile Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}

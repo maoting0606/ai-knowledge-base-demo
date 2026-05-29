@@ -1,0 +1,17 @@
+{
+  "id": "Sandesh-Huli_rag-yt-chatbot-20260529-001",
+  "title": "Sandesh-Huli/rag-yt-chatbot",
+  "source_url": "https://github.com/Sandesh-Huli/rag-yt-chatbot",
+  "source_type": "github_trending",
+  "summary": "一个基于LangChain和LangGraph的智能RAG聊天机器人，可获取YouTube视频转录、语义分块嵌入并存储到FAISS向量数据库，利用Gemini模型回答、总结或翻译用户查询。",
+  "tags": [
+    "RAG",
+    "YouTube",
+    "LangChain",
+    "Chatbot"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}

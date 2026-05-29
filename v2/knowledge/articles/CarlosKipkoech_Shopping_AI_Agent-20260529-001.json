@@ -1,0 +1,17 @@
+{
+  "id": "CarlosKipkoech_Shopping_AI_Agent-20260529-001",
+  "title": "CarlosKipkoech/Shopping_AI_Agent",
+  "source_url": "https://github.com/CarlosKipkoech/Shopping_AI_Agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Python、Streamlit、LangChain和Groq LLM构建的智能购物助手，支持文本/图像搜索、商品推荐、详情检索及自主下单，利用AI代理工作流和工具调用实现自动化。",
+  "tags": [
+    "AI Shopping Assistant",
+    "LangChain",
+    "Streamlit",
+    "Groq LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-29T11:18:46.044725+00:00",
+  "published_at": null
+}
