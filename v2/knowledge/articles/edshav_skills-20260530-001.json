@@ -1,0 +1,17 @@
+{
+  "id": "edshav_skills-20260530-001",
+  "title": "edshav/skills",
+  "source_url": "https://github.com/edshav/skills",
+  "source_type": "github_trending",
+  "summary": "一个与工具无关的SKILL模块集合，用于AI编码代理，支持突变导向的代码分析和契约式GitHub问题规划，可集成到Claude Code、Codex、Cursor、Aider等LLM工具中。",
+  "tags": [
+    "AI coding agents",
+    "code analysis",
+    "GitHub issues",
+    "SKILL modules"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

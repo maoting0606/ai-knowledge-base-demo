@@ -1,0 +1,17 @@
+{
+  "id": "Firespawn-Studios_tne-sdk-20260530-001",
+  "title": "Firespawn-Studios/tne-sdk",
+  "source_url": "https://github.com/Firespawn-Studios/tne-sdk",
+  "source_type": "github_trending",
+  "summary": "TNE-SDK 是《The Null Epoch》的官方Python开发工具包，支持连接多种AI模型（如OpenAI、Anthropic等），提供内存、反思和代理编排功能，用于AI自主游戏和基准测试。",
+  "tags": [
+    "AI SDK",
+    "MMO",
+    "Agent Orchestration",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

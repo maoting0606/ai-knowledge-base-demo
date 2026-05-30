@@ -1,0 +1,466 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bxw91/brainpalace",
+    "title": "bxw91/brainpalace",
+    "description": "Local-first RAG for code & docs with long-term memory for AI agents — BM25, vector, GraphRAG and hybrid search, plus session memory and a temporal knowledge graph. CLI, MCP, and a Claude Code plugin. Runs on Ollama or cloud LLMs.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-memory",
+        "bm25",
+        "claude-code",
+        "embeddings",
+        "graphrag",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "python",
+        "rag",
+        "semantic-search"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1081,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tuangel134/BlackClaw",
+    "title": "tuangel134/BlackClaw",
+    "description": "On-device AI agent that operates your Android phone — local or cloud LLM, ~85 tools, built-in ADB pairing, OCR, auto-replies. Beta.",
+    "extra": {
+      "stars": 0,
+      "language": "Kotlin",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/rahulmehta7104/gen-ai-pdf-chatbot",
+    "title": "rahulmehta7104/gen-ai-pdf-chatbot",
+    "description": "An AI chatbot agent that \"ingests\" PDF documents, stores embeddings in a vector database (Supabase), and then answers user queries using OpenAI (or another LLM provider) utilising LangChain and LangGraph as orchestration frameworks.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/codeproxy-ai/core",
+    "title": "codeproxy-ai/core",
+    "description": "@codeproxy/core is a zero-dependency TypeScript library that converts upstream LLM responses in Chat Completions or Anthropic Messages format into the OpenAI Responses API format, so that AI coding agents like Codex and Claude Code can work with any language model.",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/gvnrdev/gvnr",
+    "title": "gvnrdev/gvnr",
+    "description": "Hard spend cap for autonomous AI agents. MCP + REST API — approved or denied before each LLM call.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/edshav/skills",
+    "title": "edshav/skills",
+    "description": "Harness-agnostic SKILL modules for AI coding agents — mutation-oriented code analysis and contract-as-seam GitHub issue planning. Drop into Claude Code, Codex, Cursor, Aider, or any LLM that reads SKILL.md.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "code-analysis",
+        "codex",
+        "github-issues",
+        "llm",
+        "prompt-engineering",
+        "skill-format"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Firespawn-Studios/tne-sdk",
+    "title": "Firespawn-Studios/tne-sdk",
+    "description": "TNE-SDK - The Official Python SDK for The Null Epoch - an AI-only MMO where LLMs play autonomously. Connect any model (OpenAI, Anthropic, Ollama, vLLM, etc.) via MCP, TUI launcher, or raw HTTP. Includes memory, reflection, and agent orchestration for persistent AI gameplay/benchmarking.",
+    "extra": {
+      "stars": 12,
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "agent-skill",
+        "agent-skills",
+        "ai-agent",
+        "ai-agents",
+        "autonomous-agents",
+        "benchmark-framework",
+        "benchmarking",
+        "claude-code",
+        "claude-skills",
+        "cli",
+        "game-theory",
+        "mcp",
+        "mmorpg",
+        "openclaw",
+        "python",
+        "python-sdk",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/skut264/Gideon",
+    "title": "skut264/Gideon",
+    "description": "Gideon is a personal AI agent that lives on a cloud server, learns from conversations, uses tools, and can be powered by either a local LLM running on your own laptop or cloud AI APIs — your choice, depending on your budget and needs.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GabrielHub/idc",
+    "title": "GabrielHub/idc",
+    "description": "IDC (Interdimensional Dating Coach): a local-first management sim where you book dates for Cupid across realities. Vector-indexed RAG and agentic memory tools feed Zod-validated LLM exchanges (Ollama or Vercel AI Gateway). React Router 7 SPA, optional Tauri 2 desktop.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "game",
+        "llm",
+        "ollama",
+        "react",
+        "react-router",
+        "simulation",
+        "tailwindcss",
+        "tauri",
+        "typescript",
+        "vite",
+        "zod"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/thippeswammy/JarvisControlSystem",
+    "title": "thippeswammy/JarvisControlSystem",
+    "description": "Jarvis Control System is an autonomous AI desktop agent for Windows 10/11, inspired by Iron Man's J.A.R.V.I.S. It lets you control apps, windows, and system settings through natural language — typed, spoken, or sent via Telegram. architecture, it's state-aware and self-verifying, with self-learning macros and pluggable LLM backends (Ollama, OpenAI)",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "automation-tools",
+        "autonomous-agent",
+        "desktop-automation",
+        "human-computer-interaction",
+        "iron-man",
+        "jarvis",
+        "natural-language",
+        "natural-language-processing",
+        "self-learning",
+        "smart-assistant",
+        "system-control",
+        "telegram-bot",
+        "voice-assistant",
+        "voice-control",
+        "window-management",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Manikanta070610/Agent-web-parser",
+    "title": "Manikanta070610/Agent-web-parser",
+    "description": "A zero-dependency, local-first web parsing gateway for AI agents. AgentBridge routes LLM requests through a 6-layer degradation stack - leveraging embedded SQLite caching, markdown negotiation, llms.txt, and local AI or API call fallbacks - to translate chaotic legacy HTML into clean, uniform, actionable JSON with zero external system daemons.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 270,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/7yuling/ATEE",
+    "title": "7yuling/ATEE",
+    "description": "ATEE is a lightweight AI security agent plugin deployed on the website administrator's server or a security node within the same intranet. It connects to website requests through a thin adapter, delegates security judgments to the Core Service, and then uses a remote LLM API-driven ATEE Agent to judge and punish security cases.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/garagon/aguara",
+    "title": "garagon/aguara",
+    "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
+    "extra": {
+      "stars": 81,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "devsecops",
+        "github-actions",
+        "mcp",
+        "npm",
+        "pnpm",
+        "prompt-injection",
+        "pypi",
+        "secrets-detection",
+        "security",
+        "supply-chain-security",
+        "tool-poisoning"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+    "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+    "description": "A general personal assistant AI agent loop built with Python and using the Anthropic Claude or OpenAI and LLMs",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shadowhusky/Tron",
+    "title": "Shadowhusky/Tron",
+    "description": "Self-hosted AI-powered terminal. Run shells, use local or cloud LLMs (Ollama, OpenAI, Claude), and get agent-assisted commands from your desktop.",
+    "extra": {
+      "stars": 14,
+      "language": "TypeScript",
+      "topics": [
+        "electron",
+        "frontend",
+        "javascript",
+        "terminal",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/wuyoscar/ISC-Bench",
+    "title": "wuyoscar/ISC-Bench",
+    "description": "Internal Safety Collapse: Turning the LLM or an AI Agent into a sensitive data generator.",
+    "extra": {
+      "stars": 775,
+      "language": "Python",
+      "topics": [
+        "agent-safety",
+        "ai-safety",
+        "benchmark",
+        "jailbreak",
+        "large-language-models",
+        "llm-safety",
+        "red-teaming",
+        "safety-evaluation"
+      ]
+    },
+    "collected_at": "2026-05-30T09:48:55.223534+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "",
+    "description": "Article URL: https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390\nComments URL: https://news.ycombinator.com/item?id=48334021\nPoints: 54\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 08:32:57 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+    "title": "",
+    "description": "Article URL: https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/\nComments URL: https://news.ycombinator.com/item?id=48333820\nPoints: 75\n# Comments: 35\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 08:00:20 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+    "title": "",
+    "description": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 95\n# Comments: 74\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 03:14:25 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.nippon.com/en/japan-data/h02783/",
+    "title": "",
+    "description": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 346\n# Comments: 133\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 23:54:22 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "title": "",
+    "description": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412.It was called Privastead then and it's now renamed to Secluso.John Kaczman found my project from here and has been working on it with me over the last year and half. We've made a lot of improvements to the software, which we would like to share with you:- You can now set this up on your Raspberry Pi in less than 5 mi",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 22:32:29 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "title": "",
+    "description": "Article URL: https://github.com/jmaczan/tiny-vllm\nComments URL: https://news.ycombinator.com/item?id=48328184\nPoints: 148\n# Comments: 12\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 19:38:27 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "title": "",
+    "description": "Article URL: https://pierre.computer/writing/on-rendering-diffs\nComments URL: https://news.ycombinator.com/item?id=48327809\nPoints: 172\n# Comments: 57\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 19:04:54 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "title": "",
+    "description": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit\nComments URL: https://news.ycombinator.com/item?id=48325340\nPoints: 373\n# Comments: 151\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 16:22:01 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "title": "",
+    "description": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory\nComments URL: https://news.ycombinator.com/item?id=48324712\nPoints: 999\n# Comments: 1138\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 15:46:24 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "",
+    "description": "https://www.youtube.com/watch?v=aPVAnwuSjfk\n\nComments URL: https://news.ycombinator.com/item?id=48323869\nPoints: 300\n# Comments: 493\n]]>",
+    "extra": {
+      "pub_date": "Fri, 29 May 2026 14:55:31 +0000"
+    },
+    "collected_at": "2026-05-30T09:48:55.644931+00:00"
+  }
+]

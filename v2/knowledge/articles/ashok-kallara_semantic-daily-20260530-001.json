@@ -1,0 +1,17 @@
+{
+  "id": "ashok-kallara_semantic-daily-20260530-001",
+  "title": "ashok-kallara/semantic-daily",
+  "source_url": "https://github.com/ashok-kallara/semantic-daily",
+  "source_type": "github_trending",
+  "summary": "一个完全免费的智能新闻聚合器，通过多代理LLM管道从Reddit、Bluesky、GitHub等原生API发现AI与技术趋势，去重分类后通过Telegram或网页仪表盘推送每日摘要。",
+  "tags": [
+    "AI News Aggregator",
+    "Multi-Agent Pipeline",
+    "OpenRouter",
+    "Telegram Bot"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

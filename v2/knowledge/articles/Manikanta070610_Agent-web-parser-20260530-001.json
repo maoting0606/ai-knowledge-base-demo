@@ -1,0 +1,17 @@
+{
+  "id": "Manikanta070610_Agent-web-parser-20260530-001",
+  "title": "Manikanta070610/Agent-web-parser",
+  "source_url": "https://github.com/Manikanta070610/Agent-web-parser",
+  "source_type": "github_trending",
+  "summary": "一个零依赖、本地优先的AI代理网页解析网关，通过6层降级堆栈（SQLite缓存、Markdown协商、llms.txt、本地AI或API回退）将混乱的HTML转为统一JSON，无需外部系统守护进程。",
+  "tags": [
+    "web-parser",
+    "AI-agent",
+    "zero-dependency",
+    "local-first"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Shadowhusky_Tron-20260530-001",
+  "title": "Shadowhusky/Tron",
+  "source_url": "https://github.com/Shadowhusky/Tron",
+  "source_type": "github_trending",
+  "summary": "Shadowhusky/Tron 是一个自托管的AI终端工具，支持本地或云端LLM（如Ollama、OpenAI、Claude），提供智能命令辅助，提升终端操作效率。",
+  "tags": [
+    "AI Terminal",
+    "Self-hosted",
+    "LLM Integration",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

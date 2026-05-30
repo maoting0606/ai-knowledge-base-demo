@@ -1,0 +1,17 @@
+{
+  "id": "wuyoscar_ISC-Bench-20260530-001",
+  "title": "wuyoscar/ISC-Bench",
+  "source_url": "https://github.com/wuyoscar/ISC-Bench",
+  "source_type": "github_trending",
+  "summary": "ISC-Bench是一个评估大语言模型和AI代理内部安全崩溃风险的基准，揭示其可能生成敏感数据的问题。",
+  "tags": [
+    "LLM Safety",
+    "AI Security",
+    "Data Leakage",
+    "Benchmark"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}

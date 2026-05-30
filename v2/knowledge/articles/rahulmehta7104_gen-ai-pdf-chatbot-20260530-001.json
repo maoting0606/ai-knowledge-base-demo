@@ -1,0 +1,17 @@
+{
+  "id": "rahulmehta7104_gen-ai-pdf-chatbot-20260530-001",
+  "title": "rahulmehta7104/gen-ai-pdf-chatbot",
+  "source_url": "https://github.com/rahulmehta7104/gen-ai-pdf-chatbot",
+  "source_type": "github_trending",
+  "summary": "一个基于LangChain和LangGraph的AI聊天机器人，可摄取PDF文档，将嵌入向量存储到Supabase向量数据库，并通过OpenAI等LLM回答用户查询。",
+  "tags": [
+    "PDF Chatbot",
+    "LangChain",
+    "Vector Database",
+    "RAG"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-30T09:49:51.050447+00:00",
+  "published_at": null
+}
