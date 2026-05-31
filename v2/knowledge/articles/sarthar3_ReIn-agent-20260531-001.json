@@ -1,0 +1,17 @@
+{
+  "id": "sarthar3_ReIn-agent-20260531-001",
+  "title": "sarthar3/ReIn-agent",
+  "source_url": "https://github.com/sarthar3/ReIn-agent",
+  "source_type": "github_trending",
+  "summary": "ReIn Agent 是一款AI研究助手，支持语音或文本查询，结合语音识别、网络智能和LLM摘要，帮助用户研究主题、分析信息、生成报告并通过交互仪表盘追踪研究历史。",
+  "tags": [
+    "AI Research Assistant",
+    "Speech Recognition",
+    "LLM Summarization",
+    "Web Intelligence"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-31T10:06:45.670013+00:00",
+  "published_at": null
+}

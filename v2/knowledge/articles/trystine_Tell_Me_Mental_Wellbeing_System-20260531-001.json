@@ -1,0 +1,17 @@
+{
+  "id": "trystine_Tell_Me_Mental_Wellbeing_System-20260531-001",
+  "title": "trystine/Tell_Me_Mental_Wellbeing_System",
+  "source_url": "https://github.com/trystine/Tell_Me_Mental_Wellbeing_System",
+  "source_type": "github_trending",
+  "summary": "Tell Me Chatbot 是一个心理健康聊天机器人，作为提供初步治疗关怀的代理。其核心使用LLM，支持本地模型如llama2或GPT 4，并利用RAG、Langchain和Crew AI Agents构建综合护理平台。",
+  "tags": [
+    "Mental Health",
+    "Chatbot",
+    "LLM",
+    "RAG"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-05-31T10:06:45.670013+00:00",
+  "published_at": null
+}

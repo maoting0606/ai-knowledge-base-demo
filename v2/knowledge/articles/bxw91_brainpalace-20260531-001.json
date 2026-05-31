@@ -1,0 +1,17 @@
+{
+  "id": "bxw91_brainpalace-20260531-001",
+  "title": "bxw91/brainpalace",
+  "source_url": "https://github.com/bxw91/brainpalace",
+  "source_type": "github_trending",
+  "summary": "BrainPalace 是一个本地优先的 RAG 系统，支持代码和文档检索，具备永久会话记忆、BM25、向量、图检索和混合搜索功能，提供 CLI、MCP 和 Claude 插件，可运行于 Ollama 或云端 LLM。",
+  "tags": [
+    "RAG",
+    "Local-first",
+    "Knowledge Graph",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-05-31T10:06:45.670013+00:00",
+  "published_at": null
+}

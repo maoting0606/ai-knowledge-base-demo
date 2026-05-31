@@ -1,0 +1,468 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GabrielHub/idc",
+    "title": "GabrielHub/idc",
+    "description": "IDC (Interdimensional Dating Coach): a local-first management sim where you book dates for Cupid across realities. Vector-indexed RAG and agentic memory tools feed Zod-validated LLM exchanges (Ollama or Vercel AI Gateway). React Router 7 SPA, optional Tauri 2 desktop.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "game",
+        "llm",
+        "ollama",
+        "react",
+        "react-router",
+        "simulation",
+        "tailwindcss",
+        "tauri",
+        "typescript",
+        "vite",
+        "zod"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/thippeswammy/JarvisControlSystem",
+    "title": "thippeswammy/JarvisControlSystem",
+    "description": "Jarvis Control System is an autonomous AI desktop agent for Windows 10/11, inspired by Iron Man's J.A.R.V.I.S. It lets you control apps, windows, and system settings through natural language — typed, spoken, or sent via Telegram. architecture, it's state-aware and self-verifying, with self-learning macros and pluggable LLM backends (Ollama, OpenAI)",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "automation-tools",
+        "autonomous-agent",
+        "desktop-automation",
+        "human-computer-interaction",
+        "iron-man",
+        "jarvis",
+        "natural-language",
+        "natural-language-processing",
+        "self-learning",
+        "smart-assistant",
+        "system-control",
+        "telegram-bot",
+        "voice-assistant",
+        "voice-control",
+        "window-management",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1083,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/trystine/Tell_Me_Mental_Wellbeing_System",
+    "title": "trystine/Tell_Me_Mental_Wellbeing_System",
+    "description": "Tell Me Chatbot is a Mental Well-being chatbot serving as a proxy to provide initial therapeutic care to Clients. The core of the bot is LLM's giving choice to the developers to use local models like llama2 or even utilize GPT 4. The experiment is utilize methods like RAG, Langchain and Crew AI Agents to provide a comprehensive platform for care.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/robsonoliveiradacosta/agent-skills",
+    "title": "robsonoliveiradacosta/agent-skills",
+    "description": "Agent Skills are portable, filesystem-based packages of instructions, scripts, and resources that extend AI capabilities. Rather than feeding your entire codebase into an LLM and causing context bloat, agents (such as Claude Code or Codex) load these skills on-demand.",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/sarthar3/ReIn-agent",
+    "title": "sarthar3/ReIn-agent",
+    "description": "ReIn Agent is an AI-powered research assistant that transforms voice or text queries into structured insights using speech recognition, web intelligence, and LLM-based summarization. It helps users research topics, analyze information, generate reports, and track research history through an interactive dashboard.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/skut264/Gideon",
+    "title": "skut264/Gideon",
+    "description": "Gideon is a personal AI agent that lives on a cloud server, learns from conversations, uses tools, and can be powered by either a local LLM running on your own laptop or cloud AI APIs — your choice, depending on your budget and needs.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GhravenLabs/Agent-Meeting-Room",
+    "title": "GhravenLabs/Agent-Meeting-Room",
+    "description": "Flask multi-agent AI chat — @mention local LLMs (Ollama) or Claude into a live group chat with debate mode, SSE streaming, and Obsidian memory",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "chatbot",
+        "claude",
+        "flask",
+        "llm",
+        "local-llm",
+        "multi-agent",
+        "multi-agent-system",
+        "ollama",
+        "python",
+        "server-sent-events",
+        "sse",
+        "streaming"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+    "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+    "description": "A general personal assistant AI agent loop built with Python and using the Anthropic Claude or OpenAI and LLMs",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/PlawIO/veto",
+    "title": "PlawIO/veto",
+    "description": "The authorization kernel for AI agents. Block, allow, or escalate agent tool calls with YAML rules — deterministic-first, LLM fallback.",
+    "extra": {
+      "stars": 12,
+      "language": "TypeScript",
+      "topics": [
+        "agent-authorization",
+        "ai-agents",
+        "ai-safety",
+        "anthropic",
+        "cli",
+        "guardrails",
+        "langchain",
+        "llm",
+        "open-source",
+        "openai",
+        "policy",
+        "python",
+        "security",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bxw91/brainpalace",
+    "title": "bxw91/brainpalace",
+    "description": "Local-first RAG for code & docs with permanent SESSION MEMORY for AI agents — BM25, vector, GraphRAG and hybrid search and a temporal knowledge graph. CLI, MCP, and a Claude Code plugin. Runs on Ollama or cloud LLMs.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-memory",
+        "bm25",
+        "claude-code",
+        "embeddings",
+        "graphrag",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "python",
+        "rag",
+        "semantic-search"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tuangel134/BlackClaw",
+    "title": "tuangel134/BlackClaw",
+    "description": "On-device AI agent that operates your Android phone — local or cloud LLM, ~85 tools, built-in ADB pairing, OCR, auto-replies. Beta.",
+    "extra": {
+      "stars": 0,
+      "language": "Kotlin",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/rahulmehta7104/gen-ai-pdf-chatbot",
+    "title": "rahulmehta7104/gen-ai-pdf-chatbot",
+    "description": "An AI chatbot agent that \"ingests\" PDF documents, stores embeddings in a vector database (Supabase), and then answers user queries using OpenAI (or another LLM provider) utilising LangChain and LangGraph as orchestration frameworks.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/codeproxy-ai/core",
+    "title": "codeproxy-ai/core",
+    "description": "@codeproxy/core is a zero-dependency TypeScript library that converts upstream LLM responses in Chat Completions or Anthropic Messages format into the OpenAI Responses API format, so that AI coding agents like Codex and Claude Code can work with any language model.",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/edshav/skills",
+    "title": "edshav/skills",
+    "description": "Harness-agnostic SKILL modules for AI coding agents — mutation-oriented code analysis and contract-as-seam GitHub issue planning. Drop into Claude Code, Codex, Cursor, Aider, or any LLM that reads SKILL.md.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "code-analysis",
+        "codex",
+        "github-issues",
+        "llm",
+        "prompt-engineering",
+        "skill-format"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Firespawn-Studios/tne-sdk",
+    "title": "Firespawn-Studios/tne-sdk",
+    "description": "TNE-SDK - The Official Python SDK for The Null Epoch - an AI-only MMO where LLMs play autonomously. Connect any model (OpenAI, Anthropic, Ollama, vLLM, etc.) via MCP, TUI launcher, or raw HTTP. Includes memory, reflection, and agent orchestration for persistent AI gameplay/benchmarking.",
+    "extra": {
+      "stars": 12,
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "agent-skill",
+        "agent-skills",
+        "ai-agent",
+        "ai-agents",
+        "autonomous-agents",
+        "benchmark-framework",
+        "benchmarking",
+        "claude-code",
+        "claude-skills",
+        "cli",
+        "game-theory",
+        "mcp",
+        "mmorpg",
+        "openclaw",
+        "python",
+        "python-sdk",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Manikanta070610/Agent-web-parser",
+    "title": "Manikanta070610/Agent-web-parser",
+    "description": "A zero-dependency, local-first web parsing gateway for AI agents. AgentBridge routes LLM requests through a 6-layer degradation stack - leveraging embedded SQLite caching, markdown negotiation, llms.txt, and local AI or API call fallbacks - to translate chaotic legacy HTML into clean, uniform, actionable JSON with zero external system daemons.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 272,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-05-31T10:05:46.780779+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare",
+    "title": "",
+    "description": "Article URL: https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html\nComments URL: https://news.ycombinator.com/item?id=48343714\nPoints: 40\n# Comments: 4\n]]>",
+    "extra": {
+      "pub_date": "Sun, 31 May 2026 07:16:18 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://specification.website/",
+    "title": "",
+    "description": "Article URL: https://hi.telli.com/join-us\nComments URL: https://news.ycombinator.com/item?id=48343635\nPoints: 0\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Sun, 31 May 2026 07:00:50 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://theodore.net/projects/AvianVisitors/",
+    "title": "",
+    "description": "Article URL: https://arxiv.org/abs/1709.08492\nComments URL: https://news.ycombinator.com/item?id=48343287\nPoints: 40\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Sun, 31 May 2026 05:30:18 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/kurikomi-labs/komi-learn",
+    "title": "",
+    "description": "Article URL: http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html\nComments URL: https://news.ycombinator.com/item?id=48343078\nPoints: 32\n# Comments: 4\n]]>",
+    "extra": {
+      "pub_date": "Sun, 31 May 2026 04:42:14 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/RsyncProject/rsync/issues/929",
+    "title": "",
+    "description": "Article URL: https://mechanical-pencil.com/\nComments URL: https://news.ycombinator.com/item?id=48341932\nPoints: 77\n# Comments: 9\n]]>",
+    "extra": {
+      "pub_date": "Sun, 31 May 2026 00:25:12 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "title": "",
+    "description": "Article URL: https://brie.gay/cheese-paper/\nComments URL: https://news.ycombinator.com/item?id=48341407\nPoints: 104\n# Comments: 27\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 22:58:41 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://shantellsans.com/process",
+    "title": "",
+    "description": "Article URL: https://av2.aomedia.org\nComments URL: https://news.ycombinator.com/item?id=48340910\nPoints: 202\n# Comments: 80\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 21:46:18 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/wolfSSL/wolfCOSE",
+    "title": "",
+    "description": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\nComments URL: https://news.ycombinator.com/item?id=48340411\nPoints: 584\n# Comments: 345\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 20:40:57 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/marekkowalczyk/breathe-cli",
+    "title": "",
+    "description": "Article URL: https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/\nComments URL: https://news.ycombinator.com/item?id=48339943\nPoints: 98\n# Comments: 43\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 19:47:36 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+    "title": "",
+    "description": "Article URL: https://ziglang.org/devlog/2026/#2026-05-30\nComments URL: https://news.ycombinator.com/item?id=48338673\nPoints: 205\n# Comments: 69\n]]>",
+    "extra": {
+      "pub_date": "Sat, 30 May 2026 17:29:22 +0000"
+    },
+    "collected_at": "2026-05-31T10:05:47.092369+00:00"
+  }
+]
