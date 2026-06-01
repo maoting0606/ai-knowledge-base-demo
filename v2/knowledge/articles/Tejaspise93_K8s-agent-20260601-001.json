@@ -1,0 +1,17 @@
+{
+  "id": "Tejaspise93_K8s-agent-20260601-001",
+  "title": "Tejaspise93/K8s-agent",
+  "source_url": "https://github.com/Tejaspise93/K8s-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于终端的智能AI代理，用于监控Kubernetes集群，通过本地LLM检测并推理问题，自动修复或征询操作员许可后执行操作。",
+  "tags": [
+    "Kubernetes",
+    "AI Agent",
+    "Local LLM",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-01T13:26:39.730343+00:00",
+  "published_at": null
+}

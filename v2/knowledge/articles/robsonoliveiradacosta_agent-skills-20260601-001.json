@@ -1,0 +1,17 @@
+{
+  "id": "robsonoliveiradacosta_agent-skills-20260601-001",
+  "title": "robsonoliveiradacosta/agent-skills",
+  "source_url": "https://github.com/robsonoliveiradacosta/agent-skills",
+  "source_type": "github_trending",
+  "summary": "Agent Skills 是一种基于文件系统的可移植指令、脚本和资源包，用于按需扩展AI能力，避免将整个代码库输入LLM导致上下文膨胀。",
+  "tags": [
+    "AI Agents",
+    "Context Management",
+    "Codex",
+    "Claude Code"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-01T13:26:39.730343+00:00",
+  "published_at": null
+}

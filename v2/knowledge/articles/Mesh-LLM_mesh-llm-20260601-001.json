@@ -1,0 +1,16 @@
+{
+  "id": "Mesh-LLM_mesh-llm-20260601-001",
+  "title": "Mesh-LLM/mesh-llm",
+  "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+  "source_type": "github_trending",
+  "summary": "Mesh-LLM是一个分布式AI/LLM项目，旨在通过私有或公共计算共享来驱动智能体和聊天，实现去中心化的人工智能服务。",
+  "tags": [
+    "Distributed AI",
+    "LLM",
+    "Decentralized Computing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-01T13:26:39.730343+00:00",
+  "published_at": null
+}

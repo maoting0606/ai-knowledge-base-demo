@@ -1,0 +1,17 @@
+{
+  "id": "abeenoch_Kontext-Agent-20260601-001",
+  "title": "abeenoch/Kontext-Agent",
+  "source_url": "https://github.com/abeenoch/Kontext-Agent",
+  "source_type": "github_trending",
+  "summary": "一款会议AI助手，支持录音、转录、自动生成摘要，并可通过LLM代理将摘要发送邮件或推送至Notion页面。",
+  "tags": [
+    "Meeting Assistant",
+    "Transcription",
+    "LLM Agent",
+    "Notion Integration"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-01T13:26:39.730343+00:00",
+  "published_at": null
+}

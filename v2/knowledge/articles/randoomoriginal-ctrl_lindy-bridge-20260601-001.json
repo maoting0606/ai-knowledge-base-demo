@@ -1,0 +1,17 @@
+{
+  "id": "randoomoriginal-ctrl_lindy-bridge-20260601-001",
+  "title": "randoomoriginal-ctrl/lindy-bridge",
+  "source_url": "https://github.com/randoomoriginal-ctrl/lindy-bridge",
+  "source_type": "github_trending",
+  "summary": "一个自托管的Python桥接工具，将PC变为沙盒化、HTTP可控的工作空间，供云端AI代理使用。支持单文件部署、自动安装依赖、WSGI服务器、ngrok安全隧道、令牌认证、IP限流、沙盒和后台任务，允许Lindy等LLM在限定文件夹内执行命令和编辑文件。",
+  "tags": [
+    "AI Agent",
+    "Self-hosted",
+    "Sandbox",
+    "Python"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-01T13:26:39.730343+00:00",
+  "published_at": null
+}
