@@ -1,0 +1,17 @@
+{
+  "id": "d3v-sh_d3m0n-agent-20260602-001",
+  "title": "d3v-sh/d3m0n-agent",
+  "source_url": "https://github.com/d3v-sh/d3m0n-agent",
+  "source_type": "github_trending",
+  "summary": "一个用Go编写的自主AI网络安全代理，可自动执行nmap、gobuster等渗透测试工具，链式调用并记录所有操作到SQLite，生成专业HTML报告，支持OpenRouter或本地LLM。",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Pentesting",
+    "Go"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-02T11:56:58.985114+00:00",
+  "published_at": null
+}

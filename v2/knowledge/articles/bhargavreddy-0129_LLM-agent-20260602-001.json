@@ -1,0 +1,17 @@
+{
+  "id": "bhargavreddy-0129_LLM-agent-20260602-001",
+  "title": "bhargavreddy-0129/LLM-agent",
+  "source_url": "https://github.com/bhargavreddy-0129/LLM-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于大语言模型的自主智能体系统，能够理解目标、规划任务、使用工具并执行多步操作，减少人工干预。",
+  "tags": [
+    "LLM",
+    "Autonomous Agent",
+    "AI",
+    "Task Planning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-02T11:56:58.985114+00:00",
+  "published_at": null
+}

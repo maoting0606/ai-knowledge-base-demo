@@ -1,0 +1,17 @@
+{
+  "id": "Maaz-x14_agentic-workflow-automation-platform-20260602-001",
+  "title": "Maaz-x14/agentic-workflow-automation-platform",
+  "source_url": "https://github.com/Maaz-x14/agentic-workflow-automation-platform",
+  "source_type": "github_trending",
+  "summary": "一个基于本地LLM和向量数据库的智能工作流自动化平台，支持在私有基础设施上构建和执行AI驱动的复杂任务，强调隐私与自主控制。",
+  "tags": [
+    "Workflow Automation",
+    "Local LLM",
+    "Vector Database",
+    "AI Infrastructure"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-02T11:56:58.985114+00:00",
+  "published_at": null
+}
