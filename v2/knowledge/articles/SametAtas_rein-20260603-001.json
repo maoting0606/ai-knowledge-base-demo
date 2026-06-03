@@ -1,0 +1,17 @@
+{
+  "id": "SametAtas_rein-20260603-001",
+  "title": "SametAtas/rein",
+  "source_url": "https://github.com/SametAtas/rein",
+  "source_type": "github_trending",
+  "summary": "Rein 是一个确定性、无大语言模型的 AI 代码护栏工具，可对 AI 生成的代码给出可复现的 PASS/WARN/BLOCK 判定，适用于代理、人工或 CI 流程。",
+  "tags": [
+    "AI Code Guardrails",
+    "Deterministic",
+    "CI/CD",
+    "Code Quality"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-03T12:29:25.705969+00:00",
+  "published_at": null
+}

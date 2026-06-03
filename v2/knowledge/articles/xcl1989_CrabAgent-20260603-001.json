@@ -1,0 +1,17 @@
+{
+  "id": "xcl1989_CrabAgent-20260603-001",
+  "title": "xcl1989/CrabAgent",
+  "source_url": "https://github.com/xcl1989/CrabAgent",
+  "source_type": "github_trending",
+  "summary": "CrabAgent是一个本地优先的AI代理平台，支持通过CLI、浏览器或macOS桌面应用运行，数据本地存储，API密钥加密，可自由选择LLM提供商。",
+  "tags": [
+    "AI Agent",
+    "Local-first",
+    "CLI",
+    "Privacy"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-03T12:29:25.705969+00:00",
+  "published_at": null
+}

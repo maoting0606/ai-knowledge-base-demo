@@ -1,0 +1,17 @@
+{
+  "id": "rohansurve212_gmail-calendar-agent-20260603-001",
+  "title": "rohansurve212/gmail-calendar-agent",
+  "source_url": "https://github.com/rohansurve212/gmail-calendar-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Rust的AI代理，利用Claude等LLM从Gmail邮件中智能提取日程事件，并自动创建带提醒的Google日历事件。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Gmail",
+    "Google Calendar"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-03T12:29:25.705969+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "adisaidyan-ux_Assignment-3-20260603-001",
+  "title": "adisaidyan-ux/Assignment-3",
+  "source_url": "https://github.com/adisaidyan-ux/Assignment-3",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个自主AI代理，利用大语言模型自动管理Gmail和Google日历，识别邀请、提取详情、检查空闲时间并自动安排或回复会议。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "Gmail",
+    "Calendar Automation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-03T12:29:25.705969+00:00",
+  "published_at": null
+}

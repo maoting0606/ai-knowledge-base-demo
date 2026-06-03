@@ -1,0 +1,17 @@
+{
+  "id": "Autonion_Automation-Companion-20260603-001",
+  "title": "Autonion/Automation-Companion",
+  "source_url": "https://github.com/Autonion/Automation-Companion",
+  "source_type": "github_trending",
+  "summary": "Autonion/Automation-Companion 是一款无需root的AI驱动安卓自动化工具，支持手势录制、可视化工作流、基于位置/时间/Wi-Fi触发，以及本地或云端LLM代理任务，构成跨设备生态核心。",
+  "tags": [
+    "Android Automation",
+    "AI Agent",
+    "No-Root",
+    "Workflow"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-03T12:29:25.705969+00:00",
+  "published_at": null
+}
