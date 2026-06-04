@@ -1,0 +1,17 @@
+{
+  "id": "vstorm-co_summarization-pydantic-ai-20260604-001",
+  "title": "vstorm-co/summarization-pydantic-ai",
+  "source_url": "https://github.com/vstorm-co/summarization-pydantic-ai",
+  "source_type": "github_trending",
+  "summary": "一个用于Pydantic AI代理的上下文管理处理器，通过LLM摘要或零成本滑动窗口裁剪处理无限/长对话，防止上下文溢出，支持灵活触发、安全截断和自定义提示。",
+  "tags": [
+    "Context Management",
+    "LLM Summarization",
+    "Pydantic AI",
+    "Sliding Window"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-04T10:54:05.626684+00:00",
+  "published_at": null
+}

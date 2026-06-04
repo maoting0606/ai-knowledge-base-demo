@@ -1,0 +1,17 @@
+{
+  "id": "tao-shen_openfde-20260604-001",
+  "title": "tao-shen/openfde",
+  "source_url": "https://github.com/tao-shen/openfde",
+  "source_type": "github_trending",
+  "summary": "OpenFDE 是一个面向前沿部署工程师（FDE）的市场平台，支持搜索和雇佣经过审核的 AI 工程师（RAG、智能体、LLM 系统），并浏览开放职位。基于 Vanilla JS 构建，部署在 Cloudflare Pages 上。",
+  "tags": [
+    "Marketplace",
+    "AI Engineers",
+    "FDE",
+    "Cloudflare"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-04T10:54:05.626684+00:00",
+  "published_at": null
+}

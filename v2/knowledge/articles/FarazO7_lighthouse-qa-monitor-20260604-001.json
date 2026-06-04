@@ -1,0 +1,17 @@
+{
+  "id": "FarazO7_lighthouse-qa-monitor-20260604-001",
+  "title": "FarazO7/lighthouse-qa-monitor",
+  "source_url": "https://github.com/FarazO7/lighthouse-qa-monitor",
+  "source_type": "github_trending",
+  "summary": "一个AI驱动的QA监控代理，用于在线市场，主动检测关键工作流故障，去重问题，将技术错误转化为卖家友好洞察，并通过Slack发送预警。",
+  "tags": [
+    "QA Monitoring",
+    "AI Agent",
+    "Marketplace",
+    "Slack Alerts"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-04T10:54:05.626684+00:00",
+  "published_at": null
+}

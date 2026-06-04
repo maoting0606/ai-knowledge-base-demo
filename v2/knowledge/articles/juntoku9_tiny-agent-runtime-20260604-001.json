@@ -1,0 +1,17 @@
+{
+  "id": "juntoku9_tiny-agent-runtime-20260604-001",
+  "title": "juntoku9/tiny-agent-runtime",
+  "source_url": "https://github.com/juntoku9/tiny-agent-runtime",
+  "source_type": "github_trending",
+  "summary": "一个基于Rust的内存安全AI代理运行时，专为边缘设备设计。云端LLM作为大脑，MCU/IoT芯片作为工具，可在5美元芯片或Linux SoC上运行。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Edge Computing",
+    "IoT"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-04T10:54:05.626684+00:00",
+  "published_at": null
+}

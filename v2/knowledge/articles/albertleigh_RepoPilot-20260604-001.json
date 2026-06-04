@@ -1,0 +1,17 @@
+{
+  "id": "albertleigh_RepoPilot-20260604-001",
+  "title": "albertleigh/RepoPilot",
+  "source_url": "https://github.com/albertleigh/RepoPilot",
+  "source_type": "github_trending",
+  "summary": "RepoPilot 是一款基于 PySide6/Qt 的桌面应用，可连接本地仓库，通过 AI 工程代理实现代码读写、重构及对话式交互。",
+  "tags": [
+    "AI Agent",
+    "Code Refactoring",
+    "Desktop App",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-04T10:54:05.626684+00:00",
+  "published_at": null
+}
