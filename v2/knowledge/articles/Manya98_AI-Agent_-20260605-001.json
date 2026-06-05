@@ -1,0 +1,17 @@
+{
+  "id": "Manya98_AI-Agent_-20260605-001",
+  "title": "Manya98/AI-Agent.",
+  "source_url": "https://github.com/Manya98/AI-Agent.",
+  "source_type": "github_trending",
+  "summary": "一个基于Python框架（如LangChain、CrewAI）的AI智能体，可自主研究话题、撰写、审核并跨平台安排社交媒体帖子，利用LLM分析趋势并生成内容，支持人工审核后通过API发布。",
+  "tags": [
+    "AI Agent",
+    "Social Media",
+    "LangChain",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-05T11:17:52.000356+00:00",
+  "published_at": null
+}

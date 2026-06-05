@@ -1,0 +1,17 @@
+{
+  "id": "maximoai-co_maximo-syntax-cli-20260605-001",
+  "title": "maximoai-co/maximo-syntax-cli",
+  "source_url": "https://github.com/maximoai-co/maximo-syntax-cli",
+  "source_type": "github_trending",
+  "summary": "Maximo Syntax CLI 是专为 Maximo AI 模型设计的官方命令行工具，支持高保真代码生成和智能任务编排，同时兼容 OpenAI、Gemini 和 Ollama 等大语言模型。",
+  "tags": [
+    "CLI",
+    "Code Generation",
+    "AI Agent",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-05T11:17:52.000356+00:00",
+  "published_at": null
+}

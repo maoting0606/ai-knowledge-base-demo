@@ -1,0 +1,462 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Manya98/AI-Agent.",
+    "title": "Manya98/AI-Agent.",
+    "description": "An agentic AI social media manager uses Python frameworks like LangChain or CrewAI to autonomously research topics, draft, review, and schedule posts across platforms. Using LLMs, these agents analyze trends and create content, often featuring a human-in-the-loop for final approval before API publication.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 275,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 223,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas-AI/Orkas",
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "extra": {
+      "stars": 23,
+      "language": "TypeScript",
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow",
+        "autonomous-agents",
+        "byo-llm",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "hermes-agent",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "multi-agent-system",
+        "openclaw",
+        "self-evolving-agents"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1112,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "title": "Light-Heart-Labs/DreamServer",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 1890,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/arpitk12/agentic-ai-learning-plan",
+    "title": "arpitk12/agentic-ai-learning-plan",
+    "description": "12-week hands-on agentic AI learning plan: exercises, solutions, projects. Works with Ollama (local), Groq, Gemini, or any cloud LLM.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/maximoai-co/maximo-syntax-cli",
+    "title": "maximoai-co/maximo-syntax-cli",
+    "description": "Maximo Syntax CLI — The official command-line interface built for Maximo AI models. Optimized for high-fidelity code generation and agentic task orchestration. Also compatible with any LLM via OpenAI, Gemini, or Ollama endpoints.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/SametAtas/rein",
+    "title": "SametAtas/rein",
+    "description": "Deterministic, no-LLM guardrails for AI-written code: reproducible PASS/WARN/BLOCK verdicts an agent, a person, or CI can call.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "code-review",
+        "guardrails",
+        "mcp",
+        "sarif",
+        "secret-scanning",
+        "static-analysis"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Coldness00/Fumes-Detector",
+    "title": "Coldness00/Fumes-Detector",
+    "description": "AI-Agent to detect from an rtsp link if there is fume or leak. Data is pushed in a webpage and on influxDB v1. It used local LLM via Ollama.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/garagon/aguara",
+    "title": "garagon/aguara",
+    "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
+    "extra": {
+      "stars": 82,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "devsecops",
+        "github-actions",
+        "mcp",
+        "npm",
+        "pnpm",
+        "prompt-injection",
+        "pypi",
+        "secrets-detection",
+        "security",
+        "supply-chain-security",
+        "tool-poisoning"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/juntoku9/tiny-agent-runtime",
+    "title": "juntoku9/tiny-agent-runtime",
+    "description": "A memory-safe (Rust) AI agent runtime for the edge — cloud LLM brain, MCU/IoT chips as tools, runs on a $5 chip or a Linux SoC.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "edge-ai",
+        "embedded",
+        "esp32",
+        "iot",
+        "llm",
+        "no-std",
+        "raspberry-pi",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/adenjessee/gridseak",
+    "title": "adenjessee/gridseak",
+    "description": "Deterministic structural-knowledge layer for AI coding agents — a 14-tool MCP server + CLI, all local, 0 LLM tokens. MIT OR Apache-2.0.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/StephenDenisEdwards/micro-x-agent-loop-python",
+    "title": "StephenDenisEdwards/micro-x-agent-loop-python",
+    "description": "A general personal assistant AI agent loop built with Python and using the Anthropic Claude or OpenAI and LLMs",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Z7Lab/markdownkb",
+    "title": "Z7Lab/markdownkb",
+    "description": "Self-hosted AI knowledge base for markdown docs — RAG chat, hybrid search, knowledge graph, MCTS planner, plugin system, REST API, CLI, and a 35-tool MCP server for agent use. Runs local or cloud LLMs.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ShrutiShravani/GuardOps",
+    "title": "ShrutiShravani/GuardOps",
+    "description": "GuardOps is production-grade MLOps middleware framework designed to wrap volatile, probabilistic AI layers (LLM Agents, RAG retrieval paths, or complex data extraction nodes) in a strict, deterministic software shield.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoantonios1/Forge",
+    "title": "marcoantonios1/Forge",
+    "description": "Terminal-native AI coding agent powered by multiple LLMs. Like Claude Code, but model-agnostic — use local or cloud models via Costguard.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/PlawIO/veto",
+    "title": "PlawIO/veto",
+    "description": "The authorization kernel for AI agents. Block, allow, or escalate agent tool calls with YAML rules — deterministic-first, LLM fallback.",
+    "extra": {
+      "stars": 12,
+      "language": "TypeScript",
+      "topics": [
+        "agent-authorization",
+        "ai-agents",
+        "ai-safety",
+        "anthropic",
+        "cli",
+        "guardrails",
+        "langchain",
+        "llm",
+        "open-source",
+        "openai",
+        "policy",
+        "python",
+        "security",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-06-05T11:16:49.582763+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://news.ycombinator.com/item?id=48410589",
+    "title": "",
+    "description": "Article URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/\nComments URL: https://news.ycombinator.com/item?id=48409675\nPoints: 26\n# Comments: 17\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 08:33:37 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://arxiv.org/abs/2606.03673",
+    "title": "",
+    "description": "Article URL: https://github.com/geo-tp/ESP32-Bit-Pirate\nComments URL: https://news.ycombinator.com/item?id=48409306\nPoints: 39\n# Comments: 20\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 07:40:04 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "",
+    "description": "Article URL: https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story\nComments URL: https://news.ycombinator.com/item?id=48409173\nPoints: 14\n# Comments: 8\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 07:23:44 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+    "title": "",
+    "description": "Article URL: https://passo.uno/fine-tuning-docs-llm/\nComments URL: https://news.ycombinator.com/item?id=48408442\nPoints: 78\n# Comments: 30\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 05:46:06 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://isupmap.com/",
+    "title": "",
+    "description": "Article URL: https://herbsutter.com/2026/06/04/c-the-documentary-released-today/\nComments URL: https://news.ycombinator.com/item?id=48408016\nPoints: 168\n# Comments: 106\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 04:37:01 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://magenta.withgoogle.com/magenta-realtime-2",
+    "title": "",
+    "description": "Article URL: https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/\nComments URL: https://news.ycombinator.com/item?id=48407653\nPoints: 29\n# Comments: 1\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 03:40:02 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+    "title": "",
+    "description": "https://developers.meta.com/horizon/blog/build-apps-for-port...\n\nComments URL: https://news.ycombinator.com/item?id=48406640\nPoints: 231\n# Comments: 84\n]]>",
+    "extra": {
+      "pub_date": "Fri, 05 Jun 2026 00:44:38 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/alibaba/open-code-review",
+    "title": "",
+    "description": "Article URL: https://arxiv.org/abs/2606.04032\nComments URL: https://news.ycombinator.com/item?id=48405931\nPoints: 174\n# Comments: 34\n]]>",
+    "extra": {
+      "pub_date": "Thu, 04 Jun 2026 23:11:56 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+    "title": "",
+    "description": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06\nComments URL: https://news.ycombinator.com/item?id=48404905\nPoints: 87\n# Comments: 15\n]]>",
+    "extra": {
+      "pub_date": "Thu, 04 Jun 2026 21:31:31 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/anthropics/defending-code-reference-harness",
+    "title": "",
+    "description": "Article URL: https://spectrum.ieee.org/faster-dna-synthesis-sidewinder\nComments URL: https://news.ycombinator.com/item?id=48402116\nPoints: 37\n# Comments: 6\n]]>",
+    "extra": {
+      "pub_date": "Thu, 04 Jun 2026 17:51:10 +0000"
+    },
+    "collected_at": "2026-06-05T11:16:50.868494+00:00"
+  }
+]

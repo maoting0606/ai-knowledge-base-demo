@@ -1,0 +1,17 @@
+{
+  "id": "Coldness00_Fumes-Detector-20260605-001",
+  "title": "Coldness00/Fumes-Detector",
+  "source_url": "https://github.com/Coldness00/Fumes-Detector",
+  "source_type": "github_trending",
+  "summary": "基于Ollama本地大模型的AI智能体，通过RTSP视频流检测烟雾或泄漏，数据推送至网页和InfluxDB v1。",
+  "tags": [
+    "AI Agent",
+    "Fume Detection",
+    "Ollama",
+    "RTSP"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-05T11:17:52.000356+00:00",
+  "published_at": null
+}
