@@ -1,0 +1,17 @@
+{
+  "id": "MEJRIKHADIJA_MyAgent-20260607-001",
+  "title": "MEJRIKHADIJA/MyAgent",
+  "source_url": "https://github.com/MEJRIKHADIJA/MyAgent",
+  "source_type": "github_trending",
+  "summary": "一个基于FastAPI的AI代理，可路由用户查询到计算器、DuckDuckGo搜索或Groq LLM，具备工具失败自动回退、AST安全数学评估、置信度检查、彩色日志和内置浏览器UI。",
+  "tags": [
+    "AI Agent",
+    "FastAPI",
+    "Tool Routing",
+    "Fallback Logic"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-07T10:20:39.575180+00:00",
+  "published_at": null
+}

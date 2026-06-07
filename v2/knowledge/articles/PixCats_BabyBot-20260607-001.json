@@ -1,0 +1,17 @@
+{
+  "id": "PixCats_BabyBot-20260607-001",
+  "title": "PixCats/BabyBot",
+  "source_url": "https://github.com/PixCats/BabyBot",
+  "source_type": "github_trending",
+  "summary": "一个为Android设计的智能体AI接口，支持自带LLM（Claude、GPT、Gemini或本地Ollama），提供完整智能体栈：网络研究、设备端视觉、规划器/执行器。",
+  "tags": [
+    "Agentic AI",
+    "Android",
+    "LLM",
+    "Mobile Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-07T10:20:39.575180+00:00",
+  "published_at": null
+}

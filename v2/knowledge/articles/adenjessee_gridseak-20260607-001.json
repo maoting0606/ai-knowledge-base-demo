@@ -1,0 +1,17 @@
+{
+  "id": "adenjessee_gridseak-20260607-001",
+  "title": "adenjessee/gridseak",
+  "source_url": "https://github.com/adenjessee/gridseak",
+  "source_type": "github_trending",
+  "summary": "Gridseak 是一个为AI编码代理设计的确定性结构知识层，提供14个工具的MCP服务器和CLI，完全本地运行，零LLM令牌消耗，采用MIT或Apache-2.0许可。",
+  "tags": [
+    "AI coding agents",
+    "MCP server",
+    "local tools",
+    "open source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-07T10:20:39.575180+00:00",
+  "published_at": null
+}

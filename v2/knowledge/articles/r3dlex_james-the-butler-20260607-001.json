@@ -1,0 +1,17 @@
+{
+  "id": "r3dlex_james-the-butler-20260607-001",
+  "title": "r3dlex/james-the-butler",
+  "source_url": "https://github.com/r3dlex/james-the-butler",
+  "source_type": "github_trending",
+  "summary": "James是一个多LLM模型兼容的智能代理，支持Anthropic、MiniMax、OpenAI、Gemini及本地LLM，让用户轻松利用生成式AI能力。",
+  "tags": [
+    "Multi-LLM",
+    "Agent",
+    "Generative AI",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-07T10:20:39.575180+00:00",
+  "published_at": null
+}
