@@ -1,0 +1,17 @@
+{
+  "id": "dadamsuk_browserhost-20260608-001",
+  "title": "dadamsuk/browserhost",
+  "source_url": "https://github.com/dadamsuk/browserhost",
+  "source_type": "github_trending",
+  "summary": "BrowserHost 是一个开源工具，允许用户在桌面运行多个真实 Chrome 浏览器实例，并通过外部 AI 代理或 LLM CLI 进行远程控制。",
+  "tags": [
+    "Browser Automation",
+    "AI Agent",
+    "Chrome",
+    "Remote Control"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}

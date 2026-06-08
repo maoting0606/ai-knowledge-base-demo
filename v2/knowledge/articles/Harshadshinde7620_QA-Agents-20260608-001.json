@@ -1,0 +1,17 @@
+{
+  "id": "Harshadshinde7620_QA-Agents-20260608-001",
+  "title": "Harshadshinde7620/QA-Agents",
+  "source_url": "https://github.com/Harshadshinde7620/QA-Agents",
+  "source_type": "github_trending",
+  "summary": "基于Mistral大模型的AI驱动QA自动化代理，通过截图或需求等最小输入生成、规划并执行测试用例。采用模块化多智能体架构，模拟真实QA工作流，涵盖测试生成、执行与报告。",
+  "tags": [
+    "QA Automation",
+    "Multi-Agent",
+    "Mistral LLM",
+    "Test Generation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}

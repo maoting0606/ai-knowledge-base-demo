@@ -1,0 +1,17 @@
+{
+  "id": "SakethramSathish_AI_Powered_Code_Review_Platform-20260608-001",
+  "title": "SakethramSathish/AI_Powered_Code_Review_Platform",
+  "source_url": "https://github.com/SakethramSathish/AI_Powered_Code_Review_Platform",
+  "source_type": "github_trending",
+  "summary": "CodeGuardian AI 是一个基于 FastAPI、Streamlit 和 LangGraph 的智能代码审查平台，可分析 GitHub 仓库或本地文件，利用多个 Gemma-4-31b-it 驱动的 LLM 代理并发执行代码质量、安全漏洞、可维护性及架构重构建议。",
+  "tags": [
+    "Code Review",
+    "AI Agents",
+    "Security Analysis",
+    "LangGraph"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}

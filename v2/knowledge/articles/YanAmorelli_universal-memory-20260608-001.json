@@ -1,0 +1,17 @@
+{
+  "id": "YanAmorelli_universal-memory-20260608-001",
+  "title": "YanAmorelli/universal-memory",
+  "source_url": "https://github.com/YanAmorelli/universal-memory",
+  "source_type": "github_trending",
+  "summary": "一个供应商无关的AI代理认知持久化层，通过跨会话传输上下文、偏好和历史消除重复税，具备自动适应引擎以同步全局指令并优化任何LLM或多代理工作流的令牌使用。",
+  "tags": [
+    "AI Agents",
+    "Memory Layer",
+    "Token Optimization",
+    "Multi-Agent Workflow"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MaiM0hamed_AI-Engineering-Book-Notes-20260608-001",
+  "title": "MaiM0hamed/AI-Engineering-Book-Notes",
+  "source_url": "https://github.com/MaiM0hamed/AI-Engineering-Book-Notes",
+  "source_type": "github_trending",
+  "summary": "该仓库是《AI工程》一书的个人笔记合集，涵盖基础模型、LLM评估、RAG、AI代理、微调和推理优化等主题，记录学习过程中的关键概念与实战心得。",
+  "tags": [
+    "AI Engineering",
+    "LLM",
+    "RAG",
+    "Fine-Tuning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ShrutiShravani_GuardOps-20260608-001",
+  "title": "ShrutiShravani/GuardOps",
+  "source_url": "https://github.com/ShrutiShravani/GuardOps",
+  "source_type": "github_trending",
+  "summary": "GuardOps是一个生产级MLOps中间件框架，用于将不稳定的AI层（如LLM代理、RAG检索路径）包裹在严格的确定性软件防护中。",
+  "tags": [
+    "MLOps",
+    "AI Safety",
+    "Middleware",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-08T12:20:45.350329+00:00",
+  "published_at": null
+}
