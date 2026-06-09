@@ -1,0 +1,17 @@
+{
+  "id": "bar181_aisp-open-core-20260609-001",
+  "title": "bar181/aisp-open-core",
+  "source_url": "https://github.com/bar181/aisp-open-core",
+  "source_type": "github_trending",
+  "summary": "AISP v5.1 是一种AI优先、规范驱动的开发协议，无需指令或训练即可被LLM原生理解，将AI决策点从40-65%降至<2%，适用于多种AI模型和代理。",
+  "tags": [
+    "AI Symbolic Programming",
+    "Spec-Driven Development",
+    "LLM Protocol",
+    "Proof-Carrying"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-09T10:51:31.377420+00:00",
+  "published_at": null
+}

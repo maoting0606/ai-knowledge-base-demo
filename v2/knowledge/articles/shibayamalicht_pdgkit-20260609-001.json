@@ -1,0 +1,17 @@
+{
+  "id": "shibayamalicht_pdgkit-20260609-001",
+  "title": "shibayamalicht/pdgkit",
+  "source_url": "https://github.com/shibayamalicht/pdgkit",
+  "source_type": "github_trending",
+  "summary": "pdgkit 是一个无头引擎，用于处理 PatentDSL (.pdg) 语言，可从 Node、任何语言或 LLM 代理验证和渲染专利图（SVG/PNG/JPEG/PDF/PPTX）。支持 AI 生成专利图。",
+  "tags": [
+    "PatentDSL",
+    "Patent Figure Generation",
+    "Headless Engine",
+    "LLM Integration"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-09T10:51:31.377420+00:00",
+  "published_at": null
+}
