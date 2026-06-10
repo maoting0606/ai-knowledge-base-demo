@@ -1,0 +1,17 @@
+{
+  "id": "MarcinMikula_defect-pilot-20260610-001",
+  "title": "MarcinMikula/defect-pilot",
+  "source_url": "https://github.com/MarcinMikula/defect-pilot",
+  "source_type": "github_trending",
+  "summary": "一个AI驱动的缺陷复现与重测代理，能读取Jira缺陷、丰富信息并生成Playwright重测脚本，支持本地LLM或Anthropic API。",
+  "tags": [
+    "AI",
+    "bug reproduction",
+    "Playwright",
+    "Jira"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-10T11:30:42.251956+00:00",
+  "published_at": null
+}

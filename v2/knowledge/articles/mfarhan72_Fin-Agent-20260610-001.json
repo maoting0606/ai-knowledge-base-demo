@@ -1,0 +1,17 @@
+{
+  "id": "mfarhan72_Fin-Agent-20260610-001",
+  "title": "mfarhan72/Fin-Agent",
+  "source_url": "https://github.com/mfarhan72/Fin-Agent",
+  "source_type": "github_trending",
+  "summary": "一个生产级AI系统，基于LangGraph、LlamaIndex和Ollama构建的多智能体RAG管道，用于分析金融文档、提取指标并生成带引用的结构化报告，支持OpenAI或本地Ollama后端，已测试并支持Docker部署。",
+  "tags": [
+    "FinTech",
+    "RAG",
+    "Multi-Agent",
+    "LangGraph"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-10T11:30:42.251956+00:00",
+  "published_at": null
+}

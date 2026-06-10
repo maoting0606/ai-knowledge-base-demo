@@ -1,0 +1,17 @@
+{
+  "id": "anandtopu_mock-agents-20260610-001",
+  "title": "anandtopu/mock-agents",
+  "source_url": "https://github.com/anandtopu/mock-agents",
+  "source_type": "github_trending",
+  "summary": "mock-agents 是一个开源工具，用于模拟、测试和验证AI代理集成，无需调用真实LLM或消耗token，提升开发效率。",
+  "tags": [
+    "AI Agents",
+    "Testing",
+    "Mocking",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-10T11:30:42.251956+00:00",
+  "published_at": null
+}
