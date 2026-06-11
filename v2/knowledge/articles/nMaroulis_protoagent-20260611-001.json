@@ -1,0 +1,17 @@
+{
+  "id": "nMaroulis_protoagent-20260611-001",
+  "title": "nMaroulis/protoagent",
+  "source_url": "https://github.com/nMaroulis/protoagent",
+  "source_type": "github_trending",
+  "summary": "ProtoAgent是一个快速、本地优先的AI代理生态系统，支持通过Python编排本地LLM、在原生Rust终端运行，或通过ACP集成到编辑器中。",
+  "tags": [
+    "AI Agent",
+    "Local LLM",
+    "Rust",
+    "Python"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-11T12:02:55.533251+00:00",
+  "published_at": null
+}

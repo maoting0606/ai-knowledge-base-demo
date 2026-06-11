@@ -1,0 +1,17 @@
+{
+  "id": "mightbesaad_gvnr-20260611-001",
+  "title": "mightbesaad/gvnr",
+  "source_url": "https://github.com/mightbesaad/gvnr",
+  "source_type": "github_trending",
+  "summary": "GVNR 是一个为AI代理设计的预算与成本控制工具，提供硬性每代理支出上限、速率限制、幂等性和人工审批，在每次LLM调用前强制执行，而非事后。通过单一托管MCP端点运行，无需代理或自托管，使用x402（Base链上的USDC）结算。",
+  "tags": [
+    "AI Agents",
+    "Cost Control",
+    "Budget Management",
+    "Blockchain"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-11T12:02:55.533251+00:00",
+  "published_at": null
+}
