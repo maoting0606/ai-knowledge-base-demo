@@ -1,0 +1,16 @@
+{
+  "id": "Generalized-Labs_ironrun-20260612-001",
+  "title": "Generalized-Labs/ironrun",
+  "source_url": "https://github.com/Generalized-Labs/ironrun",
+  "source_type": "github_trending",
+  "summary": "Ironrun 是一个为 AI 代理提供密封命令执行的开源工具，确保密钥、日志和标准输出中不会泄露敏感信息，提升安全性。",
+  "tags": [
+    "AI Agents",
+    "Security",
+    "Sealed Execution"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-12T11:34:26.754001+00:00",
+  "published_at": null
+}

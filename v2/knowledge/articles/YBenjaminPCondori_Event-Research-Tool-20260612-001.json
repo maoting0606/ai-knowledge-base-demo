@@ -1,0 +1,17 @@
+{
+  "id": "YBenjaminPCondori_Event-Research-Tool-20260612-001",
+  "title": "YBenjaminPCondori/Event-Research-Tool",
+  "source_url": "https://github.com/YBenjaminPCondori/Event-Research-Tool",
+  "source_type": "github_trending",
+  "summary": "一个轻量级事件研究工具，通过HTML解析和关键词提取进行网页抓取，最小化依赖LLM或智能体AI。",
+  "tags": [
+    "web scraping",
+    "HTML parsing",
+    "keyword extraction",
+    "research tool"
+  ],
+  "score": 6,
+  "status": "review",
+  "collected_at": "2026-06-12T11:34:26.754001+00:00",
+  "published_at": null
+}

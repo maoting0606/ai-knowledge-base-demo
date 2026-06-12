@@ -1,0 +1,17 @@
+{
+  "id": "David405_harness-kit-20260612-001",
+  "title": "David405/harness-kit",
+  "source_url": "https://github.com/David405/harness-kit",
+  "source_type": "github_trending",
+  "summary": "David405/harness-kit 是一个可复用的AI辅助工程工作流工具包，包含代理上下文文件、冲刺合同和审查循环，兼容任何LLM或编码工具，旨在提升工程效率。",
+  "tags": [
+    "AI Engineering",
+    "Workflow",
+    "LLM",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-12T11:34:26.754001+00:00",
+  "published_at": null
+}
