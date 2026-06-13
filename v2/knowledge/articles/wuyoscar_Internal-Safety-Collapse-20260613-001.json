@@ -1,0 +1,17 @@
+{
+  "id": "wuyoscar_Internal-Safety-Collapse-20260613-001",
+  "title": "wuyoscar/Internal-Safety-Collapse",
+  "source_url": "https://github.com/wuyoscar/Internal-Safety-Collapse",
+  "source_type": "github_trending",
+  "summary": "提出内部安全崩溃（ISC）概念，通过操纵LLM或AI代理的内部状态，使其生成敏感数据，揭示模型安全机制的脆弱性。",
+  "tags": [
+    "LLM",
+    "AI Safety",
+    "Data Leakage",
+    "Adversarial Attack"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-13T10:20:50.201980+00:00",
+  "published_at": null
+}

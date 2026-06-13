@@ -1,0 +1,17 @@
+{
+  "id": "Orkas-AI_Orkas-20260613-001",
+  "title": "Orkas-AI/Orkas",
+  "source_url": "https://github.com/Orkas-AI/Orkas",
+  "source_type": "github_trending",
+  "summary": "Orkas 是一个开源的多智能体 AI 桌面客户端，通过对话指挥 LLM 调度子智能体并行或串行执行任务，支持智能体自我进化与技能结晶，本地优先，兼容多种 LLM 密钥，跨平台支持。",
+  "tags": [
+    "Multi-Agent",
+    "Open Source",
+    "LLM",
+    "Desktop Client"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-13T10:20:50.201980+00:00",
+  "published_at": null
+}

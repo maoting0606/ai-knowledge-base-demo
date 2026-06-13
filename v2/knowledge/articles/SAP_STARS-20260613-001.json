@@ -1,0 +1,17 @@
+{
+  "id": "SAP_STARS-20260613-001",
+  "title": "SAP/STARS",
+  "source_url": "https://github.com/SAP/STARS",
+  "source_type": "github_trending",
+  "summary": "SAP/STARS是一个AI代理，用于对SAP AI Core、本地部署或HuggingFace的LLM进行漏洞测试，旨在发现并修复安全漏洞。",
+  "tags": [
+    "AI Security",
+    "Vulnerability Testing",
+    "LLM",
+    "SAP"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-13T10:20:50.201980+00:00",
+  "published_at": null
+}

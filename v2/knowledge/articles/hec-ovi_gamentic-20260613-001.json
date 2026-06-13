@@ -1,0 +1,17 @@
+{
+  "id": "hec-ovi_gamentic-20260613-001",
+  "title": "hec-ovi/gamentic",
+  "source_url": "https://github.com/hec-ovi/gamentic",
+  "source_type": "github_trending",
+  "summary": "一个完全本地运行的AI地牢角色扮演游戏，基于AMD Strix Halo APU，使用本地LLM（Gemma 4 26B MoE）、图像生成（FLUX.2）和语音合成（Maya1 TTS），支持Docker部署。",
+  "tags": [
+    "AI RPG",
+    "Local LLM",
+    "Self-hosted",
+    "Dungeon Game"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-13T10:20:50.201980+00:00",
+  "published_at": null
+}
