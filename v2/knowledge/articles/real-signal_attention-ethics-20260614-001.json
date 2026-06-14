@@ -1,0 +1,17 @@
+{
+  "id": "real-signal_attention-ethics-20260614-001",
+  "title": "real-signal/attention-ethics",
+  "source_url": "https://github.com/real-signal/attention-ethics",
+  "source_type": "github_trending",
+  "summary": "一个开源库，为LLM、MCP服务器或智能体提供七级级联过滤机制，用于判断是否应输出回应，实现AI自我约束。",
+  "tags": [
+    "AI Safety",
+    "LLM",
+    "Ethics",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-14T10:43:43.907606+00:00",
+  "published_at": null
+}

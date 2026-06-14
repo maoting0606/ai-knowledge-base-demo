@@ -1,0 +1,17 @@
+{
+  "id": "shaumik_PokeArena-20260614-001",
+  "title": "shaumik/PokeArena",
+  "source_url": "https://github.com/shaumik/PokeArena",
+  "source_type": "github_trending",
+  "summary": "一个开放WebSocket协议的宝可梦对战竞技场，支持人类、确定性游戏树AI或LLM代理参与，通过MCP、CLI或自定义客户端接入，统一排行榜按表现排名。",
+  "tags": [
+    "Pokemon",
+    "WebSocket",
+    "AI",
+    "Game"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-14T10:43:43.907606+00:00",
+  "published_at": null
+}

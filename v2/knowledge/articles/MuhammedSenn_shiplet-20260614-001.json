@@ -1,0 +1,17 @@
+{
+  "id": "MuhammedSenn_shiplet-20260614-001",
+  "title": "MuhammedSenn/shiplet",
+  "source_url": "https://github.com/MuhammedSenn/shiplet",
+  "source_type": "github_trending",
+  "summary": "Shiplet是一个AI开发代理，能将任务或GitHub问题转化为已审查的拉取请求：克隆仓库、用LLM进行范围更改、运行测试并创建PR。",
+  "tags": [
+    "AI Agent",
+    "Pull Request",
+    "LLM",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-14T10:43:43.907606+00:00",
+  "published_at": null
+}

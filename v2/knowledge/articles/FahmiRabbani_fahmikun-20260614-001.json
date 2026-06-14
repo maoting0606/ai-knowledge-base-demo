@@ -1,0 +1,17 @@
+{
+  "id": "FahmiRabbani_fahmikun-20260614-001",
+  "title": "FahmiRabbani/fahmikun",
+  "source_url": "https://github.com/FahmiRabbani/fahmikun",
+  "source_type": "github_trending",
+  "summary": "Fahmikun 是一个自托管的 AI 工作空间，支持本地优先隐私保护。可对话 LLM、运行 AI 代理、深度研究、管理邮件/日历/任务、编辑文档/图像，并通过 Cookbook 编排模型，完全由用户掌控。",
+  "tags": [
+    "Self-hosted",
+    "AI Workspace",
+    "Privacy",
+    "Local-first"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-14T10:43:43.907606+00:00",
+  "published_at": null
+}
