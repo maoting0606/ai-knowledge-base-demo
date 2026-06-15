@@ -1,0 +1,17 @@
+{
+  "id": "adityabhawsar1274_GradeOps-20260615-001",
+  "title": "adityabhawsar1274/GradeOps",
+  "source_url": "https://github.com/adityabhawsar1274/GradeOps",
+  "source_type": "github_trending",
+  "summary": "GradeOps是一个AI驱动的考试评分系统，结合视觉语言模型和智能体LLM，对扫描的手写答卷依据JSON评分标准自动评分、给分并生成理由，支持助教通过仪表盘审核与修改。",
+  "tags": [
+    "AI Grading",
+    "Vision-Language Model",
+    "Human-in-the-Loop",
+    "EdTech"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-15T13:45:29.471235+00:00",
+  "published_at": null
+}
