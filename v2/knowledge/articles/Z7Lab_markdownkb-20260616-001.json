@@ -1,0 +1,17 @@
+{
+  "id": "Z7Lab_markdownkb-20260616-001",
+  "title": "Z7Lab/markdownkb",
+  "source_url": "https://github.com/Z7Lab/markdownkb",
+  "source_type": "github_trending",
+  "summary": "Z7Lab/markdownkb 是一个自托管的AI知识库，支持Markdown文档的RAG聊天、混合搜索、知识图谱、MCTS规划器、插件系统、REST API、CLI及35工具MCP服务器，可运行本地或云端LLM。",
+  "tags": [
+    "AI Knowledge Base",
+    "RAG",
+    "Self-hosted",
+    "MCP Server"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-06-16T12:45:06.606878+00:00",
+  "published_at": null
+}

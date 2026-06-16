@@ -1,0 +1,474 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/eugenelim/llm-wiki-kit",
+    "title": "eugenelim/llm-wiki-kit",
+    "description": "Configurable group operating system and LLM Wiki knowledge management kit for teams and families. Obsidian vault templates, agent skills, and scripts for building structured, AI-maintained markdown knowledge bases. Works with Claude Code, Cowork, or any LLM agent. Includes work and family variants.",
+    "extra": {
+      "stars": 10,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 288,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoantonios1/Forge",
+    "title": "marcoantonios1/Forge",
+    "description": "Terminal-native AI coding agent powered by multiple LLMs. Like Claude Code, but model-agnostic — use local or cloud models via Costguard.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/raveenasilanki1/RAG-AI",
+    "title": "raveenasilanki1/RAG-AI",
+    "description": "RAG (Retrieval-Augmented Generation) AI agent is an intelligent system that grounds a Large Language Model (LLM) in specific, external data (like company documents or databases) before answering questions",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/PranjalGoyal06/financial-agent",
+    "title": "PranjalGoyal06/financial-agent",
+    "description": "Build an AI-powered Financial Agent using LangChain that can optimize financial decisions and maximize savings or profits. The system should integrate LLM reasoning, external financial APIs/tools, memory, and agent-based workflows to provide accurate, contextual, and actionable financial assistance in real time.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1172,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ik123a/logpolicysmith",
+    "title": "ik123a/logpolicysmith",
+    "description": "From Agent Behavior to Enforceable Policy — Automatically. An offline-first, cloud-extensible policy-as-code generator that compiles AI agent logs into security rules (OPA Rego, CEL, VaultMind YAML) using Ollama or cloud LLMs.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/shaumik/PokeArena",
+    "title": "shaumik/PokeArena",
+    "description": "A Pokémon battle arena where any agent can play — human, deterministic game-tree AI, or LLM — over an open WebSocket protocol (MCP, CLI, or your own client). One leaderboard, ranked by who plays best.",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": [
+        "agent-benchmark",
+        "ai-agents",
+        "arena",
+        "battle-engine",
+        "claude",
+        "distributed-systems",
+        "expectimax",
+        "fog-of-war",
+        "game-engine",
+        "go",
+        "golang",
+        "leaderboard",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "pokemon",
+        "rabbitmq",
+        "redis",
+        "turn-based",
+        "websockets"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/robbrucker/chesterfield-report",
+    "title": "robbrucker/chesterfield-report",
+    "description": "Autonomous LLM-driven hyperlocal news system. Fork it and point an AI agent at LOCALIZE.md to spin up a local news site for any town, city, or county.",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AgentParadise/agentic-primitives",
+    "title": "AgentParadise/agentic-primitives",
+    "description": "Composable building blocks for AI coding agents. Model-agnostic prompts and tools that work with Claude, GPT, or any LLM provider.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stackone",
+    "title": "api-evangelist/stackone",
+    "description": "StackOne is an AI-powered embedded integration platform as a service (iPaaS) designed to simplify and accelerate how SaaS vendors and AI agents connect with enterprise software. It combines a proprietary LLM-based agent with a real-time execution engine to automate and manage integrations no need for manual API wiring or data syncing.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "accounts",
+        "apis-json",
+        "campaigns",
+        "connect-sessions",
+        "crm",
+        "customer-engagement",
+        "employees",
+        "employments",
+        "hris",
+        "human-resources",
+        "integrations",
+        "ipaas",
+        "locations",
+        "marketing",
+        "naftiko",
+        "people-operations",
+        "proxy",
+        "recruitment",
+        "time-off",
+        "unified-api"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Z7Lab/markdownkb",
+    "title": "Z7Lab/markdownkb",
+    "description": "Self-hosted AI knowledge base for markdown docs — RAG chat, hybrid search, knowledge graph, MCTS planner, plugin system, REST API, CLI, and a 35-tool MCP server for agent use. Runs local or cloud LLMs.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 264,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ljlabs/Route.llm",
+    "title": "ljlabs/Route.llm",
+    "description": "Local LLM proxy and routing engine to bridge Anthropic Messages and OpenAI Chat Completions protocols. Route Claude Code, coding agents, and custom AI clients to OpenRouter, OpenAI, Anthropic, or local offline LLM endpoints.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-06-16T12:44:05.500644+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "",
+    "description": "Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/\nComments URL: https://news.ycombinator.com/item?id=48553224\nPoints: 112\n# Comments: 65\n]]>",
+    "extra": {
+      "pub_date": "Tue, 16 Jun 2026 10:44:24 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "",
+    "description": "Article URL: https://trinket.strivemath.org/\nComments URL: https://news.ycombinator.com/item?id=48552723\nPoints: 50\n# Comments: 4\n]]>",
+    "extra": {
+      "pub_date": "Tue, 16 Jun 2026 09:30:58 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "title": "",
+    "description": "Article URL: https://commodore.net/why-a-flip-phone/\nComments URL: https://news.ycombinator.com/item?id=48552614\nPoints: 102\n# Comments: 57\n]]>",
+    "extra": {
+      "pub_date": "Tue, 16 Jun 2026 09:15:31 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+    "title": "",
+    "description": "https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\n\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 413\n# Comments: 225\n]]>",
+    "extra": {
+      "pub_date": "Tue, 16 Jun 2026 04:58:15 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+    "title": "",
+    "description": "Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped/visual poetry, but I think letterpress is overlooked. So, I got slightly obsessed and started a personal database of pictures built entirely from metal type, ornaments, and rule, some going back to the 1600s. After eight years, I've ma",
+    "extra": {
+      "pub_date": "Tue, 16 Jun 2026 04:25:57 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+    "title": "",
+    "description": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 445\n# Comments: 238\n]]>",
+    "extra": {
+      "pub_date": "Mon, 15 Jun 2026 22:37:55 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "",
+    "description": "Article URL: https://gmalandrakis.com/writings/ad-economicum.html\nComments URL: https://news.ycombinator.com/item?id=48547062\nPoints: 221\n# Comments: 390\n]]>",
+    "extra": {
+      "pub_date": "Mon, 15 Jun 2026 21:10:36 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "title": "",
+    "description": "Article URL: https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/\nComments URL: https://news.ycombinator.com/item?id=48546428\nPoints: 202\n# Comments: 158\n]]>",
+    "extra": {
+      "pub_date": "Mon, 15 Jun 2026 20:12:37 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "",
+    "description": "Article URL: https://tinywind.io\nComments URL: https://news.ycombinator.com/item?id=48543475\nPoints: 894\n# Comments: 161\n]]>",
+    "extra": {
+      "pub_date": "Mon, 15 Jun 2026 16:15:53 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.iroh.computer/blog/v1",
+    "title": "",
+    "description": "Article URL: https://rsgm.dev/post/ai-dev-platform/\nComments URL: https://news.ycombinator.com/item?id=48542433\nPoints: 324\n# Comments: 54\n]]>",
+    "extra": {
+      "pub_date": "Mon, 15 Jun 2026 15:09:40 +0000"
+    },
+    "collected_at": "2026-06-16T12:44:05.871732+00:00"
+  }
+]

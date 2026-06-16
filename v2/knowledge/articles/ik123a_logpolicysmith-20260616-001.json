@@ -1,0 +1,17 @@
+{
+  "id": "ik123a_logpolicysmith-20260616-001",
+  "title": "ik123a/logpolicysmith",
+  "source_url": "https://github.com/ik123a/logpolicysmith",
+  "source_type": "github_trending",
+  "summary": "LogPolicySmith 是一个离线优先、可扩展云端的策略即代码生成器，能将AI代理日志自动编译为OPA Rego、CEL、VaultMind YAML等安全规则，支持Ollama或云端LLM，实现从代理行为到可执行策略的自动化转换。",
+  "tags": [
+    "Policy-as-Code",
+    "AI Security",
+    "Log Analysis",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-16T12:45:06.606878+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PranjalGoyal06_financial-agent-20260616-001",
+  "title": "PranjalGoyal06/financial-agent",
+  "source_url": "https://github.com/PranjalGoyal06/financial-agent",
+  "source_type": "github_trending",
+  "summary": "该项目利用LangChain构建AI金融代理，集成LLM推理、外部金融API、记忆与代理工作流，实时优化财务决策并最大化储蓄或利润。",
+  "tags": [
+    "LangChain",
+    "Financial Agent",
+    "AI",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-16T12:45:06.606878+00:00",
+  "published_at": null
+}
