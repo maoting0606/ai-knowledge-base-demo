@@ -1,0 +1,17 @@
+{
+  "id": "SharpAI_DeepCamera-20260618-001",
+  "title": "SharpAI/DeepCamera",
+  "source_url": "https://github.com/SharpAI/DeepCamera",
+  "source_type": "github_trending",
+  "summary": "SharpAI/DeepCamera 是一个开源AI摄像头平台，支持本地视频分析、多种视觉模型（如Qwen、YOLO26）和LLM代理，可通过Telegram等通知，运行于Mac Mini和AI PC。",
+  "tags": [
+    "AI Camera",
+    "Open Source",
+    "Video Surveillance",
+    "LLM Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-18T11:43:51.245768+00:00",
+  "published_at": null
+}

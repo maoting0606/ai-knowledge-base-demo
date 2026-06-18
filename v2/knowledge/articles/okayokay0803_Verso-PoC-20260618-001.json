@@ -1,0 +1,17 @@
+{
+  "id": "okayokay0803_Verso-PoC-20260618-001",
+  "title": "okayokay0803/Verso-PoC",
+  "source_url": "https://github.com/okayokay0803/Verso-PoC",
+  "source_type": "github_trending",
+  "summary": "Verso-PoC是一个利用AI语言模型自主控制Jupyter笔记本的代理系统，能实时观察单元格状态、执行代码并自我修正错误，无需人工干预。它展示了多步工具使用循环、LLM驱动的代码自动重试及上下文窗口管理。",
+  "tags": [
+    "AI Agent",
+    "Jupyter Notebook",
+    "Code Automation",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-18T11:43:51.245768+00:00",
+  "published_at": null
+}

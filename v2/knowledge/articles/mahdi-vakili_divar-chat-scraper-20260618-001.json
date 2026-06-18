@@ -1,0 +1,17 @@
+{
+  "id": "mahdi-vakili_divar-chat-scraper-20260618-001",
+  "title": "mahdi-vakili/divar-chat-scraper",
+  "source_url": "https://github.com/mahdi-vakili/divar-chat-scraper",
+  "source_type": "github_trending",
+  "summary": "一个基于Python和Playwright的工具，用于导出Divar聊天记录为结构化JSON，支持配置聊天数量、去重，输出单个和合并文件，便于存档、分析或接入AI摘要。",
+  "tags": [
+    "web scraping",
+    "chat export",
+    "JSON",
+    "Playwright"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-18T11:43:51.245768+00:00",
+  "published_at": null
+}

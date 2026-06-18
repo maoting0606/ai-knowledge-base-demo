@@ -1,0 +1,17 @@
+{
+  "id": "gslvly_sketch-inspector-20260618-001",
+  "title": "gslvly/sketch-inspector",
+  "source_url": "https://github.com/gslvly/sketch-inspector",
+  "source_type": "github_trending",
+  "summary": "一个AI友好的Sketch设计解析工具，可将Sketch文档转换为结构化JSON、导出资源和布局IR（flex/grid/absolute/leaf），支持LLM代理将设计转为HTML/CSS、React或Vue，兼容Claude Code、Cursor等。",
+  "tags": [
+    "Sketch",
+    "Design-to-Code",
+    "AI",
+    "Layout Parsing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-18T11:43:51.245768+00:00",
+  "published_at": null
+}

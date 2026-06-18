@@ -1,0 +1,17 @@
+{
+  "id": "aadaarssh_InsightAgent-20260618-001",
+  "title": "aadaarssh/InsightAgent",
+  "source_url": "https://github.com/aadaarssh/InsightAgent",
+  "source_type": "github_trending",
+  "summary": "InsightAgent是一个AI驱动的商业智能平台，支持用户通过自然语言分析实时数据集和文档。可上传CSV、Excel或PDF文件，用英语提问，获得可视化、摘要和操作建议。",
+  "tags": [
+    "Business Intelligence",
+    "Natural Language Processing",
+    "Data Analysis",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-18T11:43:51.245768+00:00",
+  "published_at": null
+}

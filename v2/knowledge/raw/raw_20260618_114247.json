@@ -1,0 +1,496 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoantonios1/Forge",
+    "title": "marcoantonios1/Forge",
+    "description": "Terminal-native AI coding agent powered by multiple LLMs. Like Claude Code, but model-agnostic — use local or cloud models via Costguard.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/gslvly/sketch-inspector",
+    "title": "gslvly/sketch-inspector",
+    "description": "AI-friendly Sketch design parser. Turn Sketch documents into structured JSON, exported assets and an implementation-ready LayoutIR (flex/grid/absolute/leaf) so any LLM agent can convert Sketch designs into HTML/CSS, React or Vue. Agent skill compatible with Claude Code, Cursor, opencode.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-skill",
+        "cursor",
+        "design-to-code",
+        "layout-ir",
+        "mcp",
+        "opencode",
+        "sketch",
+        "sketch-app",
+        "sketch-export",
+        "sketch-mcp",
+        "sketch-parser",
+        "sketch-to-html",
+        "sketch-to-react",
+        "sketch-to-vue"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ljlabs/Route.llm",
+    "title": "ljlabs/Route.llm",
+    "description": "Local LLM proxy and routing engine to bridge Anthropic Messages and OpenAI Chat Completions protocols. Route Claude Code, coding agents, and custom AI clients to OpenRouter, OpenAI, Anthropic, or local offline LLM endpoints.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1180,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/shaumik/PokeArena",
+    "title": "shaumik/PokeArena",
+    "description": "A Pokémon battle arena where any agent can play — human, deterministic game-tree AI, or LLM — over an open WebSocket protocol (MCP, CLI, or your own client). One leaderboard, ranked by who plays best.",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": [
+        "agent-benchmark",
+        "ai-agents",
+        "arena",
+        "battle-engine",
+        "claude",
+        "distributed-systems",
+        "expectimax",
+        "fog-of-war",
+        "game-engine",
+        "go",
+        "golang",
+        "leaderboard",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "pokemon",
+        "rabbitmq",
+        "redis",
+        "turn-based",
+        "websockets"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/SharpAI/DeepCamera",
+    "title": "SharpAI/DeepCamera",
+    "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
+    "extra": {
+      "stars": 2840,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-camera",
+        "ai-nvr",
+        "camera",
+        "cctv",
+        "computer-vision",
+        "deep-learning",
+        "face-recognition",
+        "home-assistant",
+        "home-security",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "machine-learning",
+        "object-detection",
+        "python",
+        "raspberry-pi",
+        "security-camera",
+        "video-surveillance",
+        "vlm"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/stephonGAO/milu",
+    "title": "stephonGAO/milu",
+    "description": "Production-ready multi-user AI agent framework — 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-class. Built-in tools, MCP, RAG, sub-agents, skills, scheduler and an agent pool. Run it as a CLI/service, or embed it as a library.",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "agentic-ai",
+        "asyncio",
+        "chatbot",
+        "deepseek",
+        "harness",
+        "langchain",
+        "llm",
+        "milu",
+        "multi-tenant",
+        "qwen",
+        "rag"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/codeproxy-ai/core",
+    "title": "codeproxy-ai/core",
+    "description": "@codeproxy/core is a zero-dependency TypeScript library that converts upstream LLM responses in Chat Completions or Anthropic Messages format into the OpenAI Responses API format, so that AI coding agents like Codex and Claude Code can work with any language model.",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mahdi-vakili/divar-chat-scraper",
+    "title": "mahdi-vakili/divar-chat-scraper",
+    "description": "Export your Divar chat conversations into structured JSON. Archive conversations, analyze negotiation patterns, or feed them directly into AI agents for summarization and insights. Supports configurable chat limits, deduplication, and outputs clean per-chat + combined files ready for LLM pipelines. Built with Python and Playwright.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/aadaarssh/InsightAgent",
+    "title": "aadaarssh/InsightAgent",
+    "description": "Insight Agent is an AI-powered business intelligence platform that enables users to analyze live datasets and documents using natural language. Upload CSV, Excel, or PDF files, ask questions in plain English, and receive actionable insights, visualizations, summaries, and operational recommendations powered by LLMs and intelligent analytics.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CoreForgeLab/AetherDB-OmniS-erch-",
+    "title": "CoreForgeLab/AetherDB-OmniS-erch-",
+    "description": "[AetherDB (OmniS erch)] – An AI‑augmented SQLite database with a FastAPI web interface, pluggable LLM extractors (OpenAI/Ollama), and dual‑layer API key security – deployable on any PC or server and  A large-scale worldbuilding database system for writers and AI agents.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+    "title": "Resolve-public/writing-assistant-chat",
+    "description": "AI writing assistant for Obsidian with chat, plan, and edit modes. Connects to local or cloud LLM providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/vstorm-co/summarization-pydantic-ai",
+    "title": "vstorm-co/summarization-pydantic-ai",
+    "description": "Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.",
+    "extra": {
+      "stars": 53,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "context-engineering",
+        "deepagents",
+        "gemini",
+        "llm",
+        "pydantic-ai",
+        "python",
+        "vstorm"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 290,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/okayokay0803/Verso-PoC",
+    "title": "okayokay0803/Verso-PoC",
+    "description": "PoC - agentic AI system that uses a AI language model to autonomously control notebooks(ex.- .ipynb) - observing live  cell state, executing code, and self-correcting broken or incorrect cells without human intervention. The agent demonstrates multi-step tool-use loops, automatic retry with LLM-driven code correction, and context-window management.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-06-18T11:42:46.769272+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "",
+    "description": "Article URL: https://rbelmont.mameworld.info/?p=1725\nComments URL: https://news.ycombinator.com/item?id=48582464\nPoints: 55\n# Comments: 42\n]]>",
+    "extra": {
+      "pub_date": "Thu, 18 Jun 2026 08:28:04 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "title": "",
+    "description": "Article URL: https://btao.org/posts/2026-05-09-the-forge-we-deserve/\nComments URL: https://news.ycombinator.com/item?id=48582147\nPoints: 34\n# Comments: 36\n]]>",
+    "extra": {
+      "pub_date": "Thu, 18 Jun 2026 07:46:55 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.acma.gov.au/sms-sender-id-register",
+    "title": "",
+    "description": "Article URL: https://chat.deepseek.com/\nComments URL: https://news.ycombinator.com/item?id=48581458\nPoints: 184\n# Comments: 81\n]]>",
+    "extra": {
+      "pub_date": "Thu, 18 Jun 2026 06:17:40 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "",
+    "description": "Article URL: https://conf.nim-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48580504\nPoints: 55\n# Comments: 9\n]]>",
+    "extra": {
+      "pub_date": "Thu, 18 Jun 2026 03:38:31 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "",
+    "description": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\nComments URL: https://news.ycombinator.com/item?id=48579913\nPoints: 41\n# Comments: 18\n]]>",
+    "extra": {
+      "pub_date": "Thu, 18 Jun 2026 02:32:01 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.midjourney.com/medical/blogpost",
+    "title": "",
+    "description": "Article URL: https://www.horg.com/horg/?page_id=921\nComments URL: https://news.ycombinator.com/item?id=48578388\nPoints: 155\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Wed, 17 Jun 2026 23:20:38 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/glojurelang/glojure",
+    "title": "",
+    "description": "Article URL: https://storiedcolors.com/\nComments URL: https://news.ycombinator.com/item?id=48577374\nPoints: 181\n# Comments: 41\n]]>",
+    "extra": {
+      "pub_date": "Wed, 17 Jun 2026 21:49:03 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://loreline.app/en/",
+    "title": "",
+    "description": "Article URL: https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/\nComments URL: https://news.ycombinator.com/item?id=48575997\nPoints: 159\n# Comments: 104\n]]>",
+    "extra": {
+      "pub_date": "Wed, 17 Jun 2026 19:59:27 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+    "title": "",
+    "description": "Hey HN! I'm Zach from Adam (https://adam.new/). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:- AI will be the primary medium for creating mechanical designs just like it is in software today.- The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD).We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think ",
+    "extra": {
+      "pub_date": "Wed, 17 Jun 2026 16:14:04 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+    "title": "",
+    "description": "Article URL: https://lore.org/\nComments URL: https://news.ycombinator.com/item?id=48571081\nPoints: 1161\n# Comments: 616\n]]>",
+    "extra": {
+      "pub_date": "Wed, 17 Jun 2026 14:30:27 +0000"
+    },
+    "collected_at": "2026-06-18T11:42:47.149254+00:00"
+  }
+]
