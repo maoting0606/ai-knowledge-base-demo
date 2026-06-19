@@ -1,0 +1,17 @@
+{
+  "id": "skut264_Gideon-20260619-001",
+  "title": "skut264/Gideon",
+  "source_url": "https://github.com/skut264/Gideon",
+  "source_type": "github_trending",
+  "summary": "Gideon 是一个部署在云端的个人AI代理，能通过对话学习并使用工具，支持本地或云端大模型，用户可根据预算灵活选择。",
+  "tags": [
+    "AI Agent",
+    "Cloud Server",
+    "Local LLM",
+    "Tool Use"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-19T11:58:29.823818+00:00",
+  "published_at": null
+}

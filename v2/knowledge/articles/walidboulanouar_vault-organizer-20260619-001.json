@@ -1,0 +1,17 @@
+{
+  "id": "walidboulanouar_vault-organizer-20260619-001",
+  "title": "walidboulanouar/vault-organizer",
+  "source_url": "https://github.com/walidboulanouar/vault-organizer",
+  "source_type": "github_trending",
+  "summary": "一个基于Karpathy三层LLM-wiki方法的工具，用于清理、组织和索引Obsidian/PARA等Markdown知识库，可作为AI代理技能或独立Python脚本运行。",
+  "tags": [
+    "Knowledge Base",
+    "Markdown",
+    "LLM",
+    "Obsidian"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-19T11:58:29.823818+00:00",
+  "published_at": null
+}

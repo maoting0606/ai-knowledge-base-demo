@@ -1,0 +1,17 @@
+{
+  "id": "danieldoderlein_llm-bus-20260619-001",
+  "title": "danieldoderlein/llm-bus",
+  "source_url": "https://github.com/danieldoderlein/llm-bus",
+  "source_type": "github_trending",
+  "summary": "一个基于MCP协议的开源AI代理协调引擎，支持原子声明、共享账本、租约、存在感知、任务交接等功能，可自托管或使用托管服务。",
+  "tags": [
+    "AI Agents",
+    "Coordination Engine",
+    "MCP",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-19T11:58:29.823818+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ayoubbuoya_buoya-news-agent-20260619-001",
+  "title": "ayoubbuoya/buoya-news-agent",
+  "source_url": "https://github.com/ayoubbuoya/buoya-news-agent",
+  "source_type": "github_trending",
+  "summary": "一个用Rust编写的AI代理，用于聚合加密、DeFi和AI新闻。它从RSS和市场数据源摄取信息，存入本地SQLite数据库，支持语义搜索，并通过终端UI或HTTP/MCP服务器提供LLM工具调用聊天功能。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Crypto News",
+    "Semantic Search"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-19T11:58:29.823818+00:00",
+  "published_at": null
+}

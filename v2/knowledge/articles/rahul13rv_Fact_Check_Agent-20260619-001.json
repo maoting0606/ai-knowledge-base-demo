@@ -1,0 +1,17 @@
+{
+  "id": "rahul13rv_Fact_Check_Agent-20260619-001",
+  "title": "rahul13rv/Fact_Check_Agent",
+  "source_url": "https://github.com/rahul13rv/Fact_Check_Agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Streamlit的AI事实核查工具，可上传营销PDF，利用LLM提取可验证声明，通过Tavily搜索实时网络数据交叉验证，生成包含证据和来源的核查报告。",
+  "tags": [
+    "Fact-Checking",
+    "LLM",
+    "Streamlit",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-19T11:58:29.823818+00:00",
+  "published_at": null
+}
