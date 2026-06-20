@@ -1,0 +1,17 @@
+{
+  "id": "Resolve-public_writing-assistant-chat-20260620-001",
+  "title": "Resolve-public/writing-assistant-chat",
+  "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+  "source_type": "github_trending",
+  "summary": "一款面向Obsidian的AI写作助手，支持聊天、规划和编辑模式。可连接本地或云端LLM，具备全库RAG检索、知识图谱、智能工具调用、笔记上下文及可复用提示命令。",
+  "tags": [
+    "AI Writing Assistant",
+    "Obsidian",
+    "RAG",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-20T10:25:12.176121+00:00",
+  "published_at": null
+}

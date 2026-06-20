@@ -1,0 +1,17 @@
+{
+  "id": "OrbitFlow-AI_Backend-20260620-001",
+  "title": "OrbitFlow-AI/Backend",
+  "source_url": "https://github.com/OrbitFlow-AI/Backend",
+  "source_type": "github_trending",
+  "summary": "OrbitFlow-AI/Backend 是一个基于Stellar区块链的AI代理金库与微支付路由框架，专为多代理LLM系统设计。代理可分配稳定币预算，通过条件路径支付自动购买API、数据或算力。",
+  "tags": [
+    "AI Agents",
+    "Blockchain",
+    "Micropayments",
+    "Smart Contracts"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-20T10:25:12.176121+00:00",
+  "published_at": null
+}

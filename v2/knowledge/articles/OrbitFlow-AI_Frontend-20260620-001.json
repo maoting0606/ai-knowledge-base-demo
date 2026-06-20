@@ -1,0 +1,17 @@
+{
+  "id": "OrbitFlow-AI_Frontend-20260620-001",
+  "title": "OrbitFlow-AI/Frontend",
+  "source_url": "https://github.com/OrbitFlow-AI/Frontend",
+  "source_type": "github_trending",
+  "summary": "OrbitFlow-AI/Frontend 是一个基于Stellar区块链的AI代理金库与微支付路由框架，专为多代理LLM系统设计，支持代理分配稳定币预算并通过条件路径支付自动购买API、数据或算力。",
+  "tags": [
+    "AI Agents",
+    "Micropayments",
+    "Blockchain",
+    "Stellar"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-20T10:25:12.176121+00:00",
+  "published_at": null
+}

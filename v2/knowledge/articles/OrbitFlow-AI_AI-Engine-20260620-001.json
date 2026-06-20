@@ -1,0 +1,17 @@
+{
+  "id": "OrbitFlow-AI_AI-Engine-20260620-001",
+  "title": "OrbitFlow-AI/AI-Engine",
+  "source_url": "https://github.com/OrbitFlow-AI/AI-Engine",
+  "source_type": "github_trending",
+  "summary": "OrbitFlow-AI/AI-Engine 是一个基于Stellar Soroban的智能合约框架，专为多智能体LLM系统设计，实现AI代理的资金库管理和微支付路由，支持代理间自动化条件支付以获取API、数据或算力。",
+  "tags": [
+    "AI Agents",
+    "Smart Contracts",
+    "Micropayments",
+    "Stellar"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-20T10:25:12.176121+00:00",
+  "published_at": null
+}
