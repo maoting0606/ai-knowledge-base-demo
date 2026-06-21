@@ -1,0 +1,500 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1193,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CaptainEmpower/aisp-open-core",
+    "title": "CaptainEmpower/aisp-open-core",
+    "description": "AISP (AI Symbolic Programming) v5.1 AI first, spec driven development. A proof-carrying protocol LLMs understand natively without instructions or training. Reduces AI decision points from 40-65% to <2%. Made for AI and agents. Works directly with Claude, OpenAI, Gemini, Cursor, Claude Code.  The assembly language for AI cognition.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/stephonGAO/milu",
+    "title": "stephonGAO/milu",
+    "description": "Production-ready multi-user AI agent framework — 9 LLM providers with Chinese models (Qwen, DeepSeek, Kimi, GLM) first-class. Built-in tools, MCP, RAG, sub-agents, skills, scheduler and an agent pool. Run it as a CLI/service, or embed it as a library.",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "agentic-ai",
+        "asyncio",
+        "chatbot",
+        "deepseek",
+        "harness",
+        "langchain",
+        "llm",
+        "milu",
+        "multi-tenant",
+        "qwen",
+        "rag"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Sdkwork-Cloud/hub-installer",
+    "title": "Sdkwork-Cloud/hub-installer",
+    "description": "Hub Installer is an AI-powered automated installer that uses LLM agents and MCP to download, configure, and run software projects or machine-learning models. It provides a unified way to install GitHub repos, HuggingFace models, and other AI resources with fully automated setup.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ljlabs/Route.llm",
+    "title": "ljlabs/Route.llm",
+    "description": "Local LLM proxy and routing engine to bridge Anthropic Messages and OpenAI Chat Completions protocols. Route Claude Code, coding agents, and custom AI clients to OpenRouter, OpenAI, Anthropic, or local offline LLM endpoints.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/shaumik/PokeArena",
+    "title": "shaumik/PokeArena",
+    "description": "A Pokémon battle arena where any agent can play — human, deterministic game-tree AI, or LLM — over an open WebSocket protocol (MCP, CLI, or your own client). One leaderboard, ranked by who plays best.",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": [
+        "agent-benchmark",
+        "ai-agents",
+        "arena",
+        "battle-engine",
+        "claude",
+        "distributed-systems",
+        "expectimax",
+        "fog-of-war",
+        "game-engine",
+        "go",
+        "golang",
+        "leaderboard",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "pokemon",
+        "rabbitmq",
+        "redis",
+        "turn-based",
+        "websockets"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 8,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/MohapatraShibu/customer_support_agent",
+    "title": "MohapatraShibu/customer_support_agent",
+    "description": "A functional web application for an AI Customer Support Agent that processes or denies e-commerce refunds using an LLM.",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CoreForgeLab/AetherDB-OmniS-erch-",
+    "title": "CoreForgeLab/AetherDB-OmniS-erch-",
+    "description": "[AetherDB (OmniS erch)] – An AI‑augmented SQLite database with a FastAPI web interface, pluggable LLM extractors (OpenAI/Ollama), and dual‑layer API key security – deployable on any PC or server and  A large-scale worldbuilding database system for writers and AI agents.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/hec-ovi/gamentic",
+    "title": "hec-ovi/gamentic",
+    "description": "Self-hosted, browser-based AI dungeon RPG, fully local on an AMD Strix Halo APU: narrator + per-character agents on one local LLM (Gemma 4 26B MoE via llama.cpp/Vulkan), local images (FLUX.2 klein/ComfyUI), expressive voice (Maya1 TTS). FastAPI brain, SQLite, vanilla JS, docker-compose with guided setup (CLI wizard or double-click HTML).",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai-dungeon",
+        "ai-rpg",
+        "amd-strix-halo",
+        "comfyui",
+        "docker-compose",
+        "fastapi",
+        "flux",
+        "gemma",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "maya1",
+        "mixture-of-experts",
+        "no-build",
+        "rocm",
+        "self-hosted",
+        "text-to-speech",
+        "vanilla-javascript",
+        "vulkan"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ashok-kallara/semantic-daily",
+    "title": "ashok-kallara/semantic-daily",
+    "description": "A 100% free agentic news aggregator that discovers trending AI & technology content from Native APIs (Reddit, Bluesky, GitHub, RSS, HackerNews, YouTube, and Exa.ai) — deduplicates, categorizes using a multi-agent LLM pipeline over OpenRouter, and delivers a curated daily digest directly to your Telegram or as a Web Dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+    "title": "Resolve-public/writing-assistant-chat",
+    "description": "AI writing assistant for Obsidian with chat, plan, and edit modes. Connects to local or cloud LLM providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/danieldoderlein/llm-bus",
+    "title": "danieldoderlein/llm-bus",
+    "description": "Open-source coordination engine for AI agents, over MCP. Atomic claims, shared ledger, leases, presence, handoffs, tasks. Self-host it or use the hosted service at llm-bus.com.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-coordination",
+        "ai-agents",
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "multi-agent"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nMaroulis/protoagent",
+    "title": "nMaroulis/protoagent",
+    "description": "A blazing-fast, local-first AI agent ecosystem. Orchestrate local LLMs with Python, run them in a native Rust terminal, or integrate directly into your editor via ACP.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent-client-protocol",
+        "ai-agents",
+        "cli",
+        "developer-tools",
+        "local-llm",
+        "mcp",
+        "ollama",
+        "protolink",
+        "python",
+        "rust",
+        "terminal-ui",
+        "zed-editor"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas-AI/Orkas",
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "extra": {
+      "stars": 28,
+      "language": "TypeScript",
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow",
+        "autonomous-agents",
+        "byo-llm",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "hermes-agent",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "multi-agent-system",
+        "openclaw",
+        "self-evolving-agents"
+      ]
+    },
+    "collected_at": "2026-06-21T10:58:03.637067+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+    "title": "",
+    "description": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\nComments URL: https://news.ycombinator.com/item?id=48616800\nPoints: 123\n# Comments: 109\n]]>",
+    "extra": {
+      "pub_date": "Sun, 21 Jun 2026 08:21:22 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/namgyaaal/avoxelgame",
+    "title": "",
+    "description": "Article URL: https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48616173\nPoints: 27\n# Comments: 7\n]]>",
+    "extra": {
+      "pub_date": "Sun, 21 Jun 2026 06:24:52 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "title": "",
+    "description": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm\nComments URL: https://news.ycombinator.com/item?id=48615569\nPoints: 212\n# Comments: 154\n]]>",
+    "extra": {
+      "pub_date": "Sun, 21 Jun 2026 04:02:08 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+    "title": "",
+    "description": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two\nComments URL: https://news.ycombinator.com/item?id=48614311\nPoints: 60\n# Comments: 21\n]]>",
+    "extra": {
+      "pub_date": "Sun, 21 Jun 2026 00:00:25 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "title": "",
+    "description": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\nComments URL: https://news.ycombinator.com/item?id=48613755\nPoints: 241\n# Comments: 131\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 22:54:11 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "title": "",
+    "description": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...\n\nComments URL: https://news.ycombinator.com/item?id=48612943\nPoints: 213\n# Comments: 197\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 20:59:40 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "",
+    "description": "Article URL: https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\nComments URL: https://news.ycombinator.com/item?id=48612502\nPoints: 136\n# Comments: 100\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 20:05:03 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.lispm.net/apps/uhf-x11/",
+    "title": "",
+    "description": "Article URL: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\nComments URL: https://news.ycombinator.com/item?id=48610827\nPoints: 265\n# Comments: 82\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 17:01:36 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "",
+    "description": "Article URL: https://github.com/mysk-research/loupe\nComments URL: https://news.ycombinator.com/item?id=48608645\nPoints: 307\n# Comments: 118\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 12:08:23 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://townsquare.cauenapier.com/",
+    "title": "",
+    "description": "Article URL: https://blog.cloudflare.com/temporary-accounts/\nComments URL: https://news.ycombinator.com/item?id=48608394\nPoints: 213\n# Comments: 113\n]]>",
+    "extra": {
+      "pub_date": "Sat, 20 Jun 2026 11:19:05 +0000"
+    },
+    "collected_at": "2026-06-21T10:58:06.051537+00:00"
+  }
+]

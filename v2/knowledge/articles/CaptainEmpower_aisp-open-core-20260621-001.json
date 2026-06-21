@@ -1,0 +1,17 @@
+{
+  "id": "CaptainEmpower_aisp-open-core-20260621-001",
+  "title": "CaptainEmpower/aisp-open-core",
+  "source_url": "https://github.com/CaptainEmpower/aisp-open-core",
+  "source_type": "github_trending",
+  "summary": "AISP v5.1是一种面向AI的符号编程协议，通过证明携带机制将AI决策点从40-65%降至<2%，无需额外训练即可被LLM原生理解，适用于Claude、OpenAI等主流AI工具。",
+  "tags": [
+    "AI Programming",
+    "Symbolic Protocol",
+    "LLM Optimization",
+    "Agent Framework"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-21T10:59:20.813060+00:00",
+  "published_at": null
+}

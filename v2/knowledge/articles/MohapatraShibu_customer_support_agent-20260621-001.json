@@ -1,0 +1,17 @@
+{
+  "id": "MohapatraShibu_customer_support_agent-20260621-001",
+  "title": "MohapatraShibu/customer_support_agent",
+  "source_url": "https://github.com/MohapatraShibu/customer_support_agent",
+  "source_type": "github_trending",
+  "summary": "一个基于LLM的AI客服代理Web应用，用于处理或拒绝电商退款请求，实现自动化决策。",
+  "tags": [
+    "LLM",
+    "Customer Support",
+    "E-commerce",
+    "Refund Automation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-21T10:59:20.813060+00:00",
+  "published_at": null
+}
