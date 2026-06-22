@@ -1,0 +1,17 @@
+{
+  "id": "secdev02_Incantation-20260622-001",
+  "title": "secdev02/Incantation",
+  "source_url": "https://github.com/secdev02/Incantation",
+  "source_type": "github_trending",
+  "summary": "Incantation是一个AI欺骗层工具，通过对抗性上下文设计来重定向或混淆读取基础设施的LLM代理，增强安全性。",
+  "tags": [
+    "AI Security",
+    "Adversarial Context",
+    "LLM Protection",
+    "Deception Layer"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-22T13:25:55.349547+00:00",
+  "published_at": null
+}

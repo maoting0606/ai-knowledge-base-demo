@@ -1,0 +1,17 @@
+{
+  "id": "ibrahimelothmani_AgentWarden-20260622-001",
+  "title": "ibrahimelothmani/AgentWarden",
+  "source_url": "https://github.com/ibrahimelothmani/AgentWarden",
+  "source_type": "github_trending",
+  "summary": "AgentWarden 是一个确定性安全代理，位于自主AI开发者（如Devin、开源代理或自定义LLM循环）与生产基础设施之间，提供安全防护。",
+  "tags": [
+    "AI Security",
+    "Proxy",
+    "Autonomous Agents",
+    "Infrastructure Protection"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-22T13:25:55.349547+00:00",
+  "published_at": null
+}
