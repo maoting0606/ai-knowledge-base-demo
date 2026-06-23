@@ -1,0 +1,17 @@
+{
+  "id": "piter5285_vectorless-agentic-RAG-20260623-001",
+  "title": "piter5285/vectorless-agentic-RAG",
+  "source_url": "https://github.com/piter5285/vectorless-agentic-RAG",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一种无向量的代理式RAG系统，基于Confluence文档，通过LLM推理层次化文档树替代向量相似搜索，无需嵌入或重排序器，包含MCP服务器和Streamlit聊天机器人。",
+  "tags": [
+    "Agentic RAG",
+    "Vectorless",
+    "LLM Reasoning",
+    "MCP"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-23T10:53:04.963956+00:00",
+  "published_at": null
+}

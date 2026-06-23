@@ -1,0 +1,17 @@
+{
+  "id": "ljlabs_Route_llm-20260623-001",
+  "title": "ljlabs/Route.llm",
+  "source_url": "https://github.com/ljlabs/Route.llm",
+  "source_type": "github_trending",
+  "summary": "一个本地LLM代理和路由引擎，桥接Anthropic Messages与OpenAI Chat Completions协议，支持将Claude Code、编码代理等路由到OpenRouter、OpenAI、Anthropic或本地离线LLM端点。",
+  "tags": [
+    "LLM",
+    "Proxy",
+    "Routing",
+    "API"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-23T10:53:04.963956+00:00",
+  "published_at": null
+}

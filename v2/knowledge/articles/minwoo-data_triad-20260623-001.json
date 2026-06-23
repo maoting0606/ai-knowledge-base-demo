@@ -1,0 +1,17 @@
+{
+  "id": "minwoo-data_triad-20260623-001",
+  "title": "minwoo-data/triad",
+  "source_url": "https://github.com/minwoo-data/triad",
+  "source_type": "github_trending",
+  "summary": "Triad是一个并行多智能体审阅工具，通过三个独立AI角色（LLM清晰度、架构持久性、终端用户理解）对文档或代码进行批判性审阅，直至达成共识，设计上防止群体思维。",
+  "tags": [
+    "multi-agent",
+    "code review",
+    "AI deliberation",
+    "consensus"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-23T10:53:04.963956+00:00",
+  "published_at": null
+}

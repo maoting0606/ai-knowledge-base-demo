@@ -1,0 +1,17 @@
+{
+  "id": "soderlind_gh-bump-20260623-001",
+  "title": "soderlind/gh-bump",
+  "source_url": "https://github.com/soderlind/gh-bump",
+  "source_type": "github_trending",
+  "summary": "gh-bump 是一个 AI 驱动的依赖安全修复工具，利用 LLM 分析代码并自动修复漏洞，无需硬编码模式，支持任何生态系统，可作为 CLI 或 GitHub Action 运行。",
+  "tags": [
+    "AI",
+    "Dependency Management",
+    "Security",
+    "GitHub Action"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-23T10:53:04.963956+00:00",
+  "published_at": null
+}
