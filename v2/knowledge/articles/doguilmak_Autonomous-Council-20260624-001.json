@@ -1,0 +1,17 @@
+{
+  "id": "doguilmak_Autonomous-Council-20260624-001",
+  "title": "doguilmak/Autonomous-Council",
+  "source_url": "https://github.com/doguilmak/Autonomous-Council",
+  "source_type": "github_trending",
+  "summary": "一个本地LLM驱动的会议系统，用户提出议题后，由多个专业AI代理组成委员会进行审议，最终生成结构化共识报告。",
+  "tags": [
+    "LLM",
+    "AI Agents",
+    "Consensus",
+    "Local Deployment"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-24T10:39:48.654906+00:00",
+  "published_at": null
+}

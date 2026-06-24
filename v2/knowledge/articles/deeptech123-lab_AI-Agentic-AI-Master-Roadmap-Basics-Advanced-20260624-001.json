@@ -1,0 +1,17 @@
+{
+  "id": "deeptech123-lab_AI-Agentic-AI-Master-Roadmap-Basics-Advanced-20260624-001",
+  "title": "deeptech123-lab/AI-Agentic-AI-Master-Roadmap-Basics-Advanced-",
+  "source_url": "https://github.com/deeptech123-lab/AI-Agentic-AI-Master-Roadmap-Basics-Advanced-",
+  "source_type": "github_trending",
+  "summary": "这是一个从基础到高级的AI Agent学习路线图，强调先掌握数学、机器学习、深度学习等核心基础，再深入LLM和Agent框架，避免直接跳入LangChain等工具而忽略底层原理。",
+  "tags": [
+    "AI Agent",
+    "Roadmap",
+    "LLM",
+    "Machine Learning"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-06-24T10:39:48.654906+00:00",
+  "published_at": null
+}

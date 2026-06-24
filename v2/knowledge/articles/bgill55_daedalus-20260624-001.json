@@ -1,0 +1,17 @@
+{
+  "id": "bgill55_daedalus-20260624-001",
+  "title": "bgill55/daedalus",
+  "source_url": "https://github.com/bgill55/daedalus",
+  "source_type": "github_trending",
+  "summary": "Daedalus是一个基于终端的AI编程助手，支持本地LLM服务器（如LM Studio、Ollama）和远程API（如OpenAI、Anthropic），具备智能路由、文件系统访问、终端、Git、网页搜索和代码索引功能。",
+  "tags": [
+    "AI coding assistant",
+    "terminal-based",
+    "local LLM",
+    "code indexing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-24T10:39:48.654906+00:00",
+  "published_at": null
+}
