@@ -1,0 +1,16 @@
+{
+  "id": "ianasasira_tokenreducer-20260625-001",
+  "title": "ianasasira/tokenreducer",
+  "source_url": "https://github.com/ianasasira/tokenreducer",
+  "source_type": "github_trending",
+  "summary": "TokenReducer 是一个预处理工具或 SaaS，可将大型数据文件压缩为优化格式（如 Markdown、AST 摘要），帮助开发者和 AI 代理在 LLM 中避免上下文限制和高 API 费用。",
+  "tags": [
+    "Token Reduction",
+    "LLM Optimization",
+    "Preprocessing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-25T10:33:16.143404+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wuyoscar_Internal-Safety-Collapse-20260625-001",
+  "title": "wuyoscar/Internal-Safety-Collapse",
+  "source_url": "https://github.com/wuyoscar/Internal-Safety-Collapse",
+  "source_type": "github_trending",
+  "summary": "Internal Safety Collapse (ISC) 是一种攻击方法，通过操纵大语言模型或AI代理的内部状态，使其生成敏感数据，绕过安全对齐机制。",
+  "tags": [
+    "LLM Security",
+    "Data Leakage",
+    "AI Safety",
+    "Adversarial Attack"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-25T10:33:16.143404+00:00",
+  "published_at": null
+}

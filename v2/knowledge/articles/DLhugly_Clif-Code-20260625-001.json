@@ -1,0 +1,17 @@
+{
+  "id": "DLhugly_Clif-Code-20260625-001",
+  "title": "DLhugly/Clif-Code",
+  "source_url": "https://github.com/DLhugly/Clif-Code",
+  "source_type": "github_trending",
+  "summary": "Clif-Code 是一个用 Rust 构建的 AI 代码编辑器和终端编码代理，支持多种 LLM 服务，体积仅 20MB，提供 20 种主题、真实终端、Git 集成和带工具调用的代理侧边栏。",
+  "tags": [
+    "AI Code Editor",
+    "Rust",
+    "Terminal Agent",
+    "LLM Integration"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-25T10:33:16.143404+00:00",
+  "published_at": null
+}
