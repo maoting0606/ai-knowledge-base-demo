@@ -1,0 +1,17 @@
+{
+  "id": "NavidBroumandfar_Agentic-Excel-Review-Template-20260626-001",
+  "title": "NavidBroumandfar/Agentic-Excel-Review-Template",
+  "source_url": "https://github.com/NavidBroumandfar/Agentic-Excel-Review-Template",
+  "source_type": "github_trending",
+  "summary": "一个模块化的开源模板，用于在结构化Excel流程上构建代理式AI工作流，支持Excel导入、LLM推理、RAG文档检索、JSONL日志记录和编排代理管道，旨在帮助数据团队通过安全的辅助AI自动化实现审查工作流现代化。",
+  "tags": [
+    "Agentic AI",
+    "Excel Automation",
+    "RAG",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}

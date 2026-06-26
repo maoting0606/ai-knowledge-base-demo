@@ -1,0 +1,17 @@
+{
+  "id": "falcojau_document-intelligence-20260626-001",
+  "title": "falcojau/document-intelligence",
+  "source_url": "https://github.com/falcojau/document-intelligence",
+  "source_type": "github_trending",
+  "summary": "一个基于多智能体并行架构的文档分析API，支持上传合同、发票或简历，通过三个AI代理同时运行于多个LLM提供商，快速生成结构化智能报告。",
+  "tags": [
+    "Document Analysis",
+    "Multi-Agent",
+    "LLM",
+    "API"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}

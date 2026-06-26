@@ -1,0 +1,17 @@
+{
+  "id": "icosaedro-git_toolsnap-mcp-20260626-001",
+  "title": "icosaedro-git/toolsnap-mcp",
+  "source_url": "https://github.com/icosaedro-git/toolsnap-mcp",
+  "source_type": "github_trending",
+  "summary": "一个MCP连接器，可扩展任意AI代理或本地LLM，无需账户，仅需USDC钱包（无gas费）。提供23个免费工具及fetch_extract（减少98.1%令牌）。基于Base链的x402协议，每次调用0.02美元或预付费0.01美元。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "USDC",
+    "x402"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}

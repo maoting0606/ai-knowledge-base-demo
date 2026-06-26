@@ -1,0 +1,17 @@
+{
+  "id": "emirgms-creator_halt-core-20260626-001",
+  "title": "emirgms-creator/halt-core",
+  "source_url": "https://github.com/emirgms-creator/halt-core",
+  "source_type": "github_trending",
+  "summary": "Halt Core 是一个零信任操作系统层和亚毫秒级中间件SDK，专为自主AI代理设计。它利用Microsoft Phi-4拦截、上下文化和阻止危险的Shell或SQL操作，确保本地、私有和隔离环境下的安全。",
+  "tags": [
+    "Zero-Trust",
+    "AI Security",
+    "Middleware",
+    "Autonomous Agents"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}

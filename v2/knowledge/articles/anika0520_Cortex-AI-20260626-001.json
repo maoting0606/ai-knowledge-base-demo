@@ -1,0 +1,17 @@
+{
+  "id": "anika0520_Cortex-AI-20260626-001",
+  "title": "anika0520/Cortex-AI",
+  "source_url": "https://github.com/anika0520/Cortex-AI",
+  "source_type": "github_trending",
+  "summary": "Cortex-AI是一个全栈自主AI代理，结合React前端与Python FastAPI后端，支持网页抓取、文件处理、音频转录和代码执行，具备双模式操作（全功能或轻量级浏览器内LLM模式），强调透明度和任务规划执行验证能力。",
+  "tags": [
+    "Autonomous AI Agent",
+    "Full-Stack",
+    "Task Automation",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}

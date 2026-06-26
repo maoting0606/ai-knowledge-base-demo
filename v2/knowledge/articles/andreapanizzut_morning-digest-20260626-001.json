@@ -1,0 +1,17 @@
+{
+  "id": "andreapanizzut_morning-digest-20260626-001",
+  "title": "andreapanizzut/morning-digest",
+  "source_url": "https://github.com/andreapanizzut/morning-digest",
+  "source_type": "github_trending",
+  "summary": "一个Python代理，利用本地Ollama LLM和DuckDuckGo生成每日AI精选摘要，零云成本，无令牌费用。支持JSON配置主题、语言和语气，可通过cron或任务计划程序调度。",
+  "tags": [
+    "Python",
+    "AI Digest",
+    "Local LLM",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-26T10:43:09.362359+00:00",
+  "published_at": null
+}
