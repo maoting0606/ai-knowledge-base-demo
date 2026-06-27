@@ -1,0 +1,17 @@
+{
+  "id": "lumatic2_market-simulation-20260627-001",
+  "title": "lumatic2/market-simulation",
+  "source_url": "https://github.com/lumatic2/market-simulation",
+  "source_type": "github_trending",
+  "summary": "该项目利用Nemotron生成韩国消费者画像，结合Claude Code代理进行AI市场研究模拟，无需本地LLM或API密钥。",
+  "tags": [
+    "Market Simulation",
+    "AI Personas",
+    "Korean Consumers",
+    "Claude Code"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-27T09:55:20.157775+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Ashmit76311_Lumen_RAG-20260627-001",
+  "title": "Ashmit76311/Lumen_RAG",
+  "source_url": "https://github.com/Ashmit76311/Lumen_RAG",
+  "source_type": "github_trending",
+  "summary": "Lumen AI 是一个智能自适应检索增强生成系统，具备React前端、MongoDB持久化聊天记录、动态查询路由（向量索引、LLM知识、实时网络搜索），基于LangGraph和FastAPI构建。",
+  "tags": [
+    "RAG",
+    "LangGraph",
+    "FastAPI",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-27T09:55:20.157775+00:00",
+  "published_at": null
+}

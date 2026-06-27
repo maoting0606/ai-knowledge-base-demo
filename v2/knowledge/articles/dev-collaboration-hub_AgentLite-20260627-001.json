@@ -1,0 +1,17 @@
+{
+  "id": "dev-collaboration-hub_AgentLite-20260627-001",
+  "title": "dev-collaboration-hub/AgentLite",
+  "source_url": "https://github.com/dev-collaboration-hub/AgentLite",
+  "source_type": "github_trending",
+  "summary": "AgentLite是一个轻量级、CPU高效的离线AI代理框架，无需LLM、云API、GPU或互联网，通过规划、记忆、确定性推理和模块化技能自主执行任务。",
+  "tags": [
+    "AI Agent",
+    "Offline",
+    "Lightweight",
+    "Deterministic Reasoning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-27T09:55:20.157775+00:00",
+  "published_at": null
+}

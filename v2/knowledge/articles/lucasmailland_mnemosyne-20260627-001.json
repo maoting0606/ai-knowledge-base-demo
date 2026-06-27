@@ -1,0 +1,17 @@
+{
+  "id": "lucasmailland_mnemosyne-20260627-001",
+  "title": "lucasmailland/mnemosyne",
+  "source_url": "https://github.com/lucasmailland/mnemosyne",
+  "source_type": "github_trending",
+  "summary": "Mnemosyne 是一个为AI代理设计的认知记忆系统，基于Postgres和pgvector，支持双时态、多租户，提供BM25、向量和图混合召回，可集成自有LLM，支持库、HTTP API或MCP服务器使用。",
+  "tags": [
+    "AI Memory",
+    "Postgres",
+    "Vector Search",
+    "Hybrid Recall"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-27T09:55:20.157775+00:00",
+  "published_at": null
+}
