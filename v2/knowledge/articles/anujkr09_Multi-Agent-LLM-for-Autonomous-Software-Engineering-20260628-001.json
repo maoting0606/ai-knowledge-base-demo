@@ -1,0 +1,16 @@
+{
+  "id": "anujkr09_Multi-Agent-LLM-for-Autonomous-Software-Engineering-20260628-001",
+  "title": "anujkr09/Multi-Agent-LLM-for-Autonomous-Software-Engineering",
+  "source_url": "https://github.com/anujkr09/Multi-Agent-LLM-for-Autonomous-Software-Engineering",
+  "source_type": "github_trending",
+  "summary": "该项目利用多个基于大语言模型的AI代理，实现软件工程的自动化或半自动化开发，涵盖代码生成、测试等任务。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Autonomous Software Engineering"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-28T10:19:41.207189+00:00",
+  "published_at": null
+}

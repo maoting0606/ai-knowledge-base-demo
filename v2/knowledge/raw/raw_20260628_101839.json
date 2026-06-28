@@ -1,0 +1,526 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+    "title": "Resolve-public/writing-assistant-chat",
+    "description": "AI writing assistant for Obsidian with chat, plan, and edit modes. Connects to local or cloud LLM providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1227,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "title": "Light-Heart-Labs/DreamServer",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 2312,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/codeproxy-ai/core",
+    "title": "codeproxy-ai/core",
+    "description": "@codeproxy/core is a zero-dependency TypeScript library that converts upstream LLM responses in Chat Completions or Anthropic Messages format into the OpenAI Responses API format, so that AI coding agents like Codex and Claude Code can work with any language model.",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ananymishra1/SHIMS",
+    "title": "ananymishra1/SHIMS",
+    "description": " SHIMS Omni + Council of the Wise — Self-hosted, multi-agent AI    │ assistant with local-first LLM support, cloud provider routing, voice    │ chat, code interpreter, and the DuoBot Council mode. Runs on    │ Windows/Linux with Ollama or cloud APIs.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/SametAtas/rein",
+    "title": "SametAtas/rein",
+    "description": "Deterministic, no-LLM guardrails for AI-written code: reproducible PASS/WARN/BLOCK verdicts an agent, a person, or CI can call.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "code-review",
+        "guardrails",
+        "mcp",
+        "sarif",
+        "secret-scanning",
+        "static-analysis"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/shaumik/PokeArena",
+    "title": "shaumik/PokeArena",
+    "description": "A Pokémon battle arena where any agent can play — human, deterministic game-tree AI, or LLM — over an open WebSocket protocol (MCP, CLI, or your own client). One leaderboard, ranked by who plays best.",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": [
+        "agent-benchmark",
+        "ai-agents",
+        "arena",
+        "battle-engine",
+        "claude",
+        "distributed-systems",
+        "expectimax",
+        "fog-of-war",
+        "game-engine",
+        "go",
+        "golang",
+        "leaderboard",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "pokemon",
+        "rabbitmq",
+        "redis",
+        "turn-based",
+        "websockets"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 12,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/teflon07/memkeeper",
+    "title": "teflon07/memkeeper",
+    "description": "Local-first, deterministic memory store for AI agents: SQLite-backed BM25 with optional local ONNX semantic search and cross-encoder rerank, graph projection, and an MCP adapter. No required network or LLM.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "embeddings",
+        "knowledge-graph",
+        "llm",
+        "local-first",
+        "mcp",
+        "memory",
+        "model-context-protocol",
+        "rerank",
+        "retrieval",
+        "rust",
+        "semantic-search",
+        "sqlite"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/BkrmDahal/flow",
+    "title": "BkrmDahal/flow",
+    "description": "Flow is a native desktop command center that seamlessly fuses a multi-turn agentic AI chat workspace (Cowork) and instantaneous, push-to-talk disfluency-free dictation refinement (Flow) directly into your daily macOS workflow. Run locally or using cloud LLM.",
+    "extra": {
+      "stars": 2,
+      "language": "Svelte",
+      "topics": [
+        "cowork",
+        "flow",
+        "localllm"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Ashmit76311/Lumen_RAG",
+    "title": "Ashmit76311/Lumen_RAG",
+    "description": "Lumen AI is an intelligent, agentic Adaptive Retrieval-Augmented Generation (RAG) system. It features a modern React-based UI, persistent chat history via MongoDB, and dynamic query routing leveraging vector-indexed documents, general LLM knowledge, or real-time web search, orchestrated by LangGraph and FastAPI.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/anujkr09/Multi-Agent-LLM-for-Autonomous-Software-Engineering",
+    "title": "anujkr09/Multi-Agent-LLM-for-Autonomous-Software-Engineering",
+    "description": "Multi-Agent LLM for Autonomous Software Engineering means using multiple AI agents powered by Large Language Models to perform software development tasks automatically or semi-automatically",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nMaroulis/protoagent",
+    "title": "nMaroulis/protoagent",
+    "description": "A blazing-fast, local-first AI agent ecosystem. Orchestrate local LLMs with Python, run them in a native Rust terminal, or integrate directly into your editor via ACP.",
+    "extra": {
+      "stars": 3,
+      "language": "Rust",
+      "topics": [
+        "agent-client-protocol",
+        "ai-agents",
+        "cli",
+        "developer-tools",
+        "local-llm",
+        "mcp",
+        "ollama",
+        "protolink",
+        "python",
+        "rust",
+        "terminal-ui",
+        "zed-editor"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 309,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stackone",
+    "title": "api-evangelist/stackone",
+    "description": "StackOne is an AI-powered embedded integration platform as a service (iPaaS) designed to simplify and accelerate how SaaS vendors and AI agents connect with enterprise software. It combines a proprietary LLM-based agent with a real-time execution engine to automate and manage integrations no need for manual API wiring or data syncing.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "accounts",
+        "apis-json",
+        "campaigns",
+        "connect-sessions",
+        "crm",
+        "customer-engagement",
+        "employees",
+        "employments",
+        "hris",
+        "human-resources",
+        "integrations",
+        "ipaas",
+        "locations",
+        "marketing",
+        "naftiko",
+        "people-operations",
+        "proxy",
+        "recruitment",
+        "time-off",
+        "unified-api"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/vstorm-co/summarization-pydantic-ai",
+    "title": "vstorm-co/summarization-pydantic-ai",
+    "description": "Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.",
+    "extra": {
+      "stars": 57,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "context-engineering",
+        "deepagents",
+        "gemini",
+        "llm",
+        "pydantic-ai",
+        "python",
+        "vstorm"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/aiignore",
+    "title": "api-evangelist/aiignore",
+    "description": "The .aiignore file is a configuration specification that tells AI coding agents and LLM-powered developer tools which files, directories, and content should not be read, processed, or modified.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "ai-agents",
+        "apis-json",
+        "configuration",
+        "developer-tools",
+        "developer-workflow",
+        "llm",
+        "naftiko",
+        "privacy",
+        "secrets-management",
+        "security"
+      ]
+    },
+    "collected_at": "2026-06-28T10:18:39.174474+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/cfenollosa/bashblog",
+    "title": "",
+    "description": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 68\n# Comments: 16\n]]>",
+    "extra": {
+      "pub_date": "Sun, 28 Jun 2026 04:31:18 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "title": "",
+    "description": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 233\n# Comments: 57\n]]>",
+    "extra": {
+      "pub_date": "Sun, 28 Jun 2026 02:23:08 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "",
+    "description": "Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/\nComments URL: https://news.ycombinator.com/item?id=48703418\nPoints: 43\n# Comments: 14\n]]>",
+    "extra": {
+      "pub_date": "Sun, 28 Jun 2026 01:22:30 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://decomp-academy.dev",
+    "title": "",
+    "description": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\nComments URL: https://news.ycombinator.com/item?id=48703258\nPoints: 141\n# Comments: 42\n]]>",
+    "extra": {
+      "pub_date": "Sun, 28 Jun 2026 00:46:52 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+    "title": "",
+    "description": "Article URL: https://evilbit.de/dns-resolver-guide.html\nComments URL: https://news.ycombinator.com/item?id=48702273\nPoints: 167\n# Comments: 54\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 22:11:28 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "title": "",
+    "description": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)\n\nComments URL: https://news.ycombinator.com/item?id=48699928\nPoints: 230\n# Comments: 99\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 17:11:20 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+    "title": "",
+    "description": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 815\n# Comments: 318\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 14:31:00 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+    "title": "",
+    "description": "Article URL: https://danluu.com/discontinuities/\nComments URL: https://news.ycombinator.com/item?id=48698151\nPoints: 241\n# Comments: 77\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 13:32:20 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "title": "",
+    "description": "Article URL: https://www.openra.net/\nComments URL: https://news.ycombinator.com/item?id=48697560\nPoints: 715\n# Comments: 134\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 12:10:27 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+    "title": "",
+    "description": "Article URL: https://dervis.de/physical/\nComments URL: https://news.ycombinator.com/item?id=48697335\nPoints: 441\n# Comments: 298\n]]>",
+    "extra": {
+      "pub_date": "Sat, 27 Jun 2026 11:32:10 +0000"
+    },
+    "collected_at": "2026-06-28T10:18:39.507491+00:00"
+  }
+]

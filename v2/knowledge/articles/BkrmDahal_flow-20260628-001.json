@@ -1,0 +1,17 @@
+{
+  "id": "BkrmDahal_flow-20260628-001",
+  "title": "BkrmDahal/flow",
+  "source_url": "https://github.com/BkrmDahal/flow",
+  "source_type": "github_trending",
+  "summary": "Flow 是一款 macOS 原生桌面命令中心，融合多轮 AI 智能体聊天工作区与即时语音转文字精炼功能，支持本地或云端 LLM 运行。",
+  "tags": [
+    "macOS",
+    "AI Agent",
+    "Voice Dictation",
+    "Desktop Tool"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-28T10:19:41.207189+00:00",
+  "published_at": null
+}
