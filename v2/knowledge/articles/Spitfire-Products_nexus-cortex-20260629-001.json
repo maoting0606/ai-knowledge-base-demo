@@ -1,0 +1,17 @@
+{
+  "id": "Spitfire-Products_nexus-cortex-20260629-001",
+  "title": "Spitfire-Products/nexus-cortex",
+  "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+  "source_type": "github_trending",
+  "summary": "Nexus-Cortex 是一个无头、多提供商AI代理工具，可作为库嵌入、通过CLI脚本运行或作为有状态代理服务器运行，统一编排各大LLM提供商。",
+  "tags": [
+    "AI Agent",
+    "Multi-Provider",
+    "Orchestrator",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-29T12:22:18.990249+00:00",
+  "published_at": null
+}

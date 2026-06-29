@@ -1,0 +1,17 @@
+{
+  "id": "codeantik_ai-anime-discovery-20260629-001",
+  "title": "codeantik/ai-anime-discovery",
+  "source_url": "https://github.com/codeantik/ai-anime-discovery",
+  "source_type": "github_trending",
+  "summary": "一款全栈AI动漫推荐应用，通过语义嵌入和LLM重排序学习用户口味，支持AniList个性化、对话推荐及CSV/JSON导出。",
+  "tags": [
+    "Anime",
+    "Recommendation System",
+    "Semantic Embeddings",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-29T12:22:18.990249+00:00",
+  "published_at": null
+}

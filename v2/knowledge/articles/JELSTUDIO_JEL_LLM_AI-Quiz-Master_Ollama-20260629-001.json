@@ -1,0 +1,17 @@
+{
+  "id": "JELSTUDIO_JEL_LLM_AI-Quiz-Master_Ollama-20260629-001",
+  "title": "JELSTUDIO/JEL_LLM_AI-Quiz-Master_Ollama",
+  "source_url": "https://github.com/JELSTUDIO/JEL_LLM_AI-Quiz-Master_Ollama",
+  "source_type": "github_trending",
+  "summary": "一个基于Ollama的交互式AI问答游戏项目，支持人机对战或全AI对战，集成本地LLM、实时语音播报、主题出题、自动评分及导出HTML记录。",
+  "tags": [
+    "AI Quiz",
+    "Ollama",
+    "LLM",
+    "Interactive Game"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-29T12:22:18.990249+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "meemansha004_AI-Research-Assistant-Multi-Agent-RAG-System-20260629-001",
+  "title": "meemansha004/AI-Research-Assistant-Multi-Agent-RAG-System",
+  "source_url": "https://github.com/meemansha004/AI-Research-Assistant-Multi-Agent-RAG-System",
+  "source_type": "github_trending",
+  "summary": "一个基于多智能体和RAG管道的AI研究助手，通过LLM协调器路由查询，支持检索和通用代理，集成多种工具和知识库。",
+  "tags": [
+    "Multi-Agent",
+    "RAG",
+    "AI Research Assistant",
+    "NLP"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-06-29T12:22:18.990249+00:00",
+  "published_at": null
+}
