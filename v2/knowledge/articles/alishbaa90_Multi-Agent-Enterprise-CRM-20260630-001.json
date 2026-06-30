@@ -1,0 +1,17 @@
+{
+  "id": "alishbaa90_Multi-Agent-Enterprise-CRM-20260630-001",
+  "title": "alishbaa90/Multi-Agent-Enterprise-CRM",
+  "source_url": "https://github.com/alishbaa90/Multi-Agent-Enterprise-CRM",
+  "source_type": "github_trending",
+  "summary": "该项目基于n8n构建了一个AI驱动的多智能体CRM工作流，可自动路由客户查询、生成定制销售提案或支持回复、记录活动到Google Sheets并自动化邮件跟进。",
+  "tags": [
+    "Multi-Agent",
+    "CRM",
+    "n8n",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-30T10:47:44.328409+00:00",
+  "published_at": null
+}

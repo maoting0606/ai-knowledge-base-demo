@@ -1,0 +1,17 @@
+{
+  "id": "ananymishra1_SHIMS-20260630-001",
+  "title": "ananymishra1/SHIMS",
+  "source_url": "https://github.com/ananymishra1/SHIMS",
+  "source_type": "github_trending",
+  "summary": "SHIMS是一个自托管的多人AI助手系统，支持本地LLM、云API路由、语音聊天、代码解释器和DuoBot协作模式，可在Windows/Linux上运行。",
+  "tags": [
+    "Multi-Agent",
+    "Self-Hosted",
+    "AI Assistant",
+    "Local LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-06-30T10:47:44.328409+00:00",
+  "published_at": null
+}
