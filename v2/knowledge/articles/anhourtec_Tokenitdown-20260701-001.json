@@ -1,0 +1,17 @@
+{
+  "id": "anhourtec_Tokenitdown-20260701-001",
+  "title": "anhourtec/Tokenitdown",
+  "source_url": "https://github.com/anhourtec/Tokenitdown",
+  "source_type": "github_trending",
+  "summary": "Tokenitdown 是一款开源工具，可将文档或网页转换为干净的 Markdown 格式，专为 LLM 和 RAG 优化，支持 MCP 协议、自我托管，基于微软 MarkItDown。",
+  "tags": [
+    "Markdown",
+    "LLM",
+    "RAG",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-01T11:01:13.585892+00:00",
+  "published_at": null
+}

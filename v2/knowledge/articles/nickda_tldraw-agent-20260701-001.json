@@ -1,0 +1,17 @@
+{
+  "id": "nickda_tldraw-agent-20260701-001",
+  "title": "nickda/tldraw-agent",
+  "source_url": "https://github.com/nickda/tldraw-agent",
+  "source_type": "github_trending",
+  "summary": "tldraw-agent 是一个结合 tldraw 画布与本地大语言模型的 AI 代理工具，支持离线运行，无需云账户或 API 密钥，适合本地化、隐私优先的智能绘图场景。",
+  "tags": [
+    "tldraw",
+    "local LLM",
+    "AI agent",
+    "offline"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-01T11:01:13.585892+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "41141D_ai-petApp-20260701-001",
+  "title": "41141D/ai-petApp",
+  "source_url": "https://github.com/41141D/ai-petApp",
+  "source_type": "github_trending",
+  "summary": "一个在笔记本电脑上无需WiFi即可运行的AI宠物应用，利用本地大语言模型（LLM）实现智能体功能，而不仅仅是聊天机器人。",
+  "tags": [
+    "AI Agent",
+    "Local LLM",
+    "Pet App",
+    "Offline"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-01T11:01:13.585892+00:00",
+  "published_at": null
+}

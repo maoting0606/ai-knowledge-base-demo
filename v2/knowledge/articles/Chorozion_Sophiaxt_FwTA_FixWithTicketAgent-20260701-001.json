@@ -1,0 +1,17 @@
+{
+  "id": "Chorozion_Sophiaxt_FwTA_FixWithTicketAgent-20260701-001",
+  "title": "Chorozion/Sophiaxt_FwTA_FixWithTicketAgent",
+  "source_url": "https://github.com/Chorozion/Sophiaxt_FwTA_FixWithTicketAgent",
+  "source_type": "github_trending",
+  "summary": "FwTA是一个面向Node.js/Express的安全、LLM优先的开源框架，通过`fwta init .`自动配置审计、数据库模式、票据系统（用于错误/数据/计费）和安全代理，可提出最小修复或升级，便于开发者和AI代理使用。",
+  "tags": [
+    "LLM",
+    "Node.js",
+    "Framework",
+    "Ticket System"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-01T11:01:13.585892+00:00",
+  "published_at": null
+}
