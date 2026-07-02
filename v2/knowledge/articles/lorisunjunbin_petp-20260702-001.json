@@ -1,0 +1,17 @@
+{
+  "id": "lorisunjunbin_petp-20260702-001",
+  "title": "lorisunjunbin/petp",
+  "source_url": "https://github.com/lorisunjunbin/petp",
+  "source_type": "github_trending",
+  "summary": "PetP是一个Python RPA工具包，集成80多个处理器，支持浏览器自动化、AI/LLM（10家提供商）、数据库、SSH、邮件和HTTP任务。可配置管道、定时调度和循环，支持wxPython GUI、无头服务或Docker运行，内置MCP工具服务器用于AI代理集成。",
+  "tags": [
+    "RPA",
+    "Python",
+    "AI Integration",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}

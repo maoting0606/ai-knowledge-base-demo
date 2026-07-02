@@ -1,0 +1,17 @@
+{
+  "id": "Christianye_postline-20260702-001",
+  "title": "Christianye/postline",
+  "source_url": "https://github.com/Christianye/postline",
+  "source_type": "github_trending",
+  "summary": "Postline 是一个轻量级、可扩展的移动前端，用于 Claude Code/Codex，支持通过飞书、Telegram 或 Slack 机器人驱动 AI 编码代理，并可选择嵌入 LLM。",
+  "tags": [
+    "AI Coding Agent",
+    "Mobile Frontend",
+    "IM Bot",
+    "Extensible"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}

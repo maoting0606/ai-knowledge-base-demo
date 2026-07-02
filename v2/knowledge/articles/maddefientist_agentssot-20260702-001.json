@@ -1,0 +1,17 @@
+{
+  "id": "maddefientist_agentssot-20260702-001",
+  "title": "maddefientist/agentssot",
+  "source_url": "https://github.com/maddefientist/agentssot",
+  "source_type": "github_trending",
+  "summary": "一个跨LLM的共享内存服务，为AI代理提供持久、范围化、语义化的记忆，可节省50%以上的token使用量。",
+  "tags": [
+    "LLM",
+    "Memory",
+    "AI Agents",
+    "Token Optimization"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}

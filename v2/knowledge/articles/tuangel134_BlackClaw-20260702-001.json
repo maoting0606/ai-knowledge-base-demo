@@ -1,0 +1,17 @@
+{
+  "id": "tuangel134_BlackClaw-20260702-001",
+  "title": "tuangel134/BlackClaw",
+  "source_url": "https://github.com/tuangel134/BlackClaw",
+  "source_type": "github_trending",
+  "summary": "BlackClaw是一款运行在安卓设备上的AI代理，支持本地或云端LLM，集成约85种工具，包括ADB配对、OCR和自动回复功能，目前处于Beta阶段。",
+  "tags": [
+    "AI Agent",
+    "Android",
+    "Automation",
+    "On-Device AI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}

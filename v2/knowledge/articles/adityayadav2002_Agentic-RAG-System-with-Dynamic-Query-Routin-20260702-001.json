@@ -1,0 +1,17 @@
+{
+  "id": "adityayadav2002_Agentic-RAG-System-with-Dynamic-Query-Routin-20260702-001",
+  "title": "adityayadav2002/Agentic-RAG-System-with-Dynamic-Query-Routing",
+  "source_url": "https://github.com/adityayadav2002/Agentic-RAG-System-with-Dynamic-Query-Routing",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个智能聊天机器人系统，结合检索增强生成与智能体架构，能动态选择从文档检索、LLM知识或实时网络搜索中获取答案。",
+  "tags": [
+    "RAG",
+    "Agentic AI",
+    "Query Routing",
+    "Chatbot"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}

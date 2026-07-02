@@ -1,0 +1,17 @@
+{
+  "id": "Mr5niper_Aegis-Synthesis-Architecture-20260702-001",
+  "title": "Mr5niper/Aegis-Synthesis-Architecture",
+  "source_url": "https://github.com/Mr5niper/Aegis-Synthesis-Architecture",
+  "source_type": "github_trending",
+  "summary": "一个主权优先、本地运行的个人AI助手架构，支持本地LLM推理、多模型热切换、RAG、主动代理及端到端加密P2P协作，默认私有，无需云或API，使用Python和Gradio构建。",
+  "tags": [
+    "Local AI",
+    "Privacy",
+    "RAG",
+    "P2P"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-02T10:27:09.733315+00:00",
+  "published_at": null
+}
