@@ -1,0 +1,17 @@
+{
+  "id": "robbrucker_chesterfield-report-20260703-001",
+  "title": "robbrucker/chesterfield-report",
+  "source_url": "https://github.com/robbrucker/chesterfield-report",
+  "source_type": "github_trending",
+  "summary": "一个基于LLM的自主超本地新闻系统，通过fork仓库并指向LOCALIZE.md文件，可为任何城镇、城市或县快速生成本地新闻网站。",
+  "tags": [
+    "LLM",
+    "Hyperlocal News",
+    "Autonomous System",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-03T10:24:56.400528+00:00",
+  "published_at": null
+}

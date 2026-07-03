@@ -1,0 +1,17 @@
+{
+  "id": "agent-tools-org_ai-summary-20260703-001",
+  "title": "agent-tools-org/ai-summary",
+  "source_url": "https://github.com/agent-tools-org/ai-summary",
+  "source_type": "github_trending",
+  "summary": "一个为AI编码代理设计的命令行工具，通过本地LLM或Gemini压缩网页内容，减少token消耗，实现高效搜索与摘要。",
+  "tags": [
+    "CLI",
+    "LLM",
+    "Web Summarization",
+    "Token Optimization"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-03T10:24:56.400528+00:00",
+  "published_at": null
+}

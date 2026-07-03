@@ -1,0 +1,17 @@
+{
+  "id": "7yuling_ATEE-20260703-001",
+  "title": "7yuling/ATEE",
+  "source_url": "https://github.com/7yuling/ATEE",
+  "source_type": "github_trending",
+  "summary": "ATEE是一个轻量级AI安全代理插件，部署在网站管理员服务器或内网安全节点，通过薄适配器连接网站请求，委托核心服务进行安全判断，并利用远程LLM API驱动的ATEE Agent对安全案例进行判断和惩罚。",
+  "tags": [
+    "AI Security",
+    "Plugin",
+    "LLM",
+    "Web Security"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-03T10:24:56.400528+00:00",
+  "published_at": null
+}
