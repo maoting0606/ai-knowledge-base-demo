@@ -1,0 +1,17 @@
+{
+  "id": "bobbybol_asase-ai-agent-20260704-001",
+  "title": "bobbybol/asase-ai-agent",
+  "source_url": "https://github.com/bobbybol/asase-ai-agent",
+  "source_type": "github_trending",
+  "summary": "一个可定制的AI代理，支持使用公共或本地Ollama大语言模型运行，提供灵活部署选项。",
+  "tags": [
+    "AI Agent",
+    "Ollama",
+    "LLM",
+    "Customizable"
+  ],
+  "score": 6,
+  "status": "review",
+  "collected_at": "2026-07-04T09:58:31.122216+00:00",
+  "published_at": null
+}
