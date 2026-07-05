@@ -1,0 +1,17 @@
+{
+  "id": "nikolas-sapa_grip-browser-20260705-001",
+  "title": "nikolas-sapa/grip-browser",
+  "source_url": "https://github.com/nikolas-sapa/grip-browser",
+  "source_type": "github_trending",
+  "summary": "Grip-Browser 是一个面向 AI 代理的 Python 浏览器 SDK，基于 Chrome DevTools 协议，将原始 HTML 压缩为约 50 个 token 的语义页面快照，支持模糊元素匹配、Shadow DOM 遍历、类型化错误恢复和提示注入防护。",
+  "tags": [
+    "AI Agent",
+    "Browser SDK",
+    "CDP",
+    "Token Efficiency"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-07-05T10:02:20.862821+00:00",
+  "published_at": null
+}

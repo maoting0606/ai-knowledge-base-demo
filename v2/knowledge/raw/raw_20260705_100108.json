@@ -1,0 +1,479 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/dariank38/agentic-job-scraper",
+    "title": "dariank38/agentic-job-scraper",
+    "description": "# Agentic Job Scraper - an AI-powered job monitoring system that scrapes Telegram channels, RSS feeds (V2EX, 电鸭社区), and job boards (Bossjob.com), analyzes postings with Ollama or NVIDIA LLMs, and helps developers track job opportunities with built-in AI resume generation, enhancement and scoring.",
+    "extra": {
+      "stars": 5,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "async",
+        "fastapi",
+        "jobs",
+        "llm",
+        "nvidia-nim",
+        "ollama",
+        "open-source",
+        "postgresql",
+        "prompt-engineering",
+        "python",
+        "react",
+        "rss",
+        "scraper",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript",
+        "vite"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/puppetty-org/puppetty",
+    "title": "puppetty-org/puppetty",
+    "description": "The terminal as an API — controllable PTY sessions AI agents can drive: prompts auto-answered by policy or LLM, secrets from the OS keyring, no more hangs",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/csaad-ai-engineer/multi_agent_cv",
+    "title": "csaad-ai-engineer/multi_agent_cv",
+    "description": "An interactive AI portfolio — ask questions about Chaima's CV via text or voice, powered by a LangGraph multi-agent system with RAG, local LLMs, and voice cloning.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 8,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/23seriy/devops-ai-workflows",
+    "title": "23seriy/devops-ai-workflows",
+    "description": "Curated collection of AI-agent workflows, prompts & rules for DevOps/SRE — Kubernetes debugging, AWS audits, Terraform plan reviews, CI/CD triage, Dockerfile reviews, secrets scanning & incident response. Works with Windsurf, Cursor, Claude Code or any LLM.",
+    "extra": {
+      "stars": 1,
+      "language": "Shell",
+      "topics": [
+        "ai-agent",
+        "ai-workflows",
+        "aws",
+        "chatops",
+        "cicd",
+        "cursor",
+        "devops",
+        "docker",
+        "incident-response",
+        "kubernetes",
+        "llm",
+        "observability",
+        "platform-engineering",
+        "prompts",
+        "security",
+        "sre",
+        "terraform",
+        "windsurf"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nikolas-sapa/grip-browser",
+    "title": "nikolas-sapa/grip-browser",
+    "description": "Token-efficient, CDP-native browser SDK for AI agents in Python. Gives an LLM a ~50-token semantic page snapshot instead of ~12,000 tokens of raw HTML — built directly on Chrome DevTools Protocol, no Playwright or Puppeteer. Fuzzy element matching, full shadow DOM traversal, typed error recovery, prompt-injection guard.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "autonomous-agents",
+        "browser-automation",
+        "browser-sdk",
+        "cdp",
+        "chrome-devtools-protocol",
+        "headless-chrome",
+        "llm",
+        "llm-agents",
+        "llm-tools",
+        "openai",
+        "playwright-alternative",
+        "python",
+        "token-efficient",
+        "web-automation",
+        "web-scraping"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/S3YED/cognify",
+    "title": "S3YED/cognify",
+    "description": "Lightweight typed knowledge-graph memory for AI agents. Document ingestion + LLM-extracted entities/relations with hybrid recall. Zero external services by default (ChromaDB + networkx, torch-free), or TurboVec + Neo4j at scale. Same API, multi-tenant, MCP server for Claude. Leaner than Cognee/Graphiti, more structured than plain RAG.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "chromadb",
+        "claude",
+        "knowledge-graph",
+        "mcp",
+        "memory",
+        "neo4j",
+        "rag"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AgentParadise/agentic-primitives",
+    "title": "AgentParadise/agentic-primitives",
+    "description": "Composable building blocks for AI coding agents. Model-agnostic prompts and tools that work with Claude, GPT, or any LLM provider.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 12,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mr5niper/Aegis-Synthesis-Architecture",
+    "title": "Mr5niper/Aegis-Synthesis-Architecture",
+    "description": "Sovereign, local-first personal AI assistant. Local LLM inference (llama.cpp) with multi-model hot-swap, RAG, proactive agents, and end-to-end encrypted P2P collaboration. Private by default, no cloud or API required. Python, Gradio GUI.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-assistant",
+        "end-to-end-encryption",
+        "gradio",
+        "llama-cpp",
+        "local-first",
+        "local-llm",
+        "offline-first",
+        "personal-assistant",
+        "privacy",
+        "python",
+        "rag",
+        "self-hosted"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 18,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "autonomous",
+        "chatgpt",
+        "claude-code",
+        "claude-plugin",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "gpt-5",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "mcp",
+        "natural-language",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/chasmlol/chasm",
+    "title": "chasmlol/chasm",
+    "description": "chasm — a local-first, game-agnostic AI backend for agentic NPCs. Connect any game with a mod (or build one on it); chasm provides the LLM, cloned voices, memory, and in-world actions.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 316,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+    "title": "Resolve-public/writing-assistant-chat",
+    "description": "AI writing assistant for Obsidian with chat, plan, and edit modes. Connects to local or cloud LLM providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ]
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/NavidBroumandfar/Agentic-Excel-Review-Template",
+    "title": "NavidBroumandfar/Agentic-Excel-Review-Template",
+    "description": "A fully modular, open-source template for building agentic AI workflows on top of structured Excel processes. Includes Excel ingestion, LLM reasoning (local or API), RAG document retrieval, JSONL logging, and an orchestrated agent pipeline. Built for data teams who want to modernize review workflows with safe, assistive AI automation.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/robbrucker/chesterfield-report",
+    "title": "robbrucker/chesterfield-report",
+    "description": "Autonomous LLM-driven hyperlocal news system. Fork it and point an AI agent at LOCALIZE.md to spin up a local news site for any town, city, or county.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-05T10:01:06.025918+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://0dd.company/galleries/triumph/1.html",
+    "title": "",
+    "description": "Article URL: https://www.devever.net/~hl/webcrypto\nComments URL: https://news.ycombinator.com/item?id=48792203\nPoints: 15\n# Comments: 13\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 08:01:29 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+    "title": "",
+    "description": "Article URL: https://craigmod.com/essays/fast_software/\nComments URL: https://news.ycombinator.com/item?id=48792008\nPoints: 7\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 07:25:25 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+    "title": "",
+    "description": "Article URL: https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong\nComments URL: https://news.ycombinator.com/item?id=48791799\nPoints: 38\n# Comments: 32\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 06:40:05 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
+    "title": "",
+    "description": "Article URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/\nComments URL: https://news.ycombinator.com/item?id=48791708\nPoints: 44\n# Comments: 49\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 06:19:34 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+    "title": "",
+    "description": "Article URL: https://ui.shadcn.com/docs/changelog\nComments URL: https://news.ycombinator.com/item?id=48791328\nPoints: 122\n# Comments: 38\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 04:46:08 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+    "title": "",
+    "description": "Article URL: https://www.animmouse.com/p/my-asn-journey/\nComments URL: https://news.ycombinator.com/item?id=48791256\nPoints: 19\n# Comments: 6\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 04:29:05 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://gutsgatesguards.wordpress.com/2026/06/23/the-preemptive-draw-and-preemptive-grip-in-the-cash-in-transit-sector-part-1/",
+    "title": "",
+    "description": "Article URL: https://arxiv.org/abs/2605.21997\nComments URL: https://news.ycombinator.com/item?id=48790912\nPoints: 43\n# Comments: 10\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 02:57:38 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "",
+    "description": "Article URL: https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/\nComments URL: https://news.ycombinator.com/item?id=48790512\nPoints: 47\n# Comments: 5\n]]>",
+    "extra": {
+      "pub_date": "Sun, 05 Jul 2026 01:23:11 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "",
+    "description": "Article URL: https://www.cggonzalez.com/blog/index.html\nComments URL: https://news.ycombinator.com/item?id=48789965\nPoints: 54\n# Comments: 5\n]]>",
+    "extra": {
+      "pub_date": "Sat, 04 Jul 2026 23:22:15 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+    "title": "",
+    "description": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 270\n# Comments: 103\n]]>",
+    "extra": {
+      "pub_date": "Sat, 04 Jul 2026 21:51:09 +0000"
+    },
+    "collected_at": "2026-07-05T10:01:08.423517+00:00"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "S3YED_cognify-20260705-001",
+  "title": "S3YED/cognify",
+  "source_url": "https://github.com/S3YED/cognify",
+  "source_type": "github_trending",
+  "summary": "Cognify 是一个轻量级、类型化的知识图谱记忆系统，专为AI代理设计。它支持文档摄取、LLM提取实体关系，并提供混合召回。默认无需外部服务（使用ChromaDB和networkx，无PyTorch），也可扩展至TurboVec和Neo4j。支持多租户和MCP服务器，比Cognee/Graphiti更精简，比普通RAG更结构化。",
+  "tags": [
+    "Knowledge Graph",
+    "AI Agent",
+    "RAG",
+    "Memory"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-05T10:02:20.862821+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "puppetty-org_puppetty-20260705-001",
+  "title": "puppetty-org/puppetty",
+  "source_url": "https://github.com/puppetty-org/puppetty",
+  "source_type": "github_trending",
+  "summary": "Puppetty 将终端作为 API，提供可控的 PTY 会话，支持 AI 代理驱动。通过策略或 LLM 自动应答提示，从操作系统密钥环获取密钥，避免挂起问题。",
+  "tags": [
+    "PTY",
+    "AI Agent",
+    "Terminal API",
+    "Secrets Management"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-05T10:02:20.862821+00:00",
+  "published_at": null
+}
