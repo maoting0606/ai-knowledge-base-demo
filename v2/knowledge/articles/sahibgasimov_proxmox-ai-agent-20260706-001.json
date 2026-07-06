@@ -1,0 +1,17 @@
+{
+  "id": "sahibgasimov_proxmox-ai-agent-20260706-001",
+  "title": "sahibgasimov/proxmox-ai-agent",
+  "source_url": "https://github.com/sahibgasimov/proxmox-ai-agent",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个自定义AI代理，通过自然语言命令管理Proxmox虚拟化平台，支持本地LLM或OpenAI模型，提升运维效率。",
+  "tags": [
+    "Proxmox",
+    "AI Agent",
+    "LLM",
+    "Infrastructure Management"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-06T11:54:15.589536+00:00",
+  "published_at": null
+}

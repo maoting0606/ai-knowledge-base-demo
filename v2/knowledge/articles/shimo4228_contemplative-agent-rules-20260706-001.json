@@ -1,0 +1,17 @@
+{
+  "id": "shimo4228_contemplative-agent-rules-20260706-001",
+  "title": "shimo4228/contemplative-agent-rules",
+  "source_url": "https://github.com/shimo4228/contemplative-agent-rules",
+  "source_type": "github_trending",
+  "summary": "该项目提供一套可即插即用的AI对齐规则，基于Laukkonen等人(2025)的四个沉思公理，适用于Claude Code、Cursor等任何智能体，并通过IPD基准验证。",
+  "tags": [
+    "AI alignment",
+    "contemplative axioms",
+    "agent rules",
+    "LLM safety"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-06T11:54:15.589536+00:00",
+  "published_at": null
+}

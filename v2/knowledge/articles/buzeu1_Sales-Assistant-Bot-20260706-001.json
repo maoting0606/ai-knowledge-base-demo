@@ -1,0 +1,17 @@
+{
+  "id": "buzeu1_Sales-Assistant-Bot-20260706-001",
+  "title": "buzeu1/Sales-Assistant-Bot",
+  "source_url": "https://github.com/buzeu1/Sales-Assistant-Bot",
+  "source_type": "github_trending",
+  "summary": "一个基于Groq LLM和三级搜索引擎的Microsoft Teams AI销售助手，支持打字、语音或拼写错误输入，可即时查找产品、检查库存和价格，并生成可发送的PDF报价单。",
+  "tags": [
+    "AI Sales Agent",
+    "Microsoft Teams",
+    "Groq LLM",
+    "Search Engine"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-06T11:54:15.589536+00:00",
+  "published_at": null
+}

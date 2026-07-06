@@ -1,0 +1,17 @@
+{
+  "id": "FikriAlfaraby_wa-lead-extractor-20260706-001",
+  "title": "FikriAlfaraby/wa-lead-extractor",
+  "source_url": "https://github.com/FikriAlfaraby/wa-lead-extractor",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个端到端的WhatsApp房产线索AI再参与管道，包含引用或空值提取护栏、资格状态机、每个代理的语音编写器、LLM作为评判的评估以及人工审批队列。",
+  "tags": [
+    "AI pipeline",
+    "lead extraction",
+    "WhatsApp",
+    "state machine"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-06T11:54:15.589536+00:00",
+  "published_at": null
+}
