@@ -1,0 +1,17 @@
+{
+  "id": "retnine9_Self-Updating-Context-Wiki-for-IDE-Agents-20260707-001",
+  "title": "retnine9/Self-Updating-Context-Wiki-for-IDE-Agents",
+  "source_url": "https://github.com/retnine9/Self-Updating-Context-Wiki-for-IDE-Agents",
+  "source_type": "github_trending",
+  "summary": "该项目为IDE中的AI代理提供自更新的上下文维基，自动读取新会话摘要，通过LLM合成并追加到维基中，支持按部分和时间线组织，轻量级MD文件便于代理引用历史信息。",
+  "tags": [
+    "AI Agents",
+    "Context Management",
+    "LLM",
+    "IDE"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}

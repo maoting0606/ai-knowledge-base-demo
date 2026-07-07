@@ -1,0 +1,17 @@
+{
+  "id": "esterhuizen_opensidekick-20260707-001",
+  "title": "esterhuizen/opensidekick",
+  "source_url": "https://github.com/esterhuizen/opensidekick",
+  "source_type": "github_trending",
+  "summary": "开源、供应商无关的AI浏览器代理，支持多种LLM（OpenRouter、OpenAI、Claude、Gemini、Groq或本地模型），基于MV3 Chrome扩展实现。",
+  "tags": [
+    "AI Agent",
+    "Browser Extension",
+    "Open Source",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}

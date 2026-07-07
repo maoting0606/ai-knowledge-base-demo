@@ -1,0 +1,17 @@
+{
+  "id": "bolthq_orex-20260707-001",
+  "title": "bolthq/orex",
+  "source_url": "https://github.com/bolthq/orex",
+  "source_type": "github_trending",
+  "summary": "Orex 是一个个人 AI 代理操作系统，提供内置工具（文件/Shell/Web）、MCP 插件生态、多提供商 LLM 路由、权限系统及 TUI/Web 界面，支持本地聊天或 HTTP 服务运行。",
+  "tags": [
+    "AI Agent",
+    "Framework",
+    "MCP",
+    "Local"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}

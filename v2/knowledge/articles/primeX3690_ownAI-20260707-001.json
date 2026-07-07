@@ -1,0 +1,17 @@
+{
+  "id": "primeX3690_ownAI-20260707-001",
+  "title": "primeX3690/ownAI",
+  "source_url": "https://github.com/primeX3690/ownAI",
+  "source_type": "github_trending",
+  "summary": "ownAI是一个小型、经过测试的非LLM AI代理，基于主动推理实现信念更新、在线世界模型学习和进化超参数调优，完全离线运行，无需互联网或GPU。",
+  "tags": [
+    "Active Inference",
+    "AI Agent",
+    "Offline",
+    "Evolutionary Tuning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}

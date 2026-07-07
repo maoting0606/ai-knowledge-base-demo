@@ -1,0 +1,17 @@
+{
+  "id": "sritajkumarpatel_portforge-20260707-001",
+  "title": "sritajkumarpatel/portforge",
+  "source_url": "https://github.com/sritajkumarpatel/portforge",
+  "source_type": "github_trending",
+  "summary": "PortForge 是一个模板与代理指令系统，允许用户通过与 AI 代理（如 opencode、Claude Code 等）对话，快速生成可用于生产的个人作品集网站。",
+  "tags": [
+    "AI Agent",
+    "Portfolio Generator",
+    "Template System",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}

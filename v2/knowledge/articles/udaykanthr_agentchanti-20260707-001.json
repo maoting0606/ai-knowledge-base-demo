@@ -1,0 +1,17 @@
+{
+  "id": "udaykanthr_agentchanti-20260707-001",
+  "title": "udaykanthr/agentchanti",
+  "source_url": "https://github.com/udaykanthr/agentchanti",
+  "source_type": "github_trending",
+  "summary": "AgentChanti 是一个自主多智能体AI编码CLI和Python库，内置RAG，支持本地或云端LLM，可完成规划、编码、审查和测试。",
+  "tags": [
+    "Multi-Agent",
+    "AI Coding",
+    "RAG",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-07T10:43:51.326530+00:00",
+  "published_at": null
+}
