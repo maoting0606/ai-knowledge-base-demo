@@ -1,0 +1,17 @@
+{
+  "id": "NicoIzco_VectorMCP-20260708-001",
+  "title": "NicoIzco/VectorMCP",
+  "source_url": "https://github.com/NicoIzco/VectorMCP",
+  "source_type": "github_trending",
+  "summary": "VectorMCP 是一个中间件，为AI代理（如Claude、Grok等）提供工具发现、嵌入和语义检索功能，基于FAISS实现，相比标准MCP的精确匹配，在模糊查询上召回率提升20-40%，支持持久化和易管理。",
+  "tags": [
+    "MCP",
+    "FAISS",
+    "Semantic Retrieval",
+    "AI Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-08T10:05:18.074852+00:00",
+  "published_at": null
+}

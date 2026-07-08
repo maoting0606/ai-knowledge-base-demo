@@ -1,0 +1,17 @@
+{
+  "id": "Fatima-26-23_Spell-Clash-20260708-001",
+  "title": "Fatima-26-23/Spell-Clash",
+  "source_url": "https://github.com/Fatima-26-23/Spell-Clash",
+  "source_type": "github_trending",
+  "summary": "一个基于《哈利·波特》主题的回合制咒语对战游戏，完全在浏览器中运行。支持玩家对战AI，或观看两个本地LLM代理对决，无需后端或构建步骤，仅使用原生HTML/CSS/JS调用本地Ollama实例。",
+  "tags": [
+    "Harry Potter",
+    "Turn-based Game",
+    "Local LLM",
+    "Browser Game"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-08T10:05:18.074852+00:00",
+  "published_at": null
+}
