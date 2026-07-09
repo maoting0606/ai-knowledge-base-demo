@@ -1,0 +1,17 @@
+{
+  "id": "Rabin-coder09_ai-first-crm-hcp-module-20260709-001",
+  "title": "Rabin-coder09/ai-first-crm-hcp-module",
+  "source_url": "https://github.com/Rabin-coder09/ai-first-crm-hcp-module",
+  "source_type": "github_trending",
+  "summary": "一个面向医药代表的AI优先CRM模块，支持结构化表单或自然语言聊天记录HCP互动，基于LangGraph代理（7个工具）和Groq LLM，前端React/Redux，后端FastAPI/Postgres。",
+  "tags": [
+    "AI CRM",
+    "LangGraph",
+    "Pharma",
+    "Groq LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-09T10:44:33.817504+00:00",
+  "published_at": null
+}

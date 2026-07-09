@@ -1,0 +1,17 @@
+{
+  "id": "vishant8491_RepMind-20260709-001",
+  "title": "vishant8491/RepMind",
+  "source_url": "https://github.com/vishant8491/RepMind",
+  "source_type": "github_trending",
+  "summary": "一个AI优先的CRM模块，用于医药销售代表与HCP（医疗保健专业人员）的交互记录。支持结构化表单和对话式聊天两种方式，结合React/Redux前端、FastAPI后端和LangGraph代理（Groq LLM）。",
+  "tags": [
+    "CRM",
+    "AI Agent",
+    "Pharma",
+    "LangGraph"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-09T10:44:33.817504+00:00",
+  "published_at": null
+}

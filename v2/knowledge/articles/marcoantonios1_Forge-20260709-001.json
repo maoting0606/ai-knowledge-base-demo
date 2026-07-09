@@ -1,0 +1,17 @@
+{
+  "id": "marcoantonios1_Forge-20260709-001",
+  "title": "marcoantonios1/Forge",
+  "source_url": "https://github.com/marcoantonios1/Forge",
+  "source_type": "github_trending",
+  "summary": "Forge 是一个终端原生的 AI 编码代理，支持多种 LLM（如本地或云端模型），类似 Claude Code 但模型无关，并集成 Costguard 进行成本控制。",
+  "tags": [
+    "AI coding agent",
+    "terminal",
+    "multi-LLM",
+    "cost optimization"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-09T10:44:33.817504+00:00",
+  "published_at": null
+}

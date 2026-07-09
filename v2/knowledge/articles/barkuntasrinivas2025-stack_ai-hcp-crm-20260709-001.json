@@ -1,0 +1,17 @@
+{
+  "id": "barkuntasrinivas2025-stack_ai-hcp-crm-20260709-001",
+  "title": "barkuntasrinivas2025-stack/ai-hcp-crm",
+  "source_url": "https://github.com/barkuntasrinivas2025-stack/ai-hcp-crm",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的医疗CRM模块，支持通过结构化表单或对话聊天记录医疗专业人员互动，后端由LangGraph代理和Groq大语言模型驱动。",
+  "tags": [
+    "AI CRM",
+    "Healthcare",
+    "LangGraph",
+    "Groq LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-09T10:44:33.817504+00:00",
+  "published_at": null
+}

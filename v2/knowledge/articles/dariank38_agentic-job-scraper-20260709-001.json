@@ -1,0 +1,17 @@
+{
+  "id": "dariank38_agentic-job-scraper-20260709-001",
+  "title": "dariank38/agentic-job-scraper",
+  "source_url": "https://github.com/dariank38/agentic-job-scraper",
+  "source_type": "github_trending",
+  "summary": "一个AI驱动的求职监控系统，可抓取Telegram、RSS（V2EX、电鸭社区）和Bossjob.com的招聘信息，利用Ollama或NVIDIA LLM分析职位，并内置AI简历生成、优化与评分功能。",
+  "tags": [
+    "AI Job Scraper",
+    "LLM Analysis",
+    "Resume Generator",
+    "Job Monitoring"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-09T10:44:33.817504+00:00",
+  "published_at": null
+}
