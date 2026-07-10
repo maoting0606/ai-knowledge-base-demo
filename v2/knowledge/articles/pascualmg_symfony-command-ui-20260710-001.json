@@ -1,0 +1,17 @@
+{
+  "id": "pascualmg_symfony-command-ui-20260710-001",
+  "title": "pascualmg/symfony-command-ui",
+  "source_url": "https://github.com/pascualmg/symfony-command-ui",
+  "source_type": "github_trending",
+  "summary": "一个为Symfony框架设计的Web UI和API，允许通过浏览器或AI代理执行控制台命令。支持自动发现命令、动态表单、NDJSON流式终端，并可作为MCP兼容端点供LLM使用。",
+  "tags": [
+    "Symfony",
+    "Web UI",
+    "MCP",
+    "Command Runner"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-10T10:43:19.825388+00:00",
+  "published_at": null
+}

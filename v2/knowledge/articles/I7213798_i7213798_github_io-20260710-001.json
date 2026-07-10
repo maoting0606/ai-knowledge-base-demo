@@ -1,0 +1,17 @@
+{
+  "id": "I7213798_i7213798_github_io-20260710-001",
+  "title": "I7213798/i7213798.github.io",
+  "source_url": "https://github.com/I7213798/i7213798.github.io",
+  "source_type": "github_trending",
+  "summary": "该项目提供将GitBook文档导出为纯净Markdown的工具，便于LLM和AI代理直接使用，无需浏览器或手动解析。",
+  "tags": [
+    "GitBook",
+    "Markdown",
+    "LLM",
+    "Documentation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-10T10:43:19.825388+00:00",
+  "published_at": null
+}

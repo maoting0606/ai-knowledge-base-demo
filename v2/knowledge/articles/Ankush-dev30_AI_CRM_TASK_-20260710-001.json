@@ -1,0 +1,17 @@
+{
+  "id": "Ankush-dev30_AI_CRM_TASK_-20260710-001",
+  "title": "Ankush-dev30/AI_CRM_TASK.",
+  "source_url": "https://github.com/Ankush-dev30/AI_CRM_TASK.",
+  "source_type": "github_trending",
+  "summary": "一个AI优先的CRM模块，专为医药代表设计，用于记录HCP互动。支持结构化表单或基于LangGraph的智能代理（使用Groq gemma2-9b-it模型），包含5种工具（如实体提取和编辑互动）。技术栈：React/Redux、FastAPI、LangGraph、Groq、PostgreSQL/MySQL。",
+  "tags": [
+    "AI CRM",
+    "LangGraph",
+    "Pharma",
+    "HCP"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-10T10:43:19.825388+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chasmlol_chasm-20260710-001",
+  "title": "chasmlol/chasm",
+  "source_url": "https://github.com/chasmlol/chasm",
+  "source_type": "github_trending",
+  "summary": "chasm是一个本地优先、游戏无关的AI后端，用于智能NPC。通过模组连接任何游戏，提供LLM、克隆语音、记忆和世界内动作。",
+  "tags": [
+    "AI",
+    "NPC",
+    "Game Development",
+    "Local-first"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-10T10:43:19.825388+00:00",
+  "published_at": null
+}

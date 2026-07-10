@@ -1,0 +1,478 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 328,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nickda/tldraw-agent",
+    "title": "nickda/tldraw-agent",
+    "description": "tldraw AI agent with a local-model backend — run the canvas agent offline against a local LLM, no cloud account or API keys",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Ankush-dev30/AI_CRM_TASK.",
+    "title": "Ankush-dev30/AI_CRM_TASK.",
+    "description": "AI-first CRM HCP module — \"Log Interaction Screen\" lets pharma field reps log HCP interactions via a structured form or a LangGraph agent (Groq gemma2-9b-it) with 5 tools, including log_interaction (LLM entity extraction) and edit_interaction. Stack: React/Redux, FastAPI, LangGraph, Groq, PostgreSQL/MySQL.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/I7213798/i7213798.github.io",
+    "title": "I7213798/i7213798.github.io",
+    "description": "Export GitBook documentation to clean Markdown for LLM ingestion and AI agent context without browser overhead or manual parsing.",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Akshat191005/Agentic-chatbot",
+    "title": "Akshat191005/Agentic-chatbot",
+    "description": "An AI News Agent built with LangGraph, LangChain, Groq, and Tavily Search that fetches the latest AI news, summarizes it using LLMs, and generates daily, weekly, or monthly markdown reports through an agentic workflow.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 2888,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/pascualmg/symfony-command-ui",
+    "title": "pascualmg/symfony-command-ui",
+    "description": "Web UI + API to execute Symfony console commands from the browser or any AI agent. Auto-discovers commands, dynamic forms, NDJSON streaming terminal. Works as an MCP-compatible endpoint for LLMs.",
+    "extra": {
+      "stars": 4,
+      "language": "PHP",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/codeproxy-ai/core",
+    "title": "codeproxy-ai/core",
+    "description": "@codeproxy/core is a zero-dependency TypeScript library that converts upstream LLM responses in Chat Completions or Anthropic Messages format into the OpenAI Responses API format, so that AI coding agents like Codex and Claude Code can work with any language model.",
+    "extra": {
+      "stars": 5,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentd-dev/source-code",
+    "title": "agentd-dev/source-code",
+    "description": "A minimal, MCP-native, cloud-native AI agent runtime. One small static Rust binary runs one agent: hand it an instruction and one LLM endpoint, and it runs the agentic loop — think, call a tool, observe, repeat — until the task reaches a terminal status or a new event wakes it.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "harness",
+        "mcp",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/dariank38/agentic-job-scraper",
+    "title": "dariank38/agentic-job-scraper",
+    "description": "# Agentic Job Scraper - an AI-powered job monitoring system that scrapes Telegram channels, RSS feeds (V2EX, 电鸭社区), and job boards (Bossjob.com), analyzes postings with Ollama or NVIDIA LLMs, and helps developers track job opportunities with built-in AI resume generation, enhancement and scoring.",
+    "extra": {
+      "stars": 5,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "async",
+        "fastapi",
+        "jobs",
+        "llm",
+        "nvidia-nim",
+        "ollama",
+        "open-source",
+        "postgresql",
+        "prompt-engineering",
+        "python",
+        "react",
+        "rss",
+        "scraper",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript",
+        "vite"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/chasmlol/chasm",
+    "title": "chasmlol/chasm",
+    "description": "chasm — a local-first, game-agnostic AI backend for agentic NPCs. Connect any game with a mod (or build one on it); chasm provides the LLM, cloned voices, memory, and in-world actions.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 42,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "autonomous",
+        "chatgpt",
+        "claude-code",
+        "claude-plugin",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "gpt-5",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "mcp",
+        "natural-language",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/smSamani/DonnaAiSecretary",
+    "title": "smSamani/DonnaAiSecretary",
+    "description": "AI job-hunting secretary on Telegram: a bounded LangGraph tool-calling agent with human-in-the-loop approval, proactive reminders, LLM extraction, and pgvector semantic case resolution. Tracks applications, interviews, and follow-ups by text or voice in English/Persian/Finglish. Python 3.11, PostgreSQL/pgvector, Gemini.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 1288,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/knarayanareddy/AI-Arsenal",
+    "title": "knarayanareddy/AI-Arsenal",
+    "description": "AI Arsenal is a living, machine-readable, community-maintained encyclopedia of the AI engineering field — structured so that a human, an LLM, or an autonomous agent can consume it with equal effectiveness",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 294,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-07-10T10:42:15.040524+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "title": "",
+    "description": "Article URL: https://nevo-project.epfl.ch/\nComments URL: https://news.ycombinator.com/item?id=48856904\nPoints: 66\n# Comments: 58\n]]>",
+    "extra": {
+      "pub_date": "Fri, 10 Jul 2026 07:39:11 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+    "title": "",
+    "description": "Article URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full\nComments URL: https://news.ycombinator.com/item?id=48854247\nPoints: 128\n# Comments: 110\n]]>",
+    "extra": {
+      "pub_date": "Fri, 10 Jul 2026 00:20:28 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+    "title": "",
+    "description": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming i",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 20:51:06 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "",
+    "description": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628\n\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 1301\n# Comments: 918\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 17:04:14 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+    "title": "",
+    "description": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.Here’s a demo video: https://www.tella.tv/video/build-faster-with-context-dev-api...Since it’s an API, here are the docs: https://docs.context.dev/quickstart.You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, ",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 15:28:39 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://hy.tencent.com/research/hy3",
+    "title": "",
+    "description": "Article URL: https://www.damninteresting.com/a-possible-future/\nComments URL: https://news.ycombinator.com/item?id=48847511\nPoints: 285\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 15:25:25 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "title": "",
+    "description": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt\nComments URL: https://news.ycombinator.com/item?id=48846281\nPoints: 283\n# Comments: 218\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 14:16:34 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "title": "",
+    "description": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/\nComments URL: https://news.ycombinator.com/item?id=48845442\nPoints: 381\n# Comments: 481\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 13:24:43 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "title": "",
+    "description": "Article URL: https://18words.com/\nComments URL: https://news.ycombinator.com/item?id=48845049\nPoints: 1007\n# Comments: 323\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 12:48:52 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://news.ycombinator.com/item?id=48844517",
+    "title": "",
+    "description": "Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/\nComments URL: https://news.ycombinator.com/item?id=48843923\nPoints: 1410\n# Comments: 667\n]]>",
+    "extra": {
+      "pub_date": "Thu, 09 Jul 2026 11:03:54 +0000"
+    },
+    "collected_at": "2026-07-10T10:42:15.195343+00:00"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "Akshat191005_Agentic-chatbot-20260710-001",
+  "title": "Akshat191005/Agentic-chatbot",
+  "source_url": "https://github.com/Akshat191005/Agentic-chatbot",
+  "source_type": "github_trending",
+  "summary": "基于LangGraph、LangChain、Groq和Tavily Search构建的AI新闻代理，可获取最新AI新闻，通过LLM生成摘要，并输出每日、每周或每月的Markdown报告。",
+  "tags": [
+    "AI Agent",
+    "LangGraph",
+    "News Summarization",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-10T10:43:19.825388+00:00",
+  "published_at": null
+}
