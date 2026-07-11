@@ -1,0 +1,17 @@
+{
+  "id": "DrewGGM_ai-content-bot-20260711-001",
+  "title": "DrewGGM/ai-content-bot",
+  "source_url": "https://github.com/DrewGGM/ai-content-bot",
+  "source_type": "github_trending",
+  "summary": "一个多智能体AI社交媒体内容机器人，可自动生成Reels、轮播图和帖子，支持多种编码代理和LLM API，并包含人工审核面板。",
+  "tags": [
+    "AI Content Generation",
+    "Multi-Agent",
+    "Social Media Automation",
+    "Human-in-the-Loop"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-11T09:15:09.718669+00:00",
+  "published_at": null
+}

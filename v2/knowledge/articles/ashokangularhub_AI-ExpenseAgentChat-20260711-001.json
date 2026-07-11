@@ -1,0 +1,16 @@
+{
+  "id": "ashokangularhub_AI-ExpenseAgentChat-20260711-001",
+  "title": "ashokangularhub/AI-ExpenseAgentChat",
+  "source_url": "https://github.com/ashokangularhub/AI-ExpenseAgentChat",
+  "source_type": "github_trending",
+  "summary": "一个集成了AI代理的聊天应用，能处理通用LLM查询和费用相关查询，支持用户通过自然语言交互管理支出。",
+  "tags": [
+    "AI Agent",
+    "Expense Management",
+    "Chat Application"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-11T09:15:09.718669+00:00",
+  "published_at": null
+}
