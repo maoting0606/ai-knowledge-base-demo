@@ -1,0 +1,17 @@
+{
+  "id": "Vashu2003_hcp-crm-ai-agent-20260712-001",
+  "title": "Vashu2003/hcp-crm-ai-agent",
+  "source_url": "https://github.com/Vashu2003/hcp-crm-ai-agent",
+  "source_type": "github_trending",
+  "summary": "一个面向医药代表的AI优先CRM系统，支持结构化表单或聊天记录HCP互动，基于LangGraph代理（Groq LLM）和5个工具，后端FastAPI+PostgreSQL，前端React/Redux。",
+  "tags": [
+    "CRM",
+    "AI Agent",
+    "LangGraph",
+    "Healthcare"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-12T09:42:09.714385+00:00",
+  "published_at": null
+}

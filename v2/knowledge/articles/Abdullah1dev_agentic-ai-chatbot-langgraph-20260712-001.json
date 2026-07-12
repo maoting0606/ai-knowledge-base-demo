@@ -1,0 +1,17 @@
+{
+  "id": "Abdullah1dev_agentic-ai-chatbot-langgraph-20260712-001",
+  "title": "Abdullah1dev/agentic-ai-chatbot-langgraph",
+  "source_url": "https://github.com/Abdullah1dev/agentic-ai-chatbot-langgraph",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个基于LangGraph、LangChain和Streamlit的智能AI聊天机器人，能自动判断何时使用LLM回答或从用户上传的PDF中通过RAG检索信息，集成了FAISS、Hugging Face Embeddings和LangSmith。",
+  "tags": [
+    "Agentic AI",
+    "LangGraph",
+    "RAG",
+    "Chatbot"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-12T09:42:09.714385+00:00",
+  "published_at": null
+}

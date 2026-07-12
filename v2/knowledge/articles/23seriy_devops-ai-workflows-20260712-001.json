@@ -1,0 +1,17 @@
+{
+  "id": "23seriy_devops-ai-workflows-20260712-001",
+  "title": "23seriy/devops-ai-workflows",
+  "source_url": "https://github.com/23seriy/devops-ai-workflows",
+  "source_type": "github_trending",
+  "summary": "一个精选的AI代理工作流、提示和规则集合，专为DevOps/SRE设计，涵盖Kubernetes调试、AWS审计、Terraform计划审查、CI/CD分类、Dockerfile审查、秘密扫描和事件响应，兼容Windsurf、Cursor、Claude Code等LLM工具。",
+  "tags": [
+    "DevOps",
+    "AI Workflows",
+    "SRE",
+    "Kubernetes"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-12T09:42:09.714385+00:00",
+  "published_at": null
+}

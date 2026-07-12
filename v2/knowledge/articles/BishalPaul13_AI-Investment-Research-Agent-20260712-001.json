@@ -1,0 +1,17 @@
+{
+  "id": "BishalPaul13_AI-Investment-Research-Agent-20260712-001",
+  "title": "BishalPaul13/AI-Investment-Research-Agent",
+  "source_url": "https://github.com/BishalPaul13/AI-Investment-Research-Agent",
+  "source_type": "github_trending",
+  "summary": "基于LangGraph和Groq LLM的AI投资研究代理，实时获取股票数据，生成股权报告并从五个维度评分，输出投资或放弃的结论。",
+  "tags": [
+    "AI Agent",
+    "Investment Research",
+    "LangGraph",
+    "Stock Analysis"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-12T09:42:09.714385+00:00",
+  "published_at": null
+}
