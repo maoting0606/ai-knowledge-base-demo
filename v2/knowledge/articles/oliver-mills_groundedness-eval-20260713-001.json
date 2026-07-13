@@ -1,0 +1,17 @@
+{
+  "id": "oliver-mills_groundedness-eval-20260713-001",
+  "title": "oliver-mills/groundedness-eval",
+  "source_url": "https://github.com/oliver-mills/groundedness-eval",
+  "source_type": "github_trending",
+  "summary": "一个用于评估AI代理回答是否基于工具结果的开源工具，通过LLM作为裁判来检测无根据或虚构的声明。",
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Factuality",
+    "AI Safety"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-13T10:48:23.890837+00:00",
+  "published_at": null
+}

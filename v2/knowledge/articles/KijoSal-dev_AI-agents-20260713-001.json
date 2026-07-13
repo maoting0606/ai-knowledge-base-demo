@@ -1,0 +1,17 @@
+{
+  "id": "KijoSal-dev_AI-agents-20260713-001",
+  "title": "KijoSal-dev/AI-agents",
+  "source_url": "https://github.com/KijoSal-dev/AI-agents",
+  "source_type": "github_trending",
+  "summary": "该项目系统介绍AI Agent的核心组件、演进历程及实施决策标准，通过图示帮助判断何时使用简单LLM、工作流自动化或完整AI Agent，解决任务是否适合Agent化的问题。",
+  "tags": [
+    "AI Agents",
+    "LLM",
+    "Workflow Automation",
+    "Decision Framework"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-13T10:48:23.890837+00:00",
+  "published_at": null
+}

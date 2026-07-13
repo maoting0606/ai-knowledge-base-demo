@@ -1,0 +1,17 @@
+{
+  "id": "doctor-ai-phd_khoj-ai-brain-20260713-001",
+  "title": "doctor-ai-phd/khoj-ai-brain",
+  "source_url": "https://github.com/doctor-ai-phd/khoj-ai-brain",
+  "source_type": "github_trending",
+  "summary": "Khoj AI Brain 是一个自托管的个人AI助手，可从网页或文档中获取答案，支持构建自定义代理、调度自动化、深度研究，并能将任何在线或本地LLM转化为自主AI。",
+  "tags": [
+    "self-hosted",
+    "AI assistant",
+    "LLM integration",
+    "automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-13T10:48:23.890837+00:00",
+  "published_at": null
+}
