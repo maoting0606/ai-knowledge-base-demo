@@ -1,0 +1,17 @@
+{
+  "id": "Saba-Burduli_agentcore-20260714-001",
+  "title": "Saba-Burduli/agentcore",
+  "source_url": "https://github.com/Saba-Burduli/agentcore",
+  "source_type": "github_trending",
+  "summary": "AgentCore是一个轻量级本地AI代理执行运行时，用C17编写，提供验证过的工具调度层，供LLM或其他控制器使用，不嵌入模型提供者、网络客户端或shell。",
+  "tags": [
+    "AI Agent",
+    "C17",
+    "Runtime",
+    "Tool Dispatch"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-14T09:44:51.002710+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "JetBrains_junie-20260714-001",
+  "title": "JetBrains/junie",
+  "source_url": "https://github.com/JetBrains/junie",
+  "source_type": "github_trending",
+  "summary": "JetBrains 推出的 AI 编程代理，支持在终端、IDE 或 CI/CD 管道中自动生成代码，可自由选择底层大语言模型。",
+  "tags": [
+    "AI Coding Agent",
+    "JetBrains",
+    "LLM",
+    "DevOps"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-14T09:44:51.002710+00:00",
+  "published_at": null
+}

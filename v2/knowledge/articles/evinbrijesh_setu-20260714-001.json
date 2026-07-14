@@ -1,0 +1,17 @@
+{
+  "id": "evinbrijesh_setu-20260714-001",
+  "title": "evinbrijesh/setu",
+  "source_url": "https://github.com/evinbrijesh/setu",
+  "source_type": "github_trending",
+  "summary": "Setu是一个语音优先的AI代理，帮助印度公民通过自然语言（印地语、泰米尔语、Hinglish）处理政府官僚事务，如证书、福利计划和身份文件。基于Sarvam AI、Render Workflows和Supabase构建。",
+  "tags": [
+    "Voice AI",
+    "Government Services",
+    "India",
+    "Multilingual"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-14T09:44:51.002710+00:00",
+  "published_at": null
+}
