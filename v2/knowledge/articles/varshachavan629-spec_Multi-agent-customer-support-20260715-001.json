@@ -1,0 +1,17 @@
+{
+  "id": "varshachavan629-spec_Multi-agent-customer-support-20260715-001",
+  "title": "varshachavan629-spec/Multi-agent-customer-support",
+  "source_url": "https://github.com/varshachavan629-spec/Multi-agent-customer-support",
+  "source_type": "github_trending",
+  "summary": "基于Python、Flask、LangChain、LangGraph、Groq LLM和SQLite构建的多智能体AI客服系统，智能路由客户查询至专业AI代理，支持CSV知识库或LLM回答，存储对话历史，包含用户和管理员门户。",
+  "tags": [
+    "Multi-Agent",
+    "Customer Support",
+    "LangChain",
+    "AI"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-15T09:47:56.801876+00:00",
+  "published_at": null
+}

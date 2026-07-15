@@ -1,0 +1,17 @@
+{
+  "id": "teflon07_memkeeper-20260715-001",
+  "title": "teflon07/memkeeper",
+  "source_url": "https://github.com/teflon07/memkeeper",
+  "source_type": "github_trending",
+  "summary": "一个本地优先、确定性的AI代理记忆存储工具，基于SQLite和BM25，支持本地ONNX语义搜索、交叉编码器重排序、图投影和MCP适配器，无需网络或LLM。",
+  "tags": [
+    "AI Agents",
+    "Memory Store",
+    "Local-first",
+    "Semantic Search"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-15T09:47:56.801876+00:00",
+  "published_at": null
+}
