@@ -1,0 +1,17 @@
+{
+  "id": "kreivetech_uneven-agent-20260716-001",
+  "title": "kreivetech/uneven-agent",
+  "source_url": "https://github.com/kreivetech/uneven-agent",
+  "source_type": "github_trending",
+  "summary": "一个面向开发者的AI代理工具，可索引代码库、实时监控终端并自动修复错误、扫描依赖项中的恶意软件并执行安全测试，支持本地或云端LLM运行。",
+  "tags": [
+    "AI Agent",
+    "Developer Tools",
+    "Code Security",
+    "Real-time Debugging"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-16T09:54:14.856599+00:00",
+  "published_at": null
+}

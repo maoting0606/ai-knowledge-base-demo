@@ -1,0 +1,17 @@
+{
+  "id": "weam-ai_weam-20260716-001",
+  "title": "weam-ai/weam",
+  "source_url": "https://github.com/weam-ai/weam",
+  "source_type": "github_trending",
+  "summary": "Weam是一个面向20人以上团队的Web应用，内置连接主流大语言模型API，支持共享聊天、提示词和智能体，采用Next.js和Node.js现代响应式堆栈，可自部署或使用现成解决方案。",
+  "tags": [
+    "AI",
+    "Team Collaboration",
+    "LLM",
+    "Web App"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-16T09:54:14.856599+00:00",
+  "published_at": null
+}

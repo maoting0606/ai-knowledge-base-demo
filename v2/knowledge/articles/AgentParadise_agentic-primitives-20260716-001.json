@@ -1,0 +1,17 @@
+{
+  "id": "AgentParadise_agentic-primitives-20260716-001",
+  "title": "AgentParadise/agentic-primitives",
+  "source_url": "https://github.com/AgentParadise/agentic-primitives",
+  "source_type": "github_trending",
+  "summary": "AgentParadise/agentic-primitives 提供与模型无关的可组合提示和工具，用于构建AI编码代理，支持Claude、GPT等多种LLM。",
+  "tags": [
+    "AI Agents",
+    "LLM",
+    "Composable Tools",
+    "Prompt Engineering"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-16T09:54:14.856599+00:00",
+  "published_at": null
+}

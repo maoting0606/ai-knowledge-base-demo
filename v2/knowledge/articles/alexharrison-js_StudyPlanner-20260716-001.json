@@ -1,0 +1,17 @@
+{
+  "id": "alexharrison-js_StudyPlanner-20260716-001",
+  "title": "alexharrison-js/StudyPlanner",
+  "source_url": "https://github.com/alexharrison-js/StudyPlanner",
+  "source_type": "github_trending",
+  "summary": "一个免费的个人学习规划系统，支持AI研究、编程等新信息摄入，离线学习（语言、音乐、艺术）课程调整与规划，以及空间重复。可连接计算和LLM账户或本地模型。",
+  "tags": [
+    "Study Planning",
+    "Spaced Repetition",
+    "LLM Integration",
+    "Offline Learning"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-16T09:54:14.856599+00:00",
+  "published_at": null
+}
