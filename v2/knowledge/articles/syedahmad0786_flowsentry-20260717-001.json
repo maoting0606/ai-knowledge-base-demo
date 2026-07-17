@@ -1,0 +1,17 @@
+{
+  "id": "syedahmad0786_flowsentry-20260717-001",
+  "title": "syedahmad0786/flowsentry",
+  "source_url": "https://github.com/syedahmad0786/flowsentry",
+  "source_type": "github_trending",
+  "summary": "FlowSentry 是一个面向 n8n 工作流的 AI 运维代理，可检测失败峰值、延迟异常和错误集群，并通过 LLM 生成根因分析报告发送至 Slack，支持本地 Ollama 或 Groq。",
+  "tags": [
+    "AI Ops",
+    "n8n",
+    "Workflow Monitoring",
+    "Root Cause Analysis"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-17T09:44:56.204231+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kane-mar_bash-agent-20260717-001",
+  "title": "kane-mar/bash-agent",
+  "source_url": "https://github.com/kane-mar/bash-agent",
+  "source_type": "github_trending",
+  "summary": "一个用纯Bash编写的极简AI代理循环，不到100行代码。支持通过OpenRouter、DeepSeek或OpenAI调用LLM，运行bash、读写编辑等工具，并可导入技能。",
+  "tags": [
+    "AI Agent",
+    "Bash",
+    "LLM",
+    "Minimalist"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-17T09:44:56.204231+00:00",
+  "published_at": null
+}
