@@ -1,0 +1,16 @@
+{
+  "id": "rithikrathan_Ren-20260719-001",
+  "title": "rithikrathan/Ren",
+  "source_url": "https://github.com/rithikrathan/Ren",
+  "source_type": "github_trending",
+  "summary": "一个个人AI代理项目，旨在整合多种工具并通过LLM或AI进行管理，使用TypeScript开发，尚处于早期探索阶段。",
+  "tags": [
+    "AI Agent",
+    "TypeScript",
+    "Tool Integration"
+  ],
+  "score": 3,
+  "status": "review",
+  "collected_at": "2026-07-19T09:42:53.025289+00:00",
+  "published_at": null
+}

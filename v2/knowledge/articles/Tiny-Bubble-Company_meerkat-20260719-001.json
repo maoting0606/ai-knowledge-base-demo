@@ -1,0 +1,17 @@
+{
+  "id": "Tiny-Bubble-Company_meerkat-20260719-001",
+  "title": "Tiny-Bubble-Company/meerkat",
+  "source_url": "https://github.com/Tiny-Bubble-Company/meerkat",
+  "source_type": "github_trending",
+  "summary": "Meerkat 是一个开源 API，用于异步 AI 代理任务。用户用自然语言描述工作，自带 LLM 密钥，即可获得签名的 webhook 通知，适用于包裹追踪、网站监控、价格提醒等场景。支持自托管（MIT 许可）或使用 Meerkat 云服务。",
+  "tags": [
+    "Open Source",
+    "AI Agent",
+    "Webhook",
+    "Async API"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-19T09:42:53.025289+00:00",
+  "published_at": null
+}

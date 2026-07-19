@@ -1,0 +1,17 @@
+{
+  "id": "imSubhro_DevSec_Cli-20260719-001",
+  "title": "imSubhro/DevSec_Cli",
+  "source_url": "https://github.com/imSubhro/DevSec_Cli",
+  "source_type": "github_trending",
+  "summary": "一个由LLM驱动的IaC安全扫描工具，支持有无API密钥运行，集成Trivy、Checkov和AI代理于单一流水线。",
+  "tags": [
+    "DevSecOps",
+    "IaC",
+    "Security Scanner",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-19T09:42:53.025289+00:00",
+  "published_at": null
+}
