@@ -1,0 +1,544 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 333,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 3311,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+    "title": "open-multi-agent/open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "extra": {
+      "stars": 6625,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "crewai-alternative",
+        "deepseek",
+        "dynamic-workflows",
+        "gemini",
+        "langgraph-alternative",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/moonr5/cognitive-brain-architecture",
+    "title": "moonr5/cognitive-brain-architecture",
+    "description": "A Claude Skill that structures AI reasoning through a 7-stage, brain-inspired pipeline (perception → memory → salience weighting → planning → action → feedback), usable directly by Claude or ported into any LLM agent's system prompt.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 2724,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "description": "Universal LLM bridge for AI agents. Use Claude Code with MiniMax, Codex with GLM, or Gemini CLI with OpenRouter — one command, any provider. Works with coding agents, OpenClaw, Hermes, and others.",
+    "extra": {
+      "stars": 16,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "codex",
+        "gemini",
+        "glm",
+        "hermes",
+        "hermes-agent",
+        "kilo-code",
+        "kimi",
+        "llm",
+        "minimax",
+        "moonshot",
+        "novita",
+        "ollama",
+        "openai",
+        "openclaw",
+        "openrouter",
+        "qwen",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tarunsingh006/Ai-MailAgent",
+    "title": "tarunsingh006/Ai-MailAgent",
+    "description": "An AI Mail Agent is an autonomous or semi-autonomous software system designed to handle the heavy lifting of digital correspondence. Instead of just providing templates, these agents use Large Language Models (LLMs) to understand context, intent, and personal style to draft, sort, and sometimes even send emails on a user's behalf.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/udaykanthr/agentchanti",
+    "title": "udaykanthr/agentchanti",
+    "description": "Autonomous multi-agent AI coding CLI & Python library with built-in RAG. Plans, codes, reviews, tests — works with local LLMs (Ollama, LM Studio) or cloud (OpenAI, Gemini, Claude).",
+    "extra": {
+      "stars": 8,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-coding-assistant",
+        "autonomous-agents",
+        "claude",
+        "cli",
+        "code-generation",
+        "gemini",
+        "llm",
+        "lm-studio",
+        "multi-agent",
+        "ollama",
+        "openai",
+        "python",
+        "rag",
+        "tree-sitter"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 54,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "autonomous",
+        "chatgpt",
+        "claude-code",
+        "claude-plugin",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "gpt-5",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "mcp",
+        "natural-language",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+    "title": "VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+    "description": "AI-agent setup instructions for the Paperclip × Hermes Paperclip Adapter integration on Windows/WSL2 — point an AI coding agent at it to wire Paperclip to a ZAI GLM-4.6 (or MiniMax) LLM. Glue files + one-command installer.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "glm",
+        "glm-4-6",
+        "hermes",
+        "hermes-agent",
+        "hermes-paperclip-adapter",
+        "llm",
+        "local-llm",
+        "minimax",
+        "nousresearch",
+        "paperclip",
+        "python",
+        "windows",
+        "wsl",
+        "wsl2",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/packetloss404/tradefarm",
+    "title": "packetloss404/tradefarm",
+    "description": "100 AI agents paper-trading US stocks & ETFs. LSTM + LLM (Claude or MiniMax) decisions, Alpaca -- paper fills, IMMT-style live dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/hec-ovi/gamentic",
+    "title": "hec-ovi/gamentic",
+    "description": "Self-hosted, browser-based AI dungeon RPG, fully local on an AMD Strix Halo APU: narrator + per-character agents on one local LLM (Gemma 4 26B MoE via llama.cpp/Vulkan), local images (FLUX.2 klein/ComfyUI), expressive voice (Maya1 TTS). FastAPI brain, SQLite, vanilla JS, docker-compose with guided setup (CLI wizard or double-click HTML).",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai-dungeon",
+        "ai-rpg",
+        "amd-strix-halo",
+        "comfyui",
+        "docker-compose",
+        "fastapi",
+        "flux",
+        "gemma",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "maya1",
+        "mixture-of-experts",
+        "no-build",
+        "rocm",
+        "self-hosted",
+        "text-to-speech",
+        "vanilla-javascript",
+        "vulkan"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/knarayanareddy/AI-Arsenal",
+    "title": "knarayanareddy/AI-Arsenal",
+    "description": "AI Arsenal is a living, machine-readable, community-maintained encyclopedia of the AI engineering field — structured so that a human, an LLM, or an autonomous agent can consume it with equal effectiveness",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/WnagarAryan/AI-Business-Intelligence-Agent",
+    "title": "WnagarAryan/AI-Business-Intelligence-Agent",
+    "description": "Built an AI-powered Business Intelligence Agent that lets users query business data in plain English and get instant insights — no SQL or dashboards needed. Designed as a modular Streamlit app (with a lightweight terminal version), independently built end-to-end: architecture, LLM integration (Gemini → Groq), debugging, and documentation.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/LikhithV02/Customer-Support-Agent",
+    "title": "LikhithV02/Customer-Support-Agent",
+    "description": "AI customer-support agent that approves, denies, or escalates e-commerce refunds — with a deterministic policy gate the LLM can't override. FastAPI + LangGraph + React.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-safety",
+        "anthropic",
+        "customer-support",
+        "fastapi",
+        "guardrails",
+        "langgraph",
+        "llm",
+        "openai",
+        "prompt-injection",
+        "python",
+        "react",
+        "react-agent",
+        "server-sent-events",
+        "sqlite",
+        "vite"
+      ]
+    },
+    "collected_at": "2026-07-20T10:37:51.446822+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "",
+    "description": "Article URL: https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/\nComments URL: https://news.ycombinator.com/item?id=48974476\nPoints: 92\n# Comments: 67\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 04:49:47 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "title": "",
+    "description": "Article URL: https://github.com/Saivineeth147/lora-speedrun\nComments URL: https://news.ycombinator.com/item?id=48974325\nPoints: 83\n# Comments: 11\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 04:24:48 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+    "title": "",
+    "description": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566\nComments URL: https://news.ycombinator.com/item?id=48973869\nPoints: 413\n# Comments: 247\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 02:51:16 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/hgaiser/moonshine",
+    "title": "",
+    "description": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 21:51:26 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+    "title": "",
+    "description": "Article URL: https://orionbrowser.com/\nComments URL: https://news.ycombinator.com/item?id=48970894\nPoints: 209\n# Comments: 142\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 19:13:29 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "title": "",
+    "description": "Article URL: https://www.hmd.com/en_int/hmd-touch-4g\nComments URL: https://news.ycombinator.com/item?id=48969983\nPoints: 78\n# Comments: 84\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 17:25:03 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "title": "",
+    "description": "I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&R desert.It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keep",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 14:41:16 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "title": "",
+    "description": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/\nComments URL: https://news.ycombinator.com/item?id=48967355\nPoints: 134\n# Comments: 176\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 12:01:53 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "title": "",
+    "description": "Article URL: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\nComments URL: https://news.ycombinator.com/item?id=48966984\nPoints: 206\n# Comments: 108\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 11:14:38 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "",
+    "description": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 528\n# Comments: 698\n]]>",
+    "extra": {
+      "pub_date": "Sun, 19 Jul 2026 10:03:23 +0000"
+    },
+    "collected_at": "2026-07-20T10:37:53.972252+00:00"
+  }
+]

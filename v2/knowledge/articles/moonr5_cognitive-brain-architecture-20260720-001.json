@@ -1,0 +1,17 @@
+{
+  "id": "moonr5_cognitive-brain-architecture-20260720-001",
+  "title": "moonr5/cognitive-brain-architecture",
+  "source_url": "https://github.com/moonr5/cognitive-brain-architecture",
+  "source_type": "github_trending",
+  "summary": "一种受大脑启发的AI推理架构，包含7阶段流水线（感知→记忆→显著性加权→规划→行动→反馈），可作为Claude技能或移植到任何LLM智能体的系统提示中使用。",
+  "tags": [
+    "Cognitive Architecture",
+    "AI Reasoning",
+    "LLM Agent",
+    "Brain-Inspired"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-20T10:38:56.824448+00:00",
+  "published_at": null
+}
