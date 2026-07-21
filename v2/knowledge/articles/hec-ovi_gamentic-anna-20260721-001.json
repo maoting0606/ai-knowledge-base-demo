@@ -1,0 +1,17 @@
+{
+  "id": "hec-ovi_gamentic-anna-20260721-001",
+  "title": "hec-ovi/gamentic-anna",
+  "source_url": "https://github.com/hec-ovi/gamentic-anna",
+  "source_type": "github_trending",
+  "summary": "Gamentic 是一个 AI 文本冒险 RPG，作为 Anna App 原生运行：FastAPI 引擎以 Anna Executa 形式分发，UI 为纯 JS iframe，LLM 和图像通过反向 RPC 调用 fal.ai 模型，无需 GPU 或本地模型。",
+  "tags": [
+    "AI RPG",
+    "Anna App",
+    "FastAPI",
+    "fal.ai"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-21T10:12:57.045616+00:00",
+  "published_at": null
+}

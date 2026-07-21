@@ -1,0 +1,17 @@
+{
+  "id": "VibeCodeBlogger-Public_paperclip-hermes-paperclip-adapter-in-20260721-001",
+  "title": "VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+  "source_url": "https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+  "source_type": "github_trending",
+  "summary": "本文档提供了在Windows/WSL2上集成Paperclip与Hermes Paperclip Adapter的AI代理设置指南，支持ZAI GLM-4.6或MiniMax LLM，包含粘合文件和一键安装命令。",
+  "tags": [
+    "AI Agent",
+    "Paperclip",
+    "LLM Integration",
+    "WSL2"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-21T10:12:57.045616+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "NICTOLabs_NICTO-coder-20260721-001",
+  "title": "NICTOLabs/NICTO-coder",
+  "source_url": "https://github.com/NICTOLabs/NICTO-coder",
+  "source_type": "github_trending",
+  "summary": "NICTO-coder 是一个多提供商LLM支持的AI编码代理，拥有150+内置工具、终端优先设计和6种操作模式，提供免费层级。",
+  "tags": [
+    "AI Coding Agent",
+    "Multi-Provider LLM",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-21T10:12:57.045616+00:00",
+  "published_at": null
+}

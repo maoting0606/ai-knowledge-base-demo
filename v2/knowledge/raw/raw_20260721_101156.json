@@ -1,0 +1,596 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 335,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/uros-simcic/rate-agent",
+    "title": "uros-simcic/rate-agent",
+    "description": "Agentic exchange-rate alerter, controlled in plain language by email or GitHub. LLM proposes, code disposes. Powered by Gemini AI.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/anis-marrouchi/agentx",
+    "title": "anis-marrouchi/agentx",
+    "description": "AI operations layer for small & medium businesses. Route Telegram, WhatsApp, Slack, Discord, GitLab, crons, webhooks, and mesh tasks to AI agents on Claude, OpenAI, or any LLM. Web wizard for non-technical operators, CLI for engineers. Self-hosted.",
+    "extra": {
+      "stars": 5,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "anthropic-ai-sdk",
+        "claude-code",
+        "multi-agent",
+        "openclaw",
+        "orchestration",
+        "self-hosted",
+        "slack",
+        "smb",
+        "telegram-bot",
+        "whatsapp"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 3342,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 56,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "autonomous",
+        "chatgpt",
+        "claude-code",
+        "claude-plugin",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "gpt-5",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "mcp",
+        "natural-language",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 2760,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Kota-Karthik/secure-actions",
+    "title": "Kota-Karthik/secure-actions",
+    "description": "MCP server for secure AI agent authentication — lets Claude, Claude Code, and other LLM agents call APIs without exposing raw tokens or credentials to the model",
+    "extra": {
+      "stars": 3,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "ai-security",
+        "api-authentication",
+        "claude",
+        "claude-code",
+        "go",
+        "golang",
+        "llm-security",
+        "mcp",
+        "model-context-protocol",
+        "secrets-management"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas-AI/Orkas",
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "extra": {
+      "stars": 468,
+      "language": "TypeScript",
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow",
+        "autonomous-agents",
+        "byo-llm",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "hermes-agent",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "multi-agent-system",
+        "openclaw",
+        "self-evolving-agents"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+    "title": "open-multi-agent/open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "extra": {
+      "stars": 6633,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "crewai-alternative",
+        "deepseek",
+        "dynamic-workflows",
+        "gemini",
+        "langgraph-alternative",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/hec-ovi/gamentic",
+    "title": "hec-ovi/gamentic",
+    "description": "Self-hosted, browser-based AI dungeon RPG, fully local on an AMD Strix Halo APU: narrator + per-character agents on one local LLM (Gemma 4 26B MoE via llama.cpp/Vulkan), local images (FLUX.2 klein/ComfyUI), expressive voice (Maya1 TTS). FastAPI brain, SQLite, vanilla JS, docker-compose with guided setup (CLI wizard or double-click HTML).",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai-dungeon",
+        "ai-rpg",
+        "amd-strix-halo",
+        "comfyui",
+        "docker-compose",
+        "fastapi",
+        "flux",
+        "gemma",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "maya1",
+        "mixture-of-experts",
+        "no-build",
+        "rocm",
+        "self-hosted",
+        "text-to-speech",
+        "vanilla-javascript",
+        "vulkan"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+    "title": "VibeCodeBlogger-Public/paperclip-hermes-paperclip-adapter-integration-glm-4.6-zai-minimax-llm-windows-wsl2",
+    "description": "AI-agent setup instructions for the Paperclip × Hermes Paperclip Adapter integration on Windows/WSL2 — point an AI coding agent at it to wire Paperclip to a ZAI GLM-4.6 (or MiniMax) LLM. Glue files + one-command installer.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "glm",
+        "glm-4-6",
+        "hermes",
+        "hermes-agent",
+        "hermes-paperclip-adapter",
+        "llm",
+        "local-llm",
+        "minimax",
+        "nousresearch",
+        "paperclip",
+        "python",
+        "windows",
+        "wsl",
+        "wsl2",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool multi-turn engine, a 74-agent visual workflow designer, and ACPX, a runtime for external coding agents like Claude Code, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 297,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lucasmailland/mnemosyne",
+    "title": "lucasmailland/mnemosyne",
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) with BYO LLM. Use as a library, HTTP API, or MCP server.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "bitemporal",
+        "bm25",
+        "drizzle-orm",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "model-context-protocol",
+        "multi-tenant",
+        "open-source",
+        "pgvector",
+        "postgres",
+        "rag",
+        "rls",
+        "typescript",
+        "vector-search"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/hec-ovi/gamentic-anna",
+    "title": "hec-ovi/gamentic-anna",
+    "description": "Gamentic, an AI text-adventure RPG, running natively as an Anna App: the FastAPI engine ships as an Anna Executa (PyPI wheel, uv-installed by a local or cloud Anna Agent) and a vanilla-JS iframe UI, with every LLM token and image reverse-RPCed to the Anna host, fal.ai image models included. No GPU, no bundled model.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-dungeon",
+        "anna",
+        "anna-app",
+        "anna-hackathon",
+        "cloud-agent",
+        "docker",
+        "dungeon-crawler",
+        "executa",
+        "fal-ai",
+        "fastapi",
+        "game",
+        "game-engine",
+        "gamentic",
+        "hackathon",
+        "llm",
+        "pypi",
+        "rpg",
+        "text-adventure",
+        "uv"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/NICTOLabs/NICTO-coder",
+    "title": "NICTOLabs/NICTO-coder",
+    "description": "NICTO CODE — The AI coding agent that works beyond the hype. Multi-provider LLM support, 150+ built-in tools, terminal-first design with 6 operating modes. Free tier available — bring your own API key or use our free models.",
+    "extra": {
+      "stars": 1,
+      "language": "Go",
+      "topics": [
+        "ai-coding-agent",
+        "cli",
+        "code-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "golang",
+        "llm",
+        "open-source",
+        "productivity",
+        "terminal-ui"
+      ]
+    },
+    "collected_at": "2026-07-21T10:11:56.597733+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "title": "",
+    "description": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 47\n# Comments: 22\n]]>",
+    "extra": {
+      "pub_date": "Tue, 21 Jul 2026 06:29:22 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://exsitu.app/map",
+    "title": "",
+    "description": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 72\n# Comments: 13\n]]>",
+    "extra": {
+      "pub_date": "Tue, 21 Jul 2026 03:54:16 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "title": "",
+    "description": "Article URL: https://github.com/janestreet/incremental\nComments URL: https://news.ycombinator.com/item?id=48987822\nPoints: 203\n# Comments: 35\n]]>",
+    "extra": {
+      "pub_date": "Tue, 21 Jul 2026 03:50:53 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+    "title": "",
+    "description": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 249\n# Comments: 194\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 23:15:41 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "title": "",
+    "description": "Article URL: https://vincentwoo.com/3d/grace_cathedral/\nComments URL: https://news.ycombinator.com/item?id=48984254\nPoints: 169\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 20:10:44 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "",
+    "description": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\nComments URL: https://news.ycombinator.com/item?id=48983382\nPoints: 347\n# Comments: 143\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 19:03:37 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blaizzy.github.io/nativ/",
+    "title": "",
+    "description": "Article URL: https://cursor.com/blog/agent-swarm-model-economics\nComments URL: https://news.ycombinator.com/item?id=48982535\nPoints: 196\n# Comments: 87\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 18:06:13 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.kimi.com/products/kimi-work",
+    "title": "",
+    "description": "Article URL: https://jelly-ui.com/\nComments URL: https://news.ycombinator.com/item?id=48981620\nPoints: 498\n# Comments: 156\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 17:07:39 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "title": "",
+    "description": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.The goal is to ",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 16:32:10 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "title": "",
+    "description": "Article URL: https://nothings.org/gamedev/ssao/\nComments URL: https://news.ycombinator.com/item?id=48979931\nPoints: 170\n# Comments: 72\n]]>",
+    "extra": {
+      "pub_date": "Mon, 20 Jul 2026 15:07:31 +0000"
+    },
+    "collected_at": "2026-07-21T10:11:56.788096+00:00"
+  }
+]

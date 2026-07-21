@@ -1,0 +1,17 @@
+{
+  "id": "uros-simcic_rate-agent-20260721-001",
+  "title": "uros-simcic/rate-agent",
+  "source_url": "https://github.com/uros-simcic/rate-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Gemini AI的智能汇率提醒代理，支持通过邮件或GitHub用自然语言控制。LLM提出建议，代码执行决策。",
+  "tags": [
+    "AI Agent",
+    "Exchange Rate",
+    "Gemini",
+    "Natural Language"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-21T10:12:57.045616+00:00",
+  "published_at": null
+}
