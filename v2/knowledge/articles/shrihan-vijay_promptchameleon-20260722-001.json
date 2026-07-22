@@ -1,0 +1,17 @@
+{
+  "id": "shrihan-vijay_promptchameleon-20260722-001",
+  "title": "shrihan-vijay/promptchameleon",
+  "source_url": "https://github.com/shrihan-vijay/promptchameleon",
+  "source_type": "github_trending",
+  "summary": "PromptChameleon 是一款 Chrome 扩展，通过两步 AI 代理流程，自动将用户提示适配到不同大语言模型（Claude、ChatGPT、Gemini），提升跨模型使用体验。",
+  "tags": [
+    "Chrome Extension",
+    "Prompt Adaptation",
+    "LLM",
+    "AI Agent"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-22T10:12:34.514146+00:00",
+  "published_at": null
+}

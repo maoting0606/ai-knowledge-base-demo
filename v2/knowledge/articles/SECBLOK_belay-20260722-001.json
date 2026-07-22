@@ -1,0 +1,16 @@
+{
+  "id": "SECBLOK_belay-20260722-001",
+  "title": "SECBLOK/belay",
+  "source_url": "https://github.com/SECBLOK/belay",
+  "source_type": "github_trending",
+  "summary": "AIDefender 是一个轻量级本地安全层，部署在AI编码代理的工具调用边界。它直接阻止危险操作，询问用户其余操作，在100毫秒内保护主机和秘密，无需LLM参与决策。",
+  "tags": [
+    "AI Security",
+    "Tool-Call Protection",
+    "Local Defense"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-22T10:12:34.514146+00:00",
+  "published_at": null
+}

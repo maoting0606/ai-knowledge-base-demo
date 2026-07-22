@@ -1,0 +1,17 @@
+{
+  "id": "silbaram_pulse-agent-20260722-001",
+  "title": "silbaram/pulse-agent",
+  "source_url": "https://github.com/silbaram/pulse-agent",
+  "source_type": "github_trending",
+  "summary": "Pulse-Agent 是一个基于大语言模型的 AI Ops 代理，能够监控应用健康状态、跨技术栈诊断错误日志，并自动执行自愈或经开发者批准的恢复操作。",
+  "tags": [
+    "AI Ops",
+    "LLM",
+    "Monitoring",
+    "Self-healing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-22T10:12:34.514146+00:00",
+  "published_at": null
+}

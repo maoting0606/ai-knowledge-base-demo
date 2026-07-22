@@ -1,0 +1,17 @@
+{
+  "id": "bystray_gonka-mcp-server-20260722-001",
+  "title": "bystray/gonka-mcp-server",
+  "source_url": "https://github.com/bystray/gonka-mcp-server",
+  "source_type": "github_trending",
+  "summary": "GONKA网络的MCP服务器，支持低成本LLM推理（免费试用或自有密钥），提供多模型第二意见和实时价格比较，适用于任何AI代理。",
+  "tags": [
+    "MCP Server",
+    "LLM Inference",
+    "Multi-Model",
+    "Cost Optimization"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-22T10:12:34.514146+00:00",
+  "published_at": null
+}

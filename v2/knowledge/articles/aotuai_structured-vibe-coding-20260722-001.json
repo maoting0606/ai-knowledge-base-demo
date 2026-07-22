@@ -1,0 +1,17 @@
+{
+  "id": "aotuai_structured-vibe-coding-20260722-001",
+  "title": "aotuai/structured-vibe-coding",
+  "source_url": "https://github.com/aotuai/structured-vibe-coding",
+  "source_type": "github_trending",
+  "summary": "一个面向资深工程师的CLI工具和方法论，用于直接控制Claude、Gemini、GPT等LLM生成生产代码，无需依赖Cursor或自主代理，并精确控制AI使用成本。",
+  "tags": [
+    "CLI",
+    "LLM",
+    "Code Generation",
+    "Cost Control"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-22T10:12:34.514146+00:00",
+  "published_at": null
+}
