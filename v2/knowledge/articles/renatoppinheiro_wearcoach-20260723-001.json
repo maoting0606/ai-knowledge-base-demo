@@ -1,0 +1,17 @@
+{
+  "id": "renatoppinheiro_wearcoach-20260723-001",
+  "title": "renatoppinheiro/wearcoach",
+  "source_url": "https://github.com/renatoppinheiro/wearcoach",
+  "source_type": "github_trending",
+  "summary": "一个本地运行的AI跑步教练工具，可整合Strava、Oura和Garmin数据，支持自带编码代理或LLM密钥，完全在本地机器上运行。",
+  "tags": [
+    "AI Coach",
+    "Fitness",
+    "Local AI",
+    "Wearables"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-23T10:10:14.991123+00:00",
+  "published_at": null
+}

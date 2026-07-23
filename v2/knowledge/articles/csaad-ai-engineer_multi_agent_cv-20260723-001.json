@@ -1,0 +1,17 @@
+{
+  "id": "csaad-ai-engineer_multi_agent_cv-20260723-001",
+  "title": "csaad-ai-engineer/multi_agent_cv",
+  "source_url": "https://github.com/csaad-ai-engineer/multi_agent_cv",
+  "source_type": "github_trending",
+  "summary": "一个基于LangGraph多智能体系统的交互式AI简历项目，支持文本和语音提问，集成了RAG、本地大语言模型和语音克隆技术。",
+  "tags": [
+    "Multi-Agent",
+    "RAG",
+    "LangGraph",
+    "Voice Cloning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-23T10:10:14.991123+00:00",
+  "published_at": null
+}

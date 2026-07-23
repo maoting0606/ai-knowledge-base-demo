@@ -1,0 +1,17 @@
+{
+  "id": "breakingthecloud_sayay-20260723-001",
+  "title": "breakingthecloud/sayay",
+  "source_url": "https://github.com/breakingthecloud/sayay",
+  "source_type": "github_trending",
+  "summary": "Sayay是一个AI代理成本护栏工具，支持按用户/会话进行预算执行，在LLM调用超限前进行阻止、降级或警告。",
+  "tags": [
+    "AI Agent",
+    "Cost Guardrails",
+    "Budget Enforcement",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-23T10:10:14.991123+00:00",
+  "published_at": null
+}

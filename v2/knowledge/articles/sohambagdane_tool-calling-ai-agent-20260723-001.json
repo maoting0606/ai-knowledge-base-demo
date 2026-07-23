@@ -1,0 +1,17 @@
+{
+  "id": "sohambagdane_tool-calling-ai-agent-20260723-001",
+  "title": "sohambagdane/tool-calling-ai-agent",
+  "source_url": "https://github.com/sohambagdane/tool-calling-ai-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Python的AI代理，无需LangChain或CrewAI即可手动调用工具，支持计算器、国家信息、文件读取、迭代推理和JSON跟踪日志。",
+  "tags": [
+    "AI Agent",
+    "Tool Calling",
+    "Python",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-23T10:10:14.991123+00:00",
+  "published_at": null
+}

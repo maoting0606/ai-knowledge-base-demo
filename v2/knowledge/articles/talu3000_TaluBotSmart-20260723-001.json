@@ -1,0 +1,17 @@
+{
+  "id": "talu3000_TaluBotSmart-20260723-001",
+  "title": "talu3000/TaluBotSmart",
+  "source_url": "https://github.com/talu3000/TaluBotSmart",
+  "source_type": "github_trending",
+  "summary": "一个基于C#/.NET 10的多智能体AI助手，由规划LLM将请求拆分为微任务，由小型专用代理执行。支持本地（Qwen）和云端模型（Gemini、Claude），采用混合RAG记忆（关键词FTS5+向量搜索）维护自更新知识库。",
+  "tags": [
+    "Multi-Agent",
+    "RAG",
+    "CSharp",
+    "Local AI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-23T10:10:14.991123+00:00",
+  "published_at": null
+}
