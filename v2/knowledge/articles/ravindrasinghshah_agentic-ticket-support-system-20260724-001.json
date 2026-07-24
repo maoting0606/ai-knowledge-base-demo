@@ -1,0 +1,17 @@
+{
+  "id": "ravindrasinghshah_agentic-ticket-support-system-20260724-001",
+  "title": "ravindrasinghshah/agentic-ticket-support-system",
+  "source_url": "https://github.com/ravindrasinghshah/agentic-ticket-support-system",
+  "source_type": "github_trending",
+  "summary": "该项目为IT服务台和客户支持设计，通过管理多个专业AI代理而非单一LLM来提升工单处理效率，适用于CockroachDB与AWS黑客松。",
+  "tags": [
+    "AI Agents",
+    "Customer Support",
+    "Ticket System",
+    "Multi-Agent"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-24T10:05:46.822793+00:00",
+  "published_at": null
+}

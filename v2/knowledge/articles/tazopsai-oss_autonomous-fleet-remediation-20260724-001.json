@@ -1,0 +1,17 @@
+{
+  "id": "tazopsai-oss_autonomous-fleet-remediation-20260724-001",
+  "title": "tazopsai-oss/autonomous-fleet-remediation",
+  "source_url": "https://github.com/tazopsai-oss/autonomous-fleet-remediation",
+  "source_type": "github_trending",
+  "summary": "提出一种安全围栏模式，让LLM提议清理AI代理集群配置，由确定性无LLM机器人执行，仅蓝图无实际配置。",
+  "tags": [
+    "LLM",
+    "AI Agents",
+    "Fleet Management",
+    "Safety Pattern"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-24T10:05:46.822793+00:00",
+  "published_at": null
+}
