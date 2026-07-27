@@ -1,0 +1,17 @@
+{
+  "id": "ASCIT31_Dark-Moon-20260727-001",
+  "title": "ASCIT31/Dark-Moon",
+  "source_url": "https://github.com/ASCIT31/Dark-Moon",
+  "source_type": "github_trending",
+  "summary": "Dark-Moon是一个自主AI渗透测试引擎，支持Web、云、AD和K8s的持续攻击安全测试。它通过代理推理和真实漏洞利用执行，提供基于证据的漏洞报告，并确保隐私：LLM不接触真实IP、主机、凭证或路径，所有数据在本地处理，不离开边界。",
+  "tags": [
+    "AI Pentesting",
+    "Offensive Security",
+    "Privacy Gateway",
+    "Autonomous Agent"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-07-27T11:00:48.545093+00:00",
+  "published_at": null
+}

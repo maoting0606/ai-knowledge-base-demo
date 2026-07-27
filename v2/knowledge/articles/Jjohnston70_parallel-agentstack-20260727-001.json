@@ -1,0 +1,17 @@
+{
+  "id": "Jjohnston70_parallel-agentstack-20260727-001",
+  "title": "Jjohnston70/parallel-agentstack",
+  "source_url": "https://github.com/Jjohnston70/parallel-agentstack",
+  "source_type": "github_trending",
+  "summary": "一个与提供商无关的多AI代理协调框架，支持Claude、ChatGPT、Ollama等LLM同时运行在同一项目上，每个代理拥有独立轨道、文件区域，并通过共享日志协调。",
+  "tags": [
+    "AI Agents",
+    "Multi-Agent Coordination",
+    "LLM Framework",
+    "Provider-Agnostic"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-27T11:00:48.545093+00:00",
+  "published_at": null
+}
