@@ -1,0 +1,17 @@
+{
+  "id": "jvmind_jvmind-ce-20260728-001",
+  "title": "jvmind/jvmind-ce",
+  "source_url": "https://github.com/jvmind/jvmind-ce",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的JVM诊断工具，支持通过本地LLM或OpenAI API分析GC日志、线程转储和堆转储，注重本地优先和开源。",
+  "tags": [
+    "JVM",
+    "AI Diagnostics",
+    "Open Source",
+    "Performance Analysis"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-28T10:20:48.576324+00:00",
+  "published_at": null
+}

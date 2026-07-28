@@ -1,0 +1,17 @@
+{
+  "id": "albert-matheww_claimsentry-20260728-001",
+  "title": "albert-matheww/claimsentry",
+  "source_url": "https://github.com/albert-matheww/claimsentry",
+  "source_type": "github_trending",
+  "summary": "ClaimSentry是一个多智能体AI管道，用于费用欺诈与合规分类，通过OCR提取收据数据、RAG检查公司政策、嵌入向量检测重复索赔，并利用LangGraph进行审批或升级，支持离线LLM回退和评估指标。",
+  "tags": [
+    "AI Pipeline",
+    "Fraud Detection",
+    "RAG",
+    "LangGraph"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-28T10:20:48.576324+00:00",
+  "published_at": null
+}

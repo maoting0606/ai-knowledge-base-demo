@@ -1,0 +1,17 @@
+{
+  "id": "RIxiV1_Resume-Screening-Agent-20260728-001",
+  "title": "RIxiV1/Resume-Screening-Agent",
+  "source_url": "https://github.com/RIxiV1/Resume-Screening-Agent",
+  "source_type": "github_trending",
+  "summary": "一个基于n8n和Lovable构建的AI简历筛选代理，支持上传PDF简历和职位描述，自动提取文本、LLM评分匹配度，生成结构化报告，并可自动发送面试或拒绝邮件。",
+  "tags": [
+    "Resume Screening",
+    "AI Agent",
+    "n8n",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-28T10:20:48.576324+00:00",
+  "published_at": null
+}
