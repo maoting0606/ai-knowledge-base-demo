@@ -1,0 +1,17 @@
+{
+  "id": "Shreyash021104_ai-agent-20260729-001",
+  "title": "Shreyash021104/ai-agent",
+  "source_url": "https://github.com/Shreyash021104/ai-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于Python/FastAPI的AI代理工具，支持沙箱代码执行、文件I/O、网络搜索、长期向量记忆和故障防护（断路器、迭代限制），可无密钥使用模拟LLM或Groq。",
+  "tags": [
+    "AI Agent",
+    "Tool Calling",
+    "FastAPI",
+    "Sandboxed Execution"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "AlfaroDev_SQL-AI-assistant-agent-20260729-001",
+  "title": "AlfaroDev/SQL-AI-assistant-agent",
+  "source_url": "https://github.com/AlfaroDev/SQL-AI-assistant-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于LangChain和本地开源LLM（Ollama）的AI SQL助手，能将自然语言转换为安全、验证过的SQL查询，无需API密钥或付费服务。",
+  "tags": [
+    "SQL",
+    "AI Assistant",
+    "LangChain",
+    "Ollama"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

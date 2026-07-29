@@ -1,0 +1,17 @@
+{
+  "id": "kumudithaperera_PreFlight-20260729-001",
+  "title": "kumudithaperera/PreFlight",
+  "source_url": "https://github.com/kumudithaperera/PreFlight",
+  "source_type": "github_trending",
+  "summary": "PreFlight 是一个便携式安全预检流程，用于AI辅助编码。它在功能构建前进行威胁建模，并在代码生成后重新验证。支持Claude Code、Cursor、Copilot、Cline等工具，也可作为系统提示用于任何LLM聊天。",
+  "tags": [
+    "AI Security",
+    "Threat Modeling",
+    "Code Verification",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

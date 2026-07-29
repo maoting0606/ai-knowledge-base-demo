@@ -1,0 +1,17 @@
+{
+  "id": "vailsen_paperless-brain-20260729-001",
+  "title": "vailsen/paperless-brain",
+  "source_url": "https://github.com/vailsen/paperless-brain",
+  "source_type": "github_trending",
+  "summary": "Paperless-Brain 是一个为 Paperless-ngx 文档管理系统设计的 AI 大脑，支持通过本地 Ollama 或云端 LLM 与文档对话，具备代理工具使用、语义搜索和长期记忆功能。",
+  "tags": [
+    "AI",
+    "Document Management",
+    "LLM",
+    "Semantic Search"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

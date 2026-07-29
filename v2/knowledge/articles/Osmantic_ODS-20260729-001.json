@@ -1,0 +1,17 @@
+{
+  "id": "Osmantic_ODS-20260729-001",
+  "title": "Osmantic/ODS",
+  "source_url": "https://github.com/Osmantic/ODS",
+  "source_type": "github_trending",
+  "summary": "Osmantic/ODS 是一个开源项目，可将PC、Mac或Linux设备转变为AI服务器，支持LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成。",
+  "tags": [
+    "AI Server",
+    "LLM Inference",
+    "Open Source",
+    "RAG"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

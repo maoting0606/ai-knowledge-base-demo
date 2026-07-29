@@ -1,0 +1,17 @@
+{
+  "id": "roshni-04_coffeeAIAgent-20260729-001",
+  "title": "roshni-04/coffeeAIAgent",
+  "source_url": "https://github.com/roshni-04/coffeeAIAgent",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个模块化AI代理，遵循工具调用（ReAct）范式，LLM仅负责推理、理解用户意图、提取订单细节和编排工作流，而非执行算术或数据库查询。",
+  "tags": [
+    "AI Agent",
+    "ReAct",
+    "Tool Calling",
+    "Workflow Orchestration"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

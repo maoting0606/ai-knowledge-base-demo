@@ -1,0 +1,17 @@
+{
+  "id": "padosory5_Local-LLM-elaina--20260729-001",
+  "title": "padosory5/Local-LLM-elaina-",
+  "source_url": "https://github.com/padosory5/Local-LLM-elaina-",
+  "source_type": "github_trending",
+  "summary": "一个基于Electron、Live2d、Piper和Ollama的桌面AI助手应用，名为Elaina，利用本地LLM模型响应用户请求或完成任务。",
+  "tags": [
+    "Local LLM",
+    "Desktop AI Agent",
+    "Electron",
+    "Live2d"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}

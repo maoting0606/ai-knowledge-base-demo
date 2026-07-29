@@ -1,0 +1,17 @@
+{
+  "id": "mjaffar2082_agentic-ai-20260729-001",
+  "title": "mjaffar2082/agentic-ai",
+  "source_url": "https://github.com/mjaffar2082/agentic-ai",
+  "source_type": "github_trending",
+  "summary": "该仓库提供构建自主AI系统的模块，支持任务规划、执行和迭代，适用于数据管道自动化、云基础设施管理及研究助手等场景，使LLM具备实际功能。",
+  "tags": [
+    "Agentic AI",
+    "LLM",
+    "Automation",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-29T10:27:04.148948+00:00",
+  "published_at": null
+}
