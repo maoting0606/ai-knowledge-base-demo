@@ -1,0 +1,17 @@
+{
+  "id": "jfrog_agent-belt-20260730-001",
+  "title": "jfrog/agent-belt",
+  "source_url": "https://github.com/jfrog/agent-belt",
+  "source_type": "github_trending",
+  "summary": "JFrog推出的AI编码代理可重复评估框架，支持多轮场景测试、规则检查、工作区差异分析和多裁判LLM共识，可评估Claude Code、Codex等主流代理，支持Git工作树和Docker沙箱。",
+  "tags": [
+    "AI Coding Agents",
+    "Evaluation Framework",
+    "Reproducibility",
+    "LLM Testing"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-07-30T10:10:06.316093+00:00",
+  "published_at": null
+}

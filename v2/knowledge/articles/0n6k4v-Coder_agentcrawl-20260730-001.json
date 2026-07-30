@@ -1,0 +1,17 @@
+{
+  "id": "0n6k4v-Coder_agentcrawl-20260730-001",
+  "title": "0n6k4v-Coder/agentcrawl",
+  "source_url": "https://github.com/0n6k4v-Coder/agentcrawl",
+  "source_type": "github_trending",
+  "summary": "一个专为AI代理设计的网络爬虫与抓取框架，可将任意网站转换为LLM可用的Markdown或结构化JSON，内置搜索、提取、分块及REST API功能。",
+  "tags": [
+    "web crawling",
+    "AI agents",
+    "data extraction",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-30T10:10:06.316093+00:00",
+  "published_at": null
+}

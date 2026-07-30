@@ -1,0 +1,485 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 346,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 65,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 2972,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/oh-my-harness/senza-studio",
+    "title": "oh-my-harness/senza-studio",
+    "description": "Web app to customize AI agents via natural-language conversation, example library, or direct code editing. Built on llm-harness-runtime + Senza SDK.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nickda/tldraw-agent",
+    "title": "nickda/tldraw-agent",
+    "description": "tldraw AI agent with a local-model backend — run the canvas agent offline against a local LLM, no cloud account or API keys",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Resolve-public/writing-assistant-chat",
+    "title": "Resolve-public/writing-assistant-chat",
+    "description": "AI writing assistant for Obsidian with chat, plan, and edit modes. Connects to local or cloud LLM providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands.",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jfrog/agent-belt",
+    "title": "jfrog/agent-belt",
+    "description": "Reproducible evaluation for AI coding agents. Multi-turn scenarios against Claude Code, Codex, Copilot, Cursor, Gemini CLI, Goose, OpenCode, or any custom agent you plug in; verify behavior with rule checks, workspace diffs, multi-judge LLM consensus; pin reliability with pass^k variance across trials. Git worktrees, optional Docker sandbox.",
+    "extra": {
+      "stars": 17,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "benchmark",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "evaluation-framework",
+        "gemini-cli",
+        "github-copilot",
+        "goose",
+        "jfrog",
+        "llm",
+        "llm-evaluation",
+        "opencode",
+        "testing"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/0n6k4v-Coder/agentcrawl",
+    "title": "0n6k4v-Coder/agentcrawl",
+    "description": "Web crawling & scraping framework for AI agents. Turn any website into LLM-ready Markdown or structured JSON — with built-in search, extraction, chunking, and a REST API.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 3818,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AX-Consult-Group/medical-Rabivy-AI-engine",
+    "title": "AX-Consult-Group/medical-Rabivy-AI-engine",
+    "description": "AI-powered commercial intelligence engine for a fictional GLP-1 drug (Rabivy). Lets sales reps ask natural-language questions about HCP targeting and get real, data-grounded answers - via a free regex router or an LLM agent, both built on the same retrieval engines.",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jvmind/jvmind-ce",
+    "title": "jvmind/jvmind-ce",
+    "description": "AI-powered JVM diagnostics agent. Analyze GC logs, jstack thread dumps, and heap dumps via local LLM (Ollama) or OpenAI-compatible APIs. Single-user, local-first, open source.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "diagnostics",
+        "gc-log-analyzer",
+        "heap-dump-analyzer",
+        "java",
+        "jvm",
+        "langgraph",
+        "llm",
+        "openai-compatible",
+        "performance-tuning",
+        "thread-dump-analyzer"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mockagents/mockagents",
+    "title": "mockagents/mockagents",
+    "description": "Simulate, test, and validate AI agent integrations — without calling real LLMs or burning tokens.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stackone",
+    "title": "api-evangelist/stackone",
+    "description": "StackOne is an AI-powered embedded integration platform as a service (iPaaS) designed to simplify and accelerate how SaaS vendors and AI agents connect with enterprise software. It combines a proprietary LLM-based agent with a real-time execution engine to automate and manage integrations no need for manual API wiring or data syncing.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "accounts",
+        "apis-json",
+        "campaigns",
+        "connect-sessions",
+        "crm",
+        "customer-engagement",
+        "employees",
+        "employments",
+        "hris",
+        "human-resources",
+        "integrations",
+        "ipaas",
+        "locations",
+        "marketing",
+        "naftiko",
+        "people-operations",
+        "proxy",
+        "recruitment",
+        "time-off",
+        "unified-api"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain English, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 278,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/aiignore",
+    "title": "api-evangelist/aiignore",
+    "description": "The .aiignore file is a configuration specification that tells AI coding agents and LLM-powered developer tools which files, directories, and content should not be read, processed, or modified.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "ai-agents",
+        "apis-json",
+        "configuration",
+        "developer-tools",
+        "developer-workflow",
+        "llm",
+        "naftiko",
+        "privacy",
+        "secrets-management",
+        "security"
+      ]
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/maximoai-co/maximo-syntax-cli",
+    "title": "maximoai-co/maximo-syntax-cli",
+    "description": "Maximo Syntax CLI — The official command-line interface built for Maximo AI models. Optimized for high-fidelity code generation and agentic task orchestration. Also compatible with any LLM via OpenAI, Gemini, or Ollama endpoints.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/breakingthecloud/sayay",
+    "title": "breakingthecloud/sayay",
+    "description": "AI agent cost guardrails. Budget enforcement per user/session. Block, degrade, or warn before LLM calls exceed limits.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-30T10:09:09.278150+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+    "title": "",
+    "description": "Article URL: https://noelo.org/blog/kuna-release/\nComments URL: https://news.ycombinator.com/item?id=49105563\nPoints: 39\n# Comments: 10\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 02:41:16 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://logicforprogrammers.com/",
+    "title": "",
+    "description": "Article URL: https://frantic.im/mirage/\nComments URL: https://news.ycombinator.com/item?id=49104335\nPoints: 243\n# Comments: 96\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 23:18:11 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "",
+    "description": "Article URL: https://llm2human.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49104117\nPoints: 255\n# Comments: 66\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 22:51:03 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "title": "",
+    "description": "Article URL: https://zachholman.com/posts/cold-email\nComments URL: https://news.ycombinator.com/item?id=49103089\nPoints: 217\n# Comments: 84\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 21:06:42 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+    "title": "",
+    "description": "Article URL: https://christianselig.com/2026/07/vision-pro-house/\nComments URL: https://news.ycombinator.com/item?id=49102774\nPoints: 669\n# Comments: 260\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 20:39:40 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "title": "",
+    "description": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models\nComments URL: https://news.ycombinator.com/item?id=49101852\nPoints: 437\n# Comments: 127\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 19:25:33 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "",
+    "description": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\nComments URL: https://news.ycombinator.com/item?id=49100056\nPoints: 0\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 17:01:10 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://cheapfoodmap.com/",
+    "title": "",
+    "description": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\nComments URL: https://news.ycombinator.com/item?id=49099804\nPoints: 156\n# Comments: 85\n]]>",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 16:42:20 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+    "title": "",
+    "description": "Hi HN, Rohit here from Tokenless (https://usetokenless.com/), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.Frontier models are amazing for dev work, but are so expensive. Open-source models are cheap ",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 15:55:27 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.superlogical.com/",
+    "title": "",
+    "description": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools ",
+    "extra": {
+      "pub_date": "Wed, 29 Jul 2026 15:05:43 +0000"
+    },
+    "collected_at": "2026-07-30T10:09:10.723729+00:00"
+  }
+]
