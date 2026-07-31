@@ -1,0 +1,486 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mozgsml/memgres",
+    "title": "mozgsml/memgres",
+    "description": "Drop-in memory layer for AI agents on a single Postgres. Store documents (not LLM-guessed facts), edit by whole body or unified diff with content-hash optimistic concurrency, organize as an ltree tree, recall lexically or semantically (pgvector) or hybrid, git-blame every line, reconstruct any version, erase for real. Library + HTTP + MCP. MIT.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 349,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoakes/wringer",
+    "title": "marcoakes/wringer",
+    "description": "One command that proves whether a change is mergeable, and leaves behind evidence a human or an agent can inspect. Runs your repo's own gates; no LLM, no cloud, nothing uploaded. The verification core of a vendor-neutral AI-DLC harness.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-dlc",
+        "ci",
+        "cli",
+        "code-review",
+        "devtools",
+        "evidence",
+        "harness",
+        "orchestration",
+        "python",
+        "testing",
+        "verification"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/naomytcheums-dotcom/job-agent",
+    "title": "naomytcheums-dotcom/job-agent",
+    "description": "Job Agent is an AI assistant that tracks job postings, scores how well they match your resume, and drafts personalized cover letters. Import listings by URL or sync with France Travail and Adzuna, then manage every application on a kanban tracker. Built with FastAPI, React, and a pluggable LLM backend (OpenAI, Gemini, Groq). You approve every send.",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/alrcatraz/astra-aigate",
+    "title": "alrcatraz/astra-aigate",
+    "description": "A all-in-one system to organise your LLM providers, MCP, and other supportive services for your Agent or AI Chatbox in one place",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+    "title": "open-multi-agent/open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "extra": {
+      "stars": 6688,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "crewai-alternative",
+        "deepseek",
+        "dynamic-workflows",
+        "gemini",
+        "langgraph-alternative",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 66,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/danzevo/deep-research-agent",
+    "title": "danzevo/deep-research-agent",
+    "description": "An autonomous AI research agent that orchestrates deep web scraping (Jina) and local LLM summarization (LM Studio) to generate highly accurate, comparative reports via CLI or Telegram.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Sdkwork-Cloud/hub-installer",
+    "title": "Sdkwork-Cloud/hub-installer",
+    "description": "Hub Installer is an AI-powered automated installer that uses LLM agents and MCP to download, configure, and run software projects or machine-learning models. It provides a unified way to install GitHub repos, HuggingFace models, and other AI resources with fully automated setup.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/vailsen/paperless-brain",
+    "title": "vailsen/paperless-brain",
+    "description": "AI brain for your Paperless-ngx archive — chat with your documents via local (Ollama) or cloud  LLMs, with agentic tool use, semantic search, and long-term memory.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "document-management",
+        "llm",
+        "nicegui",
+        "ollama",
+        "paperless-ngx",
+        "rag",
+        "self-hosted"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 2986,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/lorisunjunbin/petp",
+    "title": "lorisunjunbin/petp",
+    "description": "Python RPA toolkit with 80+ processors orchestrating browser automation, AI/LLM (10 providers), databases, SSH, email, and HTTP tasks. Configurable pipelines with cron scheduling and loops. Runs as wxPython GUI, headless service, or  Docker container. Built-in MCP Tool Server (Streamable-HTTP) for AI agent integration.",
+    "extra": {
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "automated-testing",
+        "devops-tools",
+        "gui-application",
+        "mcp-server"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain English, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 278,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Particle-Academy/teachers-aid",
+    "title": "Particle-Academy/teachers-aid",
+    "description": "Teachers Aid Chat (TAC) — an authoring agent that reads course material and proposes curriculum, course and test changes for review. LLM-library agnostic: one ChatDriver seam for Prism, the Laravel AI SDK, or your own.",
+    "extra": {
+      "stars": 0,
+      "language": "PHP",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 3828,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/maximoai-co/maximo-syntax-cli",
+    "title": "maximoai-co/maximo-syntax-cli",
+    "description": "Maximo Syntax CLI — The official command-line interface built for Maximo AI models. Optimized for high-fidelity code generation and agentic task orchestration. Also compatible with any LLM via OpenAI, Gemini, or Ollama endpoints.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ghost-in-the-droid/android-agent",
+    "title": "ghost-in-the-droid/android-agent",
+    "description": "Open-source framework to drive a real phone with AI agents: Android over ADB, iPhone over WebDriverAgent, 62 MCP tools, Python skills, a Vue dashboard, and swappable local or cloud LLMs",
+    "extra": {
+      "stars": 276,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "android",
+        "android-automation",
+        "automation",
+        "bot-framework",
+        "fastapi",
+        "ios",
+        "iphone",
+        "mcp",
+        "open-source",
+        "phone-farm",
+        "python",
+        "skill-system",
+        "vue",
+        "webdriveragent"
+      ]
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nguyener/Healthcare-Agent-Planning-Platform",
+    "title": "nguyener/Healthcare-Agent-Planning-Platform",
+    "description": "Most AI chatbot projects demonstrate a single LLM response or a single tool invocation.  This project focuses on Agentic AI, where an LLM reasons about a user's goal, creates an execution plan, orchestrates multiple backend services, and adapts dynamically when the workflow changes. This architecture more closely resembles production AI systems use",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-07-31T10:25:56.143464+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "title": "",
+    "description": "Article URL: https://www.bbc.com/news/articles/cn0nqv05g0do\nComments URL: https://news.ycombinator.com/item?id=49120120\nPoints: 41\n# Comments: 47\n]]>",
+    "extra": {
+      "pub_date": "Fri, 31 Jul 2026 07:33:10 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "title": "",
+    "description": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 289\n# Comments: 121\n]]>",
+    "extra": {
+      "pub_date": "Fri, 31 Jul 2026 06:08:36 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/mokshablr/gander",
+    "title": "",
+    "description": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:C:\\> DIRC:\\> COPY FILE.TXT A:You had to remember the command, syntax, paths, and parameters.The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click butt",
+    "extra": {
+      "pub_date": "Fri, 31 Jul 2026 05:17:29 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/openjdk/jdk/pull/31120",
+    "title": "",
+    "description": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 354\n# Comments: 79\n]]>",
+    "extra": {
+      "pub_date": "Fri, 31 Jul 2026 03:47:59 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "",
+    "description": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 307\n# Comments: 133\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 23:22:16 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "title": "",
+    "description": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 81\n# Comments: 31\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 21:47:31 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+    "title": "",
+    "description": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\nComments URL: https://news.ycombinator.com/item?id=49113929\nPoints: 1038\n# Comments: 564\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 18:40:52 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "title": "",
+    "description": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/\nComments URL: https://news.ycombinator.com/item?id=49113338\nPoints: 169\n# Comments: 49\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 17:52:51 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "",
+    "description": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\nComments URL: https://news.ycombinator.com/item?id=49112683\nPoints: 0\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 17:00:21 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "title": "",
+    "description": "Article URL: https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\nComments URL: https://news.ycombinator.com/item?id=49111305\nPoints: 218\n# Comments: 140\n]]>",
+    "extra": {
+      "pub_date": "Thu, 30 Jul 2026 15:22:46 +0000"
+    },
+    "collected_at": "2026-07-31T10:25:56.821286+00:00"
+  }
+]

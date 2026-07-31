@@ -1,0 +1,17 @@
+{
+  "id": "nguyener_Healthcare-Agent-Planning-Platform-20260731-001",
+  "title": "nguyener/Healthcare-Agent-Planning-Platform",
+  "source_url": "https://github.com/nguyener/Healthcare-Agent-Planning-Platform",
+  "source_type": "github_trending",
+  "summary": "该项目展示了一个医疗保健领域的智能体规划平台，强调LLM不仅生成回复，而是推理用户目标、制定执行计划、编排多个后端服务，并在工作流变化时动态调整，更贴近生产级AI系统架构。",
+  "tags": [
+    "Agentic AI",
+    "Healthcare",
+    "Orchestration",
+    "Planning"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-31T10:26:58.374128+00:00",
+  "published_at": null
+}

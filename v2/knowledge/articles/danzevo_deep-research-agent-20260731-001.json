@@ -1,0 +1,17 @@
+{
+  "id": "danzevo_deep-research-agent-20260731-001",
+  "title": "danzevo/deep-research-agent",
+  "source_url": "https://github.com/danzevo/deep-research-agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个自主AI研究代理，结合Jina深度网页抓取和LM Studio本地LLM摘要，通过CLI或Telegram生成高精度对比报告，实现自动化研究流程。",
+  "tags": [
+    "AI Agent",
+    "Web Scraping",
+    "LLM",
+    "Research"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-31T10:26:58.374128+00:00",
+  "published_at": null
+}

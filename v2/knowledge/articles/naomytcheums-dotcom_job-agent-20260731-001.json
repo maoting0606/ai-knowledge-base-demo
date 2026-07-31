@@ -1,0 +1,17 @@
+{
+  "id": "naomytcheums-dotcom_job-agent-20260731-001",
+  "title": "naomytcheums-dotcom/job-agent",
+  "source_url": "https://github.com/naomytcheums-dotcom/job-agent",
+  "source_type": "github_trending",
+  "summary": "Job Agent是一个AI求职助手，可跟踪职位发布、根据简历评分匹配度并生成个性化求职信。支持通过URL导入或同步France Travail和Adzuna，使用看板管理申请。基于FastAPI、React和可插拔LLM后端（OpenAI、Gemini、Groq），所有发送需用户批准。",
+  "tags": [
+    "AI job assistant",
+    "job application",
+    "LLM",
+    "FastAPI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-31T10:26:58.374128+00:00",
+  "published_at": null
+}

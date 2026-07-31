@@ -1,0 +1,17 @@
+{
+  "id": "Particle-Academy_teachers-aid-20260731-001",
+  "title": "Particle-Academy/teachers-aid",
+  "source_url": "https://github.com/Particle-Academy/teachers-aid",
+  "source_type": "github_trending",
+  "summary": "Teachers Aid Chat (TAC) 是一个教学辅助代理，能读取课程材料并提出课程、教学和测试修改建议。它采用LLM库无关设计，通过统一的ChatDriver接口支持Prism、Laravel AI SDK或自定义实现，便于集成和扩展。",
+  "tags": [
+    "AI Agent",
+    "Education",
+    "LLM",
+    "Laravel"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-07-31T10:26:58.374128+00:00",
+  "published_at": null
+}
