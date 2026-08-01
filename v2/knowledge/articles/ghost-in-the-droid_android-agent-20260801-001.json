@@ -1,0 +1,17 @@
+{
+  "id": "ghost-in-the-droid_android-agent-20260801-001",
+  "title": "ghost-in-the-droid/android-agent",
+  "source_url": "https://github.com/ghost-in-the-droid/android-agent",
+  "source_type": "github_trending",
+  "summary": "这是一个开源框架，通过AI代理驱动真实手机，支持Android（ADB）和iPhone（WebDriverAgent），提供62个MCP工具、Python技能、Vue仪表盘，并可切换本地或云端LLM，实现手机自动化操作。",
+  "tags": [
+    "AI Agent",
+    "Mobile Automation",
+    "MCP",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-01T09:48:34.416356+00:00",
+  "published_at": null
+}

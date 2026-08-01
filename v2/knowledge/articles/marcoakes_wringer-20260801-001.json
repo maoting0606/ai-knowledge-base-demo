@@ -1,0 +1,17 @@
+{
+  "id": "marcoakes_wringer-20260801-001",
+  "title": "marcoakes/wringer",
+  "source_url": "https://github.com/marcoakes/wringer",
+  "source_type": "github_trending",
+  "summary": "Wringer是一个命令行工具，通过运行仓库自身的检查门禁（如测试、lint）来验证代码变更是否可合并，并留下人类或AI可检查的证据。它不依赖LLM或云服务，确保本地、私密且供应商中立，是AI驱动开发生命周期（DLC）验证核心。",
+  "tags": [
+    "merge-verification",
+    "local-tools",
+    "ci-cd",
+    "ai-dlc"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-01T09:48:34.416356+00:00",
+  "published_at": null
+}

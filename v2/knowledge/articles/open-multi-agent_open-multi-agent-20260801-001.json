@@ -1,0 +1,17 @@
+{
+  "id": "open-multi-agent_open-multi-agent-20260801-001",
+  "title": "open-multi-agent/open-multi-agent",
+  "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+  "source_type": "github_trending",
+  "summary": "这是一个TypeScript编写的AI多智能体编排框架，采用动态工作流设计。核心特点是协调器在运行时规划任务DAG（有向无环图），而非预先定义流程图。支持多种LLM后端，包括Claude、ChatGPT、Gemini、DeepSeek及本地模型，提供灵活的任务编排能力。",
+  "tags": [
+    "AI Agents",
+    "Orchestration",
+    "TypeScript",
+    "Dynamic Workflow"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-01T09:48:34.416356+00:00",
+  "published_at": null
+}

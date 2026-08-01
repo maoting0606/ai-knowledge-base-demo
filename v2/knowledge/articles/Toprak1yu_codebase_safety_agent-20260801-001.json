@@ -1,0 +1,17 @@
+{
+  "id": "Toprak1yu_codebase_safety_agent-20260801-001",
+  "title": "Toprak1yu/codebase_safety_agent",
+  "source_url": "https://github.com/Toprak1yu/codebase_safety_agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Streamlit和Agno构建的自主AI安全审计代理，可克隆GitHub仓库，并利用本地Ollama或云端Gemini LLM自动执行代码安全审查，支持本地与云端模型切换，提升审计效率与灵活性。",
+  "tags": [
+    "AI Security",
+    "Code Audit",
+    "LLM",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-01T09:48:34.416356+00:00",
+  "published_at": null
+}
