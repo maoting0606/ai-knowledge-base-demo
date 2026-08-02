@@ -1,0 +1,17 @@
+{
+  "id": "abdallahmagdy15_mudriknow-20260802-001",
+  "title": "abdallahmagdy15/mudriknow",
+  "source_url": "https://github.com/abdallahmagdy15/mudriknow",
+  "source_type": "github_trending",
+  "summary": "Mudriknow是一款开源桌面AI助手，能查看屏幕内容，用户通过Alt+Space快捷键即可在任何应用中获取即时答案或分步指导，配有猫头鹰光标。它采用沙盒环境，兼容任意LLM，基于TypeScript和Electron构建，欢迎社区贡献代码。",
+  "tags": [
+    "AI Agent",
+    "Desktop Assistant",
+    "Electron",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-02T09:47:43.380184+00:00",
+  "published_at": null
+}

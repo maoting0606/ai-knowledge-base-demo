@@ -1,0 +1,17 @@
+{
+  "id": "ghassenbrg_slide-agent-20260802-001",
+  "title": "ghassenbrg/slide-agent",
+  "source_url": "https://github.com/ghassenbrg/slide-agent",
+  "source_type": "github_trending",
+  "summary": "slide-agent是一个AI驱动的演示文稿生成工具，支持从提示词、Markdown、代码库或文档自动创建专业PPT，兼容任意LLM或编码代理，提升演示制作效率。",
+  "tags": [
+    "AI presentation",
+    "LLM",
+    "PowerPoint",
+    "automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-02T09:47:43.380184+00:00",
+  "published_at": null
+}

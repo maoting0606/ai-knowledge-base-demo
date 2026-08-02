@@ -1,0 +1,17 @@
+{
+  "id": "trishajakka-png_civic-grievance-router-20260802-001",
+  "title": "trishajakka-png/civic-grievance-router",
+  "source_url": "https://github.com/trishajakka-png/civic-grievance-router",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI驱动的市政投诉路由系统，支持泰卢固语、印地语、英语及混合文本（输入或语音），通过LangGraph多代理流程评估紧急程度并分派至相应部门。技术栈包括FastAPI、Groq/LLaMA、React和Whisper，并对比了传统ML与LLM分类器的性能。",
+  "tags": [
+    "NLP",
+    "Multi-agent",
+    "Civic Tech",
+    "Voice Input"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-02T09:47:43.380184+00:00",
+  "published_at": null
+}

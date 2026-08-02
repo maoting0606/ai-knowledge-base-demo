@@ -1,0 +1,17 @@
+{
+  "id": "Sane219_legoOS-20260802-001",
+  "title": "Sane219/legoOS",
+  "source_url": "https://github.com/Sane219/legoOS",
+  "source_type": "github_trending",
+  "summary": "legoOS是一个自托管的AI操作系统，基于Rust（Axum）和Next.js构建，支持创建AI代理、可视化工作流、连接MCP服务器及GitHub、Slack等应用，集成RAG知识库，并可运行本地或云端LLM，功能全面且技术栈现代。",
+  "tags": [
+    "AI OS",
+    "Rust",
+    "RAG",
+    "Agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-02T09:47:43.380184+00:00",
+  "published_at": null
+}
