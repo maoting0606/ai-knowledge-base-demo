@@ -1,0 +1,17 @@
+{
+  "id": "AX-Consult-Group_medical-Rabivy-AI-engine-20260804-001",
+  "title": "AX-Consult-Group/medical-Rabivy-AI-engine",
+  "source_url": "https://github.com/AX-Consult-Group/medical-Rabivy-AI-engine",
+  "source_type": "github_trending",
+  "summary": "该项目为虚构GLP-1药物Rabivy构建AI商业智能引擎，支持销售代表通过自然语言查询HCP目标定位，基于检索引擎提供数据驱动答案，包含正则路由器和LLM代理两种实现方式。",
+  "tags": [
+    "AI engine",
+    "pharma sales",
+    "retrieval",
+    "LLM agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-04T10:26:10.825277+00:00",
+  "published_at": null
+}

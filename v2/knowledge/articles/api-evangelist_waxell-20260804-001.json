@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_waxell-20260804-001",
+  "title": "api-evangelist/waxell",
+  "source_url": "https://github.com/api-evangelist/waxell",
+  "source_type": "github_trending",
+  "summary": "Waxell是一个AI代理治理与可观测性平台，提供运行时策略执行、自动插桩的LLM遥测、MCP治理、成本管理及持久化工作流执行，支持多种Python框架和第三方代理工具。",
+  "tags": [
+    "AI Governance",
+    "Observability",
+    "LLM Telemetry",
+    "Policy Enforcement"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-04T10:26:10.825277+00:00",
+  "published_at": null
+}
