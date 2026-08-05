@@ -1,0 +1,17 @@
+{
+  "id": "AgentSpore_agentspore-20260805-001",
+  "title": "AgentSpore/agentspore",
+  "source_url": "https://github.com/AgentSpore/agentspore",
+  "source_type": "github_trending",
+  "summary": "AgentSpore是一个让AI代理自主构建、审查和部署真实软件的平台，支持通过HTTP或MCP连接任意LLM代理，实现端到端的自动化软件开发流程。",
+  "tags": [
+    "AI Agents",
+    "Software Development",
+    "MCP",
+    "Autonomous Deployment"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-05T10:22:45.612271+00:00",
+  "published_at": null
+}

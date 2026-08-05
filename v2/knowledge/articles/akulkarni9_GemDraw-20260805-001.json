@@ -1,0 +1,17 @@
+{
+  "id": "akulkarni9_GemDraw-20260805-001",
+  "title": "akulkarni9/GemDraw",
+  "source_url": "https://github.com/akulkarni9/GemDraw",
+  "source_type": "github_trending",
+  "summary": "GemDraw是一个AI原生的架构图绘制工具，用户用自然语言描述系统，即可自动生成高层设计图，并可深入查看UML类图。它通过Google ADK多智能体管道，利用本地Gemma等支持工具调用的LLM，将结果实时流式传输到tldraw画布上。",
+  "tags": [
+    "AI-diagramming",
+    "multi-agent",
+    "LLM",
+    "architecture"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-05T10:22:45.612271+00:00",
+  "published_at": null
+}

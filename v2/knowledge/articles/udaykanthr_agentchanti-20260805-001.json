@@ -1,0 +1,17 @@
+{
+  "id": "udaykanthr_agentchanti-20260805-001",
+  "title": "udaykanthr/agentchanti",
+  "source_url": "https://github.com/udaykanthr/agentchanti",
+  "source_type": "github_trending",
+  "summary": "这是一个自主多智能体AI编程工具，提供CLI和Python库，内置RAG。能规划、编码、审查和测试，支持本地LLM（Ollama、LM Studio）及云端模型（OpenAI、Gemini、Claude）。",
+  "tags": [
+    "multi-agent",
+    "AI coding",
+    "RAG",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-05T10:22:45.612271+00:00",
+  "published_at": null
+}

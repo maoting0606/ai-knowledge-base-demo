@@ -1,0 +1,17 @@
+{
+  "id": "packetloss404_tradefarm-20260805-001",
+  "title": "packetloss404/tradefarm",
+  "source_url": "https://github.com/packetloss404/tradefarm",
+  "source_type": "github_trending",
+  "summary": "该项目使用100个AI代理进行美股和ETF的模拟交易，结合LSTM和LLM（Claude或MiniMax）做出决策，通过Alpaca获取模拟成交，并提供IMMT风格的实时仪表盘。",
+  "tags": [
+    "AI trading",
+    "LSTM",
+    "LLM",
+    "paper trading"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-05T10:22:45.612271+00:00",
+  "published_at": null
+}

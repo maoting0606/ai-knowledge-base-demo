@@ -1,0 +1,16 @@
+{
+  "id": "priyanshu1230987_Simple_Conversation_AIAgent-20260805-001",
+  "title": "priyanshu1230987/Simple_Conversation_AIAgent",
+  "source_url": "https://github.com/priyanshu1230987/Simple_Conversation_AIAgent",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个简单的对话AI代理，基于LLM与用户进行自然语言交互，能理解查询、维持对话流程并生成上下文相关回复，不依赖外部知识库或数据库。",
+  "tags": [
+    "LLM",
+    "Conversational AI",
+    "Agent"
+  ],
+  "score": 6,
+  "status": "review",
+  "collected_at": "2026-08-05T10:22:45.612271+00:00",
+  "published_at": null
+}
