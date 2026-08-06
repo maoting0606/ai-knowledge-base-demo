@@ -1,0 +1,17 @@
+{
+  "id": "2200030066cse-del_AI-Mock-Interview-Coach-20260806-001",
+  "title": "2200030066cse-del/AI-Mock-Interview-Coach",
+  "source_url": "https://github.com/2200030066cse-del/AI-Mock-Interview-Coach",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于LangGraph和LangChain的多智能体AI模拟面试教练系统，支持OpenAI或Groq作为可插拔LLM后端，通过Streamlit提供交互界面，能进行自适应模拟面试并生成详细辅导报告。",
+  "tags": [
+    "AI Interview",
+    "LangGraph",
+    "Multi-Agent",
+    "Streamlit"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-06T10:24:43.858983+00:00",
+  "published_at": null
+}

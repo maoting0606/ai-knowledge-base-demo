@@ -1,0 +1,17 @@
+{
+  "id": "damineniharsha24-bit_Enterprise-AI-Agent-20260806-001",
+  "title": "damineniharsha24-bit/Enterprise-AI-Agent",
+  "source_url": "https://github.com/damineniharsha24-bit/Enterprise-AI-Agent",
+  "source_type": "github_trending",
+  "summary": "这是一个可运行的RAG驱动的企业AI代理原型，支持文档问答（带引用）、摘要、工单提交，并能从新上传文件中学习。完全离线运行，无需API密钥，通过设置环境变量可升级到Claude或GPT等真实LLM。",
+  "tags": [
+    "RAG",
+    "AI Agent",
+    "Enterprise",
+    "Offline"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-06T10:24:43.858983+00:00",
+  "published_at": null
+}

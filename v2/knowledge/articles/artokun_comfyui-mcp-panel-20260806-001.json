@@ -1,0 +1,17 @@
+{
+  "id": "artokun_comfyui-mcp-panel-20260806-001",
+  "title": "artokun/comfyui-mcp-panel",
+  "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+  "source_type": "github_trending",
+  "summary": "artokun/comfyui-mcp-panel 是一个本地优先的 ComfyUI 侧边栏 AI 代理，利用用户自己的 Claude 或 ChatGPT 订阅（无需 API 密钥或额外 LLM 成本），通过自然语言驱动实时图编辑、工作流管理和节点安装，是 comfyui-mcp 的界面层。",
+  "tags": [
+    "ComfyUI",
+    "MCP",
+    "AI Agent",
+    "Local-first"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-06T10:24:43.858983+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "contenox_contenox-20260806-001",
+  "title": "contenox/contenox",
+  "source_url": "https://github.com/contenox/contenox",
+  "source_type": "github_trending",
+  "summary": "Contenox是一个声明式、可审计的AI代理链框架，支持显式工具白名单、人工审批门控、任意LLM提供商，可从终端或ACP编辑器使用，强调安全性和透明度。",
+  "tags": [
+    "AI agents",
+    "declarative",
+    "auditability",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-06T10:24:43.858983+00:00",
+  "published_at": null
+}

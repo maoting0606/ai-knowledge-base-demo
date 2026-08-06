@@ -1,0 +1,17 @@
+{
+  "id": "Navneet-Scaler_AegisAI-20260806-001",
+  "title": "Navneet-Scaler/AegisAI",
+  "source_url": "https://github.com/Navneet-Scaler/AegisAI",
+  "source_type": "github_trending",
+  "summary": "AegisAI是一个托管API，在AI代理执行工具调用前对其进行评分，通过规则、在线模式模型和LLM裁判返回允许、暂缓或阻止，强调约束架构而非提示词。",
+  "tags": [
+    "AI Safety",
+    "Tool Call Guard",
+    "LLM Judge",
+    "Agent Security"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-06T10:24:43.858983+00:00",
+  "published_at": null
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/contenox/contenox",
+    "title": "contenox/contenox",
+    "description": "Declarative, auditable AI agent chains — explicit tool allowlists, human-in-the-loop approval gates, any LLM provider, from your terminal or any ACP editor",
+    "extra": {
+      "stars": 12,
+      "language": "Go",
+      "topics": [
+        "go",
+        "llm",
+        "orchestrator",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 358,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/oh-my-harness/senza-studio",
+    "title": "oh-my-harness/senza-studio",
+    "description": "Web app to customize AI agents via natural-language conversation, example library, or direct code editing. Built on llm-harness-runtime + Senza SDK.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/0n6k4v-Coder/agentcrawl",
+    "title": "0n6k4v-Coder/agentcrawl",
+    "description": "Web crawling & scraping framework for AI agents. Turn any website into LLM-ready Markdown or structured JSON — with built-in search, extraction, chunking, and a REST API.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ayudenko/court",
+    "title": "ayudenko/court",
+    "description": "Debate arena where AI agents from different owners argue a question over REST or MCP, with an LLM moderator that tracks consensus and delivers a verdict",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agent-to-agent",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "debate",
+        "golang",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "multi-agent-systems",
+        "sse"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 505,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoakes/wringer",
+    "title": "marcoakes/wringer",
+    "description": "One command that proves whether a change is mergeable, and leaves behind evidence a human or an agent can inspect. Runs your repo's own gates; no LLM, no cloud, nothing uploaded. The verification core of a vendor-neutral AI-DLC harness.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-dlc",
+        "ci",
+        "cli",
+        "code-review",
+        "devtools",
+        "evidence",
+        "harness",
+        "orchestration",
+        "python",
+        "testing",
+        "verification"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3055,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ASCIT31/Dark-Moon",
+    "title": "ASCIT31/Dark-Moon",
+    "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+    "extra": {
+      "stars": 808,
+      "language": "Python",
+      "topics": [
+        "active-directory",
+        "ai-agents",
+        "ai-red-team",
+        "ai-security-tool",
+        "autonomous-agents",
+        "cloud-security",
+        "firmware-security",
+        "iot-security",
+        "kubernetes",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent-systems",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting",
+        "red-team",
+        "security-automation",
+        "security-tools",
+        "self-hosted"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ethernomad/choreographr",
+    "title": "ethernomad/choreographr",
+    "description": "Choreographr is an all purpose extensible AI agent system written entirely in Rust. It has a client/server architecture and can run many sessions simulataneously. It can be run locally or in the cloud. LLM generated code can be run in a sandboxed RISC-V VM for complete security and observability.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 72,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 10,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/2200030066cse-del/AI-Mock-Interview-Coach",
+    "title": "2200030066cse-del/AI-Mock-Interview-Coach",
+    "description": "AI Mock Interview Coach 🎯 A multi-agent AI system that conducts a realistic, adaptive mock interview and delivers a detailed coaching report at the end — built with LangGraph, LangChain, Streamlit, and a pluggable LLM layer that runs on either OpenAI or Groq ",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/packetloss404/tradefarm",
+    "title": "packetloss404/tradefarm",
+    "description": "100 AI agents paper-trading US stocks & ETFs. LSTM + LLM (Claude or MiniMax) decisions, Alpaca -- paper fills, IMMT-style live dashboard.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/damineniharsha24-bit/Enterprise-AI-Agent",
+    "title": "damineniharsha24-bit/Enterprise-AI-Agent",
+    "description": "A runnable prototype of a RAG-powered AI agent for company documents: it answers questions with citations, summarizes documents, files tickets, and learns from newly uploaded files. Runs fully offline out of the box — no API key required to try it — and upgrades to a real LLM (Claude or GPT) by setting one environment variable.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/barkuntasrinivas2025-stack/ai-hcp-crm",
+    "title": "barkuntasrinivas2025-stack/ai-hcp-crm",
+    "description": "AI-first CRM module for logging healthcare professional (HCP) interactions via structured form or conversational chat, powered by a LangGraph agent and Groq LLMs.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Navneet-Scaler/AegisAI",
+    "title": "Navneet-Scaler/AegisAI",
+    "description": "Constrain the architecture, not the prompt. A hosted API that scores an AI agent's proposed tool calls before they execute: rules, an online pattern model, and an LLM judge, returning allow, hold, or block.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a 100+ tool Multi-Turn engine, an 86-agent visual workflow designer, 28 SKILL.md skills, a universal MCP client, and ACPX, a runtime for external coding agents like Claude Code, Codex, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-08-06T10:23:33.765089+00:00"
+  }
+]
