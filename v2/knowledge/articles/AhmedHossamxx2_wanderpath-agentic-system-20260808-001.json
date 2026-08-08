@@ -1,0 +1,17 @@
+{
+  "id": "AhmedHossamxx2_wanderpath-agentic-system-20260808-001",
+  "title": "AhmedHossamxx2/wanderpath-agentic-system",
+  "source_url": "https://github.com/AhmedHossamxx2/wanderpath-agentic-system",
+  "source_type": "github_trending",
+  "summary": "本文介绍Wanderpath旅行代理系统，需AI助手处理复杂行程修改、航班升级和国际入境要求检查，但禁止LLM直接访问敏感客户支付数据、护照记录或单方面执行不可退款取消操作，强调安全边界与权限控制。",
+  "tags": [
+    "AI Agent",
+    "Travel Tech",
+    "Data Security",
+    "Access Control"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-08T08:26:15.872961+00:00",
+  "published_at": null
+}

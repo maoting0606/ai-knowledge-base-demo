@@ -1,0 +1,17 @@
+{
+  "id": "nihilistau_clockwork-dark-20260808-001",
+  "title": "nihilistau/clockwork-dark",
+  "source_url": "https://github.com/nihilistau/clockwork-dark",
+  "source_type": "github_trending",
+  "summary": "Clockwork-dark是一个本地优先的AI角色扮演游戏，结合确定性硬引擎与两个自主LLM代理。游戏核心机制是“邪恶滴答”，根据玩家选择决定成为英雄或面包师，强调叙事与系统交互的深度。",
+  "tags": [
+    "AI RPG",
+    "LLM Agents",
+    "Local-first",
+    "Procedural Narrative"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-08T08:26:15.872961+00:00",
+  "published_at": null
+}

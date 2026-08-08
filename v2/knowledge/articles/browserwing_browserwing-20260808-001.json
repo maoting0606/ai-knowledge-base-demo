@@ -1,0 +1,17 @@
+{
+  "id": "browserwing_browserwing-20260808-001",
+  "title": "browserwing/browserwing",
+  "source_url": "https://github.com/browserwing/browserwing",
+  "source_type": "github_trending",
+  "summary": "BrowserWing将浏览器操作转化为MCP命令或Claude技能，使AI代理能高效可靠地控制浏览器，告别缓慢且消耗token的LLM交互，直接调用命令实现快速自动化，适用于AI驱动任务和浏览器自动化，提升生产力。",
+  "tags": [
+    "Browser Automation",
+    "MCP",
+    "AI Agents",
+    "Productivity"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-08T08:26:15.872961+00:00",
+  "published_at": null
+}
