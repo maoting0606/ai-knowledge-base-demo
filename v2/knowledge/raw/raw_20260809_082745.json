@@ -1,0 +1,477 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 76,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 526,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AhmedHossamxx2/wanderpath-agentic-system",
+    "title": "AhmedHossamxx2/wanderpath-agentic-system",
+    "description": "Wanderpath Travel agents need an AI assistant to handle complex itinerary modifications, process flight upgrades, and check international entry requirements. However, the system cannot give the LLM raw database access to sensitive client payment data, passport records, or the ability to unilaterally execute non-refundable cancellations.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/contenox/contenox",
+    "title": "contenox/contenox",
+    "description": "Declarative, auditable AI agent chains, explicit tool allowlists, human-in-the-loop approval gates, any LLM provider, from your terminal or any ACP editor",
+    "extra": {
+      "stars": 12,
+      "language": "Go",
+      "topics": [
+        "go",
+        "llm",
+        "orchestrator",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 362,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/marcoakes/wringer",
+    "title": "marcoakes/wringer",
+    "description": "One command that proves whether a change is mergeable, and leaves behind evidence a human or an agent can inspect. Runs your repo's own gates; no LLM, no cloud, nothing uploaded. The verification core of a vendor-neutral AI-DLC harness.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-dlc",
+        "ci",
+        "cli",
+        "code-review",
+        "devtools",
+        "evidence",
+        "harness",
+        "orchestration",
+        "python",
+        "testing",
+        "verification"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ayudenko/court",
+    "title": "ayudenko/court",
+    "description": "Debate arena where AI agents from different owners argue a question over REST or MCP, with an LLM moderator that tracks consensus and delivers a verdict",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agent-to-agent",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "debate",
+        "golang",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "multi-agent-systems",
+        "sse"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/viantonugroho11/Mavio-MCP",
+    "title": "viantonugroho11/Mavio-MCP",
+    "description": "All-in-one developer toolkit for the Model Context Protocol (MCP) ecosystem — registry, router, playground, inspector, importers, and enterprise auth.  Mavio-MCP is not an AI platform, agent framework, LLM orchestrator, or workflow engine. Only MCP.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ethernomad/choreographr",
+    "title": "ethernomad/choreographr",
+    "description": "Choreographr is an all purpose extensible AI agent system written entirely in Rust. It has a client/server architecture and can run many sessions simulataneously. It can be run locally or in the cloud. LLM generated code can be run in a sandboxed RISC-V VM for complete security and observability.",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/alrcatraz/astra-aigate",
+    "title": "alrcatraz/astra-aigate",
+    "description": "A all-in-one system to organise your LLM providers, MCP, and other supportive services for your Agent or AI Chatbox in one place",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3122,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/gy15901580825/Argus",
+    "title": "gy15901580825/Argus",
+    "description": "Black-box, open-source red-team testing for AI agents. Point Argus at any HTTP, gRPC, or browser-using agent endpoint, run 500+ adversarial probes (OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, TAP/PAIR/GCG), get LLM-judged findings as SARIF, gate CI via GitHub Code Scanning. Ships with CLI + GH Action.",
+    "extra": {
+      "stars": 204,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a 100+ tool Multi-Turn engine, an 86-agent visual workflow designer, 28 SKILL.md skills, a universal MCP client, and ACPX, a runtime for external coding agents like Claude Code, Codex, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AgentParadise/agentic-primitives",
+    "title": "AgentParadise/agentic-primitives",
+    "description": "Composable building blocks for AI coding agents. Model-agnostic prompts and tools that work with Claude, GPT, or any LLM provider.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ikstv/agent-foreman",
+    "title": "ikstv/agent-foreman",
+    "description": "Supervised AI coding orchestrator: an architect LLM (OpenAI) plans tasks, a coding agent (Claude Code) executes them automatically on an isolated branch, and the architect reviews each task — approve, fix, or stop — before the next. Safety-first, fail-closed by design.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "claude-code",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "llm",
+        "openai",
+        "orchestration",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mockagents/mockagents",
+    "title": "mockagents/mockagents",
+    "description": "Simulate, test, and validate AI agent integrations — without calling real LLMs or burning tokens.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agents",
+        "ai-testing",
+        "anthropic",
+        "golang",
+        "llm",
+        "mcp",
+        "mocking",
+        "openai",
+        "testing-tools"
+      ]
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/nihilistau/clockwork-dark",
+    "title": "nihilistau/clockwork-dark",
+    "description": "Local-first AI RPG: deterministic hard engine + two autonomous LLM agents. Evil ticks whether you become a hero or a baker.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-09T08:27:45.390538+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/jmarshall23/msword",
+    "title": "",
+    "description": "Article URL: http://longbets.org/601/\nComments URL: https://news.ycombinator.com/item?id=49228458\nPoints: 127\n# Comments: 43\n]]>",
+    "extra": {
+      "pub_date": "Sun, 09 Aug 2026 04:30:26 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "title": "",
+    "description": "Thread for original post: https://news.ycombinator.com/item?id=49214863\n\nComments URL: https://news.ycombinator.com/item?id=49228166\nPoints: 163\n# Comments: 15\n]]>",
+    "extra": {
+      "pub_date": "Sun, 09 Aug 2026 03:26:00 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://marketnow.site/",
+    "title": "",
+    "description": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers\nComments URL: https://news.ycombinator.com/item?id=49227652\nPoints: 95\n# Comments: 58\n]]>",
+    "extra": {
+      "pub_date": "Sun, 09 Aug 2026 01:49:48 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://theoremdb.org/",
+    "title": "",
+    "description": "Article URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621\nComments URL: https://news.ycombinator.com/item?id=49227365\nPoints: 105\n# Comments: 58\n]]>",
+    "extra": {
+      "pub_date": "Sun, 09 Aug 2026 00:59:58 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://os8088.com/",
+    "title": "",
+    "description": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/\nComments URL: https://news.ycombinator.com/item?id=49226742\nPoints: 162\n# Comments: 15\n]]>",
+    "extra": {
+      "pub_date": "Sat, 08 Aug 2026 23:05:24 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://seg6.space/posts/phone-server/",
+    "title": "",
+    "description": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\nComments URL: https://news.ycombinator.com/item?id=49226563\nPoints: 49\n# Comments: 47\n]]>",
+    "extra": {
+      "pub_date": "Sat, 08 Aug 2026 22:36:25 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "",
+    "description": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute\nComments URL: https://news.ycombinator.com/item?id=49225139\nPoints: 141\n# Comments: 32\n]]>",
+    "extra": {
+      "pub_date": "Sat, 08 Aug 2026 19:38:08 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "title": "",
+    "description": "Article URL: https://code.claude.com/docs/en/cross-session-messaging\nComments URL: https://news.ycombinator.com/item?id=49222824\nPoints: 117\n# Comments: 46\n]]>",
+    "extra": {
+      "pub_date": "Sat, 08 Aug 2026 15:34:49 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "",
+    "description": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/\nComments URL: https://news.ycombinator.com/item?id=49221711\nPoints: 177\n# Comments: 34\n]]>",
+    "extra": {
+      "pub_date": "Sat, 08 Aug 2026 13:33:06 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "title": "",
+    "description": "Article URL: http://www.davetech.co.uk/difficultycurves\nComments URL: https://news.ycombinator.com/item?id=49180649\nPoints: 105\n# Comments: 43\n]]>",
+    "extra": {
+      "pub_date": "Wed, 05 Aug 2026 09:59:34 +0000"
+    },
+    "collected_at": "2026-08-09T08:27:45.942137+00:00"
+  }
+]

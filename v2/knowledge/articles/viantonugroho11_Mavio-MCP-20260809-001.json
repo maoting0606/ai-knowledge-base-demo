@@ -1,0 +1,17 @@
+{
+  "id": "viantonugroho11_Mavio-MCP-20260809-001",
+  "title": "viantonugroho11/Mavio-MCP",
+  "source_url": "https://github.com/viantonugroho11/Mavio-MCP",
+  "source_type": "github_trending",
+  "summary": "Mavio-MCP 是一个面向 MCP 生态的一体化开发者工具包，提供注册表、路由器、游乐场、检查器、导入器及企业级认证功能。它专注于 MCP 本身，而非 AI 平台或代理框架。",
+  "tags": [
+    "MCP",
+    "Developer Tools",
+    "Ecosystem",
+    "Authentication"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-09T08:28:43.927189+00:00",
+  "published_at": null
+}

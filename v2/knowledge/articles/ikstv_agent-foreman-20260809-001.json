@@ -1,0 +1,17 @@
+{
+  "id": "ikstv_agent-foreman-20260809-001",
+  "title": "ikstv/agent-foreman",
+  "source_url": "https://github.com/ikstv/agent-foreman",
+  "source_type": "github_trending",
+  "summary": "Agent-Foreman是一个监督式AI编码编排器，由OpenAI架构师规划任务，Claude Code在独立分支自动执行，架构师审查每个任务（批准、修复或停止）后再继续。设计上安全优先，失败即关闭。",
+  "tags": [
+    "AI orchestration",
+    "code review",
+    "safety",
+    "automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-09T08:28:43.927189+00:00",
+  "published_at": null
+}

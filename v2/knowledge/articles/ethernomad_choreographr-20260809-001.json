@@ -1,0 +1,17 @@
+{
+  "id": "ethernomad_choreographr-20260809-001",
+  "title": "ethernomad/choreographr",
+  "source_url": "https://github.com/ethernomad/choreographr",
+  "source_type": "github_trending",
+  "summary": "Choreographr是一个用Rust编写的通用可扩展AI代理系统，采用客户端/服务器架构，支持同时运行多个会话，可本地或云端部署。其特色是将LLM生成的代码在沙箱化的RISC-V虚拟机中运行，确保安全性和可观测性。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "RISC-V",
+    "Sandbox"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-09T08:28:43.927189+00:00",
+  "published_at": null
+}

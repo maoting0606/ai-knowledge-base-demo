@@ -1,0 +1,17 @@
+{
+  "id": "alrcatraz_astra-aigate-20260809-001",
+  "title": "alrcatraz/astra-aigate",
+  "source_url": "https://github.com/alrcatraz/astra-aigate",
+  "source_type": "github_trending",
+  "summary": "astra-aigate是一个一体化系统，用于集中管理LLM提供商、MCP及其他支持服务，为AI代理或聊天机器人提供统一接口，简化配置与集成流程。",
+  "tags": [
+    "LLM",
+    "MCP",
+    "AI Gateway",
+    "Integration"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-09T08:28:43.927189+00:00",
+  "published_at": null
+}
