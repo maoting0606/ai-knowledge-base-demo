@@ -1,0 +1,17 @@
+{
+  "id": "mecrimino_deepvideo-20260810-001",
+  "title": "mecrimino/deepvideo",
+  "source_url": "https://github.com/mecrimino/deepvideo",
+  "source_type": "github_trending",
+  "summary": "DeepVideo是一个AI视频编辑器，具备智能体核心，可将脚本或想法转化为可编辑时间线，并通过聊天进行编辑。支持无密钥运行（降级为确定性回退），添加密钥后可启用LLM规划、素材库和配音功能。技术栈包括React时间线编辑器、Node网关、Python代理和FFmpeg渲染。",
+  "tags": [
+    "AI video editing",
+    "agentic workflow",
+    "LLM integration",
+    "open source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-10T09:05:07.356315+00:00",
+  "published_at": null
+}

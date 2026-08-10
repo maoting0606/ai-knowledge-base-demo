@@ -1,0 +1,17 @@
+{
+  "id": "DilipKumar1311_Faculty-Appraisal-Assistant-20260810-001",
+  "title": "DilipKumar1311/Faculty-Appraisal-Assistant",
+  "source_url": "https://github.com/DilipKumar1311/Faculty-Appraisal-Assistant",
+  "source_type": "github_trending",
+  "summary": "该框架利用代理式AI自动整理并验证教师绩效证据，对照KPI目标评估，但最终评分由人类决定。采用FastAPI和React构建，支持可插拔的LLM/STT提供商（如Anthropic、自托管或模拟），便于本地零配置开发。",
+  "tags": [
+    "AI",
+    "Faculty Evaluation",
+    "FastAPI",
+    "React"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-10T09:05:07.356315+00:00",
+  "published_at": null
+}
