@@ -1,0 +1,17 @@
+{
+  "id": "swayanshu_student-tuition-ai-agent-telemetry-20260811-001",
+  "title": "swayanshu/student-tuition-ai-agent-telemetry",
+  "source_url": "https://github.com/swayanshu/student-tuition-ai-agent-telemetry",
+  "source_type": "github_trending",
+  "summary": "一个面向初学者的教育领域智能体项目，无需API或LLM，通过规则路由和工具调用估算学费、比较奖学金方案并提供专业统计。重点展示智能体遥测、可观测性和评估方法，使用合成数据。",
+  "tags": [
+    "Agentic AI",
+    "Telemetry",
+    "Education",
+    "Rule-based"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-11T08:42:27.151802+00:00",
+  "published_at": null
+}

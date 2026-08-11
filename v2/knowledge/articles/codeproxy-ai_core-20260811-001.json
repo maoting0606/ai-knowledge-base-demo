@@ -1,0 +1,17 @@
+{
+  "id": "codeproxy-ai_core-20260811-001",
+  "title": "codeproxy-ai/core",
+  "source_url": "https://github.com/codeproxy-ai/core",
+  "source_type": "github_trending",
+  "summary": "@codeproxy/core是一个零依赖的TypeScript库，能将上游LLM的Chat Completions或Anthropic Messages格式响应转换为OpenAI Responses API格式，使Codex和Claude Code等AI编码代理能与任意语言模型协同工作。",
+  "tags": [
+    "TypeScript",
+    "LLM",
+    "API-Conversion",
+    "AI-Agents"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-11T08:42:27.151802+00:00",
+  "published_at": null
+}

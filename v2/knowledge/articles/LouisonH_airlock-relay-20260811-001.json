@@ -1,0 +1,17 @@
+{
+  "id": "LouisonH_airlock-relay-20260811-001",
+  "title": "LouisonH/airlock-relay",
+  "source_url": "https://github.com/LouisonH/airlock-relay",
+  "source_type": "github_trending",
+  "summary": "Airlock-relay是一个本地中继工具，为AI代理、脚本和自动化提供对HTTP、SSH和LLM API的受控访问，同时保持凭据（如URL、密码和API密钥）本地化，不暴露给外部。它增强了安全性和可控性。",
+  "tags": [
+    "AI agents",
+    "security",
+    "API relay",
+    "local proxy"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-11T08:42:27.151802+00:00",
+  "published_at": null
+}
