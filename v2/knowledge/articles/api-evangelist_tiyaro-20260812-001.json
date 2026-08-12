@@ -1,0 +1,16 @@
+{
+  "id": "api-evangelist_tiyaro-20260812-001",
+  "title": "api-evangelist/tiyaro",
+  "source_url": "https://github.com/api-evangelist/tiyaro",
+  "source_type": "github_trending",
+  "summary": "Tiyaro是一家企业AI公司，其产品DeepQuery通过自然语言描述完整业务流程，利用LLM结合企业数据自动制定并执行解决方案，替代传统规则引擎和脆弱的工作流集成。",
+  "tags": [
+    "AI Agents",
+    "Enterprise AI",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-12T08:59:02.022313+00:00",
+  "published_at": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ayushkdl12_Memory-Architecture-for-LLM-20260812-001",
+  "title": "ayushkdl12/Memory-Architecture-for-LLM",
+  "source_url": "https://github.com/ayushkdl12/Memory-Architecture-for-LLM",
+  "source_type": "github_trending",
+  "summary": "该文章提出了一种面向LLM或AI代理的新型记忆架构，用于追踪用户事实并提供选择性记忆保留，以提升个性化交互和长期记忆能力。",
+  "tags": [
+    "LLM",
+    "Memory Architecture",
+    "AI Agents"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-12T08:59:02.022313+00:00",
+  "published_at": null
+}

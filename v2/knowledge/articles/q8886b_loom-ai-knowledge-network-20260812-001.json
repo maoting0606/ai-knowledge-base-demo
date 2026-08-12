@@ -1,0 +1,17 @@
+{
+  "id": "q8886b_loom-ai-knowledge-network-20260812-001",
+  "title": "q8886b/loom-ai-knowledge-network",
+  "source_url": "https://github.com/q8886b/loom-ai-knowledge-network",
+  "source_type": "github_trending",
+  "summary": "Loom是一个本地优先的认知工具和AI认知架构，将来源构建为AI知识网络和代理知识图谱。代理技能使AI能消化、综合并返回经过验证的洞察，适用于Zettelkasten、个人知识管理和AI第二大脑，区别于传统知识库、LLM维基、代理记忆或RAG。",
+  "tags": [
+    "AI architecture",
+    "knowledge graph",
+    "local-first",
+    "PKM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-12T08:59:02.022313+00:00",
+  "published_at": null
+}
