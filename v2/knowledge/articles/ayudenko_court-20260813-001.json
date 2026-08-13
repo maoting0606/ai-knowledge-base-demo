@@ -1,0 +1,17 @@
+{
+  "id": "ayudenko_court-20260813-001",
+  "title": "ayudenko/court",
+  "source_url": "https://github.com/ayudenko/court",
+  "source_type": "github_trending",
+  "summary": "Court是一个辩论竞技场，允许不同所有者的AI代理通过REST或MCP协议就某个问题进行辩论，由LLM主持人跟踪共识并给出裁决。该项目旨在促进多代理协作与对抗性讨论，适用于需要多角度分析或决策支持的场景。",
+  "tags": [
+    "AI-agents",
+    "debate-arena",
+    "LLM-moderator",
+    "multi-agent"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-13T09:01:22.060914+00:00",
+  "published_at": null
+}

@@ -1,0 +1,558 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+    "title": "open-multi-agent/open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "extra": {
+      "stars": 6771,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "crewai-alternative",
+        "deepseek",
+        "dynamic-workflows",
+        "gemini",
+        "langgraph-alternative",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/openonion/oo-chat",
+    "title": "openonion/oo-chat",
+    "description": "Open-source chat client for AI agents. Connect to ConnectOnion agents or use LLM APIs directly.",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 4184,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tuangel134/BlackClaw",
+    "title": "tuangel134/BlackClaw",
+    "description": "On-device AI agent that operates your Android phone — local or cloud LLM and free LLM, ~140+ tools, built-in ADB pairing, OCR, auto-replies. Beta.",
+    "extra": {
+      "stars": 5,
+      "language": "Kotlin",
+      "topics": []
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 581,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 367,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/synapseorch-ai/synapse-ai",
+    "title": "synapseorch-ai/synapse-ai",
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+    "extra": {
+      "stars": 310,
+      "language": "Python",
+      "topics": [
+        "custom-agents",
+        "custom-tools",
+        "directed-acyclic-graph",
+        "llm-agent",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "mcp-tools",
+        "multi-agent",
+        "multi-agent-orchestration",
+        "multi-agent-systems",
+        "n8n"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3215,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cvsz/zWorkforce",
+    "title": "cvsz/zWorkforce",
+    "description": "Enterprise AI Workforce Operating System — distributed control plane, durable agents, workflow automation, governance, MCP integration and AI FinOps.  zWorkforce turns one or more LLM endpoints into a governed AI workforce. A tenant dispatches work to named agents; a cost-aware Luna/Terra/Sol",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "ai-governance",
+        "ai-model",
+        "ai-os",
+        "ai-safety",
+        "ai-security",
+        "ai-tools",
+        "observability",
+        "ollama",
+        "openai",
+        "openapi",
+        "operating-system",
+        "optimization",
+        "zeazdev"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/ayudenko/court",
+    "title": "ayudenko/court",
+    "description": "Debate arena where AI agents from different owners argue a question over REST or MCP, with an LLM moderator that tracks consensus and delivers a verdict",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agent-to-agent",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "debate",
+        "golang",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "multi-agent-systems",
+        "sse"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 81,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/99percentgrip/agent-vesper",
+    "title": "99percentgrip/agent-vesper",
+    "description": "Agent Vesper is a pure-Rust AI agent harness that remembers you across conversations. It provides a provider-neutral runtime where any LLM provider can plug in — today it ships with the Z.ai GLM adapter, tomorrow any provider can join with zero TUI or runtime changes. ",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/waxell",
+    "title": "api-evangelist/waxell",
+    "description": "Waxell is an AI agent governance and observability platform that provides runtime policy enforcement, auto-instrumented LLM telemetry, MCP governance, cost management, and durable workflow execution for agents built in any Python framework or third-party agentic tool (Claude Code, Cursor, LangChain, CrewAI, OpenAI Agents SDK, and 200+ more).",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agent-runtime",
+        "ai-agent-governance",
+        "apis-json",
+        "cost-management",
+        "llm-telemetry",
+        "mcp",
+        "observability",
+        "policy-enforcement"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/tiyaro",
+    "title": "api-evangelist/tiyaro",
+    "description": "Tiyaro is an enterprise AI company whose product, DeepQuery, replicates complete business processes as AI agents that can be described in plain English. Rather than rules engines or brittle integration workflows, DeepQuery uses LLMs combined with enterprise-specific product and customer data to identify a solution strategy and execute it across…",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "apis-json",
+        "artificial-intelligence",
+        "business-process-automation",
+        "company",
+        "customer-support",
+        "enterprise-software",
+        "it-service-management",
+        "llm",
+        "revenue-operations"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stackone",
+    "title": "api-evangelist/stackone",
+    "description": "StackOne is an AI-powered embedded integration platform as a service (iPaaS) designed to simplify and accelerate how SaaS vendors and AI agents connect with enterprise software. It combines a proprietary LLM-based agent with a real-time execution engine to automate and manage integrations no need for manual API wiring or data syncing.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "apis-json",
+        "integrations",
+        "ipaas"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stacks-ai",
+    "title": "api-evangelist/stacks-ai",
+    "description": "Stacks Ai — StackAI (Stack AI, Inc.) is an enterprise AI agent platform that lets teams build, deploy, and govern no-code agentic workflows at scale. Its visual Workflow Builder chains LLMs, knowledge bases, connections, and logic nodes into production agents that can be deployed as a REST API, chat assistant, form, or batch job.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agents",
+        "ai",
+        "apis-json",
+        "artificial-intelligence",
+        "automation",
+        "company",
+        "enterprise",
+        "knowledge-base",
+        "llm",
+        "no-code",
+        "rag",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/linkup-so",
+    "title": "api-evangelist/linkup-so",
+    "description": "Linkup is a production-grade web search and answer API for AI agents and LLMs. Its /search endpoint grounds model responses in real-time web context, returning ranked results, sourced answers with citations, or structured output, plus /fetch for clean LLM-ready markdown, an async /research endpoint, and a credits balance endpoint - all…",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "ai",
+        "apis-json",
+        "grounding",
+        "llm",
+        "rag",
+        "web-search"
+      ]
+    },
+    "collected_at": "2026-08-13T09:00:09.875316+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://openai.com/codex/",
+    "title": "",
+    "description": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 84\n# Comments: 21\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 23:50:33 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "title": "",
+    "description": "Article URL: https://adapt.com/blog/build-wide-ship-narrow\nComments URL: https://news.ycombinator.com/item?id=49280047\nPoints: 83\n# Comments: 23\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 23:43:48 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "title": "",
+    "description": "Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\nComments URL: https://news.ycombinator.com/item?id=49279013\nPoints: 116\n# Comments: 140\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 21:45:29 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+    "title": "",
+    "description": "Article URL: https://zed.dev/blog/introducing-delta\nComments URL: https://news.ycombinator.com/item?id=49276574\nPoints: 535\n# Comments: 188\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 18:19:59 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+    "title": "",
+    "description": "Article URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\nComments URL: https://news.ycombinator.com/item?id=49275335\nPoints: 194\n# Comments: 135\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 16:51:25 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://lovable.dev/blog/series-c",
+    "title": "",
+    "description": "Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/\nComments URL: https://news.ycombinator.com/item?id=49274757\nPoints: 141\n# Comments: 273\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 16:14:37 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "title": "",
+    "description": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...\n\nComments URL: https://news.ycombinator.com/item?id=49274027\nPoints: 537\n# Comments: 484\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 15:32:50 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "title": "",
+    "description": "Article URL: https://job-boards.greenhouse.io/givecampus/jobs/4112793009\nComments URL: https://news.ycombinator.com/item?id=49273395\nPoints: 0\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 14:55:27 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "",
+    "description": "Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\nComments URL: https://news.ycombinator.com/item?id=49272655\nPoints: 268\n# Comments: 33\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 14:09:11 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://knownagents.com/insights",
+    "title": "",
+    "description": "Article URL: https://guillaumetech.github.io/posts/jpg-scaling-chrome/\nComments URL: https://news.ycombinator.com/item?id=49272549\nPoints: 297\n# Comments: 64\n]]>",
+    "extra": {
+      "pub_date": "Wed, 12 Aug 2026 14:00:54 +0000"
+    },
+    "collected_at": "2026-08-13T09:00:14.413011+00:00"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_stackone-20260813-001",
+  "title": "api-evangelist/stackone",
+  "source_url": "https://github.com/api-evangelist/stackone",
+  "source_type": "github_trending",
+  "summary": "StackOne是一个AI驱动的嵌入式集成平台（iPaaS），结合专有LLM代理与实时执行引擎，帮助SaaS供应商和AI代理自动连接企业软件，无需手动API对接或数据同步，简化并加速集成流程。",
+  "tags": [
+    "iPaaS",
+    "AI Integration",
+    "LLM",
+    "API Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-13T09:01:22.060914+00:00",
+  "published_at": null
+}
