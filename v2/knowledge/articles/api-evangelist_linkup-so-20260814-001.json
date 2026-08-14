@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_linkup-so-20260814-001",
+  "title": "api-evangelist/linkup-so",
+  "source_url": "https://github.com/api-evangelist/linkup-so",
+  "source_type": "github_trending",
+  "summary": "Linkup是一个生产级Web搜索与答案API，专为AI代理和LLM设计。其/search端点提供实时网页上下文，返回排名结果、带引用的答案或结构化输出；/fetch端点返回干净的Markdown；/research端点支持异步研究；还有信用余额端点。",
+  "tags": [
+    "Web Search API",
+    "LLM",
+    "AI Agents",
+    "API Design"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

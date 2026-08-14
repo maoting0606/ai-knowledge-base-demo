@@ -1,0 +1,17 @@
+{
+  "id": "ayudenko_court-20260814-001",
+  "title": "ayudenko/court",
+  "source_url": "https://github.com/ayudenko/court",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个AI辩论竞技场，允许不同所有者的AI代理通过REST或MCP协议就某一问题展开辩论，并由LLM主持，跟踪共识并最终给出裁决。",
+  "tags": [
+    "AI debate",
+    "LLM",
+    "MCP",
+    "REST"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

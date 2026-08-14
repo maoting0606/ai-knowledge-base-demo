@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_conductor-oss-20260814-001",
+  "title": "api-evangelist/conductor-oss",
+  "source_url": "https://github.com/api-evangelist/conductor-oss",
+  "source_type": "github_trending",
+  "summary": "Conductor OSS是Netflix创立、Orkes维护的开源工作流与智能体编排平台，支持微服务、长任务、人工审批及LLM代理的跨语言云协调，兼容HTTP、gRPC、Kafka等协议，提供持久化事件驱动引擎。",
+  "tags": [
+    "workflow-orchestration",
+    "agentic-ai",
+    "open-source",
+    "event-driven"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

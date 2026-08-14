@@ -1,0 +1,17 @@
+{
+  "id": "stephonGAO_milu-20260814-001",
+  "title": "stephonGAO/milu",
+  "source_url": "https://github.com/stephonGAO/milu",
+  "source_type": "github_trending",
+  "summary": "milu是一个生产级多用户AI代理框架，支持9种LLM提供商，优先支持中国模型（Qwen、DeepSeek、Kimi、GLM）。内置工具、MCP、RAG、子代理、技能、调度器和代理池，可作为CLI/服务运行或作为库嵌入。",
+  "tags": [
+    "AI Agent",
+    "Multi-user",
+    "LLM",
+    "RAG"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

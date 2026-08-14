@@ -1,0 +1,17 @@
+{
+  "id": "99percentgrip_agent-vesper-20260814-001",
+  "title": "99percentgrip/agent-vesper",
+  "source_url": "https://github.com/99percentgrip/agent-vesper",
+  "source_type": "github_trending",
+  "summary": "Agent Vesper是一个纯Rust构建的AI代理框架，具备跨对话记忆功能。它采用提供商无关的运行时设计，目前支持Z.ai GLM适配器，未来可无缝接入其他LLM提供商，无需修改TUI或运行时。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Memory",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

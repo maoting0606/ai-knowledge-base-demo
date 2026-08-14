@@ -1,0 +1,17 @@
+{
+  "id": "XAIHT_Tlamatini-20260814-001",
+  "title": "XAIHT/Tlamatini",
+  "source_url": "https://github.com/XAIHT/Tlamatini",
+  "source_type": "github_trending",
+  "summary": "Tlamatini是一个自托管的AI开发助手，支持本地或云端LLM，具备混合RAG（FAISS+BM25）、100+工具的多轮引擎、86个代理的可视化工作流设计器、28个技能、通用MCP客户端以及ACPX运行时，可集成Claude Code、Codex、Cursor等外部编码代理。",
+  "tags": [
+    "AI Assistant",
+    "RAG",
+    "MCP",
+    "Workflow"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}

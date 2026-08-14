@@ -1,0 +1,17 @@
+{
+  "id": "topcss_mindmap-20260814-001",
+  "title": "topcss/mindmap",
+  "source_url": "https://github.com/topcss/mindmap",
+  "source_type": "github_trending",
+  "summary": "这是一个面向AI代理时代的思维导图基础设施，采用纯文本.mt格式，可被可视化工具、文本编辑器或LLM直接打开。免费开源，无节点限制，包含单文件Web应用、VS Code扩展和LLM技能。",
+  "tags": [
+    "mindmap",
+    "AI-agent",
+    "open-source",
+    "text-format"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-14T08:56:31.260677+00:00",
+  "published_at": null
+}
