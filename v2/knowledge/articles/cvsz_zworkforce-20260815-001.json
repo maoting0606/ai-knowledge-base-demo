@@ -1,0 +1,17 @@
+{
+  "id": "cvsz_zworkforce-20260815-001",
+  "title": "cvsz/zworkforce",
+  "source_url": "https://github.com/cvsz/zworkforce",
+  "source_type": "github_trending",
+  "summary": "zWorkforce是一个企业级AI劳动力操作系统，提供分布式控制平面、持久化代理、工作流自动化、治理、MCP集成和AI FinOps。它可将多个LLM端点转化为受治理的AI劳动力，支持租户向命名代理派发任务，并具备成本感知的Luna/Terra/Sol调度能力。",
+  "tags": [
+    "AI Workforce",
+    "Distributed Control Plane",
+    "MCP Integration",
+    "FinOps"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-15T08:14:16.251138+00:00",
+  "published_at": null
+}

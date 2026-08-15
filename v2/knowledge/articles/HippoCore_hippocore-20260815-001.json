@@ -1,0 +1,17 @@
+{
+  "id": "HippoCore_hippocore-20260815-001",
+  "title": "HippoCore/hippocore",
+  "source_url": "https://github.com/HippoCore/hippocore",
+  "source_type": "github_trending",
+  "summary": "HippoCore是一个面向AI代理的API优先记忆层，用于存储交互、提取语义并实时检索上下文，使代理行为一致且个性化。可集成到OpenClaw、Paperclip或任何LLM栈中，实现有状态AI。",
+  "tags": [
+    "AI Memory",
+    "API-first",
+    "Context Retrieval",
+    "Stateful Agents"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-15T08:14:16.251138+00:00",
+  "published_at": null
+}
