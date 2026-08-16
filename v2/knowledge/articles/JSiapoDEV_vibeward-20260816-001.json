@@ -1,0 +1,17 @@
+{
+  "id": "JSiapoDEV_vibeward-20260816-001",
+  "title": "JSiapoDEV/vibeward",
+  "source_url": "https://github.com/JSiapoDEV/vibeward",
+  "source_type": "github_trending",
+  "summary": "VibeWard是一个确定性的Claude Code护栏工具，无需LLM即可在AI代理运行前拦截不安全的提示，如禁用RLS或在前端使用service_role密钥。支持英语、西班牙语和葡萄牙语，并提供只读扫描器，检测暴露的密钥、开放的Supabase RLS和Firebase泄漏。",
+  "tags": [
+    "AI Security",
+    "Guardrail",
+    "Supabase",
+    "Firebase"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-16T08:15:15.682922+00:00",
+  "published_at": null
+}

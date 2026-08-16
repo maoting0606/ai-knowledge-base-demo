@@ -1,0 +1,17 @@
+{
+  "id": "divps0308_dsalgo-local-ai-setup-public-20260816-001",
+  "title": "divps0308/dsalgo-local-ai-setup-public",
+  "source_url": "https://github.com/divps0308/dsalgo-local-ai-setup-public",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套面向Windows用户的本地AI一站式配置方案，整合了Ollama、Docker、WSL、Open WebUI等工具，支持本地聊天、文档处理、可复用代理、MCP集成及带审查的AI辅助编码，旨在降低本地LLM的使用门槛，避免繁琐的单独配置。",
+  "tags": [
+    "Local LLM",
+    "Windows Setup",
+    "AI Agents",
+    "MCP"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-16T08:15:15.682922+00:00",
+  "published_at": null
+}
