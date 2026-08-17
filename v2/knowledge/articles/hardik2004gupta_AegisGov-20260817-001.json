@@ -1,0 +1,17 @@
+{
+  "id": "hardik2004gupta_AegisGov-20260817-001",
+  "title": "hardik2004gupta/AegisGov",
+  "source_url": "https://github.com/hardik2004gupta/AegisGov",
+  "source_type": "github_trending",
+  "summary": "AegisGov是一个零信任执行网关，用于代理型AI，通过强制确定性身份、策略验证和人工审批，将LLM推理与执行权限分离，确保工具和API在执行前经过严格授权。",
+  "tags": [
+    "Zero Trust",
+    "AI Security",
+    "Agentic AI",
+    "Policy Enforcement"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-17T08:29:35.324992+00:00",
+  "published_at": null
+}
