@@ -1,0 +1,17 @@
+{
+  "id": "hycccc_soundlabel-20260818-001",
+  "title": "hycccc/soundlabel",
+  "source_url": "https://github.com/hycccc/soundlabel",
+  "source_type": "github_trending",
+  "summary": "SoundLabel是一个开源AI音乐厂牌框架，支持曲库管理、三级评分、盲评代理循环（启发式或LLM）、LiveKit试听室及可插拔生成后端，用于自动化音乐制作与评估流程。",
+  "tags": [
+    "AI Music",
+    "Open Source",
+    "Evaluation",
+    "Framework"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-18T08:22:06.427079+00:00",
+  "published_at": null
+}

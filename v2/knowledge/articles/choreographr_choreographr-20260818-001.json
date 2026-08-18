@@ -1,0 +1,17 @@
+{
+  "id": "choreographr_choreographr-20260818-001",
+  "title": "choreographr/choreographr",
+  "source_url": "https://github.com/choreographr/choreographr",
+  "source_type": "github_trending",
+  "summary": "Choreographr是一个用Rust编写的通用可扩展AI代理系统，采用客户端/服务器架构，支持本地或云端运行，可同时管理多个会话。它能在沙箱RISC-V虚拟机中运行LLM生成的代码，确保安全性和可观测性。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Sandboxing",
+    "RISC-V"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-18T08:22:06.427079+00:00",
+  "published_at": null
+}

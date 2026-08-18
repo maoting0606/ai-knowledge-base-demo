@@ -1,0 +1,17 @@
+{
+  "id": "TolmachevKirill_garmin_ai-20260818-001",
+  "title": "TolmachevKirill/garmin_ai",
+  "source_url": "https://github.com/TolmachevKirill/garmin_ai",
+  "source_type": "github_trending",
+  "summary": "该项目是一个自托管的AI代理，用于Garmin Connect，可分析健康与训练数据，生成训练计划，并支持通过Telegram或本地LLM交互，实现个性化健身指导。",
+  "tags": [
+    "Garmin",
+    "AI Agent",
+    "Health Analytics",
+    "Self-hosted"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-18T08:22:06.427079+00:00",
+  "published_at": null
+}

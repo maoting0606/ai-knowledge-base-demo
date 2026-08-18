@@ -1,0 +1,17 @@
+{
+  "id": "Hiroto-Kobayashi-30_local-Vibe-20260818-001",
+  "title": "Hiroto-Kobayashi-30/local-Vibe",
+  "source_url": "https://github.com/Hiroto-Kobayashi-30/local-Vibe",
+  "source_type": "github_trending",
+  "summary": "该项目实现本地AI编程助手，基于Ollama和开源LLM，无需云端API或互联网，支持代码生成与补全，强调隐私和离线使用。",
+  "tags": [
+    "local-ai",
+    "coding-agent",
+    "ollama",
+    "offline-llm"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-18T08:22:06.427079+00:00",
+  "published_at": null
+}
