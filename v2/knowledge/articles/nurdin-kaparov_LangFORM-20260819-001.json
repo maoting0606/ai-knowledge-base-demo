@@ -1,0 +1,17 @@
+{
+  "id": "nurdin-kaparov_LangFORM-20260819-001",
+  "title": "nurdin-kaparov/LangFORM",
+  "source_url": "https://github.com/nurdin-kaparov/LangFORM",
+  "source_type": "github_trending",
+  "summary": "LangFORM是一个开源框架，专为LLM和智能体应用设计，提供上下文、记忆、检索和编排功能。它通过生成相关上下文帧和记忆，确保模型获得精准上下文，无需加载完整文件或全部对话历史，提升效率与性能。",
+  "tags": [
+    "LLM",
+    "Context Engineering",
+    "Memory",
+    "Agentic AI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-19T08:22:51.166311+00:00",
+  "published_at": null
+}
