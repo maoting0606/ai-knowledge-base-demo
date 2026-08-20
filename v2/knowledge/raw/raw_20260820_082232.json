@@ -1,0 +1,561 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "description": "Universal LLM bridge for AI agents. Use Claude Code with MiniMax, Codex with GLM, or Gemini CLI with OpenRouter — one command, any provider. Works with coding agents, OpenClaw, Hermes, and others.",
+    "extra": {
+      "stars": 16,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "codex",
+        "gemini",
+        "glm",
+        "hermes",
+        "hermes-agent",
+        "kilo-code",
+        "kimi",
+        "llm",
+        "minimax",
+        "moonshot",
+        "novita",
+        "ollama",
+        "openai",
+        "openclaw",
+        "openrouter",
+        "qwen",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3262,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 397,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/AgentParadise/agentic-primitives",
+    "title": "AgentParadise/agentic-primitives",
+    "description": "Composable building blocks for AI coding agents. Model-agnostic prompts and tools that work with Claude, GPT, or any LLM provider.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 87,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/adecubed/gigamail",
+    "title": "adecubed/gigamail",
+    "description": "Mail for AI agents ( and humans). MCP server giving Claude (or any agent) safe, permission-controlled access to email (Microsoft Graph + IMAP), calendar and your knowledge files. Two-phase confirmation for sends, audit log, local index. No built-in LLM: your agent brings the intelligence.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 612,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mockagents/mockagents",
+    "title": "mockagents/mockagents",
+    "description": "Simulate, test, and validate AI agent integrations — without calling real LLMs or burning tokens.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agents",
+        "ai-testing",
+        "anthropic",
+        "golang",
+        "llm",
+        "mcp",
+        "mocking",
+        "openai",
+        "testing-tools"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentd-dev/source-code",
+    "title": "agentd-dev/source-code",
+    "description": "A minimal, MCP-native, cloud-native AI agent runtime. One small static Rust binary runs one agent: hand it an instruction and one LLM endpoint, and it runs the agentic loop — think, call a tool, observe, repeat — until the task reaches a terminal status or a new event wakes it.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "harness",
+        "mcp",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/99percentgrip/agent-vesper",
+    "title": "99percentgrip/agent-vesper",
+    "description": "Agent Vesper is a pure-Rust AI agent harness that remembers you across conversations. It provides a provider-neutral runtime where any LLM provider can plug in — today it ships with the Z.ai GLM adapter, tomorrow any provider can join with zero TUI or runtime changes. ",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+    "title": "kdpa-llc/local-skills-mcp",
+    "description": "Universal MCP server enabling any LLM or AI agent to utilize expert skills from your local filesystem. Reduces context consumption through lazy loading. Works with Claude, Cline, and any MCP-compatible client.",
+    "extra": {
+      "stars": 34,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "gpt",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "prompt-library",
+        "prompts",
+        "skills"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/open-multi-agent/open-multi-agent",
+    "title": "open-multi-agent/open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "extra": {
+      "stars": 6797,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "crewai-alternative",
+        "deepseek",
+        "dynamic-workflows",
+        "gemini",
+        "langgraph-alternative",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GhravenLabs/Agent-Meeting-Room",
+    "title": "GhravenLabs/Agent-Meeting-Room",
+    "description": "Flask multi-agent AI chat — @mention local LLMs (Ollama) or Claude into a live group chat with debate mode, SSE streaming, and Obsidian memory",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "chatbot",
+        "claude",
+        "flask",
+        "llm",
+        "local-llm",
+        "multi-agent",
+        "multi-agent-system",
+        "ollama",
+        "python",
+        "server-sent-events",
+        "sse",
+        "streaming"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 284,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/XAIHT/Tlamatini",
+    "title": "XAIHT/Tlamatini",
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a 100+ tool Multi-Turn engine, an 86-agent visual workflow designer, 28 SKILL.md skills, a universal MCP client, and ACPX, a runtime for external coding agents like Claude Code, Codex, Cursor and Gemini CLI.",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "django",
+        "faiss",
+        "langchain",
+        "llm",
+        "local-ai",
+        "multi-agent",
+        "multi-agent-systems",
+        "ollama",
+        "rag",
+        "self-hosted",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mcGeorge66/OpenForexAI",
+    "title": "mcGeorge66/OpenForexAI",
+    "description": "OpenForexAI is an autonomous multi-agent Forex trading framework for MetaTrader 5 (and API), combining configurable AI agents, rule-based scripts, risk-aware execution, and strategy optimization. It supports script-only or LLM-assisted trading with rule-driven Decision Prompts.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JSiapoDEV/vibeward",
+    "title": "JSiapoDEV/vibeward",
+    "description": "Stops the insecure prompt before your AI agent runs it - and audits what it already shipped. Deterministic Claude Code guardrail (no LLM) catching \"disable RLS\" or \"service_role in the frontend\" in en/es/pt, plus a read-only scanner for exposed secrets, open Supabase RLS and Firebase leaks.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-generated-code",
+        "appsec",
+        "claude-code",
+        "devsecops",
+        "firebase",
+        "guardrail",
+        "lovable",
+        "nextjs",
+        "rls",
+        "row-level-security",
+        "sarif",
+        "security",
+        "security-scanner",
+        "supabase",
+        "vibe-coding"
+      ]
+    },
+    "collected_at": "2026-08-20T08:22:28.283411+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "title": "",
+    "description": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\nComments URL: https://news.ycombinator.com/item?id=49370440\nPoints: 47\n# Comments: 24\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 04:42:02 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "title": "",
+    "description": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 238\n# Comments: 138\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 21:19:50 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://os8088.com/spotlight/",
+    "title": "",
+    "description": "Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review\nComments URL: https://news.ycombinator.com/item?id=49366264\nPoints: 60\n# Comments: 134\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 19:43:48 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "title": "",
+    "description": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\nComments URL: https://news.ycombinator.com/item?id=49365443\nPoints: 252\n# Comments: 92\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 18:36:45 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://go.dev/blog/go1.27",
+    "title": "",
+    "description": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023\nComments URL: https://news.ycombinator.com/item?id=49364745\nPoints: 499\n# Comments: 205\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 17:47:29 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "title": "",
+    "description": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.Here’s what you can do with it:1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.3. manage team policy in one place,",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 16:29:02 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "",
+    "description": "Article URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\nComments URL: https://news.ycombinator.com/item?id=49362887\nPoints: 357\n# Comments: 298\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 15:28:01 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://arxiv.org/abs/2608.16753",
+    "title": "",
+    "description": "Article URL: https://ornith.ai/ornith_1_5.html\nComments URL: https://news.ycombinator.com/item?id=49362401\nPoints: 193\n# Comments: 65\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 14:48:39 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://coca11272000.wixsite.com/manabukosaka",
+    "title": "",
+    "description": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/\nComments URL: https://news.ycombinator.com/item?id=49361279\nPoints: 353\n# Comments: 216\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 13:21:21 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://yassa9.github.io/osint/gralhix-004/",
+    "title": "",
+    "description": "Article URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\nComments URL: https://news.ycombinator.com/item?id=49360015\nPoints: 877\n# Comments: 139\n]]>",
+    "extra": {
+      "pub_date": "Wed, 19 Aug 2026 11:21:50 +0000"
+    },
+    "collected_at": "2026-08-20T08:22:32.844098+00:00"
+  }
+]
