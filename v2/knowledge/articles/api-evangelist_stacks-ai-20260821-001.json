@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_stacks-ai-20260821-001",
+  "title": "api-evangelist/stacks-ai",
+  "source_url": "https://github.com/api-evangelist/stacks-ai",
+  "source_type": "github_trending",
+  "summary": "StackAI是一个企业级AI代理平台，支持无代码构建、部署和管理可扩展的代理工作流。通过可视化工作流构建器，将LLM、知识库、连接和逻辑节点组合成生产级代理，并可部署为REST API、聊天助手、表单或批处理任务。",
+  "tags": [
+    "AI Agents",
+    "No-Code",
+    "Workflow Automation",
+    "Enterprise"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-21T08:25:12.771175+00:00",
+  "published_at": null
+}

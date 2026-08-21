@@ -1,0 +1,16 @@
+{
+  "id": "MohibShaikh_ThreatSentinel-20260821-001",
+  "title": "MohibShaikh/ThreatSentinel",
+  "source_url": "https://github.com/MohibShaikh/ThreatSentinel",
+  "source_type": "github_trending",
+  "summary": "ThreatSentinel是一个基于LLM的AI代理，能自主调查可疑IP、域名或哈希，利用真实威胁情报API生成可操作报告，提升安全分析效率。",
+  "tags": [
+    "LLM",
+    "Threat Intelligence",
+    "Security Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-21T08:25:12.771175+00:00",
+  "published_at": null
+}

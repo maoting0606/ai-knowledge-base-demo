@@ -1,0 +1,17 @@
+{
+  "id": "DemoMacro_office-open-20260821-001",
+  "title": "DemoMacro/office-open",
+  "source_url": "https://github.com/DemoMacro/office-open",
+  "source_type": "github_trending",
+  "summary": "office-open 是一个开源库，允许开发者通过纯 JSON 或类型化 API 创建、解析和修改 Word、Excel、PowerPoint 文件。专为 AI 代理和 LLM 工具调用设计，无需安装 Microsoft Office，生成的文件兼容主流办公套件。",
+  "tags": [
+    "office-automation",
+    "json",
+    "ai-agents",
+    "file-generation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-21T08:25:12.771175+00:00",
+  "published_at": null
+}

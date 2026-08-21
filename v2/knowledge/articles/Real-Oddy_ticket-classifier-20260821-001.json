@@ -1,0 +1,17 @@
+{
+  "id": "Real-Oddy_ticket-classifier-20260821-001",
+  "title": "Real-Oddy/ticket-classifier",
+  "source_url": "https://github.com/Real-Oddy/ticket-classifier",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI客服工单分类器，结合PydanticAI驱动的LLM分类与确定性Python规则引擎及SQLite存储，确保AI预测在进入数据库或人工处理前经过验证、结构化并符合企业升级策略。",
+  "tags": [
+    "LLM",
+    "Classification",
+    "PydanticAI",
+    "Rules Engine"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-21T08:25:12.771175+00:00",
+  "published_at": null
+}

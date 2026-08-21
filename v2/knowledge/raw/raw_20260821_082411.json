@@ -1,0 +1,534 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 635,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Real-Oddy/ticket-classifier",
+    "title": "Real-Oddy/ticket-classifier",
+    "description": "The Customer Support Ticket Classifier is an AI service pairing PydanticAI-powered LLM classification with a deterministic Python rules engine and SQLite storage. This ensures AI predictions are validated, structured, and governed by corporate escalation policies before reaching the database or human agents.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3270,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/MohibShaikh/ThreatSentinel",
+    "title": "MohibShaikh/ThreatSentinel",
+    "description": "ThreatSentinel is an LLM-powered AI agent that autonomously investigates suspicious IPs, domains, or hashes using real-world threat intelligence APIs and generates actionable reports.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/adecubed/gigamail",
+    "title": "adecubed/gigamail",
+    "description": "Mail for AI agents ( and humans). MCP server giving Claude (or any agent) safe, permission-controlled access to email (Microsoft Graph + IMAP), calendar and your knowledge files. Two-phase confirmation for sends, audit log, local index. No built-in LLM: your agent brings the intelligence.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "calendar",
+        "human-in-the-loop",
+        "imap",
+        "llm-tools",
+        "mail",
+        "mcp",
+        "mcp-tools",
+        "model-context-protocol"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mockagents/mockagents",
+    "title": "mockagents/mockagents",
+    "description": "Simulate, test, and validate AI agent integrations — without calling real LLMs or burning tokens.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agents",
+        "ai-testing",
+        "anthropic",
+        "golang",
+        "llm",
+        "mcp",
+        "mocking",
+        "openai",
+        "testing-tools"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 10,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas-AI/Orkas",
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "extra": {
+      "stars": 1379,
+      "language": "TypeScript",
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow",
+        "autonomous-agents",
+        "byo-llm",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "hermes-agent",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "multi-agent-system",
+        "openclaw",
+        "self-evolving-agents"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mcGeorge66/OpenForexAI",
+    "title": "mcGeorge66/OpenForexAI",
+    "description": "OpenForexAI is an autonomous multi-agent Forex trading framework for MetaTrader 5 (and API), combining configurable AI agents, rule-based scripts, risk-aware execution, and strategy optimization. It supports script-only or LLM-assisted trading with rule-driven Decision Prompts.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 90,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/DemoMacro/office-open",
+    "title": "DemoMacro/office-open",
+    "description": "Create Word, Excel, and PowerPoint files (.docx, .xlsx, .pptx) from plain JSON or fully typed APIs — generate, parse, and patch. Built for AI agents, LLM tool-calling, and hand-written code alike; no Microsoft Office required, opens in every major office suite.",
+    "extra": {
+      "stars": 18,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "docx",
+        "office",
+        "office365",
+        "ooxml",
+        "typescript",
+        "wps",
+        "xlsx"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 285,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentd-dev/source-code",
+    "title": "agentd-dev/source-code",
+    "description": "A minimal, MCP-native, cloud-native AI agent runtime. One small static Rust binary runs one agent: hand it an instruction and one LLM endpoint, and it runs the agentic loop — think, call a tool, observe, repeat — until the task reaches a terminal status or a new event wakes it.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "harness",
+        "mcp",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/waxell",
+    "title": "api-evangelist/waxell",
+    "description": "Waxell is an AI agent governance and observability platform that provides runtime policy enforcement, auto-instrumented LLM telemetry, MCP governance, cost management, and durable workflow execution for agents built in any Python framework or third-party agentic tool (Claude Code, Cursor, LangChain, CrewAI, OpenAI Agents SDK, and 200+ more).",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agent-runtime",
+        "ai-agent-governance",
+        "apis-json",
+        "cost-management",
+        "llm-telemetry",
+        "mcp",
+        "observability",
+        "policy-enforcement"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/tiyaro",
+    "title": "api-evangelist/tiyaro",
+    "description": "Tiyaro is an enterprise AI company whose product, DeepQuery, replicates complete business processes as AI agents that can be described in plain English. Rather than rules engines or brittle integration workflows, DeepQuery uses LLMs combined with enterprise-specific product and customer data to identify a solution strategy and execute it across…",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "apis-json",
+        "artificial-intelligence",
+        "business-process-automation",
+        "company",
+        "customer-support",
+        "enterprise-software",
+        "it-service-management",
+        "llm",
+        "revenue-operations"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stackone",
+    "title": "api-evangelist/stackone",
+    "description": "StackOne is an AI-powered embedded integration platform as a service (iPaaS) designed to simplify and accelerate how SaaS vendors and AI agents connect with enterprise software. It combines a proprietary LLM-based agent with a real-time execution engine to automate and manage integrations no need for manual API wiring or data syncing.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "apis-json",
+        "integrations",
+        "ipaas"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/api-evangelist/stacks-ai",
+    "title": "api-evangelist/stacks-ai",
+    "description": "Stacks Ai — StackAI (Stack AI, Inc.) is an enterprise AI agent platform that lets teams build, deploy, and govern no-code agentic workflows at scale. Its visual Workflow Builder chains LLMs, knowledge bases, connections, and logic nodes into production agents that can be deployed as a REST API, chat assistant, form, or batch job.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": [
+        "agents",
+        "ai",
+        "apis-json",
+        "artificial-intelligence",
+        "automation",
+        "company",
+        "enterprise",
+        "knowledge-base",
+        "llm",
+        "no-code",
+        "rag",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+    "title": "kdpa-llc/local-skills-mcp",
+    "description": "Universal MCP server enabling any LLM or AI agent to utilize expert skills from your local filesystem. Reduces context consumption through lazy loading. Works with Claude, Cline, and any MCP-compatible client.",
+    "extra": {
+      "stars": 35,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "gpt",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "prompt-library",
+        "prompts",
+        "skills"
+      ]
+    },
+    "collected_at": "2026-08-21T08:24:08.775307+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "title": "",
+    "description": "Article URL: https://encore.dev/blog/firecracker-apple-silicon\nComments URL: https://news.ycombinator.com/item?id=49384716\nPoints: 30\n# Comments: 3\n]]>",
+    "extra": {
+      "pub_date": "Fri, 21 Aug 2026 06:59:40 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://Argentic.network",
+    "title": "",
+    "description": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/\nComments URL: https://news.ycombinator.com/item?id=49384224\nPoints: 25\n# Comments: 9\n]]>",
+    "extra": {
+      "pub_date": "Fri, 21 Aug 2026 05:39:39 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+    "title": "",
+    "description": "Article URL: https://github.com/vivekhaldar/seed\nComments URL: https://news.ycombinator.com/item?id=49384113\nPoints: 16\n# Comments: 3\n]]>",
+    "extra": {
+      "pub_date": "Fri, 21 Aug 2026 05:20:50 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+    "title": "",
+    "description": "Article URL: https://github.com/openai/codex/issues/37674\nComments URL: https://news.ycombinator.com/item?id=49383326\nPoints: 128\n# Comments: 40\n]]>",
+    "extra": {
+      "pub_date": "Fri, 21 Aug 2026 03:17:43 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "title": "",
+    "description": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269\n\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoints: 126\n# Comments: 95\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 23:56:35 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "title": "",
+    "description": "Article URL: https://strn.cat/posts/spacetime/\nComments URL: https://news.ycombinator.com/item?id=49378933\nPoints: 89\n# Comments: 18\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 19:19:53 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "",
+    "description": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier\nComments URL: https://news.ycombinator.com/item?id=49378446\nPoints: 159\n# Comments: 229\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 18:38:47 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "",
+    "description": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\nComments URL: https://news.ycombinator.com/item?id=49377248\nPoints: 0\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 17:01:05 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "title": "",
+    "description": "Hi HN, we’re Yousef & Nour, founders of Vendo (https://vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.Demo: https://www.youtube.com/watch?v=VdpHehY64lsWe built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a wo",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 15:29:52 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/zachahn/vomit",
+    "title": "",
+    "description": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\nComments URL: https://news.ycombinator.com/item?id=49375719\nPoints: 156\n# Comments: 111\n]]>",
+    "extra": {
+      "pub_date": "Thu, 20 Aug 2026 15:06:53 +0000"
+    },
+    "collected_at": "2026-08-21T08:24:11.893811+00:00"
+  }
+]
