@@ -1,0 +1,17 @@
+{
+  "id": "shahjaidev_voice-interview-platform-20260822-001",
+  "title": "shahjaidev/voice-interview-platform",
+  "source_url": "https://github.com/shahjaidev/voice-interview-platform",
+  "source_type": "github_trending",
+  "summary": "该项目通过Python标准库和ElevenLabs Agents构建动态AI语音访谈平台，支持上传研究简报或问题列表，自动生成可发送给数百人的语音访谈，具备服务器保障覆盖率、LLM评分及跨访谈结果分析功能。",
+  "tags": [
+    "AI Interview",
+    "Voice Platform",
+    "LLM Scoring",
+    "Research Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-22T08:16:17.030647+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Adriel23456_Applied-AI-Agent-Project-20260822-001",
+  "title": "Adriel23456/Applied-AI-Agent-Project",
+  "source_url": "https://github.com/Adriel23456/Applied-AI-Agent-Project",
+  "source_type": "github_trending",
+  "summary": "该项目通过应用研究开发AI解决方案，基于现有文献和可复现评估，由计算机工程师专注于技术开发，集成到智能代理中，如支持工具调用的LLM、RAG系统、多代理架构或强化学习代理。",
+  "tags": [
+    "AI Agent",
+    "RAG",
+    "Multi-Agent",
+    "Reinforcement Learning"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-22T08:16:17.030647+00:00",
+  "published_at": null
+}

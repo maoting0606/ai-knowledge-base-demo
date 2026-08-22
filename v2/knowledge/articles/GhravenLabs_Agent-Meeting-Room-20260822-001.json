@@ -1,0 +1,17 @@
+{
+  "id": "GhravenLabs_Agent-Meeting-Room-20260822-001",
+  "title": "GhravenLabs/Agent-Meeting-Room",
+  "source_url": "https://github.com/GhravenLabs/Agent-Meeting-Room",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Flask的多智能体AI聊天室，支持通过@提及将本地Ollama模型或Claude接入群聊，具备辩论模式、SSE流式输出和Obsidian记忆功能，适合团队协作和AI实验。",
+  "tags": [
+    "Multi-Agent",
+    "Flask",
+    "LLM",
+    "GroupChat"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-22T08:16:17.030647+00:00",
+  "published_at": null
+}
