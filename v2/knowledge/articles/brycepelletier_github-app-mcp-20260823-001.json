@@ -1,0 +1,17 @@
+{
+  "id": "brycepelletier_github-app-mcp-20260823-001",
+  "title": "brycepelletier/github-app-mcp",
+  "source_url": "https://github.com/brycepelletier/github-app-mcp",
+  "source_type": "github_trending",
+  "summary": "该项目是一个GitHub应用包装器，内置token代理以保护PEM密钥安全，防止运行时泄露。由AI编写，用于学习本地LLM运行，符合软件行业需求。",
+  "tags": [
+    "GitHub",
+    "MCP",
+    "Security",
+    "AI"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-23T08:16:41.659522+00:00",
+  "published_at": null
+}

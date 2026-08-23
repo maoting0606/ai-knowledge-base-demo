@@ -1,0 +1,17 @@
+{
+  "id": "adarshkr7_LedgerLighthouse-20260823-001",
+  "title": "adarshkr7/LedgerLighthouse",
+  "source_url": "https://github.com/adarshkr7/LedgerLighthouse",
+  "source_type": "github_trending",
+  "summary": "LedgerLighthouse是一个基于加密链上预算的AI代理支出控制系统，结合Inco Lightning和Oasis ROFL安全执行环境，确保LLM代理无法读取、篡改或绕过预算策略，实现安全自动化的API购买与支出管理。",
+  "tags": [
+    "AI Security",
+    "Blockchain",
+    "Budget Enforcement",
+    "Confidential Computing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-23T08:16:41.659522+00:00",
+  "published_at": null
+}

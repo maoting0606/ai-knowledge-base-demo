@@ -1,0 +1,17 @@
+{
+  "id": "vesslina_mikrotik-harness-20260823-001",
+  "title": "vesslina/mikrotik-harness",
+  "source_url": "https://github.com/vesslina/mikrotik-harness",
+  "source_type": "github_trending",
+  "summary": "该项目利用LLM Agent（支持OpenAI兼容API或本地LM Studio模型）自动配置MikroTik硬件，简化网络设备管理，提升自动化效率。",
+  "tags": [
+    "MikroTik",
+    "LLM",
+    "Network Automation",
+    "AI Agent"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-23T08:16:41.659522+00:00",
+  "published_at": null
+}

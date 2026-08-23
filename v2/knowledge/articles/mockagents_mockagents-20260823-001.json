@@ -1,0 +1,17 @@
+{
+  "id": "mockagents_mockagents-20260823-001",
+  "title": "mockagents/mockagents",
+  "source_url": "https://github.com/mockagents/mockagents",
+  "source_type": "github_trending",
+  "summary": "mockagents是一个开源工具，用于模拟、测试和验证AI代理集成，无需调用真实LLM或消耗token。它允许开发者在开发环境中模拟代理行为，确保集成正确性，同时节省成本并提高测试效率。",
+  "tags": [
+    "AI Testing",
+    "Mocking",
+    "LLM",
+    "DevTools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-23T08:16:41.659522+00:00",
+  "published_at": null
+}

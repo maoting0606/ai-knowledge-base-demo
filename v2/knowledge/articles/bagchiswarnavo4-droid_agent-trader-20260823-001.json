@@ -1,0 +1,17 @@
+{
+  "id": "bagchiswarnavo4-droid_agent-trader-20260823-001",
+  "title": "bagchiswarnavo4-droid/agent-trader",
+  "source_url": "https://github.com/bagchiswarnavo4-droid/agent-trader",
+  "source_type": "github_trending",
+  "summary": "Agent Trader是一个基于多智能体框架和LLM的AI股票交易系统，通过专门子代理实时处理市场数据、分析技术指标和新闻情绪，执行严格风险管理，并自动通过模拟或实盘经纪商仪表盘进行交易。",
+  "tags": [
+    "AI Trading",
+    "Multi-Agent",
+    "LLM",
+    "Stock Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-23T08:16:41.659522+00:00",
+  "published_at": null
+}
