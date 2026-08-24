@@ -1,0 +1,17 @@
+{
+  "id": "jenolaszlo-sketch_penghou-cangjie-20260824-001",
+  "title": "jenolaszlo-sketch/penghou-cangjie",
+  "source_url": "https://github.com/jenolaszlo-sketch/penghou-cangjie",
+  "source_type": "github_trending",
+  "summary": "Penghou.Cangjie 是一个轻量级、本地优先且具备来源感知的 .NET AI 应用上下文存储库。它提供显式持久化上下文、SQLite FTS5 检索、作用域、标签、关系、逻辑历史及证据追踪，无需依赖代理框架、向量数据库或大语言模型。",
+  "tags": [
+    "dotnet",
+    "context-store",
+    "sqlite",
+    "provenance"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-24T08:35:05.706445+00:00",
+  "published_at": null
+}

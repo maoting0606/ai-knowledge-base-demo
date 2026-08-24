@@ -1,0 +1,17 @@
+{
+  "id": "axisrow_axdisp-20260824-001",
+  "title": "axisrow/axdisp",
+  "source_url": "https://github.com/axisrow/axdisp",
+  "source_type": "github_trending",
+  "summary": "axdisp是一个确定性规则决策系统，专为AI代理设计，不依赖机器学习或大语言模型。它提供透明、可解释的决策逻辑，适合需要稳定和可控行为的场景。",
+  "tags": [
+    "rule-based",
+    "decision-system",
+    "AI-agents",
+    "deterministic"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-24T08:35:05.706445+00:00",
+  "published_at": null
+}
