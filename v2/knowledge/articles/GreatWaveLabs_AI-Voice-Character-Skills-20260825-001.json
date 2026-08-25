@@ -1,0 +1,17 @@
+{
+  "id": "GreatWaveLabs_AI-Voice-Character-Skills-20260825-001",
+  "title": "GreatWaveLabs/AI-Voice-Character-Skills",
+  "source_url": "https://github.com/GreatWaveLabs/AI-Voice-Character-Skills",
+  "source_type": "github_trending",
+  "summary": "这是一个开源项目，为AI代理（如Claude）添加角色语音技能，使其能像Pam Poovey、Sterling Archer、Bender等电视角色一样说话、开玩笑和反应。社区驱动，非官方，旨在赋予AI个性。",
+  "tags": [
+    "AI Voice",
+    "Character Skills",
+    "Open Source",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-25T08:28:18.942514+00:00",
+  "published_at": null
+}

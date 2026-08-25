@@ -1,0 +1,17 @@
+{
+  "id": "Atharva-System_Pulsee-AI-Chatbot-20260825-001",
+  "title": "Atharva-System/Pulsee-AI-Chatbot",
+  "source_url": "https://github.com/Atharva-System/Pulsee-AI-Chatbot",
+  "source_type": "github_trending",
+  "summary": "Pulsee是一个AI聊天机器人，能理解用户意图并自动将请求路由到最合适的LLM、工作流或智能体，以提供最佳响应。该项目旨在通过智能路由优化对话体验，提升回答质量和效率。",
+  "tags": [
+    "AI Chatbot",
+    "Intent Routing",
+    "LLM",
+    "Agent"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-25T08:28:18.942514+00:00",
+  "published_at": null
+}

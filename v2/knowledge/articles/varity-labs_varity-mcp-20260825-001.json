@@ -1,0 +1,17 @@
+{
+  "id": "varity-labs_varity-mcp-20260825-001",
+  "title": "varity-labs/varity-mcp",
+  "source_url": "https://github.com/varity-labs/varity-mcp",
+  "source_type": "github_trending",
+  "summary": "Varity MCP服务器允许从Claude Code、Cursor或Codex等AI工具中一键部署Node和Python应用、AI代理及LLM，成本比Vercel、Render和Railway低60-80%，简化了AI应用的部署流程。",
+  "tags": [
+    "MCP",
+    "Deployment",
+    "AI Agents",
+    "Cost-Effective"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-25T08:28:18.942514+00:00",
+  "published_at": null
+}

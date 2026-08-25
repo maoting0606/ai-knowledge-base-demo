@@ -1,0 +1,17 @@
+{
+  "id": "kdpa-llc_local-skills-mcp-20260825-001",
+  "title": "kdpa-llc/local-skills-mcp",
+  "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+  "source_type": "github_trending",
+  "summary": "该项目是一个通用MCP服务器，允许任何LLM或AI代理利用本地文件系统中的专家技能。通过懒加载减少上下文消耗，兼容Claude、Cline等MCP客户端。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "Local Skills",
+    "Lazy Loading"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-25T08:28:18.942514+00:00",
+  "published_at": null
+}

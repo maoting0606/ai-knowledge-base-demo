@@ -1,0 +1,549 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/anis-marrouchi/agentx",
+    "title": "anis-marrouchi/agentx",
+    "description": "AI operations layer for small & medium businesses. Route Telegram, WhatsApp, Slack, Discord, GitLab, crons, webhooks, and mesh tasks to AI agents on Claude, OpenAI, or any LLM. Web wizard for non-technical operators, CLI for engineers. Self-hosted.",
+    "extra": {
+      "stars": 6,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "anthropic-ai-sdk",
+        "claude-code",
+        "multi-agent",
+        "openclaw",
+        "orchestration",
+        "self-hosted",
+        "slack",
+        "smb",
+        "telegram-bot",
+        "whatsapp"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 401,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/openonion/oo-chat",
+    "title": "openonion/oo-chat",
+    "description": "Open-source chat client for AI agents. Connect to ConnectOnion agents or use LLM APIs directly.",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mockagents/mockagents",
+    "title": "mockagents/mockagents",
+    "description": "Simulate, test, and validate AI agent integrations — without calling real LLMs or burning tokens.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "agents",
+        "ai-testing",
+        "anthropic",
+        "golang",
+        "llm",
+        "mcp",
+        "mocking",
+        "openai",
+        "testing-tools"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas-AI/Orkas",
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "extra": {
+      "stars": 1430,
+      "language": "TypeScript",
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow",
+        "autonomous-agents",
+        "byo-llm",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "hermes-agent",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "multi-agent-system",
+        "openclaw",
+        "self-evolving-agents"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3297,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/mrdushidush/claudette",
+    "title": "mrdushidush/claudette",
+    "description": "Air-gapped AI coding agent in one Rust binary + Q56, a hidden-test benchmark for local coding models: 16 configs, 36 full runs, no LLM judge. Runs entirely on your own hardware through Ollama or LM Studio. No cloud brain. No API key. No telemetry.",
+    "extra": {
+      "stars": 18,
+      "language": "Rust",
+      "topics": [
+        "ai-agent",
+        "air-gapped",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "lm-studio",
+        "local-first",
+        "local-llm",
+        "offline-first",
+        "ollama",
+        "personal-assistant",
+        "privacy",
+        "qwen",
+        "rust",
+        "telegram-bot",
+        "tool-calling",
+        "tui",
+        "voice-assistant",
+        "whisper"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 97,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 672,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Atharva-System/Pulsee-AI-Chatbot",
+    "title": "Atharva-System/Pulsee-AI-Chatbot",
+    "description": "AI chatbot that understands what the user is trying to do, identifies the intent, and automatically routes the request to the most suitable LLM, workflow, or agent to provide the best response.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/shaumik/PokeArena",
+    "title": "shaumik/PokeArena",
+    "description": "A Pokémon battle arena where any agent can play — human, deterministic game-tree AI, or LLM — over an open WebSocket protocol (MCP, CLI, or your own client). One leaderboard, ranked by who plays best.",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": [
+        "agent-benchmark",
+        "ai-agents",
+        "arena",
+        "battle-engine",
+        "claude",
+        "distributed-systems",
+        "expectimax",
+        "fog-of-war",
+        "game-engine",
+        "go",
+        "golang",
+        "leaderboard",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "pokemon",
+        "rabbitmq",
+        "redis",
+        "turn-based",
+        "websockets"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tuangel134/BlackClaw",
+    "title": "tuangel134/BlackClaw",
+    "description": "On-device AI agent that operates your Android phone — local or cloud LLM and free LLM, ~140+ tools, built-in ADB pairing, OCR, auto-replies. Beta.",
+    "extra": {
+      "stars": 7,
+      "language": "Kotlin",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/varity-labs/varity-mcp",
+    "title": "varity-labs/varity-mcp",
+    "description": "Varity MCP server: deploy Node and Python apps, AI agents, and LLMs from Claude Code, Cursor, or Codex in one command. 60-80% cheaper than Vercel, Render, and Railway.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "cursor",
+        "deployment",
+        "devtools",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "nodejs",
+        "paas",
+        "python",
+        "varity",
+        "vercel-alternative"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/gy15901580825/Argus",
+    "title": "gy15901580825/Argus",
+    "description": "Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or browser-using agent endpoint; run 205 probes mapped to OWASP LLM Top 10 / MITRE ATLAS / NIST AI RMF, incl. payment and MCP tool-abuse families whose verdicts come from captured evidence, not LLM opinion. Reports state what was NOT tested. SARIF, CLI, GH Action.",
+    "extra": {
+      "stars": 204,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GreatWaveLabs/AI-Voice-Character-Skills",
+    "title": "GreatWaveLabs/AI-Voice-Character-Skills",
+    "description": "Give your AI agent a personality. Drop-in character voice skills that make Claude (or any LLM) talk, joke, and react like your favorite TV characters — Pam Poovey, Sterling Archer, Bender, and more. Fan-made, open-source, community-driven. Not affiliated with the show creators or copyright holders.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+    "title": "kdpa-llc/local-skills-mcp",
+    "description": "Universal MCP server enabling any LLM or AI agent to utilize expert skills from your local filesystem. Reduces context consumption through lazy loading. Works with Claude, Cline, and any MCP-compatible client.",
+    "extra": {
+      "stars": 35,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "gpt",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "prompt-library",
+        "prompts",
+        "skills"
+      ]
+    },
+    "collected_at": "2026-08-25T08:27:22.148203+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/dragthelake/ambient-context",
+    "title": "",
+    "description": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\nComments URL: https://news.ycombinator.com/item?id=49428972\nPoints: 4\n# Comments: 0\n]]>",
+    "extra": {
+      "pub_date": "Tue, 25 Aug 2026 04:09:43 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "title": "",
+    "description": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 37\n# Comments: 7\n]]>",
+    "extra": {
+      "pub_date": "Tue, 25 Aug 2026 03:06:26 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "title": "",
+    "description": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 104\n# Comments: 129\n]]>",
+    "extra": {
+      "pub_date": "Tue, 25 Aug 2026 01:40:39 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "title": "",
+    "description": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 87\n# Comments: 32\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 23:00:37 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "title": "",
+    "description": "Article URL: https://ciechanow.ski/moon/\nComments URL: https://news.ycombinator.com/item?id=49426466\nPoints: 169\n# Comments: 31\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 22:06:02 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "",
+    "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o\nComments URL: https://news.ycombinator.com/item?id=49424606\nPoints: 526\n# Comments: 420\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 19:19:08 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "title": "",
+    "description": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\nComments URL: https://news.ycombinator.com/item?id=49423539\nPoints: 147\n# Comments: 108\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 17:57:13 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "",
+    "description": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\nComments URL: https://news.ycombinator.com/item?id=49422800\nPoints: 226\n# Comments: 517\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 17:07:01 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://sf.thijs.gg/",
+    "title": "",
+    "description": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/\nComments URL: https://news.ycombinator.com/item?id=49421536\nPoints: 221\n# Comments: 115\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 15:51:31 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "title": "",
+    "description": "https://xcancel.com/lemire/status/2091894299289874926\n\nComments URL: https://news.ycombinator.com/item?id=49420873\nPoints: 845\n# Comments: 600\n]]>",
+    "extra": {
+      "pub_date": "Mon, 24 Aug 2026 15:08:17 +0000"
+    },
+    "collected_at": "2026-08-25T08:27:22.418690+00:00"
+  }
+]
