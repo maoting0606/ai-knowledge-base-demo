@@ -1,0 +1,17 @@
+{
+  "id": "mgore_RoboArchitect-AI-20260826-001",
+  "title": "mgore/RoboArchitect-AI",
+  "source_url": "https://github.com/mgore/RoboArchitect-AI",
+  "source_type": "github_trending",
+  "summary": "RoboArchitect-AI是首个通过LLM大脑帮助用户构建和开发AI集成机器人（如漫游车、机械臂或轮式机器人）的程序。用户可通过AI代理设定组件预算，生成和修改软硬件，并与其他用户分享产品。",
+  "tags": [
+    "AI Robotics",
+    "LLM",
+    "Hardware Design",
+    "Agent"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-26T08:29:04.780783+00:00",
+  "published_at": null
+}

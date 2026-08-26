@@ -1,0 +1,17 @@
+{
+  "id": "Insharah-syedd_FinAgent-AI-20260826-001",
+  "title": "Insharah-syedd/FinAgent-AI",
+  "source_url": "https://github.com/Insharah-syedd/FinAgent-AI",
+  "source_type": "github_trending",
+  "summary": "FinAgent AI是一个基于CrewAI、Streamlit和LLM构建的自主多智能体金融智能系统，可处理金融CSV数据或手动输入，提供自动化数据分析、关键指标摘要和可操作的金融洞察。",
+  "tags": [
+    "Multi-Agent",
+    "Financial Analysis",
+    "LLM",
+    "CrewAI"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-26T08:29:04.780783+00:00",
+  "published_at": null
+}

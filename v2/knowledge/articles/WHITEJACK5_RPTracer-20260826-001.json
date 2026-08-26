@@ -1,0 +1,17 @@
+{
+  "id": "WHITEJACK5_RPTracer-20260826-001",
+  "title": "WHITEJACK5/RPTracer",
+  "source_url": "https://github.com/WHITEJACK5/RPTracer",
+  "source_type": "github_trending",
+  "summary": "TRACER v1.0是Razorpay的防御性AI风控引擎，基于XGBoost和SHAP归因，在50ms内完成交易评分，并检测mule-ring图结构。通过有界代理自动批准、挑战或暂扣付款，生成LLM争议档案，所有决策记录在防篡改账本并展示于深色玻璃拟态仪表盘。",
+  "tags": [
+    "AI Risk Engine",
+    "XGBoost",
+    "Fraud Detection",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-26T08:29:04.780783+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vnmoorthy_relocate-ai-20260826-001",
+  "title": "vnmoorthy/relocate-ai",
+  "source_url": "https://github.com/vnmoorthy/relocate-ai",
+  "source_type": "github_trending",
+  "summary": "该项目通过一个电话或网页指令，协调29个AI代理完成搬家全流程，包括搬家公司报价、水电煤停用、USPS地址转寄、住房、房东通知、银行和签证事务，并生成待签文件。采用语音编排器、确定性多级LLM路由和诚实终端状态，避免虚假成功。",
+  "tags": [
+    "AI agents",
+    "relocation",
+    "LLM routing",
+    "voice orchestration"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-26T08:29:04.780783+00:00",
+  "published_at": null
+}
