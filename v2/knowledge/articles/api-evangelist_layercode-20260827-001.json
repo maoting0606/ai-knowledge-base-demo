@@ -1,0 +1,16 @@
+{
+  "id": "api-evangelist_layercode-20260827-001",
+  "title": "api-evangelist/layercode",
+  "source_url": "https://github.com/api-evangelist/layercode",
+  "source_type": "github_trending",
+  "summary": "Layercode提供语音AI代理基础设施，通过低延迟语音管道将任意LLM或文本代理转换为支持网页、移动端和电话的对话式语音代理。其REST API管理代理、会话和外呼，实时WebSocket传输音频至浏览器，签名webhook传递转录文本。",
+  "tags": [
+    "voice-ai",
+    "realtime-communication",
+    "agent-infrastructure"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}

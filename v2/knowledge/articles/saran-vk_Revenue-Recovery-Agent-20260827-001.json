@@ -1,0 +1,17 @@
+{
+  "id": "saran-vk_Revenue-Recovery-Agent-20260827-001",
+  "title": "saran-vk/Revenue-Recovery-Agent",
+  "source_url": "https://github.com/saran-vk/Revenue-Recovery-Agent",
+  "source_type": "github_trending",
+  "summary": "该AI收入恢复代理通过规则/LLM引擎诊断支付失败和订阅暂停导致的收入泄漏，执行智能重试或支付链接等恢复流程，并记录性能指标到追加式审计日志以计算净恢复率。",
+  "tags": [
+    "Revenue Recovery",
+    "LLM",
+    "Payment Retry",
+    "Audit Trail"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}

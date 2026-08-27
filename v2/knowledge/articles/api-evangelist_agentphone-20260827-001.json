@@ -1,0 +1,17 @@
+{
+  "id": "api-evangelist_agentphone-20260827-001",
+  "title": "api-evangelist/agentphone",
+  "source_url": "https://github.com/api-evangelist/agentphone",
+  "source_type": "github_trending",
+  "summary": "AgentPhone为AI代理提供电话基础设施，通过单一REST API配置美加电话号码，支持语音、短信、彩信和iMessage，集成统一webhooks、自动会话线程、实时通话转录、托管LLM或webhook语音模式，并处理10DLC/A2P合规。",
+  "tags": [
+    "telephony",
+    "AI-agents",
+    "REST-API",
+    "compliance"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}

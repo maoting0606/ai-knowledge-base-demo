@@ -1,0 +1,16 @@
+{
+  "id": "api-evangelist_aiignore-20260827-001",
+  "title": "api-evangelist/aiignore",
+  "source_url": "https://github.com/api-evangelist/aiignore",
+  "source_type": "github_trending",
+  "summary": ".aiignore文件是一种配置规范，用于告知AI编码代理和LLM开发者工具哪些文件、目录或内容不应被读取、处理或修改，以保护敏感代码和避免AI误操作。",
+  "tags": [
+    "AI",
+    "Configuration",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}

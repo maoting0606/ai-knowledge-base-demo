@@ -1,0 +1,17 @@
+{
+  "id": "ProjectZeroDays_FreeAI_AI-Inference-Workstation-20260827-001",
+  "title": "ProjectZeroDays/FreeAI_AI-Inference-Workstation",
+  "source_url": "https://github.com/ProjectZeroDays/FreeAI_AI-Inference-Workstation",
+  "source_type": "github_trending",
+  "summary": "这是一个自托管的AI推理工作站，支持本地和外部LLM提供商，具备自主代理、工作流、性能优化、自愈和完整SDLC自动化功能，可通过Docker、Kubernetes或Kali/Ubuntu/NixOS Live ISO部署。",
+  "tags": [
+    "AI Inference",
+    "Self-hosted",
+    "Automation",
+    "DevOps"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}

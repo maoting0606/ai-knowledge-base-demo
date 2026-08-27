@@ -1,0 +1,17 @@
+{
+  "id": "gcap0n1_neural-tape-20260827-001",
+  "title": "gcap0n1/neural-tape",
+  "source_url": "https://github.com/gcap0n1/neural-tape",
+  "source_type": "github_trending",
+  "summary": "Neural Tape是一个为AI编程助手设计的通用分层记忆工具，可捕获助手对话记录，通过兼容OpenAI的LLM（或零LLM模式）分类洞察，并以SQLite和Obsidian友好的格式存档，帮助智能体实现长期记忆。",
+  "tags": [
+    "AI Agents",
+    "Memory",
+    "LLM",
+    "SQLite"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-27T18:28:42.184876+00:00",
+  "published_at": null
+}
