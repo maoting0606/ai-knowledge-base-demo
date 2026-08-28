@@ -1,0 +1,17 @@
+{
+  "id": "srinidhi1219_Multi-Agent-Negotiation-Simulator-2026-20260828-001",
+  "title": "srinidhi1219/Multi-Agent-Negotiation-Simulator-2026",
+  "source_url": "https://github.com/srinidhi1219/Multi-Agent-Negotiation-Simulator-2026",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的多代理谈判模拟平台，用户可观看两个LLM代理进行谈判，或直接与AI练习谈判技巧。技术栈包括FastAPI、React和MongoDB，提供了交互式学习与实战演练环境。",
+  "tags": [
+    "multi-agent",
+    "LLM",
+    "negotiation",
+    "FastAPI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-28T19:43:02.983764+00:00",
+  "published_at": null
+}

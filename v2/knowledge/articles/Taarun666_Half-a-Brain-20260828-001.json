@@ -1,0 +1,17 @@
+{
+  "id": "Taarun666_Half-a-Brain-20260828-001",
+  "title": "Taarun666/Half-a-Brain",
+  "source_url": "https://github.com/Taarun666/Half-a-Brain",
+  "source_type": "github_trending",
+  "summary": "Half-a-Brain 是一个可自托管的 AI 平台，能从文档或网页获取答案，支持构建自定义代理、定时自动化及深度研究，可将任意在线或本地 LLM 转化为个人自主 AI。",
+  "tags": [
+    "self-hosted",
+    "LLM",
+    "automation",
+    "AI-agents"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-28T19:43:02.983764+00:00",
+  "published_at": null
+}
