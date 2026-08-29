@@ -1,0 +1,17 @@
+{
+  "id": "foxmaster77_12BOT-20260829-001",
+  "title": "foxmaster77/12BOT",
+  "source_url": "https://github.com/foxmaster77/12BOT",
+  "source_type": "github_trending",
+  "summary": "12BOT是一个由12个AI代理组成的自主开发团队，每个代理（如项目经理、设计师、前端/后端开发者、调试员等）使用不同的免费LLM API，并支持自动回退和本地Ollama备份。系统以实时2D办公室可视化展示代理工作、调试或休息状态，能独立构建完整网站。",
+  "tags": [
+    "AI agents",
+    "autonomous development",
+    "LLM orchestration",
+    "web building"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-29T13:27:33.366626+00:00",
+  "published_at": null
+}

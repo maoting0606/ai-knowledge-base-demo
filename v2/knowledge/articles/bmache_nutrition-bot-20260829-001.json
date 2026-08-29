@@ -1,0 +1,17 @@
+{
+  "id": "bmache_nutrition-bot-20260829-001",
+  "title": "bmache/nutrition-bot",
+  "source_url": "https://github.com/bmache/nutrition-bot",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于CrewAI多智能体系统的AI营养教练，可分析餐食照片估算热量和营养，或将食材转化为符合饮食需求的食谱。其设计采用与提供商无关的LLM层，支持灵活集成不同模型，兼具实用性和架构可扩展性。",
+  "tags": [
+    "AI Nutrition",
+    "Multi-Agent",
+    "CrewAI",
+    "Food Recognition"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-29T13:27:33.366626+00:00",
+  "published_at": null
+}

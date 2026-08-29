@@ -1,0 +1,17 @@
+{
+  "id": "x-cmd-install_junie-20260829-001",
+  "title": "x-cmd-install/junie",
+  "source_url": "https://github.com/x-cmd-install/junie",
+  "source_type": "github_trending",
+  "summary": "JetBrains推出的AI编程代理，可在终端、IDE或CI/CD管道中交付代码，支持用户选择任意LLM驱动，提升开发效率与自动化水平。",
+  "tags": [
+    "AI coding agent",
+    "JetBrains",
+    "CI/CD",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-29T13:27:33.366626+00:00",
+  "published_at": null
+}

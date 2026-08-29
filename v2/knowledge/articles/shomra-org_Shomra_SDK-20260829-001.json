@@ -1,0 +1,17 @@
+{
+  "id": "shomra-org_Shomra_SDK-20260829-001",
+  "title": "shomra-org/Shomra.SDK",
+  "source_url": "https://github.com/shomra-org/Shomra.SDK",
+  "source_type": "github_trending",
+  "summary": "Shomra SDK是一个轻量级工具，用于从TypeScript/JavaScript或Python追踪AI代理并强制执行LLM防护，零依赖，帮助开发者监控和约束大模型行为。",
+  "tags": [
+    "AI Agent",
+    "LLM Guard",
+    "Observability",
+    "SDK"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-29T13:27:33.366626+00:00",
+  "published_at": null
+}
