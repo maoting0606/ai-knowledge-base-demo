@@ -1,0 +1,17 @@
+{
+  "id": "panendrajadav_Suraksha-Khata-20260830-001",
+  "title": "panendrajadav/Suraksha-Khata",
+  "source_url": "https://github.com/panendrajadav/Suraksha-Khata",
+  "source_type": "github_trending",
+  "summary": "Suraksha Khata 是一个AI代理，用于将小型UPI供应商的交易与其声明的业务资料进行对账，将每笔交易分类为应税、免税或个人，以防止因GST通知导致供应商流失。它采用确定性匹配和LLM解释，并在50多条合成记录上报告匹配率和例外情况。",
+  "tags": [
+    "AI Agent",
+    "GST Compliance",
+    "UPI Reconciliation",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}

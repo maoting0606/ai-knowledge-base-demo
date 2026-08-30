@@ -1,0 +1,17 @@
+{
+  "id": "Burzkeed123_Paynite-20260830-001",
+  "title": "Burzkeed123/Paynite",
+  "source_url": "https://github.com/Burzkeed123/Paynite",
+  "source_type": "github_trending",
+  "summary": "PAYnite是一个面向B2B SaaS公司的AI辅助客服平台，利用现有LLM（如OpenAI或Claude）处理重复性常规问题，同时为人工客服提供上下文、摘要和升级支持，而非完全替代人工。",
+  "tags": [
+    "AI customer service",
+    "B2B SaaS",
+    "LLM integration",
+    "human-in-the-loop"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}

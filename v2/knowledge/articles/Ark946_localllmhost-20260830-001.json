@@ -1,0 +1,17 @@
+{
+  "id": "Ark946_localllmhost-20260830-001",
+  "title": "Ark946/localllmhost",
+  "source_url": "https://github.com/Ark946/localllmhost",
+  "source_type": "github_trending",
+  "summary": "该项目允许在Android设备上通过LiteRT-LM运行本地大语言模型，宿主应用加载模型后，其他应用可通过AIDL接口访问LLM服务，简化了开发流程，支持从Hugging Face或本地文件加载模型。",
+  "tags": [
+    "Android",
+    "On-device LLM",
+    "AIDL",
+    "LiteRT-LM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "jdorner_palim-20260830-001",
+  "title": "jdorner/palim",
+  "source_url": "https://github.com/jdorner/palim",
+  "source_type": "github_trending",
+  "summary": "Palim是一个自托管的AI代理平台，支持扩展、工作流和Web界面。它通过llama.cpp或任何兼容OpenAI的端点进行本地LLM推理，强调隐私和可控性，适合开发者构建自定义AI自动化。",
+  "tags": [
+    "AI Agent",
+    "Self-hosted",
+    "LLM",
+    "Workflow"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}

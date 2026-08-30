@@ -1,0 +1,17 @@
+{
+  "id": "Chicks9287_Genie-app--20260830-001",
+  "title": "Chicks9287/Genie-app-",
+  "source_url": "https://github.com/Chicks9287/Genie-app-",
+  "source_type": "github_trending",
+  "summary": "该项目声称构建一个名为Genie的多层多模态AI操作系统代理，覆盖整个系统，充当个人协调者，支持跨平台流式处理，可在任何环境运行，并操作所有应用。其LLM基于量子快速傅里叶变换和拉格朗日方法，但描述过于夸张且缺乏技术细节，实际可行性存疑。",
+  "tags": [
+    "AI Agent",
+    "Multimodal",
+    "Quantum Computing",
+    "OS Integration"
+  ],
+  "score": 2,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}

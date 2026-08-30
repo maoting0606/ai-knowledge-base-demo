@@ -1,0 +1,17 @@
+{
+  "id": "nicoalbo0_llm-peer-influence-demo-20260830-001",
+  "title": "nicoalbo0/llm-peer-influence-demo",
+  "source_url": "https://github.com/nicoalbo0/llm-peer-influence-demo",
+  "source_type": "github_trending",
+  "summary": "该研究通过统计力学视角，测试LLM智能体在多方意见动态中，是受同伴数量还是同伴内容影响。实验对比了基于人数和基于论证的更新机制，为辩论和投票式AI监督提供启示。",
+  "tags": [
+    "LLM",
+    "Opinion Dynamics",
+    "Multi-Agent",
+    "AI Oversight"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-30T13:23:42.907242+00:00",
+  "published_at": null
+}
