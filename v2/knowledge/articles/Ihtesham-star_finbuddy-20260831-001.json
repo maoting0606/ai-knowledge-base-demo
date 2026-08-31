@@ -1,0 +1,17 @@
+{
+  "id": "Ihtesham-star_finbuddy-20260831-001",
+  "title": "Ihtesham-star/finbuddy",
+  "source_url": "https://github.com/Ihtesham-star/finbuddy",
+  "source_type": "github_trending",
+  "summary": "FinBuddy是一个基于LangChain 1.0构建的AI个人理财助手，支持本地或云端LLM，帮助用户管理财务、分析支出并提供智能建议。",
+  "tags": [
+    "AI Finance",
+    "LangChain",
+    "LLM",
+    "Personal Finance"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-08-31T15:35:56.753296+00:00",
+  "published_at": null
+}

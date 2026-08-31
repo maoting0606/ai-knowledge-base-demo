@@ -1,0 +1,17 @@
+{
+  "id": "raw-sayan_Maxed-out-Sub-agents_-20260831-001",
+  "title": "raw-sayan/Maxed-out-Sub-agents.",
+  "source_url": "https://github.com/raw-sayan/Maxed-out-Sub-agents.",
+  "source_type": "github_trending",
+  "summary": "这是一个便携式AI技能，可将单个LLM转变为受监督的专家团队，支持多智能体工作流，适用于任何项目或编辑器，提升任务处理效率与专业性。",
+  "tags": [
+    "multi-agent",
+    "LLM",
+    "workflow",
+    "AI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-31T15:35:56.753296+00:00",
+  "published_at": null
+}

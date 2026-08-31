@@ -1,0 +1,17 @@
+{
+  "id": "ElitonScos_erpmind-20260831-001",
+  "title": "ElitonScos/erpmind",
+  "source_url": "https://github.com/ElitonScos/erpmind",
+  "source_type": "github_trending",
+  "summary": "该项目提出AI原生ERP架构，通过工具调用与pgvector向量检索实现RAG，支持LLM或完全离线运行，强调清晰架构设计，为传统ERP系统引入智能交互与知识管理能力。",
+  "tags": [
+    "AI-ERP",
+    "RAG",
+    "pgvector",
+    "Tool-Calling"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-08-31T15:35:56.753296+00:00",
+  "published_at": null
+}
