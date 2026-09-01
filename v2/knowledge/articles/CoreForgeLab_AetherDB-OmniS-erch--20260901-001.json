@@ -1,0 +1,17 @@
+{
+  "id": "CoreForgeLab_AetherDB-OmniS-erch--20260901-001",
+  "title": "CoreForgeLab/AetherDB-OmniS-erch-",
+  "source_url": "https://github.com/CoreForgeLab/AetherDB-OmniS-erch-",
+  "source_type": "github_trending",
+  "summary": "AetherDB是一个AI增强的SQLite数据库，提供FastAPI Web界面，支持可插拔的LLM提取器（OpenAI/Ollama）和双层API密钥安全，可部署于任何PC或服务器，专为作家和AI代理设计的大规模世界构建数据库系统。",
+  "tags": [
+    "AI Database",
+    "SQLite",
+    "FastAPI",
+    "Worldbuilding"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-01T12:51:21.523050+00:00",
+  "published_at": null
+}

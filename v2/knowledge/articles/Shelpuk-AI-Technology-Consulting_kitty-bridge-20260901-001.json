@@ -1,0 +1,17 @@
+{
+  "id": "Shelpuk-AI-Technology-Consulting_kitty-bridge-20260901-001",
+  "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+  "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+  "source_type": "github_trending",
+  "summary": "kitty-bridge是一个通用LLM桥接工具，让AI代理（如Claude Code、Codex、Gemini CLI）能连接任意模型提供商（如MiniMax、GLM、OpenRouter）。通过一条命令即可切换提供商，兼容多种编码代理和工具，提升灵活性和可移植性。",
+  "tags": [
+    "LLM Bridge",
+    "AI Agents",
+    "Model Agnostic",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-01T12:51:21.523050+00:00",
+  "published_at": null
+}

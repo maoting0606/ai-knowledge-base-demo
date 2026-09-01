@@ -1,0 +1,17 @@
+{
+  "id": "oh-my-harness_senza-studio-20260901-001",
+  "title": "oh-my-harness/senza-studio",
+  "source_url": "https://github.com/oh-my-harness/senza-studio",
+  "source_type": "github_trending",
+  "summary": "Senza Studio是一个基于llm-harness-runtime和Senza SDK的Web应用，允许用户通过自然语言对话、示例库或直接代码编辑来定制AI代理。它简化了代理配置流程，适合快速原型开发和个性化调整。",
+  "tags": [
+    "AI Agent",
+    "Web App",
+    "Customization",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-01T12:51:21.523050+00:00",
+  "published_at": null
+}

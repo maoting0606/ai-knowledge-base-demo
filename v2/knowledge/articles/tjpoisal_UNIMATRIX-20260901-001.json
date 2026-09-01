@@ -1,0 +1,17 @@
+{
+  "id": "tjpoisal_UNIMATRIX-20260901-001",
+  "title": "tjpoisal/UNIMATRIX",
+  "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+  "source_type": "github_trending",
+  "summary": "UNIMATRIX是一个云原生AI记忆系统，基于MCP协议为LLM提供跨设备、跨会话的持久上下文。采用双层记忆、混合检索（含时间衰减）、Librarian代理及企业级加密，消除重复解释上下文的需求。",
+  "tags": [
+    "AI Memory",
+    "MCP",
+    "Context Management",
+    "Cloud-Native"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-01T12:51:21.523050+00:00",
+  "published_at": null
+}

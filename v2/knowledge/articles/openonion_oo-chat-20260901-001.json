@@ -1,0 +1,17 @@
+{
+  "id": "openonion_oo-chat-20260901-001",
+  "title": "openonion/oo-chat",
+  "source_url": "https://github.com/openonion/oo-chat",
+  "source_type": "github_trending",
+  "summary": "oo-chat是一个开源AI代理聊天客户端，支持连接ConnectOnion代理或直接调用LLM API，提供灵活的代理交互界面。",
+  "tags": [
+    "AI Agents",
+    "Chat Client",
+    "Open Source",
+    "LLM API"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-01T12:51:21.523050+00:00",
+  "published_at": null
+}

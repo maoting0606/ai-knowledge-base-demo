@@ -1,0 +1,493 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cyb3rDem0n/astro-hunter",
+    "title": "cyb3rDem0n/astro-hunter",
+    "description": "Astro Hunter is a scientific AI project composed of analysis pipelines, ML models, and LLM agents connected to open astronomical databases.  It downloads and analyzes real data, searches for anomalies or interesting signals, and uses agents to verify them, cross-reference them with catalogs, and formulate hypotheses.",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp",
+    "title": "artokun/comfyui-mcp",
+    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+    "extra": {
+      "stars": 708,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CoreForgeLab/AetherDB-OmniS-erch-",
+    "title": "CoreForgeLab/AetherDB-OmniS-erch-",
+    "description": "[AetherDB (OmniS erch)] – An AI‑augmented SQLite database with a FastAPI web interface, pluggable LLM extractors (OpenAI/Ollama), and dual‑layer API key security – deployable on any PC or server and  A large-scale worldbuilding database system for writers and AI agents.",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 291,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/tjpoisal/UNIMATRIX",
+    "title": "tjpoisal/UNIMATRIX",
+    "description": "Unimatrix is a cloud-native AI memory system that gives any LLM instant, persistent context across devices and sessions. Built around the Model Context Protocol (MCP), it eliminates the need to re-explain context every time you switch tools or devices. Dual-layer mem, hybrid retrieval w/ recency decay, a Librarian agent, and enterprise encryption.",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/GrzegorzOle/Sentin-NPU",
+    "title": "GrzegorzOle/Sentin-NPU",
+    "description": "Advisory DLP for AI agents - detects sensitive data on-device using Intel NPU (OpenVINO) before it reaches Claude, Gemini or local LLMs. SIEM-ready.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "data-privacy",
+        "dlp",
+        "intel",
+        "nis2",
+        "nis2-compliance",
+        "npu",
+        "openvino",
+        "openvino-toolkit"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 421,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/artokun/comfyui-mcp-panel",
+    "title": "artokun/comfyui-mcp-panel",
+    "description": "The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.",
+    "extra": {
+      "stars": 104,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "comfyui",
+        "comfyui-agent",
+        "comfyui-custom-node",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "copilot",
+        "image-generation",
+        "litegraph",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "sidebar"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/MrWangJustToDo/MyAgent",
+    "title": "MrWangJustToDo/MyAgent",
+    "description": "MyAgent — AI coding agent for the terminal. Edits code, runs commands, and plans tasks locally or through a remote server — in the CLI, a Chrome extension, or a browser playground. Three orthogonal planes (Workspace · LLM · Session) let you mix local & remote however you want. Built on TanStack AI",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "cli",
+        "code-agent",
+        "code-agent-cli",
+        "code-agent-harness",
+        "code-agent-memory",
+        "codex",
+        "opencode"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3344,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jvmind/jvmind-ce",
+    "title": "jvmind/jvmind-ce",
+    "description": "AI-powered JVM diagnostics agent. Analyze GC logs, jstack thread dumps, and heap dumps via local LLM (Ollama) or OpenAI-compatible APIs. Single-user, local-first, open source.",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "diagnostics",
+        "gc-log-analyzer",
+        "heap-dump-analyzer",
+        "java",
+        "jvm",
+        "langgraph",
+        "llm",
+        "openai-compatible",
+        "performance-tuning",
+        "thread-dump-analyzer"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Snaehath/ai-coding-agent",
+    "title": "Snaehath/ai-coding-agent",
+    "description": "A model-agnostic AI coding agent supporting any local (Ollama) or cloud LLM with native tool calling over JSON-RPC stdio.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "bun",
+        "claude-code",
+        "json-rpc",
+        "llm-tools",
+        "ollama",
+        "openrouter",
+        "typescript"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "description": "Universal LLM bridge for AI agents. Use Claude Code with MiniMax, Codex with GLM, or Gemini CLI with OpenRouter — one command, any provider. Works with coding agents, OpenClaw, Hermes, and others.",
+    "extra": {
+      "stars": 16,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "codex",
+        "gemini",
+        "glm",
+        "hermes",
+        "hermes-agent",
+        "kilo-code",
+        "kimi",
+        "llm",
+        "minimax",
+        "moonshot",
+        "novita",
+        "ollama",
+        "openai",
+        "openclaw",
+        "openrouter",
+        "qwen",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/openonion/oo-chat",
+    "title": "openonion/oo-chat",
+    "description": "Open-source chat client for AI agents. Connect to ConnectOnion agents or use LLM APIs directly.",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/oh-my-harness/senza-studio",
+    "title": "oh-my-harness/senza-studio",
+    "description": "Web app to customize AI agents via natural-language conversation, example library, or direct code editing. Built on llm-harness-runtime + Senza SDK.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/adecubed/gigamail",
+    "title": "adecubed/gigamail",
+    "description": "Mail for AI agents ( and humans). MCP server giving Claude (or any agent) safe, permission-controlled access to email (Microsoft Graph + IMAP), calendar and your knowledge files. Two-phase confirmation for sends, audit log, local index. No built-in LLM: your agent brings the intelligence.",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "calendar",
+        "human-in-the-loop",
+        "imap",
+        "llm-tools",
+        "mail",
+        "mcp",
+        "mcp-tools",
+        "model-context-protocol"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/rorystandley/goose",
+    "title": "rorystandley/goose",
+    "description": "Personal autonomous AI agent powered by a local Ollama LLM — no cloud, no subscriptions. Runs missions via Slack, CLI, or scheduler with tool use and approval gating.",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/choreographr/choreographr",
+    "title": "choreographr/choreographr",
+    "description": "Choreographr is an all purpose extensible AI agent system written entirely in Rust. It has a client/server architecture and can run many sessions simulataneously. It can be run locally or in the cloud. LLM generated code can be run in a sandboxed RISC-V VM for complete security and observability.",
+    "extra": {
+      "stars": 5,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/icetomoyo/KodaX",
+    "title": "icetomoyo/KodaX",
+    "description": "A lightweight AI coding agent that actually works. KodaX is modular, zero-config, and supports multiple LLM providers out of the box. Use it as a CLI tool or npm library—with session memory, parallel execution, and agent teams. Written in TypeScript.",
+    "extra": {
+      "stars": 10,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-01T12:50:18.511681+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+    "title": "",
+    "description": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656\nComments URL: https://news.ycombinator.com/item?id=49520022\nPoints: 256\n# Comments: 42\n]]>",
+    "extra": {
+      "pub_date": "Tue, 01 Sep 2026 10:11:02 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "title": "",
+    "description": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/\nComments URL: https://news.ycombinator.com/item?id=49519902\nPoints: 33\n# Comments: 33\n]]>",
+    "extra": {
+      "pub_date": "Tue, 01 Sep 2026 09:46:39 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+    "title": "",
+    "description": "Article URL: https://restroomarchive.com\nComments URL: https://news.ycombinator.com/item?id=49517624\nPoints: 170\n# Comments: 40\n]]>",
+    "extra": {
+      "pub_date": "Tue, 01 Sep 2026 03:23:48 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.gpuworld.org/",
+    "title": "",
+    "description": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 515\n# Comments: 300\n]]>",
+    "extra": {
+      "pub_date": "Tue, 01 Sep 2026 02:52:14 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://github.com/fregacmols/RotaryCell",
+    "title": "",
+    "description": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 277\n# Comments: 191\n]]>",
+    "extra": {
+      "pub_date": "Mon, 31 Aug 2026 23:45:56 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://tmpout.sh/5/",
+    "title": "",
+    "description": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o\n\nComments URL: https://news.ycombinator.com/item?id=49512975\nPoints: 342\n# Comments: 49\n]]>",
+    "extra": {
+      "pub_date": "Mon, 31 Aug 2026 18:21:33 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "title": "",
+    "description": "Article URL: https://ravynos.com/\nComments URL: https://news.ycombinator.com/item?id=49511534\nPoints: 209\n# Comments: 120\n]]>",
+    "extra": {
+      "pub_date": "Mon, 31 Aug 2026 16:19:36 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://playaphone.com/",
+    "title": "",
+    "description": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\nComments URL: https://news.ycombinator.com/item?id=49508982\nPoints: 432\n# Comments: 490\n]]>",
+    "extra": {
+      "pub_date": "Mon, 31 Aug 2026 12:41:22 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+    "title": "",
+    "description": "Article URL: https://artflsrv04.uchicago.edu/roget-thesaurus/\nComments URL: https://news.ycombinator.com/item?id=49505584\nPoints: 24\n# Comments: 4\n]]>",
+    "extra": {
+      "pub_date": "Mon, 31 Aug 2026 04:29:26 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "title": "",
+    "description": "https://archive.is/zUA3D\n\nComments URL: https://news.ycombinator.com/item?id=49500504\nPoints: 164\n# Comments: 155\n]]>",
+    "extra": {
+      "pub_date": "Sun, 30 Aug 2026 17:05:32 +0000"
+    },
+    "collected_at": "2026-09-01T12:50:22.437808+00:00"
+  }
+]
