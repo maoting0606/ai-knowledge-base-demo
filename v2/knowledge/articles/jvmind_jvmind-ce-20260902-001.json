@@ -1,0 +1,17 @@
+{
+  "id": "jvmind_jvmind-ce-20260902-001",
+  "title": "jvmind/jvmind-ce",
+  "source_url": "https://github.com/jvmind/jvmind-ce",
+  "source_type": "github_trending",
+  "summary": "jvmind-ce 是一个AI驱动的JVM诊断代理，通过本地LLM（如Ollama）或OpenAI兼容API分析GC日志、线程转储和堆转储。支持单用户、本地优先、开源，帮助开发者快速定位JVM性能问题。",
+  "tags": [
+    "JVM",
+    "AI",
+    "Diagnostics",
+    "OpenSource"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-02T12:21:30.891194+00:00",
+  "published_at": null
+}

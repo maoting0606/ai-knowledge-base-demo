@@ -1,0 +1,17 @@
+{
+  "id": "icetomoyo_KodaX-20260902-001",
+  "title": "icetomoyo/KodaX",
+  "source_url": "https://github.com/icetomoyo/KodaX",
+  "source_type": "github_trending",
+  "summary": "KodaX是一个轻量级AI编程代理，模块化、零配置，支持多种LLM提供商。可作为CLI工具或npm库使用，具备会话记忆、并行执行和代理团队功能，使用TypeScript编写。",
+  "tags": [
+    "AI coding agent",
+    "TypeScript",
+    "LLM",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-02T12:21:30.891194+00:00",
+  "published_at": null
+}

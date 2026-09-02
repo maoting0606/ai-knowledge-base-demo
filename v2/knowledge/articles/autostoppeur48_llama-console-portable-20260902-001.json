@@ -1,0 +1,17 @@
+{
+  "id": "autostoppeur48_llama-console-portable-20260902-001",
+  "title": "autostoppeur48/llama-console-portable",
+  "source_url": "https://github.com/autostoppeur48/llama-console-portable",
+  "source_type": "github_trending",
+  "summary": "这是一个便携式本地AI工作台，将聊天和编码代理集成在一个文件夹中，支持完全离线运行，无需云服务或账户，可让代理读写和执行代码。",
+  "tags": [
+    "local-llm",
+    "offline",
+    "coding-agent",
+    "portable"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-02T12:21:30.891194+00:00",
+  "published_at": null
+}

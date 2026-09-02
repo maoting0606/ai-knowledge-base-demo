@@ -1,0 +1,17 @@
+{
+  "id": "GrzegorzOle_Sentin-NPU-20260902-001",
+  "title": "GrzegorzOle/Sentin-NPU",
+  "source_url": "https://github.com/GrzegorzOle/Sentin-NPU",
+  "source_type": "github_trending",
+  "summary": "Sentin-NPU是一款基于Intel NPU（OpenVINO）的端侧DLP工具，用于在AI代理（如Claude、Gemini或本地LLM）发送数据前检测敏感信息，防止泄露，并支持SIEM集成。",
+  "tags": [
+    "DLP",
+    "AI Security",
+    "Intel NPU",
+    "OpenVINO"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-02T12:21:30.891194+00:00",
+  "published_at": null
+}
