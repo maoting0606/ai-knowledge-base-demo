@@ -1,0 +1,17 @@
+{
+  "id": "Yuanqs-pine_learn-any-ai-project-20260903-001",
+  "title": "Yuanqs-pine/learn-any-ai-project",
+  "source_url": "https://github.com/Yuanqs-pine/learn-any-ai-project",
+  "source_type": "github_trending",
+  "summary": "这是一个零依赖的Agent技能，用于系统学习任何主流AI项目。它从零开始，生成LEARN.md，通过动手章节掌握，并同步状态工件。适用于RAG、Agent、LLM、CV、语音、多模态、AIGC、ML、MLOps及AI QA，支持开源和闭源项目。",
+  "tags": [
+    "AI Learning",
+    "Agent Skill",
+    "Project Mastery",
+    "Zero-Dependency"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

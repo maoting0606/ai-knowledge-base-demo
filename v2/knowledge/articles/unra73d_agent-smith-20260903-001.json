@@ -1,0 +1,17 @@
+{
+  "id": "unra73d_agent-smith-20260903-001",
+  "title": "unra73d/agent-smith",
+  "source_url": "https://github.com/unra73d/agent-smith",
+  "source_type": "github_trending",
+  "summary": "agent-smith 是一个支持多种 LLM 模型、MCP 服务器及兼容 OpenAI API 的 AI 代理工具，适合快速搭建 PoC/MVP，用于测试集成和模型性能。",
+  "tags": [
+    "AI Agent",
+    "Multi-LLM",
+    "MCP",
+    "OpenAI Compatible"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "goruck_home-generative-agent-20260903-001",
+  "title": "goruck/home-generative-agent",
+  "source_url": "https://github.com/goruck/home-generative-agent",
+  "source_type": "github_trending",
+  "summary": "该项目为Home Assistant打造AI代理，支持自然语言交互、自动化创建、摄像头人脸识别及主动异常警报。可选用云端LLM或通过Ollama完全本地化运行，兼顾隐私与智能家居控制。",
+  "tags": [
+    "AI Agent",
+    "Home Assistant",
+    "Local LLM",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

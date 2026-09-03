@@ -1,0 +1,17 @@
+{
+  "id": "adecubed_gigamail-20260903-001",
+  "title": "adecubed/gigamail",
+  "source_url": "https://github.com/adecubed/gigamail",
+  "source_type": "github_trending",
+  "summary": "Gigamail是一个为AI代理（及人类）设计的邮件服务，通过MCP服务器为Claude等代理提供安全、权限受控的邮件（Microsoft Graph+IMAP）、日历和知识文件访问。支持发送前两阶段确认、审计日志和本地索引，不内置LLM，由代理自带智能。",
+  "tags": [
+    "MCP",
+    "Email",
+    "AI Agents",
+    "Security"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

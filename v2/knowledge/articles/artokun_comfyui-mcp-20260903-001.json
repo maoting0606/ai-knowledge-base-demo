@@ -1,0 +1,17 @@
+{
+  "id": "artokun_comfyui-mcp-20260903-001",
+  "title": "artokun/comfyui-mcp",
+  "source_url": "https://github.com/artokun/comfyui-mcp",
+  "source_type": "github_trending",
+  "summary": "artokun/comfyui-mcp 是一个本地优先、代理原生的 ComfyUI 控制平面，提供 MCP 服务器和侧边栏代理，支持通过自然语言生成图像、视频和音频，编写和运行工作流，并实时编辑图形。兼容多种 LLM（如 Claude、ChatGPT、Gemini、Ollama 等），包含 178 个工具、36 个 AI 技能和 55 个安装包，可部署于本地、局域网、VPS 或 Comfy Cloud。",
+  "tags": [
+    "ComfyUI",
+    "MCP",
+    "AI-agent",
+    "workflow-automation"
+  ],
+  "score": 9,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

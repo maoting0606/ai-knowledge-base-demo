@@ -1,0 +1,17 @@
+{
+  "id": "JeanDes-Code_sneq-narrative-system-20260903-001",
+  "title": "JeanDes-Code/sneq-narrative-system",
+  "source_url": "https://github.com/JeanDes-Code/sneq-narrative-system",
+  "source_type": "github_trending",
+  "summary": "一个用于AI叙事游戏（如TTRPG、AI游戏主持人）的叙事状态引擎，防止LLM遗忘或分叉正典现实。基于TypeScript、ESM、SQLite和sqlite-vec，支持多提供商路由，当前为V2 alpha版本。",
+  "tags": [
+    "Narrative Engine",
+    "LLM Memory",
+    "TypeScript",
+    "SQLite"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "NoblerWorks-HQ_minecraft-agentic-20260903-001",
+  "title": "NoblerWorks-HQ/minecraft-agentic",
+  "source_url": "https://github.com/NoblerWorks-HQ/minecraft-agentic",
+  "source_type": "github_trending",
+  "summary": "该项目利用多智能体LLM（支持Claude/Gemini/GPT或内置免费模型）驱动Mineflayer机器人，在浏览器中实时构建Minecraft世界，无需Minecraft账号。展示了AI代理在游戏环境中的协作与创造能力。",
+  "tags": [
+    "multi-agent",
+    "LLM",
+    "Minecraft",
+    "AI-agents"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

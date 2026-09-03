@@ -1,0 +1,17 @@
+{
+  "id": "arashbahrami20261-tech_ai-researcher-20260903-001",
+  "title": "arashbahrami20261-tech/ai-researcher",
+  "source_url": "https://github.com/arashbahrami20261-tech/ai-researcher",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个基于LLM的AI研究代理，支持从arXiv检索论文、自动生成研究假设，并配备Critic代理自我审查和拒绝输出。可本地通过Ollama运行，或使用Anthropic API，适合自动化科研辅助。",
+  "tags": [
+    "AI Research Agent",
+    "LLM",
+    "arXiv",
+    "Self-Critique"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}

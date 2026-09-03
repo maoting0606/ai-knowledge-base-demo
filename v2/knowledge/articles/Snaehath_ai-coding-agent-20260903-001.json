@@ -1,0 +1,17 @@
+{
+  "id": "Snaehath_ai-coding-agent-20260903-001",
+  "title": "Snaehath/ai-coding-agent",
+  "source_url": "https://github.com/Snaehath/ai-coding-agent",
+  "source_type": "github_trending",
+  "summary": "这是一个模型无关的AI编程代理，支持通过Ollama本地或云端LLM，利用JSON-RPC stdio实现原生工具调用，提供灵活的代码辅助能力。",
+  "tags": [
+    "AI coding agent",
+    "Ollama",
+    "JSON-RPC",
+    "tool calling"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-03T12:19:04.335013+00:00",
+  "published_at": null
+}
