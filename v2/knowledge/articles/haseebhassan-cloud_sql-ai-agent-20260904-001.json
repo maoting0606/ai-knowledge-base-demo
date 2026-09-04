@@ -1,0 +1,17 @@
+{
+  "id": "haseebhassan-cloud_sql-ai-agent-20260904-001",
+  "title": "haseebhassan-cloud/sql-ai-agent",
+  "source_url": "https://github.com/haseebhassan-cloud/sql-ai-agent",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个文本转SQL的AI代理，通过严格的允许列表验证器确保LLM生成的SQL只能执行查询操作，无法修改或损坏数据库，保障数据安全。使用Python、SQLite和Claude API构建。",
+  "tags": [
+    "Text-to-SQL",
+    "AI Safety",
+    "SQLite",
+    "LLM Validation"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-04T12:19:40.180039+00:00",
+  "published_at": null
+}

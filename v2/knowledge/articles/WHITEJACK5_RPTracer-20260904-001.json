@@ -1,0 +1,17 @@
+{
+  "id": "WHITEJACK5_RPTracer-20260904-001",
+  "title": "WHITEJACK5/RPTracer",
+  "source_url": "https://github.com/WHITEJACK5/RPTracer",
+  "source_type": "github_trending",
+  "summary": "RPTracer是防御性AI风险引擎，用于Razorpay交易评分，延迟低于50ms。采用XGBoost和SHAP归因，结合mule-ring图检测。有界代理自动批准、挑战或暂扣支付，并生成LLM争议档案。所有决策记录在防篡改账本中，并通过深色玻璃拟态仪表盘可视化。",
+  "tags": [
+    "AI risk engine",
+    "XGBoost",
+    "fraud detection",
+    "real-time scoring"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-04T12:19:40.180039+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MrWangJustToDo_MyAgent-20260904-001",
+  "title": "MrWangJustToDo/MyAgent",
+  "source_url": "https://github.com/MrWangJustToDo/MyAgent",
+  "source_type": "github_trending",
+  "summary": "MyAgent是一个终端AI编程代理，可编辑代码、运行命令和规划任务，支持本地或远程服务器运行。提供CLI、Chrome扩展和浏览器演示三种界面。其核心设计包含三个正交平面（工作区、LLM、会话），允许灵活混合本地与远程资源，基于TanStack AI构建。",
+  "tags": [
+    "AI Agent",
+    "Terminal",
+    "Code Editing",
+    "TanStack"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-04T12:19:40.180039+00:00",
+  "published_at": null
+}
