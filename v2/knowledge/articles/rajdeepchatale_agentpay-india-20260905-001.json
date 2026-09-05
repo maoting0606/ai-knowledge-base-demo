@@ -1,0 +1,17 @@
+{
+  "id": "rajdeepchatale_agentpay-india-20260905-001",
+  "title": "rajdeepchatale/agentpay-india",
+  "source_url": "https://github.com/rajdeepchatale/agentpay-india",
+  "source_type": "github_trending",
+  "summary": "该项目为印度商家打造AI购物代理，支持印地语、马拉地语、兴都斯坦语及英语的语音或文本输入。消费上限、用户同意及速率限制在LLM之外的确定性代码中强制执行，所有决策及推理均记录审计日志，并在Razorpay测试模式下处理订单。",
+  "tags": [
+    "AI Agent",
+    "E-commerce",
+    "India",
+    "Safety"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-05T11:27:07.551425+00:00",
+  "published_at": null
+}

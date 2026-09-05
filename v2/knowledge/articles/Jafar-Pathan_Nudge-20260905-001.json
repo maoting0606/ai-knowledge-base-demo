@@ -1,0 +1,17 @@
+{
+  "id": "Jafar-Pathan_Nudge-20260905-001",
+  "title": "Jafar-Pathan/Nudge",
+  "source_url": "https://github.com/Jafar-Pathan/Nudge",
+  "source_type": "github_trending",
+  "summary": "Nudge是一个AI代理，用于恢复失败的Razorpay支付。它利用LLM引擎（如Groq/OpenAI/GPT-OSS-120B）决定恢复策略（链接、提醒、折扣或追加销售），并通过规则和人工审批进行约束。技术栈包括Next.js、React 19、Prisma和Neon Postgres。",
+  "tags": [
+    "AI Agent",
+    "Payment Recovery",
+    "LLM",
+    "FinTech"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-05T11:27:07.551425+00:00",
+  "published_at": null
+}

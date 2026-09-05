@@ -1,0 +1,17 @@
+{
+  "id": "doctorzero666_HireNet-20260905-001",
+  "title": "doctorzero666/HireNet",
+  "source_url": "https://github.com/doctorzero666/HireNet",
+  "source_type": "github_trending",
+  "summary": "HireNet是一个多智能体工作流平台，能将业务目标转化为结构化任务，并分配给AI代理、人员或两者。具备模式验证的LLM输出、审计追踪、可插拔提供者接口下的精确一次版税结算。技术栈为Flask+React，拥有封闭测试套件并已部署。",
+  "tags": [
+    "multi-agent",
+    "workflow",
+    "LLM",
+    "Flask"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-05T11:27:07.551425+00:00",
+  "published_at": null
+}

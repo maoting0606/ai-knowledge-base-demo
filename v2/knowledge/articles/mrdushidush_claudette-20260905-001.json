@@ -1,0 +1,17 @@
+{
+  "id": "mrdushidush_claudette-20260905-001",
+  "title": "mrdushidush/claudette",
+  "source_url": "https://github.com/mrdushidush/claudette",
+  "source_type": "github_trending",
+  "summary": "该项目提供一个完全离线的AI编程代理，以单一Rust二进制文件运行，支持Ollama或LM Studio，无需云端或API密钥。同时包含Q56基准测试，用于评估本地编码模型，共16种配置、36次完整运行，无需LLM评判。",
+  "tags": [
+    "AI coding agent",
+    "offline",
+    "Rust",
+    "benchmark"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-05T11:27:07.551425+00:00",
+  "published_at": null
+}
