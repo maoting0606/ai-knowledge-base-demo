@@ -1,0 +1,17 @@
+{
+  "id": "rorystandley_goose-20260906-001",
+  "title": "rorystandley/goose",
+  "source_url": "https://github.com/rorystandley/goose",
+  "source_type": "github_trending",
+  "summary": "rorystandley/goose 是一个个人自主AI代理，由本地Ollama LLM驱动，无需云服务或订阅。它通过Slack、CLI或调度器执行任务，支持工具使用和审批门控，强调隐私和自主控制。",
+  "tags": [
+    "AI agent",
+    "Ollama",
+    "local LLM",
+    "autonomy"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-06T11:48:13.141580+00:00",
+  "published_at": null
+}

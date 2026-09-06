@@ -1,0 +1,17 @@
+{
+  "id": "asadullah48_agent-starter-kit-20260906-001",
+  "title": "asadullah48/agent-starter-kit",
+  "source_url": "https://github.com/asadullah48/agent-starter-kit",
+  "source_type": "github_trending",
+  "summary": "这是一个基于Claude的AI代理启动套件，支持多提供商LLM（如Claude或本地Ollama），包含真实外部API工具、测试和CI，结构简洁且易于维护，适合快速构建可扩展的AI代理。",
+  "tags": [
+    "AI Agent",
+    "Claude",
+    "Ollama",
+    "Starter Kit"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-06T11:48:13.141580+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "anis-marrouchi_agentx-20260906-001",
+  "title": "anis-marrouchi/agentx",
+  "source_url": "https://github.com/anis-marrouchi/agentx",
+  "source_type": "github_trending",
+  "summary": "AgentX是一个面向中小企业的AI运维层，支持将Telegram、WhatsApp、Slack、Discord、GitLab、定时任务、Webhooks及网格任务路由到Claude、OpenAI等LLM的AI代理。提供面向非技术人员的Web向导和面向工程师的CLI，可自托管。",
+  "tags": [
+    "AI Operations",
+    "Multi-Platform",
+    "Self-Hosted",
+    "LLM Routing"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-06T11:48:13.141580+00:00",
+  "published_at": null
+}
