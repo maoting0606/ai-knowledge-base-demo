@@ -1,0 +1,17 @@
+{
+  "id": "sdkwork-ai_hub-installer-20260907-001",
+  "title": "sdkwork-ai/hub-installer",
+  "source_url": "https://github.com/sdkwork-ai/hub-installer",
+  "source_type": "github_trending",
+  "summary": "Hub Installer是一个AI驱动的自动化安装工具，利用LLM代理和MCP协议，统一安装GitHub仓库、HuggingFace模型等AI资源，实现下载、配置和运行的完全自动化，简化项目部署流程。",
+  "tags": [
+    "AI Installer",
+    "MCP",
+    "Automation",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-07T13:45:58.054980+00:00",
+  "published_at": null
+}

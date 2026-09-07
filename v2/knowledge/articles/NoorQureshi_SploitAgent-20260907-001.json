@@ -1,0 +1,17 @@
+{
+  "id": "NoorQureshi_SploitAgent-20260907-001",
+  "title": "NoorQureshi/SploitAgent",
+  "source_url": "https://github.com/NoorQureshi/SploitAgent",
+  "source_type": "github_trending",
+  "summary": "SploitAgent是一个开源安全技能库，为AI代理提供85+预置技能，覆盖Web、API、云、AI/LLM、AD、移动等16个领域，支持渗透测试、漏洞赏金和防御，可集成到Claude Code、Codex、Gemini或本地模型。",
+  "tags": [
+    "AI Security",
+    "Pentesting",
+    "Open Source",
+    "Agent Skills"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-07T13:45:58.054980+00:00",
+  "published_at": null
+}
