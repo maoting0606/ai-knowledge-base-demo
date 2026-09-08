@@ -1,0 +1,17 @@
+{
+  "id": "CowDogMoo_squad-20260908-001",
+  "title": "CowDogMoo/squad",
+  "source_url": "https://github.com/CowDogMoo/squad",
+  "source_type": "github_trending",
+  "summary": "Squad是一个开源框架，允许用户用Markdown和YAML定义AI代理，并在本地或Docker、Kubernetes、EC2上以有界、成本封顶的工具循环方式运行，支持任何LLM提供商，实现无人值守的自动化任务。",
+  "tags": [
+    "AI agents",
+    "LLM orchestration",
+    "cost control",
+    "infrastructure"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-08T12:21:13.147470+00:00",
+  "published_at": null
+}

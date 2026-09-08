@@ -1,0 +1,17 @@
+{
+  "id": "prive8_openclaw-memory-system-20260908-001",
+  "title": "prive8/openclaw-memory-system",
+  "source_url": "https://github.com/prive8/openclaw-memory-system",
+  "source_type": "github_trending",
+  "summary": "为OpenClaw等AI代理设计四层记忆架构，基于Obsidian库存储，针对cron脆弱性模式加固，避免静默失败。附带自引导提示，粘贴给LLM即可自动搭建整个系统。",
+  "tags": [
+    "AI Memory",
+    "Obsidian",
+    "Agent Architecture",
+    "Reliability"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-08T12:21:13.147470+00:00",
+  "published_at": null
+}
