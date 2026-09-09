@@ -1,0 +1,17 @@
+{
+  "id": "JakkenaSrikar_whatsapp-ai-copilot-20260909-001",
+  "title": "JakkenaSrikar/whatsapp-ai-copilot",
+  "source_url": "https://github.com/JakkenaSrikar/whatsapp-ai-copilot",
+  "source_type": "github_trending",
+  "summary": "这是一个自托管的WhatsApp AI助手，基于Node.js、Express、Socket.io和Puppeteer构建。它能拦截消息、转录语音、识别图片、缓冲快速消息，并通过Gemini或Groq LLM以拟人化方式回复，实现全自动交互。",
+  "tags": [
+    "WhatsApp",
+    "AI Agent",
+    "Automation",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-09T12:32:47.445181+00:00",
+  "published_at": null
+}
