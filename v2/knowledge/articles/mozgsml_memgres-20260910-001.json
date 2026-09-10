@@ -1,0 +1,17 @@
+{
+  "id": "mozgsml_memgres-20260910-001",
+  "title": "mozgsml/memgres",
+  "source_url": "https://github.com/mozgsml/memgres",
+  "source_type": "github_trending",
+  "summary": "memgres 是一个基于单个 Postgres 的 AI 智能体内存层，可存储文档而非 LLM 猜测的事实，支持整体或统一 diff 编辑、内容哈希乐观并发、ltree 树组织、词法/语义/混合检索、逐行 git blame、版本重建与彻底删除，提供库、HTTP 和 MCP 接口，MIT 许可。",
+  "tags": [
+    "Postgres",
+    "AI Agents",
+    "Memory",
+    "pgvector"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

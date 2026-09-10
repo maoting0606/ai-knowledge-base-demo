@@ -1,0 +1,17 @@
+{
+  "id": "Shaileshps21_Cascade--ai-20260910-001",
+  "title": "Shaileshps21/Cascade--ai",
+  "source_url": "https://github.com/Shaileshps21/Cascade--ai",
+  "source_type": "github_trending",
+  "summary": "Cascade-ai 是一个多智能体 AI 生产力系统，可将自然语言目标转化为完整规划、优先级排序、日程安排并持续自我修正的项目。它由 15 个智能体流水线驱动，支持 Groq 或 Gemini 作为 LLM 提供商，并自动同步 Google 日历。当 AI 流水线不可用时，手动待办模式也能构建相同结果。",
+  "tags": [
+    "multi-agent",
+    "AI-productivity",
+    "LLM",
+    "scheduling"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

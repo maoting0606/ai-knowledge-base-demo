@@ -1,0 +1,17 @@
+{
+  "id": "Orkas-AI_Orkas-20260910-001",
+  "title": "Orkas-AI/Orkas",
+  "source_url": "https://github.com/Orkas-AI/Orkas",
+  "source_type": "github_trending",
+  "summary": "Orkas 是一款开源多智能体 AI 桌面客户端，用户可通过对话构建并指挥 AI 智能体团队。指挥官 LLM 可并行或串行调度子智能体，智能体通过反思与技能结晶实现自我进化。支持本地优先、自带 LLM 密钥（Claude、OpenAI、Gemini、DeepSeek、Kimi、GLM、Qwen），兼容 macOS、Windows 和 Linux。",
+  "tags": [
+    "multi-agent",
+    "desktop-client",
+    "LLM",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

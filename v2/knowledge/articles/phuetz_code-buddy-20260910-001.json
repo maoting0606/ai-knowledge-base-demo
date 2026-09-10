@@ -1,0 +1,17 @@
+{
+  "id": "phuetz_code-buddy-20260910-001",
+  "title": "phuetz/code-buddy",
+  "source_url": "https://github.com/phuetz/code-buddy",
+  "source_type": "github_trending",
+  "summary": "code-buddy 是一款本地优先的终端 AI 编程助手，支持 64 家 LLM 提供商（其中 30 家免费或本地零成本），具备自动故障转移、220+ 工具、点对点集群和桌面应用，无需 API 费用。",
+  "tags": [
+    "AI Coding Agent",
+    "Local-first",
+    "LLM",
+    "Terminal"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

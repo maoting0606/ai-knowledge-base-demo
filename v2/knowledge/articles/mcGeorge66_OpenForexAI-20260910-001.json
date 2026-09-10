@@ -1,0 +1,17 @@
+{
+  "id": "mcGeorge66_OpenForexAI-20260910-001",
+  "title": "mcGeorge66/OpenForexAI",
+  "source_url": "https://github.com/mcGeorge66/OpenForexAI",
+  "source_type": "github_trending",
+  "summary": "OpenForexAI 是一个面向 MetaTrader 5 及 API 的自主多智能体外汇交易框架，结合可配置 AI 智能体、基于规则的脚本、风险感知执行与策略优化，支持纯脚本或 LLM 辅助交易，并通过规则驱动的决策提示实现交易决策。",
+  "tags": [
+    "Forex Trading",
+    "Multi-Agent",
+    "MetaTrader 5",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

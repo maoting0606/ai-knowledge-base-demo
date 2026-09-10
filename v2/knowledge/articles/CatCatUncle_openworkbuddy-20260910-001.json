@@ -1,0 +1,17 @@
+{
+  "id": "CatCatUncle_openworkbuddy-20260910-001",
+  "title": "CatCatUncle/openworkbuddy",
+  "source_url": "https://github.com/CatCatUncle/openworkbuddy",
+  "source_type": "github_trending",
+  "summary": "该项目是一个本地优先的AI办公代理，强调输出文件而非聊天记录，支持任意LLM或本地Claude Code/Codex，数据保留在用户机器上，并可通过单个Markdown文件添加技能。",
+  "tags": [
+    "AI Agent",
+    "Local-first",
+    "LLM",
+    "Office Automation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "yauntyour_cell_cpp-20260910-001",
+  "title": "yauntyour/cell.cpp",
+  "source_url": "https://github.com/yauntyour/cell.cpp",
+  "source_type": "github_trending",
+  "summary": "cell.cpp 是一个用现代 C++26 编写的轻量级 AI 编码代理，可连接 OpenAI 或 Anthropic，与代码库对话，并让大模型在沙箱中读取、写入、编辑和执行代码。",
+  "tags": [
+    "C++26",
+    "AI Agent",
+    "LLM",
+    "Sandbox"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-10T12:26:25.081378+00:00",
+  "published_at": null
+}
