@@ -1,0 +1,17 @@
+{
+  "id": "cdiaz19_lottie-orchestrator-20260911-001",
+  "title": "cdiaz19/lottie-orchestrator",
+  "source_url": "https://github.com/cdiaz19/lottie-orchestrator",
+  "source_type": "github_trending",
+  "summary": "lottie-orchestrator 是一个用于构建多智能体 AI 工作流的开源工具，支持 Claude、Cursor、Codex 等任意 LLM，并内置共享知识与治理机制，帮助开发者协调多个 AI 代理协同完成任务。",
+  "tags": [
+    "multi-agent",
+    "LLM",
+    "workflow",
+    "orchestration"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

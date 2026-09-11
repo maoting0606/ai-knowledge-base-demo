@@ -1,0 +1,17 @@
+{
+  "id": "aunysillyme_model-orchestrator-20260911-001",
+  "title": "aunysillyme/model-orchestrator",
+  "source_url": "https://github.com/aunysillyme/model-orchestrator",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向 AI 编程代理和 LLM 的模型编排器，支持 Claude Code、Codex、Gemini、Grok、Qwen、Ollama 等。通过路由规则为不同任务分配模型、子代理或 CLI，将简单任务交给低成本模型，减少前沿模型的 token 消耗。提供一键安装和 CLI 运行器，并记录每次路由。",
+  "tags": [
+    "LLM",
+    "Model Routing",
+    "AI Agents",
+    "CLI"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

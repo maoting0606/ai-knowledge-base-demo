@@ -1,0 +1,17 @@
+{
+  "id": "Akash010203_sovereign-ai-workbench-20260911-001",
+  "title": "Akash010203/sovereign-ai-workbench",
+  "source_url": "https://github.com/Akash010203/sovereign-ai-workbench",
+  "source_type": "github_trending",
+  "summary": "该项目展示了一个本地可控的AI系统，能够从零训练小型语言模型，并集成检索、结构化数据库、工具、智能体及安全控制，无需依赖外部LLM API或Ollama进行模型推理。",
+  "tags": [
+    "local-llm",
+    "rag",
+    "ai-agents",
+    "privacy"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Orkeon_orkeon-20260911-001",
+  "title": "Orkeon/orkeon",
+  "source_url": "https://github.com/Orkeon/orkeon",
+  "source_type": "github_trending",
+  "summary": "Orkeon 是一个 .NET 平台的 AI 智能体团队编排框架，支持用声明式 YAML、TypeScript（.ork.ts）或纯 C# 定义智能体团队，并由统一的 .NET 运行时执行。它集成 14 家 LLM 提供商、6 种编排模式、79 个内置工具、分阶段 RAG 流水线，以及所有工具共用的虚拟文件系统。",
+  "tags": [
+    "AI Agents",
+    ".NET",
+    "Orchestration",
+    "RAG"
+  ],
+  "score": 8,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

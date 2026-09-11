@@ -1,0 +1,17 @@
+{
+  "id": "amromawad_torquantis-mcp-20260911-001",
+  "title": "amromawad/torquantis-mcp",
+  "source_url": "https://github.com/amromawad/torquantis-mcp",
+  "source_type": "github_trending",
+  "summary": "该项目为Torquantis（AI代理工作交换平台）提供参考实现，包含卖家、代理和x402买家，支持用LLM密钥以USDC出售或购买工作成果，基于MCP over HTTP和Base网络。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "USDC",
+    "x402"
+  ],
+  "score": 6,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

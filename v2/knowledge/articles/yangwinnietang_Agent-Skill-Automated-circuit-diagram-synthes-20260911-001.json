@@ -1,0 +1,17 @@
+{
+  "id": "yangwinnietang_Agent-Skill-Automated-circuit-diagram-synthes-20260911-001",
+  "title": "yangwinnietang/Agent-Skill-Automated-circuit-diagram-synthesis",
+  "source_url": "https://github.com/yangwinnietang/Agent-Skill-Automated-circuit-diagram-synthesis",
+  "source_type": "github_trending",
+  "summary": "该项目开发了一个AI智能体技能，用于自动化电路图合成，使基于大语言模型的智能体能够根据文本描述或照片生成电路原理图。",
+  "tags": [
+    "AI Agent",
+    "Circuit Diagram",
+    "LLM",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-11T12:24:54.716600+00:00",
+  "published_at": null
+}

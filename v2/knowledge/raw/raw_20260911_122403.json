@@ -1,0 +1,501 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Orkeon/orkeon",
+    "title": "Orkeon/orkeon",
+    "description": "Build and orchestrate AI agent teams in .NET. Describe a crew in declarative YAML, in TypeScript (.ork.ts) or in pure C# — one full-.NET runtime executes all three. 14 LLM providers, 6 orchestration modes, 79 built-in tools, a staged RAG pipeline, and a virtual file system every tool goes through.",
+    "extra": {
+      "stars": 0,
+      "language": "C#",
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agent-framework",
+        "ai-agents",
+        "anthropic",
+        "autonomous-agents",
+        "clean-architecture",
+        "csharp",
+        "dotnet",
+        "llm",
+        "llm-orchestration",
+        "multi-agent-systems",
+        "ollama",
+        "openai",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 432,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CatCatUncle/openworkbuddy",
+    "title": "CatCatUncle/openworkbuddy",
+    "description": "Local-first AI office agent that hands you files, not chat logs: swap any LLM (or use local Claude Code/Codex), keep data on your machine, add a skill with one Markdown file. 本机 AI 办公 agent：吐文件不吐聊天记录，不绑模型，数据自己留着。",
+    "extra": {
+      "stars": 66,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "automation",
+        "copilot",
+        "deepseek",
+        "electron",
+        "llm",
+        "local-first",
+        "mcp",
+        "office-automation",
+        "ollama",
+        "productivity",
+        "self-hosted",
+        "workbuddy"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 6387,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/MrWangJustToDo/MyAgent",
+    "title": "MrWangJustToDo/MyAgent",
+    "description": "MyAgent — AI coding agent for the terminal. Edits code, runs commands, and plans tasks locally or through a remote server — in the CLI, a Chrome extension, or a browser playground. Three orthogonal planes (Workspace · LLM · Session) let you mix local & remote however you want. Built on TanStack AI",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "cli",
+        "code-agent",
+        "code-agent-cli",
+        "code-agent-harness",
+        "code-agent-memory",
+        "codex",
+        "opencode"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/icetomoyo/KodaX",
+    "title": "icetomoyo/KodaX",
+    "description": "A lightweight AI coding agent that actually works. KodaX is modular, zero-config, and supports multiple LLM providers out of the box. Use it as a CLI tool or npm library—with session memory, parallel execution, and agent teams. Written in TypeScript.",
+    "extra": {
+      "stars": 10,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/samshete05/samshete05",
+    "title": "samshete05/samshete05",
+    "description": "I’m currently working on an AI-Powered Smart Expense Tracker and specialized multi-agent screening systems. I’m looking to collaborate on innovative Full-Stack MERN applications, AI/ML integrations, or cloud infrastructure projects I’m currently learning Deep Learning architectures, LLM fine-tuning, and advanced AWS Cloud Services. Ask me about MER",
+    "extra": {
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 10,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/adecubed/gigamail",
+    "title": "adecubed/gigamail",
+    "description": "Mail for AI agents ( and humans). MCP server giving Claude (or any agent) safe, permission-controlled access to email (Microsoft Graph + IMAP), calendar and your knowledge files. Two-phase confirmation for sends, audit log, local index. No built-in LLM: your agent brings the intelligence.",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "calendar",
+        "human-in-the-loop",
+        "imap",
+        "llm-tools",
+        "mail",
+        "mcp",
+        "mcp-tools",
+        "model-context-protocol"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/amromawad/torquantis-mcp",
+    "title": "amromawad/torquantis-mcp",
+    "description": "Sell work for USDC with your LLM key, or buy it: reference seller, agent and x402 buyer for Torquantis, the AI agent work exchange (MCP over HTTP, Base)",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "a2a",
+        "agent-economy",
+        "ai-agents",
+        "autonomous-agents",
+        "base",
+        "gemini-cli-extension",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "usdc",
+        "x402"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Spitfire-Products/nexus-cortex",
+    "title": "Spitfire-Products/nexus-cortex",
+    "description": "A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful agent server. One orchestrator drives every major LLM provider.",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "cli",
+        "deepseek",
+        "gemini",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "orchestration",
+        "typescript",
+        "xai"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/yangwinnietang/Agent-Skill-Automated-circuit-diagram-synthesis",
+    "title": "yangwinnietang/Agent-Skill-Automated-circuit-diagram-synthesis",
+    "description": "Developed an AI agent skill for automated circuit diagram synthesis, enabling LLM-based agents to generate electrical schematics from textual descriptions or photos",
+    "extra": {
+      "stars": 12,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/99percentgrip/agent-vesper",
+    "title": "99percentgrip/agent-vesper",
+    "description": "Agent Vesper is a pure-Rust AI agent harness that remembers you across conversations. It provides a provider-neutral runtime where any LLM provider can plug in — today it ships with the Z.ai GLM adapter, tomorrow any provider can join with zero TUI or runtime changes. ",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/bgill55/daedalus",
+    "title": "bgill55/daedalus",
+    "description": "Daedalus is a standalone terminal-based AI coding assistant that runs on your machine. It connects to local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) or remote providers (OpenAI, Groq, OpenRouter, Anthropic), routes requests intelligently, and gives your AI agent access to your file system, terminal, git, web search, and codebase indexing",
+    "extra": {
+      "stars": 4,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "lmstudio",
+        "local-ai",
+        "local-llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "stable-diffusion",
+        "tui"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3375,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cyb3rDem0n/astro-hunter",
+    "title": "cyb3rDem0n/astro-hunter",
+    "description": "Astro Hunter is a scientific AI project composed of analysis pipelines, ML models, and LLM agents connected to open astronomical databases.  It downloads and analyzes real data, searches for anomalies or interesting signals, and uses agents to verify them, cross-reference them with catalogs, and formulate hypotheses.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Akash010203/sovereign-ai-workbench",
+    "title": "Akash010203/sovereign-ai-workbench",
+    "description": "Sovereign AI Workbench is a locally controlled AI system that demonstrates how a small language model can be trained from scratch and integrated with retrieval, structured databases, tools, agents, and security controls without relying on an external LLM API or Ollama for model inference",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/aunysillyme/model-orchestrator",
+    "title": "aunysillyme/model-orchestrator",
+    "description": "Model orchestrator for AI coding agents and LLMs: Claude Code, Codex, Gemini, Grok, Qwen, Ollama. Routing rules tell your agent which model, subagent or CLI to use for each task, so small work goes to cheap tiers and fewer tokens go to frontier models. One installer, plus a CLI runner that logs every route.",
+    "extra": {
+      "stars": 3,
+      "language": "JavaScript",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-orchestration",
+        "anthropic",
+        "claude-code",
+        "claude-code-hooks",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cost-optimization",
+        "gemini",
+        "llm-orchestration",
+        "llm-router",
+        "model-router",
+        "model-routing",
+        "multi-model",
+        "ollama",
+        "openai",
+        "subagents",
+        "token-optimization"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cdiaz19/lottie-orchestrator",
+    "title": "cdiaz19/lottie-orchestrator",
+    "description": "Build multi-agent AI workflows that work with Claude, Cursor, Codex, or any LLM - with shared knowledge and governance built in.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-governance",
+        "developer-tools",
+        "langchain",
+        "llm",
+        "multi-agent",
+        "orchestration",
+        "python"
+      ]
+    },
+    "collected_at": "2026-09-11T12:24:02.688353+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
+    "title": "",
+    "description": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49656496\nPoints: 74\n# Comments: 42\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 11:17:50 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "title": "",
+    "description": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude\nComments URL: https://news.ycombinator.com/item?id=49656225\nPoints: 118\n# Comments: 142\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 10:48:00 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "title": "",
+    "description": "Article URL: https://en.wikipedia.org/wiki/Neijuan\nComments URL: https://news.ycombinator.com/item?id=49655176\nPoints: 63\n# Comments: 17\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 08:26:56 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://vale.rocks/posts/css-relics",
+    "title": "",
+    "description": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/\nComments URL: https://news.ycombinator.com/item?id=49653985\nPoints: 44\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 05:45:19 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "title": "",
+    "description": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74\nComments URL: https://news.ycombinator.com/item?id=49651221\nPoints: 122\n# Comments: 39\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 22:54:01 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+    "title": "",
+    "description": "Article URL: https://merybenavente.me/blog/proof-of-capture\nComments URL: https://news.ycombinator.com/item?id=49649222\nPoints: 118\n# Comments: 67\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 19:44:15 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "title": "",
+    "description": "Article URL: https://auberon.xyz/blog/posts/deathray/\nComments URL: https://news.ycombinator.com/item?id=49649124\nPoints: 224\n# Comments: 147\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 19:34:20 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "",
+    "description": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\nComments URL: https://news.ycombinator.com/item?id=49647134\nPoints: 246\n# Comments: 105\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 17:14:12 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "title": "",
+    "description": "Article URL: https://planetscale.com/blog/introducing-neki\nComments URL: https://news.ycombinator.com/item?id=49645686\nPoints: 252\n# Comments: 132\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 15:43:49 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://cognition.com/blog/swe-2",
+    "title": "",
+    "description": "https://dstretch.com/DecorrelationStretch.pdfhttps://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...\n\nComments URL: https://news.ycombinator.com/item?id=49645437\nPoints: 347\n# Comments: 56\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 15:29:30 +0000"
+    },
+    "collected_at": "2026-09-11T12:24:03.308321+00:00"
+  }
+]
