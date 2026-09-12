@@ -1,0 +1,17 @@
+{
+  "id": "Md-Zubair677_Amazon-Support-Agent-20260912-001",
+  "title": "Md-Zubair677/Amazon-Support-Agent",
+  "source_url": "https://github.com/Md-Zubair677/Amazon-Support-Agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的亚马逊客服支持代理系统，能够对客户查询进行分类、应用升级策略，并判断请求是自动处理还是转交人工。系统还包含LLM响应评估、人工评判以及AWS Bedrock集成，以构建可靠的AI客服工作流。",
+  "tags": [
+    "AI Agent",
+    "Customer Support",
+    "AWS Bedrock",
+    "LLM Evaluation"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-12T11:46:29.189392+00:00",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cyb3rDem0n_astro-hunter-20260912-001",
+  "title": "cyb3rDem0n/astro-hunter",
+  "source_url": "https://github.com/cyb3rDem0n/astro-hunter",
+  "source_type": "github_trending",
+  "summary": "Astro Hunter 是一个科学 AI 项目，结合分析流水线、机器学习模型和 LLM 智能体，连接开放天文数据库。它能下载并分析真实天文数据，搜索异常或有趣信号，并通过智能体进行验证、与星表交叉比对并生成假设。",
+  "tags": [
+    "astronomy",
+    "LLM-agents",
+    "machine-learning",
+    "anomaly-detection"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-12T11:46:29.189392+00:00",
+  "published_at": null
+}

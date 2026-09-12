@@ -1,0 +1,492 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Mesh-LLM/mesh-llm",
+    "title": "Mesh-LLM/mesh-llm",
+    "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+    "extra": {
+      "stars": 3391,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "decentralized",
+        "distributed",
+        "llm"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "title": "Shelpuk-AI-Technology-Consulting/kitty-bridge",
+    "description": "Universal LLM bridge for AI agents. Use Claude Code with MiniMax, Codex with GLM, or Gemini CLI with OpenRouter — one command, any provider. Works with coding agents, OpenClaw, Hermes, and others.",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "codex",
+        "gemini",
+        "glm",
+        "hermes",
+        "hermes-agent",
+        "kilo-code",
+        "kimi",
+        "llm",
+        "minimax",
+        "moonshot",
+        "novita",
+        "ollama",
+        "openai",
+        "openclaw",
+        "openrouter",
+        "qwen",
+        "zai"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cvsz/zworkforce",
+    "title": "cvsz/zworkforce",
+    "description": "Enterprise AI Workforce Operating System — distributed control plane, durable agents, workflow automation, governance, MCP integration and AI FinOps.  zWorkforce turns one or more LLM endpoints into a governed AI workforce. A tenant dispatches work to named agents; a cost-aware Luna/Terra/Sol",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "ai-governance",
+        "ai-model",
+        "ai-os",
+        "ai-safety",
+        "ai-security",
+        "ai-tools",
+        "observability",
+        "ollama",
+        "openai",
+        "openapi",
+        "operating-system",
+        "optimization",
+        "zeazdev"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/99percentgrip/agent-vesper",
+    "title": "99percentgrip/agent-vesper",
+    "description": "Agent Vesper is a pure-Rust AI agent harness that remembers you across conversations. It provides a provider-neutral runtime where any LLM provider can plug in — today it ships with the Z.ai GLM adapter, tomorrow any provider can join with zero TUI or runtime changes. ",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/rorystandley/goose",
+    "title": "rorystandley/goose",
+    "description": "Personal autonomous AI agent powered by a local Ollama LLM — no cloud, no subscriptions. Runs missions via Slack, CLI, or scheduler with tool use and approval gating.",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CatCatUncle/openworkbuddy",
+    "title": "CatCatUncle/openworkbuddy",
+    "description": "Local-first AI office agent that hands you files, not chat logs: swap any LLM (or use local Claude Code/Codex), keep data on your machine, add a skill with one Markdown file. 本机 AI 办公 agent：吐文件不吐聊天记录，不绑模型，数据自己留着。",
+    "extra": {
+      "stars": 70,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "automation",
+        "copilot",
+        "deepseek",
+        "electron",
+        "llm",
+        "local-first",
+        "mcp",
+        "office-automation",
+        "ollama",
+        "productivity",
+        "self-hosted",
+        "workbuddy"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/JetBrains/junie",
+    "title": "JetBrains/junie",
+    "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+    "extra": {
+      "stars": 433,
+      "language": "Shell",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/icetomoyo/KodaX",
+    "title": "icetomoyo/KodaX",
+    "description": "A lightweight AI coding agent that actually works. KodaX is modular, zero-config, and supports multiple LLM providers out of the box. Use it as a CLI tool or npm library—with session memory, parallel execution, and agent teams. Written in TypeScript.",
+    "extra": {
+      "stars": 10,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/aunysillyme/model-orchestrator",
+    "title": "aunysillyme/model-orchestrator",
+    "description": "Model orchestrator for AI coding agents and LLMs: Claude Code, Codex, Gemini, Grok, Qwen, Ollama. Routing rules tell your agent which model, subagent or CLI to use for each task, so small work goes to cheap tiers and fewer tokens go to frontier models. One installer, plus a CLI runner that logs every route.",
+    "extra": {
+      "stars": 3,
+      "language": "JavaScript",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-orchestration",
+        "anthropic",
+        "claude-code",
+        "claude-code-hooks",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cost-optimization",
+        "gemini",
+        "llm-orchestration",
+        "llm-router",
+        "model-router",
+        "model-routing",
+        "multi-model",
+        "ollama",
+        "openai",
+        "subagents",
+        "token-optimization"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/PatrykPanasiuk/patcode",
+    "title": "PatrykPanasiuk/patcode",
+    "description": "An open-source AI coding agent for the terminal. Connect to OpenAI, Anthropic, Ollama, or local LLMs to write, debug, and refactor code — directly from your CLI.",
+    "extra": {
+      "stars": 0,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "cli",
+        "coding-agent",
+        "golang",
+        "llm",
+        "ollama",
+        "open-source",
+        "openai",
+        "terminal"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Akash010203/sovereign-ai-workbench",
+    "title": "Akash010203/sovereign-ai-workbench",
+    "description": "Sovereign AI Workbench is a locally controlled AI system that demonstrates how a small language model can be trained from scratch and integrated with retrieval, structured databases, tools, agents, and security controls without relying on an external LLM API or Ollama for model inference",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/choreographr/choreographr",
+    "title": "choreographr/choreographr",
+    "description": "Choreographr is an all purpose extensible AI agent system written entirely in Rust. It has a client/server architecture and can run many sessions simulataneously. It can be run locally or in the cloud. LLM generated code can be run in a sandboxed RISC-V VM for complete security and observability.",
+    "extra": {
+      "stars": 5,
+      "language": "Rust",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "title": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "extra": {
+      "stars": 6397,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amd",
+        "comfyui",
+        "docker",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "n8n",
+        "nvidia",
+        "open-webui",
+        "rag",
+        "self-hosted",
+        "speech-to-text",
+        "strix-halo",
+        "text-to-speech",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Dezz05/AuraSDK",
+    "title": "Dezz05/AuraSDK",
+    "description": "Enable fast, local memory recall for AI agents using a lightweight, Rust-based cognitive memory engine with no cloud or LLM calls needed.",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cognitive",
+        "embedded",
+        "encryption",
+        "llm",
+        "memory",
+        "offline",
+        "python",
+        "rust"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/Md-Zubair677/Amazon-Support-Agent",
+    "title": "Md-Zubair677/Amazon-Support-Agent",
+    "description": "AmazonHelp Customer Support Agent is an AI-powered support system that classifies customer queries, applies escalation policies, and determines whether requests should be auto-handled or sent to human support. It also includes LLM response evaluation, human judging, and AWS Bedrock integration for reliable AI support workflows.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/jdorner/palim",
+    "title": "jdorner/palim",
+    "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "automation",
+        "local-llm",
+        "workflow-automation"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/CowDogMoo/squad",
+    "title": "CowDogMoo/squad",
+    "description": "Squad runs unattended AI agents, defined as markdown plus YAML, against any LLM provider in bounded, cost-capped tool loops - locally or on Docker, Kubernetes, or EC2.",
+    "extra": {
+      "stars": 10,
+      "language": "Go",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/goruck/home-generative-agent",
+    "title": "goruck/home-generative-agent",
+    "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+    "extra": {
+      "stars": 299,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "anomaly-detection",
+        "anthropic",
+        "computer-vision",
+        "gemini",
+        "generative-ai",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "langchain",
+        "langgraph",
+        "llms",
+        "local-llm",
+        "ollama",
+        "openai",
+        "pgvector",
+        "smart-home",
+        "voice-assistant"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/agentd-dev/source-code",
+    "title": "agentd-dev/source-code",
+    "description": "A minimal, MCP-native, cloud-native AI agent runtime. One small static Rust binary runs one agent: hand it an instruction and one LLM endpoint, and it runs the agentic loop — think, call a tool, observe, repeat — until the task reaches a terminal status or a new event wakes it.",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "harness",
+        "mcp",
+        "workflows"
+      ]
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_url": "https://github.com/cyb3rDem0n/astro-hunter",
+    "title": "cyb3rDem0n/astro-hunter",
+    "description": "Astro Hunter is a scientific AI project composed of analysis pipelines, ML models, and LLM agents connected to open astronomical databases.  It downloads and analyzes real data, searches for anomalies or interesting signals, and uses agents to verify them, cross-reference them with catalogs, and formulate hypotheses.",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    "collected_at": "2026-09-12T11:45:33.404316+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "title": "",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo\nComments URL: https://news.ycombinator.com/item?id=49670981\nPoints: 9\n# Comments: 2\n]]>",
+    "extra": {
+      "pub_date": "Sat, 12 Sep 2026 10:39:03 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "title": "",
+    "description": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 109\n# Comments: 13\n]]>",
+    "extra": {
+      "pub_date": "Sat, 12 Sep 2026 07:54:03 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.usenet-rewind.com/",
+    "title": "",
+    "description": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 193\n# Comments: 126\n]]>",
+    "extra": {
+      "pub_date": "Sat, 12 Sep 2026 04:09:43 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.autom.dev/blog/google-search-goto-links",
+    "title": "",
+    "description": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\n\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 747\n# Comments: 416\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 23:17:42 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://blinkenlights.de/en/",
+    "title": "",
+    "description": "Article URL: https://github.com/mirza-rizvi/ResolveHQ\nComments URL: https://news.ycombinator.com/item?id=49665864\nPoints: 63\n# Comments: 22\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 21:48:00 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "title": "",
+    "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13\nComments URL: https://news.ycombinator.com/item?id=49663373\nPoints: 281\n# Comments: 209\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 18:50:36 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "title": "",
+    "description": "Article URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 151\n# Comments: 49\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 18:10:20 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://mathandai.org/",
+    "title": "",
+    "description": "Article URL: https://snap.berkeley.edu/\nComments URL: https://news.ycombinator.com/item?id=49662214\nPoints: 148\n# Comments: 86\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 17:36:11 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "title": "",
+    "description": "Article URL: https://rune.build/blog/rune-is-now-open-source\nComments URL: https://news.ycombinator.com/item?id=49660149\nPoints: 195\n# Comments: 61\n]]>",
+    "extra": {
+      "pub_date": "Fri, 11 Sep 2026 15:31:47 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  },
+  {
+    "source_type": "hacker_news",
+    "source_url": "https://vester.si/bodily-oddities/",
+    "title": "",
+    "description": "Article URL: https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/\nComments URL: https://news.ycombinator.com/item?id=49643011\nPoints: 37\n# Comments: 7\n]]>",
+    "extra": {
+      "pub_date": "Thu, 10 Sep 2026 12:59:26 +0000"
+    },
+    "collected_at": "2026-09-12T11:45:33.669720+00:00"
+  }
+]

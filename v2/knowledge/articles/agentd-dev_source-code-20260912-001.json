@@ -1,0 +1,17 @@
+{
+  "id": "agentd-dev_source-code-20260912-001",
+  "title": "agentd-dev/source-code",
+  "source_url": "https://github.com/agentd-dev/source-code",
+  "source_type": "github_trending",
+  "summary": "agentd-dev 发布了一个极简、原生支持 MCP 和云原生的 AI Agent 运行时。它以单个小型静态 Rust 二进制文件运行一个 Agent：只需提供指令和一个 LLM 端点，即可执行“思考—调用工具—观察—重复”的智能体循环，直到任务达到终止状态或被新事件唤醒。",
+  "tags": [
+    "AI Agent",
+    "Rust",
+    "MCP",
+    "Cloud-Native"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-12T11:46:29.189392+00:00",
+  "published_at": null
+}

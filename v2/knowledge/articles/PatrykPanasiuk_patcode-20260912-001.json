@@ -1,0 +1,17 @@
+{
+  "id": "PatrykPanasiuk_patcode-20260912-001",
+  "title": "PatrykPanasiuk/patcode",
+  "source_url": "https://github.com/PatrykPanasiuk/patcode",
+  "source_type": "github_trending",
+  "summary": "patcode 是一个开源终端 AI 编程代理，支持连接 OpenAI、Anthropic、Ollama 或本地大模型，可直接在命令行中编写、调试和重构代码。",
+  "tags": [
+    "AI coding agent",
+    "CLI",
+    "LLM",
+    "open-source"
+  ],
+  "score": 7,
+  "status": "review",
+  "collected_at": "2026-09-12T11:46:29.189392+00:00",
+  "published_at": null
+}
